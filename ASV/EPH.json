@@ -1,0 +1,634 @@
+{
+    "1": {
+        "1": {
+            "verse": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
+            "headers": []
+        },
+        "2": {
+            "verse": "grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.",
+            "headers": []
+        },
+        "3": {
+            "verse": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:",
+            "headers": []
+        },
+        "4": {
+            "verse": "according as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:",
+            "headers": []
+        },
+        "5": {
+            "verse": "having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,",
+            "headers": []
+        },
+        "6": {
+            "verse": "to the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
+            "headers": []
+        },
+        "7": {
+            "verse": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;",
+            "headers": []
+        },
+        "8": {
+            "verse": "wherein he hath abounded toward us in all wisdom and prudence;",
+            "headers": []
+        },
+        "9": {
+            "verse": "having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:",
+            "headers": []
+        },
+        "10": {
+            "verse": "that in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:",
+            "headers": []
+        },
+        "11": {
+            "verse": "in whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:",
+            "headers": []
+        },
+        "12": {
+            "verse": "that we should be to the praise of his glory, who first trusted in Christ.",
+            "headers": []
+        },
+        "13": {
+            "verse": "In whom ye also trusted , after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
+            "headers": []
+        },
+        "14": {
+            "verse": "which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+            "headers": []
+        },
+        "15": {
+            "verse": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
+            "headers": []
+        },
+        "16": {
+            "verse": "cease not to give thanks for you, making mention of you in my prayers;",
+            "headers": []
+        },
+        "17": {
+            "verse": "that the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:",
+            "headers": []
+        },
+        "18": {
+            "verse": "the eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
+            "headers": []
+        },
+        "19": {
+            "verse": "and what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
+            "headers": []
+        },
+        "20": {
+            "verse": "which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places ,",
+            "headers": []
+        },
+        "21": {
+            "verse": "far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:",
+            "headers": []
+        },
+        "22": {
+            "verse": "and hath put all things under his feet, and gave him to be the head over all things to the church,",
+            "headers": []
+        },
+        "23": {
+            "verse": "which is his body, the fulness of him that filleth all in all.",
+            "headers": []
+        }
+    },
+    "2": {
+        "1": {
+            "verse": "And you hath he quickened , who were dead in trespasses and sins;",
+            "headers": []
+        },
+        "2": {
+            "verse": "wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+            "headers": []
+        },
+        "3": {
+            "verse": "among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+            "headers": []
+        },
+        "4": {
+            "verse": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+            "headers": []
+        },
+        "5": {
+            "verse": "even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+            "headers": []
+        },
+        "6": {
+            "verse": "and hath raised us up together, and made us sit together in heavenly places in Christ Jesus:",
+            "headers": []
+        },
+        "7": {
+            "verse": "that in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:",
+            "headers": []
+        },
+        "9": {
+            "verse": "not of works, lest any man should boast.",
+            "headers": []
+        },
+        "10": {
+            "verse": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+            "headers": []
+        },
+        "11": {
+            "verse": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+            "headers": []
+        },
+        "12": {
+            "verse": "that at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+            "headers": []
+        },
+        "13": {
+            "verse": "but now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+            "headers": []
+        },
+        "14": {
+            "verse": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us ;",
+            "headers": []
+        },
+        "15": {
+            "verse": "having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;",
+            "headers": []
+        },
+        "16": {
+            "verse": "and that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+            "headers": []
+        },
+        "17": {
+            "verse": "and came and preached peace to you which were afar off, and to them that were nigh.",
+            "headers": []
+        },
+        "18": {
+            "verse": "For through him we both have access by one Spirit unto the Father.",
+            "headers": []
+        },
+        "19": {
+            "verse": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+            "headers": []
+        },
+        "20": {
+            "verse": "and are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone ;",
+            "headers": []
+        },
+        "21": {
+            "verse": "in whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+            "headers": []
+        },
+        "22": {
+            "verse": "in whom ye also are builded together for an habitation of God through the Spirit.",
+            "headers": []
+        }
+    },
+    "3": {
+        "1": {
+            "verse": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,",
+            "headers": []
+        },
+        "2": {
+            "verse": "if ye have heard of the dispensation of the grace of God which is given me to you-ward:",
+            "headers": []
+        },
+        "3": {
+            "verse": "how that by revelation he made known unto me the mystery; (as I wrote afore in few words,",
+            "headers": []
+        },
+        "4": {
+            "verse": "whereby, when ye read, ye may understand my knowledge in the mystery of Christ)",
+            "headers": []
+        },
+        "5": {
+            "verse": "which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;",
+            "headers": []
+        },
+        "6": {
+            "verse": "that the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:",
+            "headers": []
+        },
+        "7": {
+            "verse": "whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.",
+            "headers": []
+        },
+        "8": {
+            "verse": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;",
+            "headers": []
+        },
+        "9": {
+            "verse": "and to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:",
+            "headers": []
+        },
+        "10": {
+            "verse": "to the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,",
+            "headers": []
+        },
+        "11": {
+            "verse": "according to the eternal purpose which he purposed in Christ Jesus our Lord:",
+            "headers": []
+        },
+        "12": {
+            "verse": "in whom we have boldness and access with confidence by the faith of him.",
+            "headers": []
+        },
+        "13": {
+            "verse": "Wherefore I desire that ye faint not at my tribulations for you, which is your glory.",
+            "headers": []
+        },
+        "14": {
+            "verse": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,",
+            "headers": []
+        },
+        "15": {
+            "verse": "of whom the whole family in heaven and earth is named,",
+            "headers": []
+        },
+        "16": {
+            "verse": "that he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;",
+            "headers": []
+        },
+        "17": {
+            "verse": "that Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,",
+            "headers": []
+        },
+        "18": {
+            "verse": "may be able to comprehend with all saints what is the breadth, and length, and depth, and height;",
+            "headers": []
+        },
+        "19": {
+            "verse": "and to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.",
+            "headers": []
+        },
+        "20": {
+            "verse": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,",
+            "headers": []
+        },
+        "21": {
+            "verse": "unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.",
+            "headers": []
+        }
+    },
+    "4": {
+        "1": {
+            "verse": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+            "headers": []
+        },
+        "2": {
+            "verse": "with all lowliness and meekness, with longsuffering, forbearing one another in love;",
+            "headers": []
+        },
+        "3": {
+            "verse": "endeavouring to keep the unity of the Spirit in the bond of peace.",
+            "headers": []
+        },
+        "4": {
+            "verse": "There is one body, and one Spirit, even as ye are called in one hope of your calling;",
+            "headers": []
+        },
+        "5": {
+            "verse": "one Lord, one faith, one baptism,",
+            "headers": []
+        },
+        "6": {
+            "verse": "one God and Father of all, who is above all, and through all, and in you all.",
+            "headers": []
+        },
+        "7": {
+            "verse": "But unto every one of us is given grace according to the measure of the gift of Christ.",
+            "headers": []
+        },
+        "8": {
+            "verse": "Wherefore he saith,",
+            "headers": []
+        },
+        "9": {
+            "verse": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?",
+            "headers": []
+        },
+        "10": {
+            "verse": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)",
+            "headers": []
+        },
+        "11": {
+            "verse": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+            "headers": []
+        },
+        "12": {
+            "verse": "for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+            "headers": []
+        },
+        "13": {
+            "verse": "till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+            "headers": []
+        },
+        "14": {
+            "verse": "that we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
+            "headers": []
+        },
+        "15": {
+            "verse": "but speaking the truth in love, may grow up into him in all things, which is the head, even Christ:",
+            "headers": []
+        },
+        "16": {
+            "verse": "from whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+            "headers": []
+        },
+        "17": {
+            "verse": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
+            "headers": []
+        },
+        "18": {
+            "verse": "having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:",
+            "headers": []
+        },
+        "19": {
+            "verse": "who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+            "headers": []
+        },
+        "20": {
+            "verse": "But ye have not so learned Christ;",
+            "headers": []
+        },
+        "21": {
+            "verse": "if so be that ye have heard him, and have been taught by him, as the truth is in Jesus:",
+            "headers": []
+        },
+        "22": {
+            "verse": "that ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;",
+            "headers": []
+        },
+        "23": {
+            "verse": "and be renewed in the spirit of your mind;",
+            "headers": []
+        },
+        "24": {
+            "verse": "and that ye put on the new man, which after God is created in righteousness and true holiness.",
+            "headers": []
+        },
+        "25": {
+            "verse": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.",
+            "headers": []
+        },
+        "26": {
+            "verse": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+            "headers": []
+        },
+        "27": {
+            "verse": "neither give place to the devil.",
+            "headers": []
+        },
+        "28": {
+            "verse": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.",
+            "headers": []
+        },
+        "29": {
+            "verse": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+            "headers": []
+        },
+        "31": {
+            "verse": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+            "headers": []
+        },
+        "32": {
+            "verse": "and be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+            "headers": []
+        }
+    },
+    "5": {
+        "1": {
+            "verse": "Be ye therefore followers of God, as dear children;",
+            "headers": []
+        },
+        "2": {
+            "verse": "and walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.",
+            "headers": []
+        },
+        "3": {
+            "verse": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
+            "headers": []
+        },
+        "4": {
+            "verse": "neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+            "headers": []
+        },
+        "5": {
+            "verse": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.",
+            "headers": []
+        },
+        "6": {
+            "verse": "Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.",
+            "headers": []
+        },
+        "7": {
+            "verse": "Be not ye therefore partakers with them.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:",
+            "headers": []
+        },
+        "9": {
+            "verse": "(for the fruit of the Spirit is in all goodness and righteousness and truth;)",
+            "headers": []
+        },
+        "10": {
+            "verse": "proving what is acceptable unto the Lord.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And have no fellowship with the unfruitful works of darkness, but rather reprove them .",
+            "headers": []
+        },
+        "12": {
+            "verse": "For it is a shame even to speak of those things which are done of them in secret.",
+            "headers": []
+        },
+        "13": {
+            "verse": "But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.",
+            "headers": []
+        },
+        "15": {
+            "verse": "See then that ye walk circumspectly, not as fools, but as wise,",
+            "headers": []
+        },
+        "16": {
+            "verse": "redeeming the time, because the days are evil.",
+            "headers": []
+        },
+        "17": {
+            "verse": "Wherefore be ye not unwise, but understanding what the will of the Lord is .",
+            "headers": []
+        },
+        "18": {
+            "verse": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
+            "headers": []
+        },
+        "19": {
+            "verse": "speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
+            "headers": []
+        },
+        "20": {
+            "verse": "giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
+            "headers": []
+        },
+        "21": {
+            "verse": "submitting yourselves one to another in the fear of God.",
+            "headers": []
+        },
+        "22": {
+            "verse": "Wives, submit yourselves unto your own husbands, as unto the Lord.",
+            "headers": []
+        },
+        "23": {
+            "verse": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.",
+            "headers": []
+        },
+        "24": {
+            "verse": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.",
+            "headers": []
+        },
+        "25": {
+            "verse": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+            "headers": []
+        },
+        "26": {
+            "verse": "that he might sanctify and cleanse it with the washing of water by the word,",
+            "headers": []
+        },
+        "27": {
+            "verse": "that he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
+            "headers": []
+        },
+        "28": {
+            "verse": "So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
+            "headers": []
+        },
+        "29": {
+            "verse": "For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:",
+            "headers": []
+        },
+        "30": {
+            "verse": "for we are members of his body, of his flesh, and of his bones.",
+            "headers": []
+        },
+        "31": {
+            "verse": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
+            "headers": []
+        },
+        "32": {
+            "verse": "This is a great mystery: but I speak concerning Christ and the church.",
+            "headers": []
+        },
+        "33": {
+            "verse": "Nevertheless, let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.",
+            "headers": []
+        }
+    },
+    "6": {
+        "1": {
+            "verse": "Children, obey your parents in the Lord: for this is right.",
+            "headers": []
+        },
+        "2": {
+            "verse": "Honour thy father and mother; which is the first commandment with promise;",
+            "headers": []
+        },
+        "3": {
+            "verse": "that it may be well with thee, and thou mayest live long on the earth.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+            "headers": []
+        },
+        "5": {
+            "verse": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;",
+            "headers": []
+        },
+        "6": {
+            "verse": "not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;",
+            "headers": []
+        },
+        "7": {
+            "verse": "with good will doing service, as to the Lord, and not to men:",
+            "headers": []
+        },
+        "8": {
+            "verse": "knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.",
+            "headers": []
+        },
+        "10": {
+            "verse": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+            "headers": []
+        },
+        "11": {
+            "verse": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+            "headers": []
+        },
+        "12": {
+            "verse": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places .",
+            "headers": []
+        },
+        "13": {
+            "verse": "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;",
+            "headers": []
+        },
+        "15": {
+            "verse": "and your feet shod with the preparation of the gospel of peace;",
+            "headers": []
+        },
+        "16": {
+            "verse": "above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+            "headers": []
+        },
+        "18": {
+            "verse": "praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;",
+            "headers": []
+        },
+        "19": {
+            "verse": "and for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,",
+            "headers": []
+        },
+        "20": {
+            "verse": "for which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.",
+            "headers": []
+        },
+        "21": {
+            "verse": "But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:",
+            "headers": []
+        },
+        "22": {
+            "verse": "whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.",
+            "headers": []
+        },
+        "23": {
+            "verse": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+            "headers": []
+        },
+        "24": {
+            "verse": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.",
+            "headers": []
+        }
+    }
+}
