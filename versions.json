@@ -1,6 +1,9 @@
 {
     "en": {
-        "versions":["KJV", "ASV"]
+        "versions": {
+            "KJV": "King James Version",
+            "ASV": "American Standard Version",
+        }
     },
     "version_count":2
 }
