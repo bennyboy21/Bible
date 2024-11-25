@@ -1,16 +1,10 @@
 {
     "en": {
         "versions": {
-            "KJV": "King James Version",
-            "ASV": "American Standard Version"
+            "KJV": "King James Version"
         }
     },
-    "fr": {
-        "versions": {
-            "LSG": "La Sainte Bible par Louis Segond 1910"
-        }
-    },
-    "languages": ["English", "Français"],
-    "languages_short": ["en", "fr"],
-    "version_count":3
+    "languages": ["English"],
+    "languages_short": ["en"],
+    "version_count":2
 }
