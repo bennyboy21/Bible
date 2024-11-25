@@ -1,10 +1,18 @@
 {
     "en": {
         "versions": {
-            "KJV": "King James Version"
+            "KJV": "King James Version",
+            "ASV": "American Standard Version",
+            "YLT": "Young's Literal Translation",
+            "WEB": "World English Bible"
         }
     },
-    "languages": ["English"],
-    "languages_short": ["en"],
-    "version_count":1
+    "fr": {
+        "versions": {
+            "LSG": "Louis Segond"
+        }
+    },
+    "languages": ["English", "Français"],
+    "languages_short": ["en", "fr"],
+    "version_count":5
 }
