@@ -5,6 +5,12 @@
             "ASV": "American Standard Version"
         }
     },
-    "languages": ["English"],
+    "fr": {
+        "versions": {
+            "LSG": "La Sainte Bible par Louis Segond 1910"
+        }
+    },
+    "languages": ["English", "Français"],
+    "languages_short": ["en", "fr"],
     "version_count":2
 }
