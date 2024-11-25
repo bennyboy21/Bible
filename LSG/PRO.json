@@ -1,0 +1,3724 @@
+{
+    "1": {
+        "1": {
+            "verse": "Proverbes de Salomon, fils de David, roi d’Israël,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Pour connaître la sagesse et l’instruction,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Pour recevoir des leçons de bon sens,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Pour donner aux simples du discernement,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Que le sage écoute, et il augmentera son savoir,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Pour saisir le sens d’un proverbe ou d’une énigme,",
+            "headers": []
+        },
+        "7": {
+            "verse": "La crainte de l’Éternel est le commencement de la science;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Écoute, mon fils, l’instruction de ton père,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Car c’est une couronne de grâce pour ta tête,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Mon fils, si des pécheurs veulent te séduire,",
+            "headers": []
+        },
+        "11": {
+            "verse": "S’ils disent: Viens avec nous! Dressons des embûches, versons du sang,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Engloutissons-les tout vifs, comme le séjour des morts,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Nous trouverons toute sorte de biens précieux,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Tu auras ta part avec nous,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Mon fils, ne te mets pas en chemin avec eux,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Car leurs pieds courent au mal,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Mais en vain jette-t-on le filet",
+            "headers": []
+        },
+        "18": {
+            "verse": "Et eux, c’est contre leur propre sang qu’ils dressent des embûches,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Ainsi arrive-t-il à tout homme avide de gain;",
+            "headers": []
+        },
+        "20": {
+            "verse": "La sagesse crie dans les rues,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Elle crie à l’entrée des lieux bruyants;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Jusqu’à quand, stupides, aimerez-vous la stupidité?",
+            "headers": []
+        },
+        "23": {
+            "verse": "Tournez-vous pour écouter mes réprimandes!",
+            "headers": []
+        },
+        "24": {
+            "verse": "Puisque j’appelle et que vous résistez,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Puisque vous rejetez tous mes conseils,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Moi aussi, je rirai quand vous serez dans le malheur,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Quand la terreur vous saisira comme une tempête,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Alors ils m’appelleront, et je ne répondrai pas;",
+            "headers": []
+        },
+        "29": {
+            "verse": "Parce qu’ils ont haï la science,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Parce qu’ils n’ont point aimé mes conseils,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Ils se nourriront du fruit de leur voie,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Car la résistance des stupides les tue,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Mais celui qui m’écoute reposera avec assurance,",
+            "headers": []
+        }
+    },
+    "2": {
+        "1": {
+            "verse": "Mon fils, si tu reçois mes paroles,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Si tu rends ton oreille attentive à la sagesse,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Oui, si tu appelles la sagesse,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Si tu la cherches comme l’argent,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Alors tu comprendras la crainte de l’Éternel,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Car l’Éternel donne la sagesse;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Il tient en réserve le salut pour les hommes droits,",
+            "headers": []
+        },
+        "8": {
+            "verse": "En protégeant les sentiers de la justice",
+            "headers": []
+        },
+        "9": {
+            "verse": "Alors tu comprendras la justice, l’équité,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Car la sagesse viendra dans ton cœur,",
+            "headers": []
+        },
+        "11": {
+            "verse": "La réflexion veillera sur toi,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Pour te délivrer de la voie du mal,",
+            "headers": []
+        },
+        "13": {
+            "verse": "De ceux qui abandonnent les sentiers de la droiture",
+            "headers": []
+        },
+        "14": {
+            "verse": "Qui trouvent de la jouissance à faire le mal,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Qui suivent des sentiers détournés,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Pour te délivrer de la femme étrangère,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Qui abandonne l’ami de sa jeunesse,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Car sa maison penche vers la mort,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Aucun de ceux qui vont à elle ne revient,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Tu marcheras ainsi dans la voie des gens de bien,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Car les hommes droits habiteront le pays,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Mais les méchants seront retranchés du pays,",
+            "headers": []
+        }
+    },
+    "3": {
+        "1": {
+            "verse": "Mon fils, n’oublie pas mes enseignements,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Car ils prolongeront les jours et les années de ta vie,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Que la bonté et la fidélité ne t’abandonnent pas;",
+            "headers": []
+        },
+        "4": {
+            "verse": "Tu acquerras ainsi de la grâce et une raison saine,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Confie-toi en l’Éternel de tout ton cœur,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Reconnais-le dans toutes tes voies,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Ne sois point sage à tes propres yeux,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Ce sera la santé pour tes muscles,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Honore l’Éternel avec tes biens,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Alors tes greniers seront remplis d’abondance,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Mon fils, ne méprise pas la correction de l’Éternel,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Car l’Éternel châtie celui qu’il aime,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Heureux l’homme qui a trouvé la sagesse,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Car le gain qu’elle procure est préférable à celui de l’argent,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Elle est plus précieuse que les perles,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Dans sa droite est une longue vie;",
+            "headers": []
+        },
+        "17": {
+            "verse": "Ses voies sont des voies agréables,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Elle est un arbre de vie pour ceux qui la saisissent,",
+            "headers": []
+        },
+        "19": {
+            "verse": "C’est par la sagesse que l’Éternel a fondé la terre,",
+            "headers": []
+        },
+        "20": {
+            "verse": "C’est par sa science que les abîmes se sont ouverts,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Mon fils, que ces enseignements ne s’éloignent pas de tes yeux,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Elles seront la vie de ton âme,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Alors tu marcheras avec assurance dans ton chemin,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Si tu te couches, tu seras sans crainte;",
+            "headers": []
+        },
+        "25": {
+            "verse": "Ne redoute ni une terreur soudaine,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Car l’Éternel sera ton assurance,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Ne refuse pas un bienfait à celui qui y a droit,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Ne dis pas à ton prochain: Va et reviens,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Ne médite pas le mal contre ton prochain,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Ne conteste pas sans motif avec quelqu’un,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Ne porte pas envie à l’homme violent,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Car l’Éternel a en horreur les hommes pervers,",
+            "headers": []
+        },
+        "33": {
+            "verse": "La malédiction de l’Éternel est dans la maison du méchant,",
+            "headers": []
+        },
+        "34": {
+            "verse": "Il se moque des moqueurs,",
+            "headers": []
+        },
+        "35": {
+            "verse": "Les sages hériteront la gloire,",
+            "headers": []
+        }
+    },
+    "4": {
+        "1": {
+            "verse": "Écoutez, mes fils, l’instruction d’un père,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Car je vous donne de bons conseils:",
+            "headers": []
+        },
+        "3": {
+            "verse": "J’étais un fils pour mon père,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Il m’instruisait alors, et il me disait:",
+            "headers": []
+        },
+        "5": {
+            "verse": "Acquiers la sagesse, acquiers l’intelligence;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Ne l’abandonne pas, et elle te gardera;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Voici le commencement de la sagesse:",
+            "headers": []
+        },
+        "8": {
+            "verse": "Exalte-la, et elle t’élèvera;",
+            "headers": []
+        },
+        "9": {
+            "verse": "Elle mettra sur ta tête une couronne de grâce,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Écoute, mon fils, et reçois mes paroles;",
+            "headers": []
+        },
+        "11": {
+            "verse": "Je te montre la voie de la sagesse,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Si tu marches, ton pas ne sera point gêné;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Retiens l’instruction, ne t’en dessaisis pas;",
+            "headers": []
+        },
+        "14": {
+            "verse": "N’entre pas dans le sentier des méchants,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Évite-la, n’y passe point;",
+            "headers": []
+        },
+        "16": {
+            "verse": "Car ils ne dormiraient pas s’ils n’avaient fait le mal,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Car c’est le pain de la méchanceté qu’ils mangent,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Le sentier des justes est comme la lumière resplendissante,",
+            "headers": []
+        },
+        "19": {
+            "verse": "La voie des méchants est comme les ténèbres;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Mon fils, sois attentif à mes paroles,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Qu’ils ne s’éloignent pas de tes yeux;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Car c’est la vie pour ceux qui les trouvent,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Garde ton cœur plus que toute autre chose,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Écarte de ta bouche la fausseté,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Que tes yeux regardent en face,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Considère le chemin par où tu passes,",
+            "headers": []
+        },
+        "27": {
+            "verse": "N’incline ni à droite ni à gauche,",
+            "headers": []
+        }
+    },
+    "5": {
+        "1": {
+            "verse": "Mon fils, sois attentif à ma sagesse,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Afin que tu conserves la réflexion,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Car les lèvres de l’étrangère distillent le miel,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Mais à la fin elle est amère comme l’absinthe,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Ses pieds descendent vers la mort,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Afin de ne pas considérer le chemin de la vie,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Et maintenant, mes fils, écoutez-moi,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Éloigne-toi du chemin qui conduit chez elle,",
+            "headers": []
+        },
+        "9": {
+            "verse": "De peur que tu ne livres ta vigueur à d’autres,",
+            "headers": []
+        },
+        "10": {
+            "verse": "De peur que des étrangers ne se rassasient de ton bien,",
+            "headers": []
+        },
+        "11": {
+            "verse": "De peur que tu ne gémisses, près de ta fin,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Et que tu ne dises: Comment donc ai-je pu haïr la correction,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Comment ai-je pu ne pas écouter la voix de mes maîtres,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Peu s’en est fallu que je n’aie éprouvé tous les malheurs",
+            "headers": []
+        },
+        "15": {
+            "verse": "Bois les eaux de ta citerne,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Tes sources doivent-elles se répandre au-dehors?",
+            "headers": []
+        },
+        "17": {
+            "verse": "Qu’ils soient pour toi seul,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Que ta source soit bénie,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Biche des amours, gazelle pleine de grâce:",
+            "headers": []
+        },
+        "20": {
+            "verse": "Et pourquoi, mon fils, serais-tu épris d’une étrangère,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Car les voies de l’homme sont devant les yeux de l’Éternel,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Le méchant est pris dans ses propres iniquités,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Il mourra faute d’instruction,",
+            "headers": []
+        }
+    },
+    "6": {
+        "1": {
+            "verse": "Mon fils, si tu as cautionné ton prochain,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Si tu es enlacé par les paroles de ta bouche,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Fais donc ceci, mon fils, dégage-toi,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ne donne ni sommeil à tes yeux,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Dégage-toi comme la gazelle de la main du chasseur,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Va vers la fourmi, paresseux;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Elle n’a ni chef,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Elle prépare en été sa nourriture,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Paresseux, jusqu’à quand seras-tu couché?",
+            "headers": []
+        },
+        "10": {
+            "verse": "Un peu de sommeil, un peu d’assoupissement,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Et la pauvreté te surprendra, comme un rôdeur,",
+            "headers": []
+        },
+        "12": {
+            "verse": "L’homme pervers, l’homme inique,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Il cligne des yeux, parle du pied,",
+            "headers": []
+        },
+        "14": {
+            "verse": "La perversité est dans son cœur,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Aussi sa ruine arrivera-t-elle subitement;",
+            "headers": []
+        },
+        "16": {
+            "verse": "Il y a six choses que hait l’Éternel,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Les yeux hautains, la langue menteuse,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Le cœur qui médite des projets iniques,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Le faux témoin qui dit des mensonges,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Mon fils, garde les préceptes de ton père,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Lie-les constamment sur ton cœur,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Ils te dirigeront dans ta marche,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Car le précepte est une lampe, et l’enseignement une lumière,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Ils te préserveront de la femme corrompue,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Ne la convoite pas dans ton cœur pour sa beauté,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Car pour la femme prostituée on se réduit à un morceau de pain,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Quelqu’un mettra-t-il du feu dans son sein,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Quelqu’un marchera-t-il sur des charbons ardents,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Il en est de même pour celui qui va vers la femme de son prochain:",
+            "headers": []
+        },
+        "30": {
+            "verse": "On ne tient pas pour innocent le voleur qui dérobe",
+            "headers": []
+        },
+        "31": {
+            "verse": "Si on le trouve, il fera une restitution au septuple,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Mais celui qui commet un adultère avec une femme est dépourvu de sens,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Il n’aura que plaie et ignominie,",
+            "headers": []
+        },
+        "34": {
+            "verse": "Car la jalousie met un homme en fureur,",
+            "headers": []
+        },
+        "35": {
+            "verse": "Il n’a égard à aucune rançon,",
+            "headers": []
+        }
+    },
+    "7": {
+        "1": {
+            "verse": "Mon fils, retiens mes paroles,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Observe mes préceptes, et tu vivras;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Lie-les sur tes doigts,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Dis à la sagesse: Tu es ma sœur!",
+            "headers": []
+        },
+        "5": {
+            "verse": "Pour qu’elles te préservent de la femme étrangère,",
+            "headers": []
+        },
+        "6": {
+            "verse": "J’étais à la fenêtre de ma maison,",
+            "headers": []
+        },
+        "7": {
+            "verse": "J’aperçus parmi les stupides,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Il passait dans la rue, près de l’angle où se tenait une de ces étrangères,",
+            "headers": []
+        },
+        "9": {
+            "verse": "C’était au crépuscule, pendant la soirée,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Et voici, il fut abordé par une femme",
+            "headers": []
+        },
+        "11": {
+            "verse": "Elle était bruyante et rétive;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Tantôt dans la rue, tantôt sur les places,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Elle le saisit et l’embrassa,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Je devais un sacrifice d’actions de grâces,",
+            "headers": []
+        },
+        "15": {
+            "verse": "C’est pourquoi je suis sortie au-devant de toi",
+            "headers": []
+        },
+        "16": {
+            "verse": "J’ai orné mon lit de couvertures,",
+            "headers": []
+        },
+        "17": {
+            "verse": "J’ai parfumé ma couche",
+            "headers": []
+        },
+        "18": {
+            "verse": "Viens, enivrons-nous d’amour jusqu’au matin,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Car mon mari n’est pas à la maison,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Il a pris avec lui le sac de l’argent,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Elle le séduisit à force de paroles,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Il se mit tout à coup à la suivre,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Jusqu’à ce qu’une flèche lui perce le foie,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Et maintenant, mes fils, écoutez-moi,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Que ton cœur ne se détourne pas vers les voies d’une telle femme,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Car elle a fait tomber beaucoup de victimes,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Sa maison, c’est le chemin du séjour des morts;",
+            "headers": []
+        }
+    },
+    "8": {
+        "1": {
+            "verse": "La sagesse ne crie-t-elle pas?",
+            "headers": []
+        },
+        "2": {
+            "verse": "C’est au sommet des hauteurs près de la route,",
+            "headers": []
+        },
+        "3": {
+            "verse": "A côté des portes, à l’entrée de la ville,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Hommes, c’est à vous que je crie,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Stupides, apprenez le discernement;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Écoutez, car j’ai de grandes choses à dire,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Car ma bouche proclame la vérité,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Toutes les paroles de ma bouche sont justes,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Toutes sont claires pour celui qui est intelligent,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Préférez mes instructions à l’argent,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Car la sagesse vaut mieux que les perles,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Moi, la sagesse, j’ai pour demeure le discernement,",
+            "headers": []
+        },
+        "13": {
+            "verse": "La crainte de l’Éternel, c’est la haine du mal;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Le conseil et le succès m’appartiennent;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Par moi les rois règnent,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Par moi gouvernent les chefs,",
+            "headers": []
+        },
+        "17": {
+            "verse": "J’aime ceux qui m’aiment,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Avec moi sont la richesse et la gloire,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Mon fruit est meilleur que l’or, que l’or pur,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Je marche dans le chemin de la justice,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Pour donner des biens à ceux qui m’aiment,",
+            "headers": []
+        },
+        "22": {
+            "verse": "L’Éternel m’a créée la première de ses œuvres,",
+            "headers": []
+        },
+        "23": {
+            "verse": "J’ai été établie depuis l’éternité,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Je fus enfantée quand il n’y avait point d’abîmes,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Avant que les montagnes soient affermies,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Il n’avait encore fait ni la terre, ni les campagnes,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Lorsqu’il disposa les cieux, j’étais là;",
+            "headers": []
+        },
+        "28": {
+            "verse": "Lorsqu’il fixa les nuages en haut,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Lorsqu’il donna une limite à la mer,",
+            "headers": []
+        },
+        "30": {
+            "verse": "J’étais à l’œuvre auprès de lui,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Jouant sur le globe de sa terre,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Et maintenant, mes fils, écoutez-moi,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Écoutez l’instruction, pour devenir sages,",
+            "headers": []
+        },
+        "34": {
+            "verse": "Heureux l’homme qui m’écoute,",
+            "headers": []
+        },
+        "35": {
+            "verse": "Car celui qui me trouve a trouvé la vie,",
+            "headers": []
+        },
+        "36": {
+            "verse": "Mais celui qui pèche contre moi nuit à son âme;",
+            "headers": []
+        }
+    },
+    "9": {
+        "1": {
+            "verse": "La sagesse a bâti sa maison,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Elle a égorgé ses victimes, mêlé son vin,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Elle a envoyé ses servantes, elle crie",
+            "headers": []
+        },
+        "4": {
+            "verse": "Que celui qui est stupide entre ici!",
+            "headers": []
+        },
+        "5": {
+            "verse": "Venez, mangez de mon pain,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Quittez la stupidité, et vous vivrez,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Celui qui reprend le moqueur s’attire le dédain,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Ne reprends pas le moqueur, de crainte qu’il ne te haïsse;",
+            "headers": []
+        },
+        "9": {
+            "verse": "Donne au sage, et il deviendra plus sage;",
+            "headers": []
+        },
+        "10": {
+            "verse": "Le commencement de la sagesse, c’est la crainte de l’Éternel;",
+            "headers": []
+        },
+        "11": {
+            "verse": "C’est par moi que tes jours se multiplieront,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Si tu es sage, tu es sage pour toi;",
+            "headers": []
+        },
+        "13": {
+            "verse": "La folie est une femme bruyante,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Elle s’assied à l’entrée de sa maison,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Pour crier aux passants,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Que celui qui est stupide entre ici!",
+            "headers": []
+        },
+        "17": {
+            "verse": "Les eaux dérobées sont douces,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Et il ne sait pas que là sont les morts,",
+            "headers": []
+        }
+    },
+    "10": {
+        "1": {
+            "verse": "Proverbes de Salomon.",
+            "headers": []
+        },
+        "2": {
+            "verse": "Les trésors de la méchanceté ne profitent pas,",
+            "headers": []
+        },
+        "3": {
+            "verse": "L’Éternel ne laisse pas le juste souffrir de la faim,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Celui qui agit d’une main lâche s’appauvrit,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Celui qui amasse pendant l’été est un fils prudent,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Il y a des bénédictions sur la tête du juste,",
+            "headers": []
+        },
+        "7": {
+            "verse": "La mémoire du juste est en bénédiction,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Celui qui est sage de cœur reçoit les préceptes,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Celui qui marche dans l’intégrité marche avec assurance,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Celui qui cligne des yeux est une cause de chagrin,",
+            "headers": []
+        },
+        "11": {
+            "verse": "La bouche du juste est une source de vie,",
+            "headers": []
+        },
+        "12": {
+            "verse": "La haine excite des querelles,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Sur les lèvres de l’homme intelligent se trouve la sagesse,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Les sages tiennent la science en réserve,",
+            "headers": []
+        },
+        "15": {
+            "verse": "La fortune est pour le riche une ville forte;",
+            "headers": []
+        },
+        "16": {
+            "verse": "L’œuvre du juste est pour la vie,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Celui qui se souvient de la correction prend le chemin de la vie,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Celui qui dissimule la haine a des lèvres menteuses,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Celui qui parle beaucoup ne manque pas de pécher,",
+            "headers": []
+        },
+        "20": {
+            "verse": "La langue du juste est un argent de choix;",
+            "headers": []
+        },
+        "21": {
+            "verse": "Les lèvres du juste dirigent beaucoup d’hommes,",
+            "headers": []
+        },
+        "22": {
+            "verse": "C’est la bénédiction de l’Éternel qui enrichit,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Commettre le crime paraît un jeu à l’insensé,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Ce que redoute le méchant, c’est ce qui lui arrive;",
+            "headers": []
+        },
+        "25": {
+            "verse": "Comme passe le tourbillon, ainsi disparaît le méchant;",
+            "headers": []
+        },
+        "26": {
+            "verse": "Ce que le vinaigre est aux dents et la fumée aux yeux,",
+            "headers": []
+        },
+        "27": {
+            "verse": "La crainte de l’Éternel augmente les jours,",
+            "headers": []
+        },
+        "28": {
+            "verse": "L’attente des justes n’est que joie,",
+            "headers": []
+        },
+        "29": {
+            "verse": "La voie de l’Éternel est un rempart pour l’intégrité,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Le juste ne chancellera jamais,",
+            "headers": []
+        },
+        "31": {
+            "verse": "La bouche du juste produit la sagesse,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Les lèvres du juste connaissent la grâce,",
+            "headers": []
+        }
+    },
+    "11": {
+        "1": {
+            "verse": "La balance fausse est en horreur à l’Éternel,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Quand vient l’orgueil, vient aussi l’ignominie;",
+            "headers": []
+        },
+        "3": {
+            "verse": "L’intégrité des hommes droits les dirige,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Au jour de la colère, la richesse ne sert à rien;",
+            "headers": []
+        },
+        "5": {
+            "verse": "La justice de l’homme intègre aplanit sa voie,",
+            "headers": []
+        },
+        "6": {
+            "verse": "La justice des hommes droits les délivre,",
+            "headers": []
+        },
+        "7": {
+            "verse": "A la mort du méchant, son espoir périt,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Le juste est délivré de la détresse,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Par sa bouche l’impie perd son prochain,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Quand les justes sont heureux, la ville est dans la joie;",
+            "headers": []
+        },
+        "11": {
+            "verse": "La ville s’élève par la bénédiction des hommes droits,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Celui qui méprise son prochain est dépourvu de sens,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Celui qui répand la calomnie dévoile les secrets,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Quand la prudence fait défaut, le peuple tombe;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Celui qui cautionne autrui s’en trouve mal,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Une femme qui a de la grâce obtient la gloire,",
+            "headers": []
+        },
+        "17": {
+            "verse": "L’homme bon fait du bien à son âme,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Le méchant fait un gain trompeur,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Ainsi la justice conduit à la vie,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Ceux qui ont le cœur pervers sont en abomination à l’Éternel,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Certes, le méchant ne restera pas impuni,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Un anneau d’or au nez d’un pourceau,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Le désir des justes, c’est seulement le bien;",
+            "headers": []
+        },
+        "24": {
+            "verse": "Tel, qui donne libéralement, devient plus riche;",
+            "headers": []
+        },
+        "25": {
+            "verse": "L’âme bienfaisante sera rassasiée,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Celui qui retient le blé est maudit du peuple,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Celui qui recherche le bien s’attire de la faveur,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Celui qui se confie dans ses richesses tombera,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Celui qui trouble sa maison héritera du vent,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Le fruit du juste est un arbre de vie,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Voici, le juste reçoit sur la terre une rétribution;",
+            "headers": []
+        }
+    },
+    "12": {
+        "1": {
+            "verse": "Celui qui aime la correction aime la science;",
+            "headers": []
+        },
+        "2": {
+            "verse": "L’homme de bien obtient la faveur de l’Éternel,",
+            "headers": []
+        },
+        "3": {
+            "verse": "L’homme ne s’affermit pas par la méchanceté,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Une femme vertueuse est la couronne de son mari,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Les pensées des justes ne sont qu’équité;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Les paroles des méchants sont des embûches pour verser le sang,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Renversés, les méchants ne sont plus;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Un homme est estimé en raison de son intelligence,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Mieux vaut être d’une condition humble et avoir un serviteur",
+            "headers": []
+        },
+        "10": {
+            "verse": "Le juste prend soin de son bétail,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Celui qui cultive son champ est rassasié de pain,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Le méchant convoite ce que prennent les méchants,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Il y a dans le péché des lèvres un piège pernicieux,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Par le fruit de la bouche on est rassasié de biens,",
+            "headers": []
+        },
+        "15": {
+            "verse": "La voie de l’insensé est droite à ses yeux,",
+            "headers": []
+        },
+        "16": {
+            "verse": "L’insensé laisse voir à l’instant sa colère,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Celui qui dit la vérité proclame la justice,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Tel, qui parle légèrement, blesse comme un glaive;",
+            "headers": []
+        },
+        "19": {
+            "verse": "La lèvre véridique est affermie pour toujours,",
+            "headers": []
+        },
+        "20": {
+            "verse": "La tromperie est dans le cœur de ceux qui méditent le mal,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Aucun malheur n’arrive au juste,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Les lèvres fausses sont en horreur à l’Éternel,",
+            "headers": []
+        },
+        "23": {
+            "verse": "L’homme prudent cache sa science,",
+            "headers": []
+        },
+        "24": {
+            "verse": "La main des diligents dominera,",
+            "headers": []
+        },
+        "25": {
+            "verse": "L’inquiétude dans le cœur de l’homme l’abat,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Le juste montre à son ami la bonne voie,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Le paresseux ne rôtit pas son gibier;",
+            "headers": []
+        },
+        "28": {
+            "verse": "La vie est dans le sentier de la justice,",
+            "headers": []
+        }
+    },
+    "13": {
+        "1": {
+            "verse": "Un fils sage écoute l’instruction de son père,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Par le fruit de la bouche on jouit du bien;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Celui qui veille sur sa bouche garde son âme;",
+            "headers": []
+        },
+        "4": {
+            "verse": "L’âme du paresseux a des désirs qu’il ne peut satisfaire;",
+            "headers": []
+        },
+        "5": {
+            "verse": "Le juste hait les paroles mensongères;",
+            "headers": []
+        },
+        "6": {
+            "verse": "La justice garde celui dont la voie est intègre,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Tel fait le riche et n’a rien du tout,",
+            "headers": []
+        },
+        "8": {
+            "verse": "La richesse d’un homme sert de rançon pour sa vie,",
+            "headers": []
+        },
+        "9": {
+            "verse": "La lumière des justes est joyeuse,",
+            "headers": []
+        },
+        "10": {
+            "verse": "C’est seulement par orgueil qu’on excite des querelles,",
+            "headers": []
+        },
+        "11": {
+            "verse": "La richesse mal acquise diminue,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Un espoir différé rend le cœur malade,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Celui qui méprise la parole se perd,",
+            "headers": []
+        },
+        "14": {
+            "verse": "L’enseignement du sage est une source de vie,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Une raison saine a pour fruit la grâce,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Tout homme prudent agit avec connaissance,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Un envoyé méchant tombe dans le malheur,",
+            "headers": []
+        },
+        "18": {
+            "verse": "La pauvreté et la honte sont le partage de celui qui rejette la correction,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Un désir accompli est doux à l’âme,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Celui qui fréquente les sages devient sage,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Le malheur poursuit ceux qui pèchent,",
+            "headers": []
+        },
+        "22": {
+            "verse": "L’homme de bien a pour héritiers les enfants de ses enfants,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Le champ que défriche le pauvre donne une nourriture abondante,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Celui qui ménage sa verge hait son fils,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Le juste mange et satisfait son appétit,",
+            "headers": []
+        }
+    },
+    "14": {
+        "1": {
+            "verse": "La femme sage bâtit sa maison,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Celui qui marche dans la droiture craint l’Éternel,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Dans la bouche de l’insensé est une verge pour son orgueil,",
+            "headers": []
+        },
+        "4": {
+            "verse": "S’il n’y a pas de bœufs, la crèche est vide;",
+            "headers": []
+        },
+        "5": {
+            "verse": "Un témoin fidèle ne ment pas,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Le moqueur cherche la sagesse et ne la trouve pas,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Éloigne-toi de l’insensé;",
+            "headers": []
+        },
+        "8": {
+            "verse": "La sagesse de l’homme prudent, c’est l’intelligence de sa voie;",
+            "headers": []
+        },
+        "9": {
+            "verse": "Les insensés se font un jeu du péché,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Le cœur connaît ses propres chagrins,",
+            "headers": []
+        },
+        "11": {
+            "verse": "La maison des méchants sera détruite,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Telle voie paraît droite à un homme,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Au milieu même du rire le cœur peut être affligé,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Celui dont le cœur s’égare se rassasie de ses voies,",
+            "headers": []
+        },
+        "15": {
+            "verse": "L’homme simple croit tout ce qu’on dit,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Le sage a de la retenue et se détourne du mal,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Celui qui est prompt à la colère fait des sottises,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Les simples ont en partage la folie,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Les mauvais s’inclinent devant les bons,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Le pauvre est odieux même à son ami,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Celui qui méprise son prochain commet un péché,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Ceux qui méditent le mal ne s’égarent-ils pas?",
+            "headers": []
+        },
+        "23": {
+            "verse": "Tout travail procure l’abondance,",
+            "headers": []
+        },
+        "24": {
+            "verse": "La richesse est une couronne pour les sages;",
+            "headers": []
+        },
+        "25": {
+            "verse": "Le témoin véridique délivre des âmes,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Celui qui craint l’Éternel possède un appui ferme,",
+            "headers": []
+        },
+        "27": {
+            "verse": "La crainte de l’Éternel est une source de vie,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Quand le peuple est nombreux, c’est la gloire d’un roi;",
+            "headers": []
+        },
+        "29": {
+            "verse": "Celui qui est lent à la colère a une grande intelligence,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Un cœur calme est la vie du corps,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Opprimer le pauvre, c’est outrager celui qui l’a fait;",
+            "headers": []
+        },
+        "32": {
+            "verse": "Le méchant est renversé par sa méchanceté,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Dans un cœur intelligent repose la sagesse,",
+            "headers": []
+        },
+        "34": {
+            "verse": "La justice élève une nation,",
+            "headers": []
+        },
+        "35": {
+            "verse": "La faveur du roi est pour le serviteur prudent,",
+            "headers": []
+        }
+    },
+    "15": {
+        "1": {
+            "verse": "Une réponse douce calme la fureur,",
+            "headers": []
+        },
+        "2": {
+            "verse": "La langue des sages rend la science aimable,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Les yeux de l’Éternel sont en tout lieu,",
+            "headers": []
+        },
+        "4": {
+            "verse": "La langue douce est un arbre de vie,",
+            "headers": []
+        },
+        "5": {
+            "verse": "L’insensé dédaigne l’instruction de son père,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Il y a grande abondance dans la maison du juste,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Les lèvres des sages répandent la science,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Le sacrifice des méchants est en horreur à l’Éternel,",
+            "headers": []
+        },
+        "9": {
+            "verse": "La voie du méchant est en horreur à l’Éternel,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Une correction sévère menace celui qui abandonne le sentier;",
+            "headers": []
+        },
+        "11": {
+            "verse": "Le séjour des morts et l’abîme sont devant l’Éternel;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Le moqueur n’aime pas qu’on le reprenne,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Un cœur joyeux rend le visage serein;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Un cœur intelligent cherche la science,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Tous les jours du malheureux sont mauvais,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Mieux vaut peu, avec la crainte de l’Éternel,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Mieux vaut de l’herbe pour nourriture, là où règne l’amour,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Un homme violent excite des querelles,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Le chemin du paresseux est comme une haie d’épines,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Un fils sage fait la joie de son père,",
+            "headers": []
+        },
+        "21": {
+            "verse": "La folie est une joie pour celui qui est dépourvu de sens,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Les projets échouent, faute d’une assemblée qui délibère;",
+            "headers": []
+        },
+        "23": {
+            "verse": "On éprouve de la joie à donner une réponse de sa bouche;",
+            "headers": []
+        },
+        "24": {
+            "verse": "Pour le sage, le sentier de la vie mène en haut,",
+            "headers": []
+        },
+        "25": {
+            "verse": "L’Éternel renverse la maison des orgueilleux,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Les pensées mauvaises sont en horreur à l’Éternel,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Celui qui est avide de gain trouble sa maison,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Le cœur du juste médite pour répondre,",
+            "headers": []
+        },
+        "29": {
+            "verse": "L’Éternel s’éloigne des méchants,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Ce qui plaît aux yeux réjouit le cœur;",
+            "headers": []
+        },
+        "31": {
+            "verse": "L’oreille attentive aux réprimandes qui mènent à la vie",
+            "headers": []
+        },
+        "32": {
+            "verse": "Celui qui rejette la correction méprise son âme,",
+            "headers": []
+        },
+        "33": {
+            "verse": "La crainte de l’Éternel enseigne la sagesse,",
+            "headers": []
+        }
+    },
+    "16": {
+        "1": {
+            "verse": "Les projets que forme le cœur dépendent de l’homme,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Toutes les voies de l’homme sont pures à ses yeux;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Recommande à l’Éternel tes œuvres,",
+            "headers": []
+        },
+        "4": {
+            "verse": "L’Éternel a tout fait pour un but,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Tout cœur hautain est en abomination à l’Éternel;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Par la bonté et la fidélité on expie l’iniquité,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Quand l’Éternel approuve les voies d’un homme,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Mieux vaut peu, avec la justice,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Le cœur de l’homme médite sa voie,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Des oracles sont sur les lèvres du roi:",
+            "headers": []
+        },
+        "11": {
+            "verse": "Le poids et la balance justes sont à l’Éternel;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Les rois ont horreur de faire le mal,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Les lèvres justes gagnent la faveur des rois,",
+            "headers": []
+        },
+        "14": {
+            "verse": "La fureur du roi est un messager de mort,",
+            "headers": []
+        },
+        "15": {
+            "verse": "La sérénité du visage du roi donne la vie,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Combien acquérir la sagesse vaut mieux que l’or!",
+            "headers": []
+        },
+        "17": {
+            "verse": "Le chemin des hommes droits, c’est d’éviter le mal;",
+            "headers": []
+        },
+        "18": {
+            "verse": "L’arrogance précède la ruine,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Mieux vaut être humble avec les humbles",
+            "headers": []
+        },
+        "20": {
+            "verse": "Celui qui réfléchit sur les choses trouve le bonheur,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Celui qui est sage de cœur est appelé intelligent,",
+            "headers": []
+        },
+        "22": {
+            "verse": "La sagesse est une source de vie pour celui qui la possède;",
+            "headers": []
+        },
+        "23": {
+            "verse": "Celui qui est sage de cœur manifeste la sagesse par sa bouche,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Les paroles agréables sont un rayon de miel,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Telle voie paraît droite à un homme,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Celui qui travaille, travaille pour lui,",
+            "headers": []
+        },
+        "27": {
+            "verse": "L’homme pervers prépare le malheur,",
+            "headers": []
+        },
+        "28": {
+            "verse": "L’homme pervers excite des querelles,",
+            "headers": []
+        },
+        "29": {
+            "verse": "L’homme violent séduit son prochain,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Celui qui ferme les yeux pour se livrer à des pensées perverses,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Les cheveux blancs sont une couronne d’honneur;",
+            "headers": []
+        },
+        "32": {
+            "verse": "Celui qui est lent à la colère vaut mieux qu’un héros,",
+            "headers": []
+        },
+        "33": {
+            "verse": "On jette le sort dans le pan de la robe,",
+            "headers": []
+        }
+    },
+    "17": {
+        "1": {
+            "verse": "Mieux vaut un morceau de pain sec, avec la paix,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Un serviteur prudent domine sur le fils qui fait honte,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Le creuset est pour l’argent, et le fourneau pour l’or;",
+            "headers": []
+        },
+        "4": {
+            "verse": "Le méchant est attentif à la lèvre inique,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Celui qui se moque du pauvre outrage celui qui l’a fait;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Les enfants des enfants sont la couronne des vieillards,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Les paroles distinguées ne conviennent pas à un insensé;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Les présents sont une pierre précieuse aux yeux de qui en reçoit;",
+            "headers": []
+        },
+        "9": {
+            "verse": "Celui qui couvre une faute cherche l’amour,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Une réprimande fait plus d’impression sur l’homme intelligent",
+            "headers": []
+        },
+        "11": {
+            "verse": "Le méchant ne cherche que révolte,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Rencontre une ourse privée de ses petits,",
+            "headers": []
+        },
+        "13": {
+            "verse": "De celui qui rend le mal pour le bien",
+            "headers": []
+        },
+        "14": {
+            "verse": "Commencer une querelle, c’est ouvrir une digue;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Celui qui absout le coupable et celui qui condamne le juste",
+            "headers": []
+        },
+        "16": {
+            "verse": "A quoi sert l’argent dans la main de l’insensé?",
+            "headers": []
+        },
+        "17": {
+            "verse": "L’ami aime en tout temps,",
+            "headers": []
+        },
+        "18": {
+            "verse": "L’homme dépourvu de sens prend des engagements,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Celui qui aime les querelles aime le péché;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Un cœur faux ne trouve pas le bonheur,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Celui qui donne naissance à un insensé aura du chagrin;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Un cœur joyeux est un bon remède,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Le méchant accepte en secret des présents,",
+            "headers": []
+        },
+        "24": {
+            "verse": "La sagesse est en face de l’homme intelligent,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Un fils insensé fait le chagrin de son père,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Il n’est pas bon de condamner le juste à une amende,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Celui qui retient ses paroles connaît la science,",
+            "headers": []
+        },
+        "28": {
+            "verse": "L’insensé même, quand il se tait, passe pour sage;",
+            "headers": []
+        }
+    },
+    "18": {
+        "1": {
+            "verse": "Celui qui se tient à l’écart cherche ce qui lui plaît,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Ce n’est pas à l’intelligence que l’insensé prend plaisir,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Quand vient le méchant, vient aussi le mépris;",
+            "headers": []
+        },
+        "4": {
+            "verse": "Les paroles de la bouche d’un homme sont des eaux profondes;",
+            "headers": []
+        },
+        "5": {
+            "verse": "Il n’est pas bon d’avoir égard à la personne du méchant,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Les lèvres de l’insensé se mêlent aux querelles,",
+            "headers": []
+        },
+        "7": {
+            "verse": "La bouche de l’insensé cause sa ruine,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Les paroles du rapporteur sont comme des friandises,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Celui qui se relâche dans son travail",
+            "headers": []
+        },
+        "10": {
+            "verse": "Le nom de l’Éternel est une tour forte;",
+            "headers": []
+        },
+        "11": {
+            "verse": "La fortune est pour le riche une ville forte;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Avant la ruine, le cœur de l’homme s’élève;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Celui qui répond avant d’avoir écouté",
+            "headers": []
+        },
+        "14": {
+            "verse": "L’esprit de l’homme le soutient dans la maladie;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Un cœur intelligent acquiert la science,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Les présents d’un homme lui élargissent la voie,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Le premier qui parle dans sa cause paraît juste;",
+            "headers": []
+        },
+        "18": {
+            "verse": "Le sort fait cesser les contestations,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Des frères sont plus intraitables qu’une ville forte,",
+            "headers": []
+        },
+        "20": {
+            "verse": "C’est du fruit de sa bouche que l’homme rassasie son corps,",
+            "headers": []
+        },
+        "21": {
+            "verse": "La mort et la vie sont au pouvoir de la langue;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Celui qui trouve une femme trouve le bonheur;",
+            "headers": []
+        },
+        "23": {
+            "verse": "Le pauvre parle en suppliant,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Celui qui a beaucoup d’amis les a pour son malheur,",
+            "headers": []
+        }
+    },
+    "19": {
+        "1": {
+            "verse": "Mieux vaut le pauvre qui marche dans son intégrité,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Le manque de science n’est bon pour personne,",
+            "headers": []
+        },
+        "3": {
+            "verse": "La folie de l’homme pervertit sa voie,",
+            "headers": []
+        },
+        "4": {
+            "verse": "La richesse procure un grand nombre d’amis,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Le faux témoin ne restera pas impuni,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Beaucoup de gens flattent l’homme généreux,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Tous les frères du pauvre le haïssent;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Celui qui acquiert du sens aime son âme;",
+            "headers": []
+        },
+        "9": {
+            "verse": "Le faux témoin ne restera pas impuni,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Il ne sied pas à un insensé de vivre dans les délices;",
+            "headers": []
+        },
+        "11": {
+            "verse": "L’homme qui a de la sagesse est lent à la colère,",
+            "headers": []
+        },
+        "12": {
+            "verse": "La colère du roi est comme le rugissement d’un lion,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Un fils insensé est une calamité pour son père,",
+            "headers": []
+        },
+        "14": {
+            "verse": "On peut hériter de ses pères une maison et des richesses,",
+            "headers": []
+        },
+        "15": {
+            "verse": "La paresse fait tomber dans l’assoupissement,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Celui qui garde ce qui est commandé garde son âme;",
+            "headers": []
+        },
+        "17": {
+            "verse": "Celui qui a pitié du pauvre prête à l’Éternel,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Châtie ton fils, car il y a encore de l’espérance;",
+            "headers": []
+        },
+        "19": {
+            "verse": "Celui que la colère emporte doit en subir la peine;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Écoute les conseils, et reçois l’instruction,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Il y a dans le cœur de l’homme beaucoup de projets,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Ce qui fait le charme d’un homme, c’est sa bonté;",
+            "headers": []
+        },
+        "23": {
+            "verse": "La crainte de l’Éternel mène à la vie,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Le paresseux plonge sa main dans le plat,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Frappe le moqueur, et le sot deviendra sage;",
+            "headers": []
+        },
+        "26": {
+            "verse": "Celui qui ruine son père et qui met en fuite sa mère",
+            "headers": []
+        },
+        "27": {
+            "verse": "Cesse, mon fils, d’écouter l’instruction,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Un témoin pervers se moque de la justice,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Les châtiments sont prêts pour les moqueurs,",
+            "headers": []
+        }
+    },
+    "20": {
+        "1": {
+            "verse": "Le vin est moqueur, les boissons fortes sont tumultueuses;",
+            "headers": []
+        },
+        "2": {
+            "verse": "La terreur qu’inspire le roi est comme le rugissement d’un lion;",
+            "headers": []
+        },
+        "3": {
+            "verse": "C’est une gloire pour l’homme de s’abstenir des querelles,",
+            "headers": []
+        },
+        "4": {
+            "verse": "A cause du froid, le paresseux ne laboure pas;",
+            "headers": []
+        },
+        "5": {
+            "verse": "Les desseins dans le cœur de l’homme sont des eaux profondes,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Beaucoup de gens proclament leur bonté;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Le juste marche dans son intégrité;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Le roi assis sur le trône de la justice",
+            "headers": []
+        },
+        "9": {
+            "verse": "Qui dira: J’ai purifié mon cœur,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Deux sortes de poids, deux sortes d’épha,",
+            "headers": []
+        },
+        "11": {
+            "verse": "L’enfant laisse déjà voir par ses actions",
+            "headers": []
+        },
+        "12": {
+            "verse": "L’oreille qui entend, et l’œil qui voit,",
+            "headers": []
+        },
+        "13": {
+            "verse": "N’aime pas le sommeil, de peur que tu ne deviennes pauvre;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Mauvais! Mauvais! Dit l’acheteur;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Il y a de l’or et beaucoup de perles;",
+            "headers": []
+        },
+        "16": {
+            "verse": "Prends son vêtement, car il a cautionné autrui;",
+            "headers": []
+        },
+        "17": {
+            "verse": "Le pain du mensonge est doux à l’homme,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Les projets s’affermissent par le conseil;",
+            "headers": []
+        },
+        "19": {
+            "verse": "Celui qui répand la calomnie dévoile les secrets;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Si quelqu’un maudit son père et sa mère,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Un héritage promptement acquis dès l’origine",
+            "headers": []
+        },
+        "22": {
+            "verse": "Ne dis pas: Je rendrai le mal.",
+            "headers": []
+        },
+        "23": {
+            "verse": "L’Éternel a en horreur deux sortes de poids,",
+            "headers": []
+        },
+        "24": {
+            "verse": "C’est l’Éternel qui dirige les pas de l’homme,",
+            "headers": []
+        },
+        "25": {
+            "verse": "C’est un piège pour l’homme que de prendre à la légère un engagement sacré,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Un roi sage dissipe les méchants,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Le souffle de l’homme est une lampe de l’Éternel;",
+            "headers": []
+        },
+        "28": {
+            "verse": "La bonté et la fidélité gardent le roi,",
+            "headers": []
+        },
+        "29": {
+            "verse": "La force est la gloire des jeunes gens,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Les plaies d’une blessure sont un remède pour le méchant;",
+            "headers": []
+        }
+    },
+    "21": {
+        "1": {
+            "verse": "Le cœur du roi est un courant d’eau dans la main de l’Éternel;",
+            "headers": []
+        },
+        "2": {
+            "verse": "Toutes les voies de l’homme sont droites à ses yeux;",
+            "headers": []
+        },
+        "3": {
+            "verse": "La pratique de la justice et de l’équité,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Des regards hautains et un cœur qui s’enfle,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Les projets de l’homme diligent ne mènent qu’à l’abondance,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Des trésors acquis par une langue mensongère",
+            "headers": []
+        },
+        "7": {
+            "verse": "La violence des méchants les emporte,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Le coupable suit des voies détournées,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Mieux vaut habiter à l’angle d’un toit,",
+            "headers": []
+        },
+        "10": {
+            "verse": "L’âme du méchant désire le mal;",
+            "headers": []
+        },
+        "11": {
+            "verse": "Quand on châtie le moqueur, le sot devient sage;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Le juste considère la maison du méchant;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Celui qui ferme son oreille au cri du pauvre",
+            "headers": []
+        },
+        "14": {
+            "verse": "Un don fait en secret apaise la colère,",
+            "headers": []
+        },
+        "15": {
+            "verse": "C’est une joie pour le juste de pratiquer la justice,",
+            "headers": []
+        },
+        "16": {
+            "verse": "L’homme qui s’écarte du chemin de la sagesse",
+            "headers": []
+        },
+        "17": {
+            "verse": "Celui qui aime la joie reste dans l’indigence;",
+            "headers": []
+        },
+        "18": {
+            "verse": "Le méchant sert de rançon pour le juste,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Mieux vaut habiter dans une terre déserte,",
+            "headers": []
+        },
+        "20": {
+            "verse": "De précieux trésors et de l’huile sont dans la demeure du sage;",
+            "headers": []
+        },
+        "21": {
+            "verse": "Celui qui poursuit la justice et la bonté",
+            "headers": []
+        },
+        "22": {
+            "verse": "Le sage monte dans la ville des héros,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Celui qui veille sur sa bouche et sur sa langue",
+            "headers": []
+        },
+        "24": {
+            "verse": "L’orgueilleux, le hautain, s’appelle un moqueur;",
+            "headers": []
+        },
+        "25": {
+            "verse": "Les désirs du paresseux le tuent,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Tout le jour il éprouve des désirs;",
+            "headers": []
+        },
+        "27": {
+            "verse": "Le sacrifice des méchants est quelque chose d’abominable;",
+            "headers": []
+        },
+        "28": {
+            "verse": "Le témoin menteur périra,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Le méchant prend un air effronté,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Il n’y a ni sagesse, ni intelligence,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Le cheval est équipé pour le jour de la bataille,",
+            "headers": []
+        }
+    },
+    "22": {
+        "1": {
+            "verse": "La réputation est préférable à de grandes richesses,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Le riche et le pauvre se rencontrent;",
+            "headers": []
+        },
+        "3": {
+            "verse": "L’homme prudent voit le mal et se cache,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Le fruit de l’humilité, de la crainte de l’Éternel,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Des épines, des pièges sont sur la voie de l’homme pervers;",
+            "headers": []
+        },
+        "6": {
+            "verse": "Instruis l’enfant selon la voie qu’il doit suivre;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Le riche domine sur les pauvres,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Celui qui sème l’iniquité moissonne l’iniquité,",
+            "headers": []
+        },
+        "9": {
+            "verse": "L’homme dont le regard est bienveillant sera béni,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Chasse le moqueur, et la querelle prendra fin;",
+            "headers": []
+        },
+        "11": {
+            "verse": "Celui qui aime la pureté du cœur,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Les yeux de l’Éternel gardent la science,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Le paresseux dit: Il y a un lion dehors!",
+            "headers": []
+        },
+        "14": {
+            "verse": "La bouche des étrangères est une fosse profonde;",
+            "headers": []
+        },
+        "15": {
+            "verse": "La folie est attachée au cœur de l’enfant;",
+            "headers": []
+        },
+        "16": {
+            "verse": "Opprimer le pauvre pour augmenter son bien,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Prête l’oreille, et écoute les paroles des sages;",
+            "headers": []
+        },
+        "18": {
+            "verse": "Car il est bon que tu les gardes au-dedans de toi,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Afin que ta confiance repose sur l’Éternel,",
+            "headers": []
+        },
+        "20": {
+            "verse": "N’ai-je pas déjà pour toi mis par écrit",
+            "headers": []
+        },
+        "21": {
+            "verse": "Pour t’enseigner des choses sûres, des paroles vraies,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Ne dépouille pas le pauvre, parce qu’il est pauvre,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Car l’Éternel défendra leur cause,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Ne fréquente pas l’homme colère,",
+            "headers": []
+        },
+        "25": {
+            "verse": "De peur que tu ne t’habitues à ses sentiers,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Ne sois pas parmi ceux qui prennent des engagements,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Si tu n’as pas de quoi payer,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Ne déplace pas la borne ancienne,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Si tu vois un homme habile dans son ouvrage,",
+            "headers": []
+        }
+    },
+    "23": {
+        "1": {
+            "verse": "Si tu es à table avec un grand,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Mets un couteau à ta gorge,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Ne convoite pas ses friandises:",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ne te tourmente pas pour t’enrichir,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Veux-tu poursuivre du regard ce qui va disparaître?",
+            "headers": []
+        },
+        "6": {
+            "verse": "Ne mange pas le pain de celui dont le regard est malveillant,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Car il est comme les pensées de son âme.",
+            "headers": []
+        },
+        "8": {
+            "verse": "Tu vomiras le morceau que tu as mangé,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Ne parle pas aux oreilles de l’insensé,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Ne déplace pas la borne ancienne,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Car leur vengeur est puissant:",
+            "headers": []
+        },
+        "12": {
+            "verse": "Ouvre ton cœur à l’instruction,",
+            "headers": []
+        },
+        "13": {
+            "verse": "N’épargne pas la correction à l’enfant;",
+            "headers": []
+        },
+        "14": {
+            "verse": "En le frappant de la verge,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Mon fils, si ton cœur est sage,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Mes entrailles seront émues d’allégresse,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Que ton cœur n’envie point les pécheurs,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Car il est un avenir,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Écoute, mon fils, et sois sage;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Ne sois pas parmi les buveurs de vin,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Car l’ivrogne et celui qui se livre à des excès s’appauvrissent,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Écoute ton père, lui qui t’a engendré,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Acquiers la vérité, et ne la vends pas,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Le père du juste est dans l’allégresse,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Que ton père et ta mère se réjouissent,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Mon fils, donne-moi ton cœur,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Car la prostituée est une fosse profonde,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Elle dresse des embûches comme un brigand,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Pour qui les ah? Pour qui les hélas?",
+            "headers": []
+        },
+        "30": {
+            "verse": "Pour ceux qui s’attardent auprès du vin,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Ne regarde pas le vin qui paraît d’un beau rouge,",
+            "headers": []
+        },
+        "32": {
+            "verse": "Il finit par mordre comme un serpent,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Tes yeux se porteront sur des étrangères,",
+            "headers": []
+        },
+        "34": {
+            "verse": "Tu seras comme un homme couché au milieu de la mer,",
+            "headers": []
+        },
+        "35": {
+            "verse": "On m’a frappé,… je n’ai point de mal!…",
+            "headers": []
+        }
+    },
+    "24": {
+        "1": {
+            "verse": "Ne porte pas envie aux hommes méchants,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Car leur cœur médite la ruine,",
+            "headers": []
+        },
+        "3": {
+            "verse": "C’est par la sagesse qu’une maison s’élève,",
+            "headers": []
+        },
+        "4": {
+            "verse": "C’est par la science que les chambres se remplissent",
+            "headers": []
+        },
+        "5": {
+            "verse": "Un homme sage est plein de force,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Car tu feras la guerre avec prudence,",
+            "headers": []
+        },
+        "7": {
+            "verse": "La sagesse est trop élevée pour l’insensé;",
+            "headers": []
+        },
+        "8": {
+            "verse": "Celui qui médite de faire le mal",
+            "headers": []
+        },
+        "9": {
+            "verse": "La pensée de la folie n’est que péché,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Si tu faiblis au jour de la détresse,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Délivre ceux qu’on traîne à la mort,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Si tu dis: Ah! Nous ne savions pas!…",
+            "headers": []
+        },
+        "13": {
+            "verse": "Mon fils, mange du miel, car il est bon;",
+            "headers": []
+        },
+        "14": {
+            "verse": "De même, connais la sagesse pour ton âme;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Ne tends pas méchamment des embûches à la demeure du juste,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Car sept fois le juste tombe, et il se relève,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Ne te réjouis pas de la chute de ton ennemi,",
+            "headers": []
+        },
+        "18": {
+            "verse": "De peur que l’Éternel ne le voie, que cela ne lui déplaise,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Ne t’irrite pas à cause de ceux qui font le mal,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Car il n’y a point d’avenir pour celui qui fait le mal,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Mon fils, crains l’Éternel et le roi;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Car soudain leur ruine surgira,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Voici encore ce qui vient des sages:",
+            "headers": []
+        },
+        "24": {
+            "verse": "Celui qui dit au méchant: Tu es juste!",
+            "headers": []
+        },
+        "25": {
+            "verse": "Mais ceux qui le châtient s’en trouvent bien,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Il baise les lèvres,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Soigne tes affaires au-dehors,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Ne témoigne pas à la légère contre ton prochain;",
+            "headers": []
+        },
+        "29": {
+            "verse": "Ne dis pas: Je lui ferai comme il m’a fait,",
+            "headers": []
+        },
+        "30": {
+            "verse": "J’ai passé près du champ d’un paresseux,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Et voici, les épines y croissaient partout,",
+            "headers": []
+        },
+        "32": {
+            "verse": "J’ai regardé attentivement,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Un peu de sommeil, un peu d’assoupissement,",
+            "headers": []
+        },
+        "34": {
+            "verse": "Et la pauvreté te surprendra, comme un rôdeur,",
+            "headers": []
+        }
+    },
+    "25": {
+        "1": {
+            "verse": "Voici encore des Proverbes de Salomon, recueillis par les gens d’Ézéchias, roi de Juda.",
+            "headers": []
+        },
+        "2": {
+            "verse": "La gloire de Dieu, c’est de cacher les choses;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Les cieux dans leur hauteur, la terre dans sa profondeur,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ote de l’argent les scories,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Ote le méchant de devant le roi,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Ne t’élève pas devant le roi,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Car il vaut mieux qu’on te dise: Monte-ici!",
+            "headers": []
+        },
+        "8": {
+            "verse": "Ne te hâte pas d’entrer en contestation,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Défends ta cause contre ton prochain,",
+            "headers": []
+        },
+        "10": {
+            "verse": "De peur qu’en l’apprenant il ne te couvre de honte,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Comme des pommes d’or sur des ciselures d’argent,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Comme un anneau d’or et une parure d’or fin,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Comme la fraîcheur de la neige au temps de la moisson,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Comme des nuages et du vent sans pluie,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Par la lenteur à la colère on fléchit un prince,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Si tu trouves du miel, n’en mange que ce qui te suffit,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Mets rarement le pied dans la maison de ton prochain,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Comme une massue, une épée et une flèche aiguë,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Comme une dent cassée et un pied qui chancelle,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Oter son vêtement dans un jour froid,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Si ton ennemi a faim, donne-lui du pain à manger;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Car ce sont des charbons ardents que tu amasses sur sa tête,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Le vent du nord enfante la pluie,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Mieux vaut habiter à l’angle d’un toit,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Comme de l’eau fraîche pour une personne fatiguée,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Comme une fontaine troublée et une source corrompue,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Il n’est pas bon de manger beaucoup de miel,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Comme une ville forcée et sans murailles,",
+            "headers": []
+        }
+    },
+    "26": {
+        "1": {
+            "verse": "Comme la neige en été, et la pluie pendant la moisson,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Comme l’oiseau s’échappe, comme l’hirondelle s’envole,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Le fouet est pour le cheval, le mors pour l’âne,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ne réponds pas à l’insensé selon sa folie,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Réponds à l’insensé selon sa folie,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Il se coupe les pieds, il boit l’injustice,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Comme les jambes du boiteux sont faibles,",
+            "headers": []
+        },
+        "8": {
+            "verse": "C’est attacher une pierre à la fronde,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Comme une épine qui se dresse dans la main d’un homme ivre,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Comme un archer qui blesse tout le monde,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Comme un chien qui retourne à ce qu’il a vomi,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Si tu vois un homme qui se croit sage,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Le paresseux dit: Il y a un lion sur le chemin,",
+            "headers": []
+        },
+        "14": {
+            "verse": "La porte tourne sur ses gonds,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Le paresseux plonge sa main dans le plat,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Le paresseux se croit plus sage",
+            "headers": []
+        },
+        "17": {
+            "verse": "Comme celui qui saisit un chien par les oreilles,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Comme un furieux qui lance des flammes,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Ainsi est un homme qui trompe son prochain,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Faute de bois, le feu s’éteint;",
+            "headers": []
+        },
+        "21": {
+            "verse": "Le charbon produit un brasier, et le bois du feu;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Les paroles du rapporteur sont comme des friandises,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Comme des scories d’argent appliquées sur un vase de terre,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Par ses lèvres celui qui hait se déguise,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Lorsqu’il prend une voix douce, ne le crois pas,",
+            "headers": []
+        },
+        "26": {
+            "verse": "S’il cache sa haine sous la dissimulation,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Celui qui creuse une fosse y tombe,",
+            "headers": []
+        },
+        "28": {
+            "verse": "La langue fausse hait ceux qu’elle écrase,",
+            "headers": []
+        }
+    },
+    "27": {
+        "1": {
+            "verse": "Ne te vante pas du lendemain,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Qu’un autre te loue, et non ta bouche,",
+            "headers": []
+        },
+        "3": {
+            "verse": "La pierre est pesante et le sable est lourd,",
+            "headers": []
+        },
+        "4": {
+            "verse": "La fureur est cruelle et la colère impétueuse,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Mieux vaut une réprimande ouverte",
+            "headers": []
+        },
+        "6": {
+            "verse": "Les blessures d’un ami prouvent sa fidélité,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Celui qui est rassasié foule aux pieds le rayon de miel,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Comme l’oiseau qui erre loin de son nid,",
+            "headers": []
+        },
+        "9": {
+            "verse": "L’huile et les parfums réjouissent le cœur,",
+            "headers": []
+        },
+        "10": {
+            "verse": "N’abandonne pas ton ami et l’ami de ton père,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Mon fils, sois sage, et réjouis mon cœur,",
+            "headers": []
+        },
+        "12": {
+            "verse": "L’homme prudent voit le mal et se cache;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Prends son vêtement, car il a cautionné autrui;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Si l’on bénit son prochain à haute voix et de grand matin,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Une gouttière continue dans un jour de pluie",
+            "headers": []
+        },
+        "16": {
+            "verse": "Celui qui la retient retient le vent,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Comme le fer aiguise le fer,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Celui qui soigne un figuier en mangera le fruit,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Comme dans l’eau le visage répond au visage,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Le séjour des morts et l’abîme sont insatiables;",
+            "headers": []
+        },
+        "21": {
+            "verse": "Le creuset est pour l’argent, et le fourneau pour l’or;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Quand tu pilerais l’insensé dans un mortier,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Connais bien chacune de tes brebis,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Car la richesse ne dure pas toujours,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Le foin s’enlève, la verdure paraît,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Les agneaux sont pour te vêtir,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Le lait des chèvres suffit à ta nourriture, à celle de ta maison,",
+            "headers": []
+        }
+    },
+    "28": {
+        "1": {
+            "verse": "Le méchant prend la fuite sans qu’on le poursuive,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Quand un pays est en révolte, les chefs sont nombreux;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Un homme pauvre qui opprime les misérables",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ceux qui abandonnent la loi louent le méchant,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Les hommes livrés au mal ne comprennent pas ce qui est juste,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Mieux vaut le pauvre qui marche dans son intégrité,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Celui qui observe la loi est un fils intelligent,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Celui qui augmente ses biens par l’intérêt et l’usure",
+            "headers": []
+        },
+        "9": {
+            "verse": "Si quelqu’un détourne l’oreille pour ne pas écouter la loi,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Celui qui égare les hommes droits dans la mauvaise voie",
+            "headers": []
+        },
+        "11": {
+            "verse": "L’homme riche se croit sage;",
+            "headers": []
+        },
+        "12": {
+            "verse": "Quand les justes triomphent, c’est une grande gloire;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Celui qui cache ses transgressions ne prospère point,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Heureux l’homme qui est continuellement dans la crainte!",
+            "headers": []
+        },
+        "15": {
+            "verse": "Comme un lion rugissant et un ours affamé,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Un prince sans intelligence multiplie les actes d’oppression,",
+            "headers": []
+        },
+        "17": {
+            "verse": "Un homme chargé du sang d’un autre",
+            "headers": []
+        },
+        "18": {
+            "verse": "Celui qui marche dans l’intégrité trouve le salut,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Celui qui cultive son champ est rassasié de pain,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Un homme fidèle est comblé de bénédictions,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Il n’est pas bon d’avoir égard aux personnes,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Un homme envieux a hâte de s’enrichir,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Celui qui reprend les autres trouve ensuite plus de faveur",
+            "headers": []
+        },
+        "24": {
+            "verse": "Celui qui vole son père et sa mère,",
+            "headers": []
+        },
+        "25": {
+            "verse": "L’orgueilleux excite les querelles,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Celui qui a confiance dans son propre cœur est un insensé,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Celui qui donne au pauvre n’éprouve pas la disette,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Quand les méchants s’élèvent, chacun se cache;",
+            "headers": []
+        }
+    },
+    "29": {
+        "1": {
+            "verse": "Un homme qui mérite d’être repris, et qui raidit le cou,",
+            "headers": []
+        },
+        "2": {
+            "verse": "Quand les justes se multiplient, le peuple est dans la joie;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Un homme qui aime la sagesse réjouit son père,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Un roi affermit le pays par la justice,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Un homme qui flatte son prochain",
+            "headers": []
+        },
+        "6": {
+            "verse": "Il y a un piège dans le péché de l’homme méchant,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Le juste connaît la cause des pauvres,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Les moqueurs soufflent le feu dans la ville,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Si un homme sage conteste avec un insensé,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Les hommes de sang haïssent l’homme intègre,",
+            "headers": []
+        },
+        "11": {
+            "verse": "L’insensé met en dehors toute sa passion,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Quand celui qui domine a égard aux paroles mensongères,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Le pauvre et l’oppresseur se rencontrent;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Un roi qui juge fidèlement les pauvres",
+            "headers": []
+        },
+        "15": {
+            "verse": "La verge et la correction donnent la sagesse,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Quand les méchants se multiplient, le péché s’accroît;",
+            "headers": []
+        },
+        "17": {
+            "verse": "Châtie ton fils, et il te donnera du repos,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Quand il n’y a pas de révélation, le peuple est sans frein;",
+            "headers": []
+        },
+        "19": {
+            "verse": "Ce n’est pas par des paroles qu’on châtie un esclave;",
+            "headers": []
+        },
+        "20": {
+            "verse": "Si tu vois un homme irréfléchi dans ses paroles,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Le serviteur qu’on traite mollement dès l’enfance",
+            "headers": []
+        },
+        "22": {
+            "verse": "Un homme colère excite des querelles,",
+            "headers": []
+        },
+        "23": {
+            "verse": "L’orgueil d’un homme l’abaisse,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Celui qui partage avec un voleur est ennemi de son âme;",
+            "headers": []
+        },
+        "25": {
+            "verse": "La crainte des hommes tend un piège,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Beaucoup de gens recherchent la faveur de celui qui domine,",
+            "headers": []
+        },
+        "27": {
+            "verse": "L’homme inique est en abomination aux justes,",
+            "headers": []
+        }
+    },
+    "30": {
+        "1": {
+            "verse": "Paroles d’Agur, fils de Jaké. Sentences prononcées par cet homme pour Ithiel, pour Ithiel et pour Ucal.",
+            "headers": []
+        },
+        "2": {
+            "verse": "Certes, je suis plus stupide que personne,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Je n’ai pas appris la sagesse,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Qui est monté aux cieux, et qui en est descendu?",
+            "headers": []
+        },
+        "5": {
+            "verse": "Toute parole de Dieu est éprouvée.",
+            "headers": []
+        },
+        "6": {
+            "verse": "N’ajoute rien à ses paroles,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Je te demande deux choses:",
+            "headers": []
+        },
+        "8": {
+            "verse": "Éloigne de moi la fausseté et la parole mensongère;",
+            "headers": []
+        },
+        "9": {
+            "verse": "De peur que, dans l’abondance, je ne te renie",
+            "headers": []
+        },
+        "10": {
+            "verse": "Ne calomnie pas un serviteur auprès de son maître,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Il est une race qui maudit son père,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Il est une race qui se croit pure,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Il est une race dont les yeux sont hautains,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Il est une race dont les dents sont des glaives",
+            "headers": []
+        },
+        "15": {
+            "verse": "La sangsue a deux filles: Donne! Donne!",
+            "headers": []
+        },
+        "16": {
+            "verse": "Le séjour des morts, la femme stérile,",
+            "headers": []
+        },
+        "17": {
+            "verse": "L’œil qui se moque d’un père",
+            "headers": []
+        },
+        "18": {
+            "verse": "Il y a trois choses qui sont au-dessus de ma portée,",
+            "headers": []
+        },
+        "19": {
+            "verse": "La trace de l’aigle dans les cieux,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Telle est la voie de la femme adultère:",
+            "headers": []
+        },
+        "21": {
+            "verse": "Trois choses font trembler la terre,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Un esclave qui vient à régner,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Une femme dédaignée qui se marie,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Il y a sur la terre quatre animaux petits,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Les fourmis, peuple sans force,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Les damans, peuple sans puissance,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Les sauterelles n’ont point de roi,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Le lézard saisit avec les mains,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Il y en a trois qui ont une belle allure,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Le lion, le héros des animaux,",
+            "headers": []
+        },
+        "31": {
+            "verse": "Le cheval tout équipé; ou le bouc;",
+            "headers": []
+        },
+        "32": {
+            "verse": "Si l’orgueil te pousse à des actes de folie,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Car la pression du lait produit de la crème,",
+            "headers": []
+        }
+    },
+    "31": {
+        "1": {
+            "verse": "Paroles du roi Lemuel. Sentences par lesquelles sa mère l’instruisit.",
+            "headers": []
+        },
+        "2": {
+            "verse": "Que te dirai-je, mon fils?",
+            "headers": []
+        },
+        "3": {
+            "verse": "Ne livre pas ta vigueur aux femmes,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Ce n’est point aux rois, Lemuel,",
+            "headers": []
+        },
+        "5": {
+            "verse": "De peur qu’en buvant ils n’oublient la loi,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Donnez des liqueurs fortes à celui qui périt,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Qu’il boive et oublie sa pauvreté,",
+            "headers": []
+        },
+        "8": {
+            "verse": "Ouvre ta bouche pour le muet,",
+            "headers": []
+        },
+        "9": {
+            "verse": "Ouvre ta bouche, juge avec justice,",
+            "headers": []
+        },
+        "10": {
+            "verse": "Qui peut trouver une femme vertueuse?",
+            "headers": []
+        },
+        "11": {
+            "verse": "Le cœur de son mari a confiance en elle,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Elle lui fait du bien, et non du mal,",
+            "headers": []
+        },
+        "13": {
+            "verse": "Elle se procure de la laine et du lin,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Elle est comme un navire marchand,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Elle se lève lorsqu’il est encore nuit,",
+            "headers": []
+        },
+        "16": {
+            "verse": "Elle pense à un champ, et elle l’acquiert;",
+            "headers": []
+        },
+        "17": {
+            "verse": "Elle ceint de force ses reins,",
+            "headers": []
+        },
+        "18": {
+            "verse": "Elle sent que ce qu’elle gagne est bon;",
+            "headers": []
+        },
+        "19": {
+            "verse": "Elle met la main à la quenouille,",
+            "headers": []
+        },
+        "20": {
+            "verse": "Elle tend la main au malheureux,",
+            "headers": []
+        },
+        "21": {
+            "verse": "Elle ne craint pas la neige pour sa maison,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Elle se fait des couvertures,",
+            "headers": []
+        },
+        "23": {
+            "verse": "Son mari est considéré aux portes,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Elle fait des chemises, et les vend,",
+            "headers": []
+        },
+        "25": {
+            "verse": "Elle est revêtue de force et de gloire,",
+            "headers": []
+        },
+        "26": {
+            "verse": "Elle ouvre la bouche avec sagesse,",
+            "headers": []
+        },
+        "27": {
+            "verse": "Elle veille sur ce qui se passe dans sa maison,",
+            "headers": []
+        },
+        "28": {
+            "verse": "Ses fils se lèvent, et la disent heureuse;",
+            "headers": []
+        },
+        "29": {
+            "verse": "Plusieurs filles ont une conduite vertueuse;",
+            "headers": []
+        },
+        "30": {
+            "verse": "La grâce est trompeuse, et la beauté est vaine;",
+            "headers": []
+        },
+        "31": {
+            "verse": "Récompensez-la du fruit de son travail,",
+            "headers": []
+        }
+    }
+}
