@@ -12,7 +12,9 @@
             "LSG": "Louis Segond"
         }
     },
-    "languages": ["English", "Français"],
-    "languages_short": ["en", "fr"],
+    "languages": {
+        "English": "en", 
+        "Français": "fr"
+    },
     "version_count":5
 }
