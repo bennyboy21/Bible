@@ -1,0 +1,634 @@
+{
+    "1": {
+        "1": {
+            "verse": "Paul, an apostle ( A ) of Christ Jesus by the will of God, ( B )",
+            "headers": []
+        },
+        "2": {
+            "verse": "Grace and peace to you from God our Father and the Lord Jesus Christ. ( F )",
+            "headers": []
+        },
+        "3": {
+            "verse": "Praise be to the God and Father of our Lord Jesus Christ, ( G ) who has blessed us in the heavenly realms ( H ) with every spiritual blessing in Christ.",
+            "headers": []
+        },
+        "4": {
+            "verse": "For he chose us ( I ) in him before the creation of the world ( J ) to be holy and blameless ( K ) in his sight. In love ( L )",
+            "headers": []
+        },
+        "5": {
+            "verse": "he  predestined ( M ) us for adoption to sonship  ( N ) through Jesus Christ, in accordance with his pleasure ( O ) and will—",
+            "headers": []
+        },
+        "6": {
+            "verse": "to the praise of his glorious grace, ( P ) which he has freely given us in the One he loves. ( Q )",
+            "headers": []
+        },
+        "7": {
+            "verse": "In him we have redemption ( R ) through his blood, ( S ) the forgiveness of sins, in accordance with the riches ( T ) of God’s grace",
+            "headers": []
+        },
+        "8": {
+            "verse": "that he lavished on us. With all wisdom and understanding,",
+            "headers": []
+        },
+        "9": {
+            "verse": "he  made known to us the mystery ( U ) of his will according to his good pleasure, which he purposed ( V ) in Christ,",
+            "headers": []
+        },
+        "10": {
+            "verse": "to be put into effect when the times reach their fulfillment ( W ) —to bring unity to all things in heaven and on earth under Christ. ( X )",
+            "headers": []
+        },
+        "11": {
+            "verse": "In him we were also chosen,  having been predestined ( Y ) according to the plan of him who works out everything in conformity with the purpose ( Z ) of his will,",
+            "headers": []
+        },
+        "12": {
+            "verse": "in order that we, who were the first to put our hope in Christ, might be for the praise of his glory. ( AA )",
+            "headers": []
+        },
+        "13": {
+            "verse": "And you also were included in Christ ( AB ) when you heard the message of truth, ( AC ) the gospel of your salvation. When you believed, you were marked in him with a seal, ( AD ) the promised Holy Spirit, ( AE )",
+            "headers": []
+        },
+        "14": {
+            "verse": "who is a deposit guaranteeing our inheritance ( AF ) until the redemption ( AG ) of those who are God’s possession—to the praise of his glory. ( AH )",
+            "headers": []
+        },
+        "15": {
+            "verse": "For this reason, ever since I heard about your faith in the Lord Jesus ( AI ) and your love for all God’s people, ( AJ )",
+            "headers": []
+        },
+        "16": {
+            "verse": "I have not stopped giving thanks for you, ( AK ) remembering you in my prayers. ( AL )",
+            "headers": []
+        },
+        "17": {
+            "verse": "I keep asking that the God of our Lord Jesus Christ, the glorious Father, ( AM ) may give you the Spirit  of wisdom ( AN ) and revelation, so that you may know him better.",
+            "headers": []
+        },
+        "18": {
+            "verse": "I pray that the eyes of your heart may be enlightened ( AO ) in order that you may know the hope to which he has called ( AP ) you, the riches ( AQ ) of his glorious inheritance ( AR ) in his holy people, ( AS )",
+            "headers": []
+        },
+        "19": {
+            "verse": "and his incomparably great power for us who believe. That power ( AT ) is the same as the mighty strength ( AU )",
+            "headers": []
+        },
+        "20": {
+            "verse": "he exerted when he raised Christ from the dead ( AV ) and seated him at his right hand ( AW ) in the heavenly realms, ( AX )",
+            "headers": []
+        },
+        "21": {
+            "verse": "far above all rule and authority, power and dominion, ( AY ) and every name ( AZ ) that is invoked, not only in the present age but also in the one to come. ( BA )",
+            "headers": []
+        },
+        "22": {
+            "verse": "And God placed all things under his feet ( BB ) and appointed him to be head ( BC ) over everything for the church,",
+            "headers": []
+        },
+        "23": {
+            "verse": "which is his body, ( BD ) the fullness of him ( BE ) who fills everything in every way. ( BF )",
+            "headers": []
+        }
+    },
+    "2": {
+        "1": {
+            "verse": "As for you, you were dead in your transgressions and sins, ( A )",
+            "headers": []
+        },
+        "2": {
+            "verse": "in which you used to live ( B ) when you followed the ways of this world ( C ) and of the ruler of the kingdom of the air, ( D ) the spirit who is now at work in those who are disobedient. ( E )",
+            "headers": []
+        },
+        "3": {
+            "verse": "All of us also lived among them at one time, ( F ) gratifying the cravings of our flesh  ( G ) and following its desires and thoughts. Like the rest, we were by nature deserving of wrath.",
+            "headers": []
+        },
+        "4": {
+            "verse": "But because of his great love for us, ( H ) God, who is rich in mercy,",
+            "headers": []
+        },
+        "5": {
+            "verse": "made us alive with Christ even when we were dead in transgressions ( I ) —it is by grace you have been saved. ( J )",
+            "headers": []
+        },
+        "6": {
+            "verse": "And God raised us up with Christ ( K ) and seated us with him ( L ) in the heavenly realms ( M ) in Christ Jesus,",
+            "headers": []
+        },
+        "7": {
+            "verse": "in order that in the coming ages he might show the incomparable riches of his grace, ( N ) expressed in his kindness ( O ) to us in Christ Jesus.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For it is by grace ( P ) you have been saved, ( Q ) through faith ( R ) —and this is not from yourselves, it is the gift of God—",
+            "headers": []
+        },
+        "9": {
+            "verse": "not by works, ( S ) so that no one can boast. ( T )",
+            "headers": []
+        },
+        "10": {
+            "verse": "For we are God’s handiwork, ( U ) created ( V ) in Christ Jesus to do good works, ( W ) which God prepared in advance for us to do.",
+            "headers": []
+        },
+        "11": {
+            "verse": "Therefore, remember that formerly ( X ) you who are Gentiles by birth and called “uncircumcised” by those who call themselves “the circumcision” (which is done in the body by human hands) ( Y ) —",
+            "headers": []
+        },
+        "12": {
+            "verse": "remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners ( Z ) to the covenants of the promise, ( AA ) without hope ( AB ) and without God in the world.",
+            "headers": []
+        },
+        "13": {
+            "verse": "But now in Christ Jesus you who once ( AC ) were far away have been brought near ( AD ) by the blood of Christ. ( AE )",
+            "headers": []
+        },
+        "14": {
+            "verse": "For he himself is our peace, ( AF ) who has made the two groups one ( AG ) and has destroyed the barrier, the dividing wall of hostility,",
+            "headers": []
+        },
+        "15": {
+            "verse": "by setting aside in his flesh ( AH ) the law with its commands and regulations. ( AI ) His purpose was to create in himself one ( AJ ) new humanity out of the two, thus making peace,",
+            "headers": []
+        },
+        "16": {
+            "verse": "and in one body to reconcile both of them to God through the cross, ( AK ) by which he put to death their hostility.",
+            "headers": []
+        },
+        "17": {
+            "verse": "He came and preached peace ( AL ) to you who were far away and peace to those who were near. ( AM )",
+            "headers": []
+        },
+        "18": {
+            "verse": "For through him we both have access ( AN ) to the Father ( AO ) by one Spirit. ( AP )",
+            "headers": []
+        },
+        "19": {
+            "verse": "Consequently, you are no longer foreigners and strangers, ( AQ ) but fellow citizens ( AR ) with God’s people and also members of his household, ( AS )",
+            "headers": []
+        },
+        "20": {
+            "verse": "built ( AT ) on the foundation ( AU ) of the apostles and prophets, ( AV ) with Christ Jesus himself ( AW ) as the chief cornerstone. ( AX )",
+            "headers": []
+        },
+        "21": {
+            "verse": "In him the whole building is joined together and rises to become a holy temple ( AY ) in the Lord.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And in him you too are being built together to become a dwelling in which God lives by his Spirit. ( AZ )",
+            "headers": []
+        }
+    },
+    "3": {
+        "1": {
+            "verse": "For this reason I, Paul, the prisoner ( A ) of Christ Jesus for the sake of you Gentiles—",
+            "headers": []
+        },
+        "2": {
+            "verse": "Surely you have heard about the administration of God’s grace that was given to me ( B ) for you,",
+            "headers": []
+        },
+        "3": {
+            "verse": "that is, the mystery ( C ) made known to me by revelation, ( D ) as I have already written briefly.",
+            "headers": []
+        },
+        "4": {
+            "verse": "In reading this, then, you will be able to understand my insight ( E ) into the mystery of Christ,",
+            "headers": []
+        },
+        "5": {
+            "verse": "which was not made known to people in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets. ( F )",
+            "headers": []
+        },
+        "6": {
+            "verse": "This mystery is that through the gospel the Gentiles are heirs ( G ) together with Israel, members together of one body, ( H ) and sharers together in the promise in Christ Jesus. ( I )",
+            "headers": []
+        },
+        "7": {
+            "verse": "I became a servant of this gospel ( J ) by the gift of God’s grace given me ( K ) through the working of his power. ( L )",
+            "headers": []
+        },
+        "8": {
+            "verse": "Although I am less than the least of all the Lord’s people, ( M ) this grace was given me: to preach to the Gentiles ( N ) the boundless riches of Christ, ( O )",
+            "headers": []
+        },
+        "9": {
+            "verse": "and to make plain to everyone the administration of this mystery, ( P ) which for ages past was kept hidden in God, who created all things.",
+            "headers": []
+        },
+        "10": {
+            "verse": "His intent was that now, through the church, the manifold wisdom of God ( Q ) should be made known ( R ) to the rulers and authorities ( S ) in the heavenly realms, ( T )",
+            "headers": []
+        },
+        "11": {
+            "verse": "according to his eternal purpose ( U ) that he accomplished in Christ Jesus our Lord.",
+            "headers": []
+        },
+        "12": {
+            "verse": "In him and through faith in him we may approach God ( V ) with freedom and confidence. ( W )",
+            "headers": []
+        },
+        "13": {
+            "verse": "I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.",
+            "headers": []
+        },
+        "14": {
+            "verse": "For this reason I kneel ( X ) before the Father,",
+            "headers": []
+        },
+        "15": {
+            "verse": "from whom every family  in heaven and on earth derives its name.",
+            "headers": []
+        },
+        "16": {
+            "verse": "I pray that out of his glorious riches ( Y ) he may strengthen you with power ( Z ) through his Spirit in your inner being, ( AA )",
+            "headers": []
+        },
+        "17": {
+            "verse": "so that Christ may dwell in your hearts ( AB ) through faith. And I pray that you, being rooted ( AC ) and established in love,",
+            "headers": []
+        },
+        "18": {
+            "verse": "may have power, together with all the Lord’s holy people, ( AD ) to grasp how wide and long and high and deep ( AE ) is the love of Christ,",
+            "headers": []
+        },
+        "19": {
+            "verse": "and to know this love that surpasses knowledge ( AF ) —that you may be filled ( AG ) to the measure of all the fullness of God. ( AH )",
+            "headers": []
+        },
+        "20": {
+            "verse": "Now to him who is able ( AI ) to do immeasurably more than all we ask ( AJ ) or imagine, according to his power ( AK ) that is at work within us,",
+            "headers": []
+        },
+        "21": {
+            "verse": "to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen. ( AL )",
+            "headers": []
+        }
+    },
+    "4": {
+        "1": {
+            "verse": "As a prisoner ( A ) for the Lord, then, I urge you to live a life worthy ( B ) of the calling ( C ) you have received.",
+            "headers": []
+        },
+        "2": {
+            "verse": "Be completely humble and gentle; be patient, bearing with one another ( D ) in love. ( E )",
+            "headers": []
+        },
+        "3": {
+            "verse": "Make every effort to keep the unity ( F ) of the Spirit through the bond of peace. ( G )",
+            "headers": []
+        },
+        "4": {
+            "verse": "There is one body ( H ) and one Spirit, ( I ) just as you were called to one hope when you were called ( J ) ;",
+            "headers": []
+        },
+        "5": {
+            "verse": "one Lord, ( K ) one faith, one baptism;",
+            "headers": []
+        },
+        "6": {
+            "verse": "one God and Father of all, ( L ) who is over all and through all and in all. ( M )",
+            "headers": []
+        },
+        "7": {
+            "verse": "But to each one of us ( N ) grace ( O ) has been given ( P ) as Christ apportioned it.",
+            "headers": []
+        },
+        "8": {
+            "verse": "This is why it  says:",
+            "headers": []
+        },
+        "9": {
+            "verse": "(What does “he ascended” mean except that he also descended to the lower, earthly regions  ?",
+            "headers": []
+        },
+        "10": {
+            "verse": "He who descended is the very one who ascended ( S ) higher than all the heavens, in order to fill the whole universe.) ( T )",
+            "headers": []
+        },
+        "11": {
+            "verse": "So Christ himself gave ( U ) the apostles, ( V ) the prophets, ( W ) the evangelists, ( X ) the pastors and teachers, ( Y )",
+            "headers": []
+        },
+        "12": {
+            "verse": "to equip his people for works of service, so that the body of Christ ( Z ) may be built up ( AA )",
+            "headers": []
+        },
+        "13": {
+            "verse": "until we all reach unity ( AB ) in the faith and in the knowledge of the Son of God ( AC ) and become mature, ( AD ) attaining to the whole measure of the fullness of Christ. ( AE )",
+            "headers": []
+        },
+        "14": {
+            "verse": "Then we will no longer be infants, ( AF ) tossed back and forth by the waves, ( AG ) and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. ( AH )",
+            "headers": []
+        },
+        "15": {
+            "verse": "Instead, speaking the truth in love, ( AI ) we will grow to become in every respect the mature body of him who is the head, ( AJ ) that is, Christ.",
+            "headers": []
+        },
+        "16": {
+            "verse": "From him the whole body, joined and held together by every supporting ligament, grows ( AK ) and builds itself up ( AL ) in love, ( AM ) as each part does its work.",
+            "headers": []
+        },
+        "17": {
+            "verse": "So I tell you this, and insist on it in the Lord, that you must no longer ( AN ) live as the Gentiles do, in the futility of their thinking. ( AO )",
+            "headers": []
+        },
+        "18": {
+            "verse": "They are darkened in their understanding ( AP ) and separated from the life of God ( AQ ) because of the ignorance that is in them due to the hardening of their hearts. ( AR )",
+            "headers": []
+        },
+        "19": {
+            "verse": "Having lost all sensitivity, ( AS ) they have given themselves over ( AT ) to sensuality ( AU ) so as to indulge in every kind of impurity, and they are full of greed.",
+            "headers": []
+        },
+        "20": {
+            "verse": "That, however, is not the way of life you learned",
+            "headers": []
+        },
+        "21": {
+            "verse": "when you heard about Christ and were taught in him in accordance with the truth that is in Jesus.",
+            "headers": []
+        },
+        "22": {
+            "verse": "You were taught, with regard to your former way of life, to put off ( AV ) your old self, ( AW ) which is being corrupted by its deceitful desires; ( AX )",
+            "headers": []
+        },
+        "23": {
+            "verse": "to be made new in the attitude of your minds; ( AY )",
+            "headers": []
+        },
+        "24": {
+            "verse": "and to put on ( AZ ) the new self, ( BA ) created to be like God in true righteousness and holiness. ( BB )",
+            "headers": []
+        },
+        "25": {
+            "verse": "Therefore each of you must put off falsehood and speak truthfully ( BC ) to your neighbor, for we are all members of one body. ( BD )",
+            "headers": []
+        },
+        "26": {
+            "verse": "“In your anger do not sin”  : ( BE ) Do not let the sun go down while you are still angry,",
+            "headers": []
+        },
+        "27": {
+            "verse": "and do not give the devil a foothold. ( BF )",
+            "headers": []
+        },
+        "28": {
+            "verse": "Anyone who has been stealing must steal no longer, but must work, ( BG ) doing something useful with their own hands, ( BH ) that they may have something to share with those in need. ( BI )",
+            "headers": []
+        },
+        "29": {
+            "verse": "Do not let any unwholesome talk come out of your mouths, ( BJ ) but only what is helpful for building others up ( BK ) according to their needs, that it may benefit those who listen.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And do not grieve the Holy Spirit of God, ( BL ) with whom you were sealed ( BM ) for the day of redemption. ( BN )",
+            "headers": []
+        },
+        "31": {
+            "verse": "Get rid of ( BO ) all bitterness, rage and anger, brawling and slander, along with every form of malice. ( BP )",
+            "headers": []
+        },
+        "32": {
+            "verse": "Be kind and compassionate to one another, ( BQ ) forgiving each other, just as in Christ God forgave you. ( BR )",
+            "headers": []
+        }
+    },
+    "5": {
+        "1": {
+            "verse": "Follow God’s example, ( A ) therefore, as dearly loved children ( B )",
+            "headers": []
+        },
+        "2": {
+            "verse": "and walk in the way of love, just as Christ loved us ( C ) and gave himself up for us ( D ) as a fragrant offering and sacrifice to God. ( E )",
+            "headers": []
+        },
+        "3": {
+            "verse": "But among you there must not be even a hint of sexual immorality, ( F ) or of any kind of impurity, or of greed, ( G ) because these are improper for God’s holy people.",
+            "headers": []
+        },
+        "4": {
+            "verse": "Nor should there be obscenity, foolish talk ( H ) or coarse joking, which are out of place, but rather thanksgiving. ( I )",
+            "headers": []
+        },
+        "5": {
+            "verse": "For of this you can be sure: No immoral, impure or greedy person—such a person is an idolater ( J ) —has any inheritance ( K ) in the kingdom of Christ and of God.  ( L )",
+            "headers": []
+        },
+        "6": {
+            "verse": "Let no one deceive you ( M ) with empty words, for because of such things God’s wrath ( N ) comes on those who are disobedient. ( O )",
+            "headers": []
+        },
+        "7": {
+            "verse": "Therefore do not be partners with them.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For you were once ( P ) darkness, but now you are light in the Lord. Live as children of light ( Q )",
+            "headers": []
+        },
+        "9": {
+            "verse": "(for the fruit ( R ) of the light consists in all goodness, ( S ) righteousness and truth)",
+            "headers": []
+        },
+        "10": {
+            "verse": "and find out what pleases the Lord. ( T )",
+            "headers": []
+        },
+        "11": {
+            "verse": "Have nothing to do with the fruitless deeds of darkness, ( U ) but rather expose them.",
+            "headers": []
+        },
+        "12": {
+            "verse": "It is shameful even to mention what the disobedient do in secret.",
+            "headers": []
+        },
+        "13": {
+            "verse": "But everything exposed by the light ( V ) becomes visible—and everything that is illuminated becomes a light.",
+            "headers": []
+        },
+        "14": {
+            "verse": "This is why it is said:",
+            "headers": []
+        },
+        "15": {
+            "verse": "Be very careful, then, how you live ( Z ) —not as unwise but as wise,",
+            "headers": []
+        },
+        "16": {
+            "verse": "making the most of every opportunity, ( AA ) because the days are evil. ( AB )",
+            "headers": []
+        },
+        "17": {
+            "verse": "Therefore do not be foolish, but understand what the Lord’s will is. ( AC )",
+            "headers": []
+        },
+        "18": {
+            "verse": "Do not get drunk on wine, ( AD ) which leads to debauchery. Instead, be filled with the Spirit, ( AE )",
+            "headers": []
+        },
+        "19": {
+            "verse": "speaking to one another with psalms, hymns, and songs from the Spirit. ( AF ) Sing and make music from your heart to the Lord,",
+            "headers": []
+        },
+        "20": {
+            "verse": "always giving thanks ( AG ) to God the Father for everything, in the name of our Lord Jesus Christ.",
+            "headers": []
+        },
+        "21": {
+            "verse": "Submit to one another ( AI ) out of reverence for Christ.",
+            "headers": []
+        },
+        "22": {
+            "verse": "Wives, submit yourselves to your own husbands ( AJ ) as you do to the Lord. ( AK )",
+            "headers": []
+        },
+        "23": {
+            "verse": "For the husband is the head of the wife as Christ is the head of the church, ( AL ) his body, of which he is the Savior.",
+            "headers": []
+        },
+        "24": {
+            "verse": "Now as the church submits to Christ, so also wives should submit to their husbands ( AM ) in everything.",
+            "headers": []
+        },
+        "25": {
+            "verse": "Husbands, love your wives, ( AN ) just as Christ loved the church and gave himself up for her ( AO )",
+            "headers": []
+        },
+        "26": {
+            "verse": "to make her holy, ( AP ) cleansing  her by the washing ( AQ ) with water through the word,",
+            "headers": []
+        },
+        "27": {
+            "verse": "and to present her to himself ( AR ) as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. ( AS )",
+            "headers": []
+        },
+        "28": {
+            "verse": "In this same way, husbands ought to love their wives ( AT ) as their own bodies. He who loves his wife loves himself.",
+            "headers": []
+        },
+        "29": {
+            "verse": "After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church—",
+            "headers": []
+        },
+        "30": {
+            "verse": "for we are members of his body. ( AU )",
+            "headers": []
+        },
+        "31": {
+            "verse": "“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”  ( AV )",
+            "headers": []
+        },
+        "32": {
+            "verse": "This is a profound mystery—but I am talking about Christ and the church.",
+            "headers": []
+        },
+        "33": {
+            "verse": "However, each one of you also must love his wife ( AW ) as he loves himself, and the wife must respect her husband.",
+            "headers": []
+        }
+    },
+    "6": {
+        "1": {
+            "verse": "Children, obey your parents in the Lord, for this is right. ( A )",
+            "headers": []
+        },
+        "2": {
+            "verse": "“Honor your father and mother”—which is the first commandment with a promise—",
+            "headers": []
+        },
+        "3": {
+            "verse": "“so that it may go well with you and that you may enjoy long life on the earth.”  ( B )",
+            "headers": []
+        },
+        "4": {
+            "verse": "Fathers,  do not exasperate your children; ( C ) instead, bring them up in the training and instruction of the Lord. ( D )",
+            "headers": []
+        },
+        "5": {
+            "verse": "Slaves, obey your earthly masters with respect ( E ) and fear, and with sincerity of heart, ( F ) just as you would obey Christ. ( G )",
+            "headers": []
+        },
+        "6": {
+            "verse": "Obey them not only to win their favor when their eye is on you, but as slaves of Christ, ( H ) doing the will of God from your heart.",
+            "headers": []
+        },
+        "7": {
+            "verse": "Serve wholeheartedly, as if you were serving the Lord, not people, ( I )",
+            "headers": []
+        },
+        "8": {
+            "verse": "because you know that the Lord will reward each one for whatever good they do, ( J ) whether they are slave or free.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours ( K ) is in heaven, and there is no favoritism ( L ) with him.",
+            "headers": []
+        },
+        "10": {
+            "verse": "Finally, be strong in the Lord ( M ) and in his mighty power. ( N )",
+            "headers": []
+        },
+        "11": {
+            "verse": "Put on the full armor of God, ( O ) so that you can take your stand against the devil’s schemes.",
+            "headers": []
+        },
+        "12": {
+            "verse": "For our struggle is not against flesh and blood, ( P ) but against the rulers, against the authorities, ( Q ) against the powers ( R ) of this dark world and against the spiritual forces of evil in the heavenly realms. ( S )",
+            "headers": []
+        },
+        "13": {
+            "verse": "Therefore put on the full armor of God, ( T ) so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Stand firm then, with the belt of truth buckled around your waist, ( U ) with the breastplate of righteousness in place, ( V )",
+            "headers": []
+        },
+        "15": {
+            "verse": "and with your feet fitted with the readiness that comes from the gospel of peace. ( W )",
+            "headers": []
+        },
+        "16": {
+            "verse": "In addition to all this, take up the shield of faith, ( X ) with which you can extinguish all the flaming arrows of the evil one. ( Y )",
+            "headers": []
+        },
+        "17": {
+            "verse": "Take the helmet of salvation ( Z ) and the sword of the Spirit, ( AA ) which is the word of God. ( AB )",
+            "headers": []
+        },
+        "18": {
+            "verse": "And pray in the Spirit ( AC ) on all occasions ( AD ) with all kinds of prayers and requests. ( AE ) With this in mind, be alert and always keep on praying ( AF ) for all the Lord’s people.",
+            "headers": []
+        },
+        "19": {
+            "verse": "Pray also for me, ( AG ) that whenever I speak, words may be given me so that I will fearlessly ( AH ) make known the mystery ( AI ) of the gospel,",
+            "headers": []
+        },
+        "20": {
+            "verse": "for which I am an ambassador ( AJ ) in chains. ( AK ) Pray that I may declare it fearlessly, as I should.",
+            "headers": []
+        },
+        "21": {
+            "verse": "Tychicus, ( AL ) the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing.",
+            "headers": []
+        },
+        "22": {
+            "verse": "I am sending him to you for this very purpose, that you may know how we are, ( AM ) and that he may encourage you. ( AN )",
+            "headers": []
+        },
+        "23": {
+            "verse": "Peace ( AO ) to the brothers and sisters,  and love with faith from God the Father and the Lord Jesus Christ.",
+            "headers": []
+        },
+        "24": {
+            "verse": "Grace to all who love our Lord Jesus Christ with an undying love.",
+            "headers": []
+        }
+    }
+}
