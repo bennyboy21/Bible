@@ -13,9 +13,15 @@
             "LSG": "Louis Segond"
         }
     },
+    "uk": {
+        "versions": {
+            "UKR": "Ukrainian Bible"
+        }
+    },
     "languages": {
         "English": "en", 
-        "Français": "fr"
+        "Français": "fr",
+        "Ukrainian": "uk"
     },
-    "version_count":6
+    "version_count":7
 }
