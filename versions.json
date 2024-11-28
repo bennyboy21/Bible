@@ -4,7 +4,8 @@
             "KJV": "King James Version",
             "ASV": "American Standard Version",
             "YLT": "Young's Literal Translation",
-            "WEB": "World English Bible"
+            "WEB": "World English Bible",
+            "NIV": "New International Version"
         }
     },
     "fr": {
@@ -16,5 +17,5 @@
         "English": "en", 
         "Français": "fr"
     },
-    "version_count":5
+    "version_count":6
 }
