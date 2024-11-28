@@ -2,10 +2,10 @@
     "en": {
         "versions": {
             "KJV": "King James Version",
+            "NIV": "New International Version",
             "ASV": "American Standard Version",
             "YLT": "Young's Literal Translation",
-            "WEB": "World English Bible",
-            "NIV": "New International Version"
+            "WEB": "World English Bible"
         }
     },
     "fr": {
