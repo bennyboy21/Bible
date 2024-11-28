@@ -1,23 +1,23 @@
 {
     "1": {
         "1": {
-            "verse": "Adam, ( A ) Seth, Enosh,",
+            "verse": "Adam, Seth, Enosh,",
             "headers": []
         },
         "2": {
-            "verse": "Kenan, ( B ) Mahalalel, ( C ) Jared, ( D )",
+            "verse": "Kenan, Mahalalel, Jared,",
             "headers": []
         },
         "3": {
-            "verse": "Enoch, ( E ) Methuselah, ( F ) Lamech, ( G ) Noah. ( H )",
+            "verse": "Enoch, Methuselah, Lamech, Noah.",
             "headers": []
         },
         "4": {
-            "verse": "The sons of Noah:  ( I )",
+            "verse": "The sons of Noah:",
             "headers": []
         },
         "5": {
-            "verse": "The sons  of Japheth:",
+            "verse": "The sons of Japheth:",
             "headers": []
         },
         "6": {
@@ -37,7 +37,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Cush was the father  of",
+            "verse": "Cush was the father of",
             "headers": []
         },
         "11": {
@@ -85,7 +85,7 @@
             "headers": []
         },
         "22": {
-            "verse": "Obal,  Abimael, Sheba,",
+            "verse": "Obal, Abimael, Sheba,",
             "headers": []
         },
         "23": {
@@ -93,7 +93,7 @@
             "headers": []
         },
         "24": {
-            "verse": "Shem, ( N ) Arphaxad,  Shelah,",
+            "verse": "Shem, Arphaxad, Shelah,",
             "headers": []
         },
         "25": {
@@ -125,7 +125,7 @@
             "headers": []
         },
         "32": {
-            "verse": "The sons born to Keturah, Abraham’s concubine: ( Q )",
+            "verse": "The sons born to Keturah, Abraham’s concubine:",
             "headers": []
         },
         "33": {
@@ -133,11 +133,11 @@
             "headers": []
         },
         "34": {
-            "verse": "Abraham ( T ) was the father of Isaac. ( U )",
+            "verse": "Abraham was the father of Isaac.",
             "headers": []
         },
         "35": {
-            "verse": "The sons of Esau: ( W )",
+            "verse": "The sons of Esau:",
             "headers": []
         },
         "36": {
@@ -145,7 +145,7 @@
             "headers": []
         },
         "37": {
-            "verse": "The sons of Reuel: ( Z )",
+            "verse": "The sons of Reuel:",
             "headers": []
         },
         "38": {
@@ -177,7 +177,7 @@
             "headers": []
         },
         "45": {
-            "verse": "When Jobab died, Husham from the land of the Temanites ( AD ) succeeded him as king.",
+            "verse": "When Jobab died, Husham from the land of the Temanites succeeded him as king.",
             "headers": []
         },
         "46": {
@@ -189,7 +189,7 @@
             "headers": []
         },
         "48": {
-            "verse": "When Samlah died, Shaul from Rehoboth on the river  succeeded him as king.",
+            "verse": "When Samlah died, Shaul from Rehoboth on the river succeeded him as king.",
             "headers": []
         },
         "49": {
@@ -197,7 +197,7 @@
             "headers": []
         },
         "50": {
-            "verse": "When Baal-Hanan died, Hadad succeeded him as king. His city was named Pau,  and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-Zahab.",
+            "verse": "When Baal-Hanan died, Hadad succeeded him as king. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-Zahab.",
             "headers": []
         },
         "51": {
@@ -227,15 +227,15 @@
             "headers": []
         },
         "3": {
-            "verse": "The sons of Judah: ( C )",
+            "verse": "The sons of Judah:",
             "headers": []
         },
         "4": {
-            "verse": "Judah’s daughter-in-law ( G ) Tamar ( H ) bore Perez ( I ) and Zerah to Judah. He had five sons in all.",
+            "verse": "Judah’s daughter-in-law Tamar bore Perez and Zerah to Judah. He had five sons in all.",
             "headers": []
         },
         "5": {
-            "verse": "The sons of Perez: ( J )",
+            "verse": "The sons of Perez:",
             "headers": []
         },
         "6": {
@@ -251,23 +251,23 @@
             "headers": []
         },
         "9": {
-            "verse": "The sons born to Hezron ( N ) were:",
+            "verse": "The sons born to Hezron were:",
             "headers": []
         },
         "10": {
-            "verse": "Ram ( O ) was the father of",
+            "verse": "Ram was the father of",
             "headers": []
         },
         "11": {
-            "verse": "Nahshon was the father of Salmon,  Salmon the father of Boaz,",
+            "verse": "Nahshon was the father of Salmon, Salmon the father of Boaz,",
             "headers": []
         },
         "12": {
-            "verse": "Boaz ( R ) the father of Obed and Obed the father of Jesse. ( S )",
+            "verse": "Boaz the father of Obed and Obed the father of Jesse.",
             "headers": []
         },
         "13": {
-            "verse": "Jesse ( T ) was the father of",
+            "verse": "Jesse was the father of",
             "headers": []
         },
         "14": {
@@ -279,11 +279,11 @@
             "headers": []
         },
         "16": {
-            "verse": "Their sisters were Zeruiah ( V ) and Abigail. Zeruiah’s ( W ) three sons were Abishai, Joab ( X ) and Asahel.",
+            "verse": "Their sisters were Zeruiah and Abigail. Zeruiah’s three sons were Abishai, Joab and Asahel.",
             "headers": []
         },
         "17": {
-            "verse": "Abigail was the mother of Amasa, ( Y ) whose father was Jether the Ishmaelite.",
+            "verse": "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.",
             "headers": []
         },
         "18": {
@@ -291,15 +291,15 @@
             "headers": []
         },
         "19": {
-            "verse": "When Azubah died, Caleb ( Z ) married Ephrath, who bore him Hur.",
+            "verse": "When Azubah died, Caleb married Ephrath, who bore him Hur.",
             "headers": []
         },
         "20": {
-            "verse": "Hur was the father of Uri, and Uri the father of Bezalel. ( AA )",
+            "verse": "Hur was the father of Uri, and Uri the father of Bezalel.",
             "headers": []
         },
         "21": {
-            "verse": "Later, Hezron, when he was sixty years old, married the daughter of Makir the father of Gilead. ( AB ) He made love to her, and she bore him Segub.",
+            "verse": "Later, Hezron, when he was sixty years old, married the daughter of Makir the father of Gilead. He made love to her, and she bore him Segub.",
             "headers": []
         },
         "22": {
@@ -307,11 +307,11 @@
             "headers": []
         },
         "23": {
-            "verse": "(But Geshur and Aram captured Havvoth Jair,  ( AC ) as well as Kenath ( AD ) with its surrounding settlements—sixty towns.) All these were descendants of Makir the father of Gilead.",
+            "verse": "(But Geshur and Aram captured Havvoth Jair, as well as Kenath with its surrounding settlements—sixty towns.) All these were descendants of Makir the father of Gilead.",
             "headers": []
         },
         "24": {
-            "verse": "After Hezron died in Caleb Ephrathah, Abijah the wife of Hezron bore him Ashhur ( AE ) the father  of Tekoa.",
+            "verse": "After Hezron died in Caleb Ephrathah, Abijah the wife of Hezron bore him Ashhur the father of Tekoa.",
             "headers": []
         },
         "25": {
@@ -383,7 +383,7 @@
             "headers": []
         },
         "42": {
-            "verse": "The sons of Caleb ( AG ) the brother of Jerahmeel:",
+            "verse": "The sons of Caleb the brother of Jerahmeel:",
             "headers": []
         },
         "43": {
@@ -395,7 +395,7 @@
             "headers": []
         },
         "45": {
-            "verse": "The son of Shammai was Maon ( AH ) , and Maon was the father of Beth Zur. ( AI )",
+            "verse": "The son of Shammai was Maon , and Maon was the father of Beth Zur.",
             "headers": []
         },
         "46": {
@@ -411,7 +411,7 @@
             "headers": []
         },
         "49": {
-            "verse": "She also gave birth to Shaaph the father of Madmannah ( AJ ) and to Sheva the father of Makbenah and Gibea. Caleb’s daughter was Aksah. ( AK )",
+            "verse": "She also gave birth to Shaaph the father of Madmannah and to Sheva the father of Makbenah and Gibea. Caleb’s daughter was Aksah.",
             "headers": []
         },
         "50": {
@@ -427,7 +427,7 @@
             "headers": []
         },
         "53": {
-            "verse": "and the clans of Kiriath Jearim: the Ithrites, ( AN ) Puthites, Shumathites and Mishraites. From these descended the Zorathites and Eshtaolites.",
+            "verse": "and the clans of Kiriath Jearim: the Ithrites, Puthites, Shumathites and Mishraites. From these descended the Zorathites and Eshtaolites.",
             "headers": []
         },
         "54": {
@@ -435,13 +435,13 @@
             "headers": []
         },
         "55": {
-            "verse": "and the clans of scribes  who lived at Jabez: the Tirathites, Shimeathites and Sucathites. These are the Kenites ( AP ) who came from Hammath, ( AQ ) the father of the Rekabites.  ( AR )",
+            "verse": "and the clans of scribes who lived at Jabez: the Tirathites, Shimeathites and Sucathites. These are the Kenites who came from Hammath, the father of the Rekabites.",
             "headers": []
         }
     },
     "3": {
         "1": {
-            "verse": "These were the sons of David ( C ) born to him in Hebron:",
+            "verse": "These were the sons of David born to him in Hebron:",
             "headers": []
         },
         "2": {
@@ -453,7 +453,7 @@
             "headers": []
         },
         "4": {
-            "verse": "These six were born to David in Hebron, ( H ) where he reigned seven years and six months. ( I )",
+            "verse": "These six were born to David in Hebron, where he reigned seven years and six months.",
             "headers": []
         },
         "5": {
@@ -461,7 +461,7 @@
             "headers": []
         },
         "6": {
-            "verse": "There were also Ibhar, Elishua,  Eliphelet,",
+            "verse": "There were also Ibhar, Elishua, Eliphelet,",
             "headers": []
         },
         "7": {
@@ -473,27 +473,27 @@
             "headers": []
         },
         "9": {
-            "verse": "All these were the sons of David, besides his sons by his concubines. And Tamar ( K ) was their sister. ( L )",
+            "verse": "All these were the sons of David, besides his sons by his concubines. And Tamar was their sister.",
             "headers": []
         },
         "10": {
-            "verse": "Solomon’s son was Rehoboam, ( M )",
+            "verse": "Solomon’s son was Rehoboam,",
             "headers": []
         },
         "11": {
-            "verse": "Jehoram  ( Q ) his son,",
+            "verse": "Jehoram his son,",
             "headers": []
         },
         "12": {
-            "verse": "Amaziah ( T ) his son,",
+            "verse": "Amaziah his son,",
             "headers": []
         },
         "13": {
-            "verse": "Ahaz ( W ) his son,",
+            "verse": "Ahaz his son,",
             "headers": []
         },
         "14": {
-            "verse": "Amon ( Z ) his son,",
+            "verse": "Amon his son,",
             "headers": []
         },
         "15": {
@@ -509,7 +509,7 @@
             "headers": []
         },
         "18": {
-            "verse": "Malkiram, Pedaiah, Shenazzar, ( AH ) Jekamiah, Hoshama and Nedabiah. ( AI )",
+            "verse": "Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah.",
             "headers": []
         },
         "19": {
@@ -539,7 +539,7 @@
     },
     "4": {
         "1": {
-            "verse": "The descendants of Judah: ( A )",
+            "verse": "The descendants of Judah:",
             "headers": []
         },
         "2": {
@@ -547,7 +547,7 @@
             "headers": []
         },
         "3": {
-            "verse": "These were the sons  of Etam:",
+            "verse": "These were the sons of Etam:",
             "headers": []
         },
         "4": {
@@ -555,7 +555,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Ashhur ( E ) the father of Tekoa had two wives, Helah and Naarah.",
+            "verse": "Ashhur the father of Tekoa had two wives, Helah and Naarah.",
             "headers": []
         },
         "6": {
@@ -571,7 +571,7 @@
             "headers": []
         },
         "9": {
-            "verse": "Jabez was more honorable than his brothers. His mother had named him Jabez,  saying, “I gave birth to him in pain.”",
+            "verse": "Jabez was more honorable than his brothers. His mother had named him Jabez, saying, “I gave birth to him in pain.”",
             "headers": []
         },
         "10": {
@@ -583,7 +583,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Eshton was the father of Beth Rapha, Paseah and Tehinnah the father of Ir Nahash.  These were the men of Rekah.",
+            "verse": "Eshton was the father of Beth Rapha, Paseah and Tehinnah the father of Ir Nahash. These were the men of Rekah.",
             "headers": []
         },
         "13": {
@@ -607,7 +607,7 @@
             "headers": []
         },
         "18": {
-            "verse": "(His wife from the tribe of Judah gave birth to Jered the father of Gedor, Heber the father of Soko, and Jekuthiel the father of Zanoah. ( H ) ) These were the children of Pharaoh’s daughter Bithiah, whom Mered had married.",
+            "verse": "(His wife from the tribe of Judah gave birth to Jered the father of Gedor, Heber the father of Soko, and Jekuthiel the father of Zanoah. ) These were the children of Pharaoh’s daughter Bithiah, whom Mered had married.",
             "headers": []
         },
         "19": {
@@ -619,7 +619,7 @@
             "headers": []
         },
         "21": {
-            "verse": "The sons of Shelah ( K ) son of Judah:",
+            "verse": "The sons of Shelah son of Judah:",
             "headers": []
         },
         "22": {
@@ -631,7 +631,7 @@
             "headers": []
         },
         "24": {
-            "verse": "The descendants of Simeon: ( M )",
+            "verse": "The descendants of Simeon:",
             "headers": []
         },
         "25": {
@@ -647,27 +647,27 @@
             "headers": []
         },
         "28": {
-            "verse": "They lived in Beersheba, ( O ) Moladah, ( P ) Hazar Shual,",
+            "verse": "They lived in Beersheba, Moladah, Hazar Shual,",
             "headers": []
         },
         "29": {
-            "verse": "Bilhah, Ezem, ( Q ) Tolad,",
+            "verse": "Bilhah, Ezem, Tolad,",
             "headers": []
         },
         "30": {
-            "verse": "Bethuel, Hormah, ( R ) Ziklag, ( S )",
+            "verse": "Bethuel, Hormah, Ziklag,",
             "headers": []
         },
         "31": {
-            "verse": "Beth Markaboth, Hazar Susim, Beth Biri and Shaaraim. ( T ) These were their towns until the reign of David.",
+            "verse": "Beth Markaboth, Hazar Susim, Beth Biri and Shaaraim. These were their towns until the reign of David.",
             "headers": []
         },
         "32": {
-            "verse": "Their surrounding villages were Etam, Ain, ( U ) Rimmon, Token and Ashan ( V ) —five towns—",
+            "verse": "Their surrounding villages were Etam, Ain, Rimmon, Token and Ashan —five towns—",
             "headers": []
         },
         "33": {
-            "verse": "and all the villages around these towns as far as Baalath.  These were their settlements. And they kept a genealogical record.",
+            "verse": "and all the villages around these towns as far as Baalath. These were their settlements. And they kept a genealogical record.",
             "headers": []
         },
         "34": {
@@ -691,37 +691,37 @@
             "headers": []
         },
         "39": {
-            "verse": "and they went to the outskirts of Gedor ( W ) to the east of the valley in search of pasture for their flocks.",
+            "verse": "and they went to the outskirts of Gedor to the east of the valley in search of pasture for their flocks.",
             "headers": []
         },
         "40": {
-            "verse": "They found rich, good pasture, and the land was spacious, peaceful and quiet. ( X ) Some Hamites had lived there formerly.",
+            "verse": "They found rich, good pasture, and the land was spacious, peaceful and quiet. Some Hamites had lived there formerly.",
             "headers": []
         },
         "41": {
-            "verse": "The men whose names were listed came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings and also the Meunites ( Y ) who were there and completely destroyed  them, as is evident to this day. Then they settled in their place, because there was pasture for their flocks.",
+            "verse": "The men whose names were listed came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings and also the Meunites who were there and completely destroyed them, as is evident to this day. Then they settled in their place, because there was pasture for their flocks.",
             "headers": []
         },
         "42": {
-            "verse": "And five hundred of these Simeonites, led by Pelatiah, Neariah, Rephaiah and Uzziel, the sons of Ishi, invaded the hill country of Seir. ( Z )",
+            "verse": "And five hundred of these Simeonites, led by Pelatiah, Neariah, Rephaiah and Uzziel, the sons of Ishi, invaded the hill country of Seir.",
             "headers": []
         },
         "43": {
-            "verse": "They killed the remaining Amalekites ( AA ) who had escaped, and they have lived there to this day.",
+            "verse": "They killed the remaining Amalekites who had escaped, and they have lived there to this day.",
             "headers": []
         }
     },
     "5": {
         "1": {
-            "verse": "The sons of Reuben ( A ) the firstborn of Israel (he was the firstborn, but when he defiled his father’s marriage bed, ( B ) his rights as firstborn were given to the sons of Joseph ( C ) son of Israel; ( D ) so he could not be listed in the genealogical record in accordance with his birthright, ( E )",
+            "verse": "The sons of Reuben the firstborn of Israel (he was the firstborn, but when he defiled his father’s marriage bed, his rights as firstborn were given to the sons of Joseph son of Israel; so he could not be listed in the genealogical record in accordance with his birthright,",
             "headers": []
         },
         "2": {
-            "verse": "and though Judah ( F ) was the strongest of his brothers and a ruler ( G ) came from him, the rights of the firstborn ( H ) belonged to Joseph)—",
+            "verse": "and though Judah was the strongest of his brothers and a ruler came from him, the rights of the firstborn belonged to Joseph)—",
             "headers": []
         },
         "3": {
-            "verse": "the sons of Reuben ( I ) the firstborn of Israel:",
+            "verse": "the sons of Reuben the firstborn of Israel:",
             "headers": []
         },
         "4": {
@@ -733,27 +733,27 @@
             "headers": []
         },
         "6": {
-            "verse": "and Beerah his son, whom Tiglath-Pileser  ( L ) king of Assyria took into exile. Beerah was a leader of the Reubenites.",
+            "verse": "and Beerah his son, whom Tiglath-Pileser king of Assyria took into exile. Beerah was a leader of the Reubenites.",
             "headers": []
         },
         "7": {
-            "verse": "Their relatives by clans, ( M ) listed according to their genealogical records:",
+            "verse": "Their relatives by clans, listed according to their genealogical records:",
             "headers": []
         },
         "8": {
-            "verse": "and Bela son of Azaz, the son of Shema, the son of Joel. They settled in the area from Aroer ( N ) to Nebo ( O ) and Baal Meon. ( P )",
+            "verse": "and Bela son of Azaz, the son of Shema, the son of Joel. They settled in the area from Aroer to Nebo and Baal Meon.",
             "headers": []
         },
         "9": {
-            "verse": "To the east they occupied the land up to the edge of the desert that extends to the Euphrates ( Q ) River, because their livestock had increased in Gilead. ( R )",
+            "verse": "To the east they occupied the land up to the edge of the desert that extends to the Euphrates River, because their livestock had increased in Gilead.",
             "headers": []
         },
         "10": {
-            "verse": "During Saul’s reign they waged war against the Hagrites ( S ) , who were defeated at their hands; they occupied the dwellings of the Hagrites throughout the entire region east of Gilead.",
+            "verse": "During Saul’s reign they waged war against the Hagrites , who were defeated at their hands; they occupied the dwellings of the Hagrites throughout the entire region east of Gilead.",
             "headers": []
         },
         "11": {
-            "verse": "The Gadites ( T ) lived next to them in Bashan, as far as Salekah: ( U )",
+            "verse": "The Gadites lived next to them in Bashan, as far as Salekah:",
             "headers": []
         },
         "12": {
@@ -777,19 +777,19 @@
             "headers": []
         },
         "17": {
-            "verse": "All these were entered in the genealogical records during the reigns of Jotham ( V ) king of Judah and Jeroboam ( W ) king of Israel.",
+            "verse": "All these were entered in the genealogical records during the reigns of Jotham king of Judah and Jeroboam king of Israel.",
             "headers": []
         },
         "18": {
-            "verse": "The Reubenites, the Gadites and the half-tribe of Manasseh had 44,760 men ready for military service ( X ) —able-bodied men who could handle shield and sword, who could use a bow, and who were trained for battle.",
+            "verse": "The Reubenites, the Gadites and the half-tribe of Manasseh had 44,760 men ready for military service —able-bodied men who could handle shield and sword, who could use a bow, and who were trained for battle.",
             "headers": []
         },
         "19": {
-            "verse": "They waged war against the Hagrites, Jetur, ( Y ) Naphish and Nodab.",
+            "verse": "They waged war against the Hagrites, Jetur, Naphish and Nodab.",
             "headers": []
         },
         "20": {
-            "verse": "They were helped ( Z ) in fighting them, and God delivered the Hagrites and all their allies into their hands, because they cried ( AA ) out to him during the battle. He answered their prayers, because they trusted ( AB ) in him.",
+            "verse": "They were helped in fighting them, and God delivered the Hagrites and all their allies into their hands, because they cried out to him during the battle. He answered their prayers, because they trusted in him.",
             "headers": []
         },
         "21": {
@@ -797,11 +797,11 @@
             "headers": []
         },
         "22": {
-            "verse": "and many others fell slain, because the battle ( AC ) was God’s. And they occupied the land until the exile. ( AD )",
+            "verse": "and many others fell slain, because the battle was God’s. And they occupied the land until the exile.",
             "headers": []
         },
         "23": {
-            "verse": "The people of the half-tribe of Manasseh ( AE ) were numerous; they settled in the land from Bashan to Baal Hermon, that is, to Senir (Mount Hermon). ( AF )",
+            "verse": "The people of the half-tribe of Manasseh were numerous; they settled in the land from Bashan to Baal Hermon, that is, to Senir (Mount Hermon).",
             "headers": []
         },
         "24": {
@@ -809,17 +809,17 @@
             "headers": []
         },
         "25": {
-            "verse": "But they were unfaithful ( AG ) to the God of their ancestors and prostituted ( AH ) themselves to the gods of the peoples of the land, whom God had destroyed before them.",
+            "verse": "But they were unfaithful to the God of their ancestors and prostituted themselves to the gods of the peoples of the land, whom God had destroyed before them.",
             "headers": []
         },
         "26": {
-            "verse": "So the God of Israel stirred up the spirit ( AI ) of Pul ( AJ ) king of Assyria (that is, Tiglath-Pileser ( AK ) king of Assyria), who took the Reubenites, the Gadites and the half-tribe of Manasseh into exile. He took them to Halah, ( AL ) Habor, Hara and the river of Gozan, where they are to this day.",
+            "verse": "So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-Pileser king of Assyria), who took the Reubenites, the Gadites and the half-tribe of Manasseh into exile. He took them to Halah, Habor, Hara and the river of Gozan, where they are to this day.",
             "headers": []
         }
     },
     "6": {
         "1": {
-            "verse": "The sons of Levi: ( A )",
+            "verse": "The sons of Levi:",
             "headers": []
         },
         "2": {
@@ -831,7 +831,7 @@
             "headers": []
         },
         "4": {
-            "verse": "Eleazar was the father of Phinehas, ( G )",
+            "verse": "Eleazar was the father of Phinehas,",
             "headers": []
         },
         "5": {
@@ -847,7 +847,7 @@
             "headers": []
         },
         "8": {
-            "verse": "Ahitub the father of Zadok, ( H )",
+            "verse": "Ahitub the father of Zadok,",
             "headers": []
         },
         "9": {
@@ -855,7 +855,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Johanan the father of Azariah ( I ) (it was he who served as priest in the temple Solomon built in Jerusalem),",
+            "verse": "Johanan the father of Azariah (it was he who served as priest in the temple Solomon built in Jerusalem),",
             "headers": []
         },
         "11": {
@@ -867,19 +867,19 @@
             "headers": []
         },
         "13": {
-            "verse": "Shallum the father of Hilkiah, ( J )",
+            "verse": "Shallum the father of Hilkiah,",
             "headers": []
         },
         "14": {
-            "verse": "Azariah the father of Seraiah, ( K )",
+            "verse": "Azariah the father of Seraiah,",
             "headers": []
         },
         "15": {
-            "verse": "Jozadak ( L ) was deported when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
+            "verse": "Jozadak was deported when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
             "headers": []
         },
         "16": {
-            "verse": "The sons of Levi: ( M )",
+            "verse": "The sons of Levi:",
             "headers": []
         },
         "17": {
@@ -891,7 +891,7 @@
             "headers": []
         },
         "19": {
-            "verse": "The sons of Merari: ( Q )",
+            "verse": "The sons of Merari:",
             "headers": []
         },
         "20": {
@@ -911,7 +911,7 @@
             "headers": []
         },
         "24": {
-            "verse": "Tahath his son, Uriel ( T ) his son,",
+            "verse": "Tahath his son, Uriel his son,",
             "headers": []
         },
         "25": {
@@ -919,7 +919,7 @@
             "headers": []
         },
         "26": {
-            "verse": "Elkanah his son,  Zophai his son,",
+            "verse": "Elkanah his son, Zophai his son,",
             "headers": []
         },
         "27": {
@@ -939,7 +939,7 @@
             "headers": []
         },
         "31": {
-            "verse": "These are the men ( Y ) David put in charge of the music ( Z ) in the house of the Lord after the ark came to rest there.",
+            "verse": "These are the men David put in charge of the music in the house of the Lord after the ark came to rest there.",
             "headers": []
         },
         "32": {
@@ -951,7 +951,7 @@
             "headers": []
         },
         "34": {
-            "verse": "the son of Elkanah, ( AC ) the son of Jeroham,",
+            "verse": "the son of Elkanah, the son of Jeroham,",
             "headers": []
         },
         "35": {
@@ -967,11 +967,11 @@
             "headers": []
         },
         "38": {
-            "verse": "the son of Izhar, ( AE ) the son of Kohath,",
+            "verse": "the son of Izhar, the son of Kohath,",
             "headers": []
         },
         "39": {
-            "verse": "and Heman’s associate Asaph, ( AF ) who served at his right hand:",
+            "verse": "and Heman’s associate Asaph, who served at his right hand:",
             "headers": []
         },
         "40": {
@@ -991,7 +991,7 @@
             "headers": []
         },
         "44": {
-            "verse": "and from their associates, the Merarites, ( AH ) at his left hand:",
+            "verse": "and from their associates, the Merarites, at his left hand:",
             "headers": []
         },
         "45": {
@@ -1007,11 +1007,11 @@
             "headers": []
         },
         "48": {
-            "verse": "Their fellow Levites ( AI ) were assigned to all the other duties of the tabernacle, the house of God.",
+            "verse": "Their fellow Levites were assigned to all the other duties of the tabernacle, the house of God.",
             "headers": []
         },
         "49": {
-            "verse": "But Aaron and his descendants were the ones who presented offerings on the altar ( AJ ) of burnt offering and on the altar of incense ( AK ) in connection with all that was done in the Most Holy Place, making atonement for Israel, in accordance with all that Moses the servant of God had commanded.",
+            "verse": "But Aaron and his descendants were the ones who presented offerings on the altar of burnt offering and on the altar of incense in connection with all that was done in the Most Holy Place, making atonement for Israel, in accordance with all that Moses the servant of God had commanded.",
             "headers": []
         },
         "50": {
@@ -1027,11 +1027,11 @@
             "headers": []
         },
         "53": {
-            "verse": "Zadok ( AL ) his son",
+            "verse": "Zadok his son",
             "headers": []
         },
         "54": {
-            "verse": "These were the locations of their settlements ( AM ) allotted as their territory (they were assigned to the descendants of Aaron who were from the Kohathite clan, because the first lot was for them):",
+            "verse": "These were the locations of their settlements allotted as their territory (they were assigned to the descendants of Aaron who were from the Kohathite clan, because the first lot was for them):",
             "headers": []
         },
         "55": {
@@ -1039,23 +1039,23 @@
             "headers": []
         },
         "56": {
-            "verse": "But the fields and villages around the city were given to Caleb son of Jephunneh. ( AN )",
+            "verse": "But the fields and villages around the city were given to Caleb son of Jephunneh.",
             "headers": []
         },
         "57": {
-            "verse": "So the descendants of Aaron were given Hebron (a city of refuge), and Libnah,  ( AO ) Jattir, ( AP ) Eshtemoa,",
+            "verse": "So the descendants of Aaron were given Hebron (a city of refuge), and Libnah, Jattir, Eshtemoa,",
             "headers": []
         },
         "58": {
-            "verse": "Hilen, Debir, ( AQ )",
+            "verse": "Hilen, Debir,",
             "headers": []
         },
         "59": {
-            "verse": "Ashan, ( AR ) Juttah  and Beth Shemesh, together with their pasturelands.",
+            "verse": "Ashan, Juttah and Beth Shemesh, together with their pasturelands.",
             "headers": []
         },
         "60": {
-            "verse": "And from the tribe of Benjamin they were given Gibeon,  Geba, Alemeth and Anathoth, ( AS ) together with their pasturelands.",
+            "verse": "And from the tribe of Benjamin they were given Gibeon, Geba, Alemeth and Anathoth, together with their pasturelands.",
             "headers": []
         },
         "61": {
@@ -1071,7 +1071,7 @@
             "headers": []
         },
         "64": {
-            "verse": "So the Israelites gave the Levites these towns ( AT ) and their pasturelands.",
+            "verse": "So the Israelites gave the Levites these towns and their pasturelands.",
             "headers": []
         },
         "65": {
@@ -1083,15 +1083,15 @@
             "headers": []
         },
         "67": {
-            "verse": "In the hill country of Ephraim they were given Shechem (a city of refuge), and Gezer,  ( AU )",
+            "verse": "In the hill country of Ephraim they were given Shechem (a city of refuge), and Gezer,",
             "headers": []
         },
         "68": {
-            "verse": "Jokmeam, ( AV ) Beth Horon, ( AW )",
+            "verse": "Jokmeam, Beth Horon,",
             "headers": []
         },
         "69": {
-            "verse": "Aijalon ( AX ) and Gath Rimmon, ( AY ) together with their pasturelands.",
+            "verse": "Aijalon and Gath Rimmon, together with their pasturelands.",
             "headers": []
         },
         "70": {
@@ -1099,7 +1099,7 @@
             "headers": []
         },
         "71": {
-            "verse": "The Gershonites ( AZ ) received the following:",
+            "verse": "The Gershonites received the following:",
             "headers": []
         },
         "72": {
@@ -1115,7 +1115,7 @@
             "headers": []
         },
         "75": {
-            "verse": "Hukok ( BD ) and Rehob, ( BE ) together with their pasturelands;",
+            "verse": "Hukok and Rehob, together with their pasturelands;",
             "headers": []
         },
         "76": {
@@ -1131,7 +1131,7 @@
             "headers": []
         },
         "79": {
-            "verse": "Kedemoth ( BI ) and Mephaath, together with their pasturelands;",
+            "verse": "Kedemoth and Mephaath, together with their pasturelands;",
             "headers": []
         },
         "80": {
@@ -1139,13 +1139,13 @@
             "headers": []
         },
         "81": {
-            "verse": "Heshbon and Jazer, ( BL ) together with their pasturelands. ( BM )",
+            "verse": "Heshbon and Jazer, together with their pasturelands.",
             "headers": []
         }
     },
     "7": {
         "1": {
-            "verse": "The sons of Issachar: ( A )",
+            "verse": "The sons of Issachar:",
             "headers": []
         },
         "2": {
@@ -1165,7 +1165,7 @@
             "headers": []
         },
         "6": {
-            "verse": "Three sons of Benjamin: ( C )",
+            "verse": "Three sons of Benjamin:",
             "headers": []
         },
         "7": {
@@ -1189,15 +1189,15 @@
             "headers": []
         },
         "12": {
-            "verse": "The Shuppites and Huppites were the descendants of Ir, and the Hushites  the descendants of Aher.",
+            "verse": "The Shuppites and Huppites were the descendants of Ir, and the Hushites the descendants of Aher.",
             "headers": []
         },
         "13": {
-            "verse": "The sons of Naphtali: ( D )",
+            "verse": "The sons of Naphtali:",
             "headers": []
         },
         "14": {
-            "verse": "The descendants of Manasseh: ( E )",
+            "verse": "The descendants of Manasseh:",
             "headers": []
         },
         "15": {
@@ -1213,15 +1213,15 @@
             "headers": []
         },
         "18": {
-            "verse": "His sister Hammoleketh gave birth to Ishhod, Abiezer ( I ) and Mahlah.",
+            "verse": "His sister Hammoleketh gave birth to Ishhod, Abiezer and Mahlah.",
             "headers": []
         },
         "19": {
-            "verse": "The sons of Shemida ( J ) were:",
+            "verse": "The sons of Shemida were:",
             "headers": []
         },
         "20": {
-            "verse": "The descendants of Ephraim: ( K )",
+            "verse": "The descendants of Ephraim:",
             "headers": []
         },
         "21": {
@@ -1233,11 +1233,11 @@
             "headers": []
         },
         "23": {
-            "verse": "Then he made love to his wife again, and she became pregnant and gave birth to a son. He named him Beriah,  because there had been misfortune in his family.",
+            "verse": "Then he made love to his wife again, and she became pregnant and gave birth to a son. He named him Beriah, because there had been misfortune in his family.",
             "headers": []
         },
         "24": {
-            "verse": "His daughter was Sheerah, who built Lower and Upper Beth Horon ( L ) as well as Uzzen Sheerah.",
+            "verse": "His daughter was Sheerah, who built Lower and Upper Beth Horon as well as Uzzen Sheerah.",
             "headers": []
         },
         "25": {
@@ -1253,15 +1253,15 @@
             "headers": []
         },
         "28": {
-            "verse": "Their lands and settlements included Bethel and its surrounding villages, Naaran to the east, Gezer ( M ) and its villages to the west, and Shechem and its villages all the way to Ayyah and its villages.",
+            "verse": "Their lands and settlements included Bethel and its surrounding villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages all the way to Ayyah and its villages.",
             "headers": []
         },
         "29": {
-            "verse": "Along the borders of Manasseh were Beth Shan, ( N ) Taanach, Megiddo and Dor, ( O ) together with their villages. The descendants of Joseph son of Israel lived in these towns.",
+            "verse": "Along the borders of Manasseh were Beth Shan, Taanach, Megiddo and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns.",
             "headers": []
         },
         "30": {
-            "verse": "The sons of Asher: ( P )",
+            "verse": "The sons of Asher:",
             "headers": []
         },
         "31": {
@@ -1289,7 +1289,7 @@
             "headers": []
         },
         "37": {
-            "verse": "Bezer, Hod, Shamma, Shilshah, Ithran  and Beera.",
+            "verse": "Bezer, Hod, Shamma, Shilshah, Ithran and Beera.",
             "headers": []
         },
         "38": {
@@ -1307,7 +1307,7 @@
     },
     "8": {
         "1": {
-            "verse": "Benjamin ( B ) was the father of Bela his firstborn,",
+            "verse": "Benjamin was the father of Bela his firstborn,",
             "headers": []
         },
         "2": {
@@ -1319,7 +1319,7 @@
             "headers": []
         },
         "4": {
-            "verse": "Abishua, Naaman, Ahoah, ( D )",
+            "verse": "Abishua, Naaman, Ahoah,",
             "headers": []
         },
         "5": {
@@ -1327,7 +1327,7 @@
             "headers": []
         },
         "6": {
-            "verse": "These were the descendants of Ehud, ( E ) who were heads of families of those living in Geba and were deported to Manahath:",
+            "verse": "These were the descendants of Ehud, who were heads of families of those living in Geba and were deported to Manahath:",
             "headers": []
         },
         "7": {
@@ -1355,7 +1355,7 @@
             "headers": []
         },
         "13": {
-            "verse": "and Beriah and Shema, who were heads of families of those living in Aijalon ( G ) and who drove out the inhabitants of Gath. ( H )",
+            "verse": "and Beriah and Shema, who were heads of families of those living in Aijalon and who drove out the inhabitants of Gath.",
             "headers": []
         },
         "14": {
@@ -1419,11 +1419,11 @@
             "headers": []
         },
         "29": {
-            "verse": "Jeiel  the father  of Gibeon lived in Gibeon. ( I )",
+            "verse": "Jeiel the father of Gibeon lived in Gibeon.",
             "headers": []
         },
         "30": {
-            "verse": "and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner,  Nadab,",
+            "verse": "and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,",
             "headers": []
         },
         "31": {
@@ -1435,11 +1435,11 @@
             "headers": []
         },
         "33": {
-            "verse": "Ner ( J ) was the father of Kish, ( K ) Kish the father of Saul ( L ) , and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal.  ( M )",
+            "verse": "Ner was the father of Kish, Kish the father of Saul , and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal.",
             "headers": []
         },
         "34": {
-            "verse": "The son of Jonathan: ( N )",
+            "verse": "The son of Jonathan:",
             "headers": []
         },
         "35": {
@@ -1469,11 +1469,11 @@
     },
     "9": {
         "1": {
-            "verse": "All Israel ( A ) was listed in the genealogies recorded in the book of the kings of Israel and Judah. They were taken captive to Babylon ( B ) because of their unfaithfulness. ( C )",
+            "verse": "All Israel was listed in the genealogies recorded in the book of the kings of Israel and Judah. They were taken captive to Babylon because of their unfaithfulness.",
             "headers": []
         },
         "2": {
-            "verse": "Now the first to resettle on their own property in their own towns ( E ) were some Israelites, priests, Levites and temple servants. ( F )",
+            "verse": "Now the first to resettle on their own property in their own towns were some Israelites, priests, Levites and temple servants.",
             "headers": []
         },
         "3": {
@@ -1481,11 +1481,11 @@
             "headers": []
         },
         "4": {
-            "verse": "Uthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, a descendant of Perez son of Judah. ( G )",
+            "verse": "Uthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, a descendant of Perez son of Judah.",
             "headers": []
         },
         "5": {
-            "verse": "Of the Shelanites  :",
+            "verse": "Of the Shelanites :",
             "headers": []
         },
         "6": {
@@ -1513,7 +1513,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Adaiah son of Jeroham, the son of Pashhur, ( H ) the son of Malkijah; and Maasai son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer.",
+            "verse": "Adaiah son of Jeroham, the son of Pashhur, the son of Malkijah; and Maasai son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer.",
             "headers": []
         },
         "13": {
@@ -1525,35 +1525,35 @@
             "headers": []
         },
         "15": {
-            "verse": "Bakbakkar, Heresh, Galal and Mattaniah ( I ) son of Mika, the son of Zikri, the son of Asaph;",
+            "verse": "Bakbakkar, Heresh, Galal and Mattaniah son of Mika, the son of Zikri, the son of Asaph;",
             "headers": []
         },
         "16": {
-            "verse": "Obadiah son of Shemaiah, the son of Galal, the son of Jeduthun; and Berekiah son of Asa, the son of Elkanah, who lived in the villages of the Netophathites. ( J )",
+            "verse": "Obadiah son of Shemaiah, the son of Galal, the son of Jeduthun; and Berekiah son of Asa, the son of Elkanah, who lived in the villages of the Netophathites.",
             "headers": []
         },
         "17": {
-            "verse": "The gatekeepers: ( K )",
+            "verse": "The gatekeepers:",
             "headers": []
         },
         "18": {
-            "verse": "being stationed at the King’s Gate ( L ) on the east, up to the present time. These were the gatekeepers belonging to the camp of the Levites.",
+            "verse": "being stationed at the King’s Gate on the east, up to the present time. These were the gatekeepers belonging to the camp of the Levites.",
             "headers": []
         },
         "19": {
-            "verse": "Shallum ( M ) son of Kore, the son of Ebiasaph, the son of Korah, and his fellow gatekeepers from his family (the Korahites) were responsible for guarding the thresholds of the tent just as their ancestors had been responsible for guarding the entrance to the dwelling of the Lord .",
+            "verse": "Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his fellow gatekeepers from his family (the Korahites) were responsible for guarding the thresholds of the tent just as their ancestors had been responsible for guarding the entrance to the dwelling of the Lord .",
             "headers": []
         },
         "20": {
-            "verse": "In earlier times Phinehas ( N ) son of Eleazar was the official in charge of the gatekeepers, and the Lord was with him.",
+            "verse": "In earlier times Phinehas son of Eleazar was the official in charge of the gatekeepers, and the Lord was with him.",
             "headers": []
         },
         "21": {
-            "verse": "Zechariah ( O ) son of Meshelemiah was the gatekeeper at the entrance to the tent of meeting.",
+            "verse": "Zechariah son of Meshelemiah was the gatekeeper at the entrance to the tent of meeting.",
             "headers": []
         },
         "22": {
-            "verse": "Altogether, those chosen to be gatekeepers ( P ) at the thresholds numbered 212. They were registered by genealogy in their villages. The gatekeepers had been assigned to their positions of trust by David and Samuel the seer. ( Q )",
+            "verse": "Altogether, those chosen to be gatekeepers at the thresholds numbered 212. They were registered by genealogy in their villages. The gatekeepers had been assigned to their positions of trust by David and Samuel the seer.",
             "headers": []
         },
         "23": {
@@ -1565,15 +1565,15 @@
             "headers": []
         },
         "25": {
-            "verse": "Their fellow Levites in their villages had to come from time to time and share their duties for seven-day ( R ) periods.",
+            "verse": "Their fellow Levites in their villages had to come from time to time and share their duties for seven-day periods.",
             "headers": []
         },
         "26": {
-            "verse": "But the four principal gatekeepers, who were Levites, were entrusted with the responsibility for the rooms and treasuries ( S ) in the house of God.",
+            "verse": "But the four principal gatekeepers, who were Levites, were entrusted with the responsibility for the rooms and treasuries in the house of God.",
             "headers": []
         },
         "27": {
-            "verse": "They would spend the night stationed around the house of God, ( T ) because they had to guard it; and they had charge of the key ( U ) for opening it each morning.",
+            "verse": "They would spend the night stationed around the house of God, because they had to guard it; and they had charge of the key for opening it each morning.",
             "headers": []
         },
         "28": {
@@ -1581,11 +1581,11 @@
             "headers": []
         },
         "29": {
-            "verse": "Others were assigned to take care of the furnishings and all the other articles of the sanctuary, ( V ) as well as the special flour and wine, and the olive oil, incense and spices.",
+            "verse": "Others were assigned to take care of the furnishings and all the other articles of the sanctuary, as well as the special flour and wine, and the olive oil, incense and spices.",
             "headers": []
         },
         "30": {
-            "verse": "But some ( W ) of the priests took care of mixing the spices.",
+            "verse": "But some of the priests took care of mixing the spices.",
             "headers": []
         },
         "31": {
@@ -1593,11 +1593,11 @@
             "headers": []
         },
         "32": {
-            "verse": "Some of the Kohathites, their fellow Levites, were in charge of preparing for every Sabbath the bread set out on the table. ( X )",
+            "verse": "Some of the Kohathites, their fellow Levites, were in charge of preparing for every Sabbath the bread set out on the table.",
             "headers": []
         },
         "33": {
-            "verse": "Those who were musicians, ( Y ) heads of Levite families, stayed in the rooms of the temple and were exempt from other duties because they were responsible for the work day and night. ( Z )",
+            "verse": "Those who were musicians, heads of Levite families, stayed in the rooms of the temple and were exempt from other duties because they were responsible for the work day and night.",
             "headers": []
         },
         "34": {
@@ -1605,7 +1605,7 @@
             "headers": []
         },
         "35": {
-            "verse": "Jeiel ( AB ) the father  of Gibeon lived in Gibeon.",
+            "verse": "Jeiel the father of Gibeon lived in Gibeon.",
             "headers": []
         },
         "36": {
@@ -1621,7 +1621,7 @@
             "headers": []
         },
         "39": {
-            "verse": "Ner ( AC ) was the father of Kish, ( AD ) Kish the father of Saul, and Saul the father of Jonathan, ( AE ) Malki-Shua, Abinadab and Esh-Baal.  ( AF )",
+            "verse": "Ner was the father of Kish, Kish the father of Saul, and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal.",
             "headers": []
         },
         "40": {
@@ -1633,7 +1633,7 @@
             "headers": []
         },
         "42": {
-            "verse": "Ahaz was the father of Jadah, Jadah  was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.",
+            "verse": "Ahaz was the father of Jadah, Jadah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.",
             "headers": []
         },
         "43": {
@@ -1683,11 +1683,11 @@
             "headers": []
         },
         "10": {
-            "verse": "They put his armor in the temple of their gods and hung up his head in the temple of Dagon. ( B )",
+            "verse": "They put his armor in the temple of their gods and hung up his head in the temple of Dagon.",
             "headers": []
         },
         "11": {
-            "verse": "When all the inhabitants of Jabesh Gilead ( C ) heard what the Philistines had done to Saul,",
+            "verse": "When all the inhabitants of Jabesh Gilead heard what the Philistines had done to Saul,",
             "headers": []
         },
         "12": {
@@ -1695,29 +1695,29 @@
             "headers": []
         },
         "13": {
-            "verse": "Saul died ( D ) because he was unfaithful ( E ) to the Lord ; he did not keep ( F ) the word of the Lord and even consulted a medium ( G ) for guidance,",
+            "verse": "Saul died because he was unfaithful to the Lord ; he did not keep the word of the Lord and even consulted a medium for guidance,",
             "headers": []
         },
         "14": {
-            "verse": "and did not inquire of the Lord . So the Lord put him to death and turned ( H ) the kingdom ( I ) over to David son of Jesse.",
+            "verse": "and did not inquire of the Lord . So the Lord put him to death and turned the kingdom over to David son of Jesse.",
             "headers": []
         }
     },
     "11": {
         "1": {
-            "verse": "All Israel ( B ) came together to David at Hebron ( C ) and said, “We are your own flesh and blood.",
+            "verse": "All Israel came together to David at Hebron and said, “We are your own flesh and blood.",
             "headers": []
         },
         "2": {
-            "verse": "In the past, even while Saul was king, you were the one who led Israel on their military campaigns. ( D ) And the Lord your God said to you, ‘You will shepherd ( E ) my people Israel, and you will become their ruler. ( F ) ’”",
+            "verse": "In the past, even while Saul was king, you were the one who led Israel on their military campaigns. And the Lord your God said to you, ‘You will shepherd my people Israel, and you will become their ruler. ’”",
             "headers": []
         },
         "3": {
-            "verse": "When all the elders of Israel had come to King David at Hebron, he made a covenant with them at Hebron before the Lord , and they anointed ( G ) David king over Israel, as the Lord had promised through Samuel.",
+            "verse": "When all the elders of Israel had come to King David at Hebron, he made a covenant with them at Hebron before the Lord , and they anointed David king over Israel, as the Lord had promised through Samuel.",
             "headers": []
         },
         "4": {
-            "verse": "David and all the Israelites marched to Jerusalem (that is, Jebus). The Jebusites ( I ) who lived there",
+            "verse": "David and all the Israelites marched to Jerusalem (that is, Jebus). The Jebusites who lived there",
             "headers": []
         },
         "5": {
@@ -1725,7 +1725,7 @@
             "headers": []
         },
         "6": {
-            "verse": "David had said, “Whoever leads the attack on the Jebusites will become commander in chief.” Joab ( J ) son of Zeruiah went up first, and so he received the command.",
+            "verse": "David had said, “Whoever leads the attack on the Jebusites will become commander in chief.” Joab son of Zeruiah went up first, and so he received the command.",
             "headers": []
         },
         "7": {
@@ -1733,19 +1733,19 @@
             "headers": []
         },
         "8": {
-            "verse": "He built up the city around it, from the terraces  ( K ) to the surrounding wall, while Joab restored the rest of the city.",
+            "verse": "He built up the city around it, from the terraces to the surrounding wall, while Joab restored the rest of the city.",
             "headers": []
         },
         "9": {
-            "verse": "And David became more and more powerful, ( L ) because the Lord Almighty was with him.",
+            "verse": "And David became more and more powerful, because the Lord Almighty was with him.",
             "headers": []
         },
         "10": {
-            "verse": "These were the chiefs of David’s mighty warriors—they, together with all Israel, ( N ) gave his kingship strong support to extend it over the whole land, as the Lord had promised ( O ) —",
+            "verse": "These were the chiefs of David’s mighty warriors—they, together with all Israel, gave his kingship strong support to extend it over the whole land, as the Lord had promised —",
             "headers": []
         },
         "11": {
-            "verse": "this is the list of David’s mighty warriors: ( P )",
+            "verse": "this is the list of David’s mighty warriors:",
             "headers": []
         },
         "12": {
@@ -1757,15 +1757,15 @@
             "headers": []
         },
         "14": {
-            "verse": "But they took their stand in the middle of the field. They defended it and struck the Philistines down, and the Lord brought about a great victory. ( Q )",
+            "verse": "But they took their stand in the middle of the field. They defended it and struck the Philistines down, and the Lord brought about a great victory.",
             "headers": []
         },
         "15": {
-            "verse": "Three of the thirty chiefs came down to David to the rock at the cave of Adullam, while a band of Philistines was encamped in the Valley ( R ) of Rephaim.",
+            "verse": "Three of the thirty chiefs came down to David to the rock at the cave of Adullam, while a band of Philistines was encamped in the Valley of Rephaim.",
             "headers": []
         },
         "16": {
-            "verse": "At that time David was in the stronghold, ( S ) and the Philistine garrison was at Bethlehem.",
+            "verse": "At that time David was in the stronghold, and the Philistine garrison was at Bethlehem.",
             "headers": []
         },
         "17": {
@@ -1773,7 +1773,7 @@
             "headers": []
         },
         "18": {
-            "verse": "So the Three broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured ( T ) it out to the Lord .",
+            "verse": "So the Three broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out to the Lord .",
             "headers": []
         },
         "19": {
@@ -1781,7 +1781,7 @@
             "headers": []
         },
         "20": {
-            "verse": "Abishai ( U ) the brother of Joab was chief of the Three. He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three.",
+            "verse": "Abishai the brother of Joab was chief of the Three. He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three.",
             "headers": []
         },
         "21": {
@@ -1789,11 +1789,11 @@
             "headers": []
         },
         "22": {
-            "verse": "Benaiah son of Jehoiada, a valiant fighter from Kabzeel, ( V ) performed great exploits. He struck down Moab’s two mightiest warriors. He also went down into a pit on a snowy day and killed a lion. ( W )",
+            "verse": "Benaiah son of Jehoiada, a valiant fighter from Kabzeel, performed great exploits. He struck down Moab’s two mightiest warriors. He also went down into a pit on a snowy day and killed a lion.",
             "headers": []
         },
         "23": {
-            "verse": "And he struck down an Egyptian who was five cubits  tall. Although the Egyptian had a spear like a weaver’s rod ( X ) in his hand, Benaiah went against him with a club. He snatched the spear from the Egyptian’s hand and killed him with his own spear.",
+            "verse": "And he struck down an Egyptian who was five cubits tall. Although the Egyptian had a spear like a weaver’s rod in his hand, Benaiah went against him with a club. He snatched the spear from the Egyptian’s hand and killed him with his own spear.",
             "headers": []
         },
         "24": {
@@ -1809,7 +1809,7 @@
             "headers": []
         },
         "27": {
-            "verse": "Shammoth ( Z ) the Harorite,",
+            "verse": "Shammoth the Harorite,",
             "headers": []
         },
         "28": {
@@ -1817,7 +1817,7 @@
             "headers": []
         },
         "29": {
-            "verse": "Sibbekai ( AB ) the Hushathite,",
+            "verse": "Sibbekai the Hushathite,",
             "headers": []
         },
         "30": {
@@ -1865,7 +1865,7 @@
             "headers": []
         },
         "41": {
-            "verse": "Uriah ( AE ) the Hittite,",
+            "verse": "Uriah the Hittite,",
             "headers": []
         },
         "42": {
@@ -1877,7 +1877,7 @@
             "headers": []
         },
         "44": {
-            "verse": "Uzzia the Ashterathite, ( AG )",
+            "verse": "Uzzia the Ashterathite,",
             "headers": []
         },
         "45": {
@@ -1895,11 +1895,11 @@
     },
     "12": {
         "1": {
-            "verse": "These were the men who came to David at Ziklag, ( A ) while he was banished from the presence of Saul son of Kish (they were among the warriors who helped him in battle;",
+            "verse": "These were the men who came to David at Ziklag, while he was banished from the presence of Saul son of Kish (they were among the warriors who helped him in battle;",
             "headers": []
         },
         "2": {
-            "verse": "they were armed with bows and were able to shoot arrows or to sling stones right-handed or left-handed; ( B ) they were relatives of Saul ( C ) from the tribe of Benjamin):",
+            "verse": "they were armed with bows and were able to shoot arrows or to sling stones right-handed or left-handed; they were relatives of Saul from the tribe of Benjamin):",
             "headers": []
         },
         "3": {
@@ -1907,7 +1907,7 @@
             "headers": []
         },
         "4": {
-            "verse": "and Ishmaiah the Gibeonite, a mighty warrior among the Thirty, who was a leader of the Thirty; Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,  ( D )",
+            "verse": "and Ishmaiah the Gibeonite, a mighty warrior among the Thirty, who was a leader of the Thirty; Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,",
             "headers": []
         },
         "5": {
@@ -1919,11 +1919,11 @@
             "headers": []
         },
         "7": {
-            "verse": "and Joelah and Zebadiah the sons of Jeroham from Gedor. ( E )",
+            "verse": "and Joelah and Zebadiah the sons of Jeroham from Gedor.",
             "headers": []
         },
         "8": {
-            "verse": "Some Gadites ( F ) defected to David at his stronghold in the wilderness. They were brave warriors, ready for battle and able to handle the shield and spear. Their faces were the faces of lions, ( G ) and they were as swift as gazelles ( H ) in the mountains.",
+            "verse": "Some Gadites defected to David at his stronghold in the wilderness. They were brave warriors, ready for battle and able to handle the shield and spear. Their faces were the faces of lions, and they were as swift as gazelles in the mountains.",
             "headers": []
         },
         "9": {
@@ -1947,15 +1947,15 @@
             "headers": []
         },
         "14": {
-            "verse": "These Gadites were army commanders; the least was a match for a hundred, ( I ) and the greatest for a thousand. ( J )",
+            "verse": "These Gadites were army commanders; the least was a match for a hundred, and the greatest for a thousand.",
             "headers": []
         },
         "15": {
-            "verse": "It was they who crossed the Jordan in the first month when it was overflowing all its banks, ( K ) and they put to flight everyone living in the valleys, to the east and to the west.",
+            "verse": "It was they who crossed the Jordan in the first month when it was overflowing all its banks, and they put to flight everyone living in the valleys, to the east and to the west.",
             "headers": []
         },
         "16": {
-            "verse": "Other Benjamites ( L ) and some men from Judah also came to David in his stronghold.",
+            "verse": "Other Benjamites and some men from Judah also came to David in his stronghold.",
             "headers": []
         },
         "17": {
@@ -1963,15 +1963,15 @@
             "headers": []
         },
         "18": {
-            "verse": "Then the Spirit ( M ) came on Amasai, ( N ) chief of the Thirty, and he said:",
+            "verse": "Then the Spirit came on Amasai, chief of the Thirty, and he said:",
             "headers": []
         },
         "19": {
-            "verse": "Some of the tribe of Manasseh defected to David when he went with the Philistines to fight against Saul. (He and his men did not help the Philistines because, after consultation, their rulers sent him away. They said, “It will cost us our heads if he deserts to his master Saul.”) ( P )",
+            "verse": "Some of the tribe of Manasseh defected to David when he went with the Philistines to fight against Saul. (He and his men did not help the Philistines because, after consultation, their rulers sent him away. They said, “It will cost us our heads if he deserts to his master Saul.”)",
             "headers": []
         },
         "20": {
-            "verse": "When David went to Ziklag, ( Q ) these were the men of Manasseh who defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu and Zillethai, leaders of units of a thousand in Manasseh.",
+            "verse": "When David went to Ziklag, these were the men of Manasseh who defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu and Zillethai, leaders of units of a thousand in Manasseh.",
             "headers": []
         },
         "21": {
@@ -1983,7 +1983,7 @@
             "headers": []
         },
         "23": {
-            "verse": "These are the numbers of the men armed for battle who came to David at Hebron ( R ) to turn ( S ) Saul’s kingdom over to him, as the Lord had said: ( T )",
+            "verse": "These are the numbers of the men armed for battle who came to David at Hebron to turn Saul’s kingdom over to him, as the Lord had said:",
             "headers": []
         },
         "24": {
@@ -2003,11 +2003,11 @@
             "headers": []
         },
         "28": {
-            "verse": "and Zadok, ( U ) a brave young warrior, with 22 officers from his family;",
+            "verse": "and Zadok, a brave young warrior, with 22 officers from his family;",
             "headers": []
         },
         "29": {
-            "verse": "from Benjamin, ( V ) Saul’s tribe—3,000, most ( W ) of whom had remained loyal to Saul’s house until then;",
+            "verse": "from Benjamin, Saul’s tribe—3,000, most of whom had remained loyal to Saul’s house until then;",
             "headers": []
         },
         "30": {
@@ -2019,7 +2019,7 @@
             "headers": []
         },
         "32": {
-            "verse": "from Issachar, men who understood the times and knew what Israel should do ( X ) —200 chiefs, with all their relatives under their command;",
+            "verse": "from Issachar, men who understood the times and knew what Israel should do —200 chiefs, with all their relatives under their command;",
             "headers": []
         },
         "33": {
@@ -2043,15 +2043,15 @@
             "headers": []
         },
         "38": {
-            "verse": "All these were fighting men who volunteered to serve in the ranks. They came to Hebron fully determined to make David king over all Israel. ( Y ) All the rest of the Israelites were also of one mind to make David king.",
+            "verse": "All these were fighting men who volunteered to serve in the ranks. They came to Hebron fully determined to make David king over all Israel. All the rest of the Israelites were also of one mind to make David king.",
             "headers": []
         },
         "39": {
-            "verse": "The men spent three days there with David, eating and drinking, ( Z ) for their families had supplied provisions for them.",
+            "verse": "The men spent three days there with David, eating and drinking, for their families had supplied provisions for them.",
             "headers": []
         },
         "40": {
-            "verse": "Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies ( AA ) of flour, fig cakes, raisin ( AB ) cakes, wine, olive oil, cattle and sheep, for there was joy ( AC ) in Israel.",
+            "verse": "Also, their neighbors from as far away as Issachar, Zebulun and Naphtali came bringing food on donkeys, camels, mules and oxen. There were plentiful supplies of flour, fig cakes, raisin cakes, wine, olive oil, cattle and sheep, for there was joy in Israel.",
             "headers": []
         }
     },
@@ -2065,7 +2065,7 @@
             "headers": []
         },
         "3": {
-            "verse": "Let us bring the ark of our God back to us, ( B ) for we did not inquire ( C ) of  it  during the reign of Saul.”",
+            "verse": "Let us bring the ark of our God back to us, for we did not inquire of it during the reign of Saul.”",
             "headers": []
         },
         "4": {
@@ -2073,19 +2073,19 @@
             "headers": []
         },
         "5": {
-            "verse": "So David assembled all Israel, ( D ) from the Shihor River ( E ) in Egypt to Lebo Hamath, ( F ) to bring the ark of God from Kiriath Jearim. ( G )",
+            "verse": "So David assembled all Israel, from the Shihor River in Egypt to Lebo Hamath, to bring the ark of God from Kiriath Jearim.",
             "headers": []
         },
         "6": {
-            "verse": "David and all Israel went to Baalah ( H ) of Judah (Kiriath Jearim) to bring up from there the ark of God the Lord , who is enthroned between the cherubim ( I ) —the ark that is called by the Name.",
+            "verse": "David and all Israel went to Baalah of Judah (Kiriath Jearim) to bring up from there the ark of God the Lord , who is enthroned between the cherubim —the ark that is called by the Name.",
             "headers": []
         },
         "7": {
-            "verse": "They moved the ark of God from Abinadab’s ( J ) house on a new cart, with Uzzah and Ahio guiding it.",
+            "verse": "They moved the ark of God from Abinadab’s house on a new cart, with Uzzah and Ahio guiding it.",
             "headers": []
         },
         "8": {
-            "verse": "David and all the Israelites were celebrating with all their might before God, with songs and with harps, lyres, timbrels, cymbals and trumpets. ( K )",
+            "verse": "David and all the Israelites were celebrating with all their might before God, with songs and with harps, lyres, timbrels, cymbals and trumpets.",
             "headers": []
         },
         "9": {
@@ -2093,11 +2093,11 @@
             "headers": []
         },
         "10": {
-            "verse": "The Lord ’s anger ( L ) burned against Uzzah, and he struck him down ( M ) because he had put his hand on the ark. So he died there before God.",
+            "verse": "The Lord ’s anger burned against Uzzah, and he struck him down because he had put his hand on the ark. So he died there before God.",
             "headers": []
         },
         "11": {
-            "verse": "Then David was angry because the Lord ’s wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah.  ( N )",
+            "verse": "Then David was angry because the Lord ’s wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah.",
             "headers": []
         },
         "12": {
@@ -2105,29 +2105,29 @@
             "headers": []
         },
         "13": {
-            "verse": "He did not take the ark to be with him in the City of David. Instead, he took it to the house of Obed-Edom ( O ) the Gittite.",
+            "verse": "He did not take the ark to be with him in the City of David. Instead, he took it to the house of Obed-Edom the Gittite.",
             "headers": []
         },
         "14": {
-            "verse": "The ark of God remained with the family of Obed-Edom in his house for three months, and the Lord blessed his household ( P ) and everything he had.",
+            "verse": "The ark of God remained with the family of Obed-Edom in his house for three months, and the Lord blessed his household and everything he had.",
             "headers": []
         }
     },
     "14": {
         "1": {
-            "verse": "Now Hiram king of Tyre sent messengers to David, along with cedar logs, ( B ) stonemasons and carpenters to build a palace for him.",
+            "verse": "Now Hiram king of Tyre sent messengers to David, along with cedar logs, stonemasons and carpenters to build a palace for him.",
             "headers": []
         },
         "2": {
-            "verse": "And David knew that the Lord had established him as king over Israel and that his kingdom had been highly exalted ( C ) for the sake of his people Israel.",
+            "verse": "And David knew that the Lord had established him as king over Israel and that his kingdom had been highly exalted for the sake of his people Israel.",
             "headers": []
         },
         "3": {
-            "verse": "In Jerusalem David took more wives and became the father of more sons ( D ) and daughters.",
+            "verse": "In Jerusalem David took more wives and became the father of more sons and daughters.",
             "headers": []
         },
         "4": {
-            "verse": "These are the names of the children born to him there: ( E ) Shammua, Shobab, Nathan, Solomon,",
+            "verse": "These are the names of the children born to him there: Shammua, Shobab, Nathan, Solomon,",
             "headers": []
         },
         "5": {
@@ -2139,15 +2139,15 @@
             "headers": []
         },
         "7": {
-            "verse": "Elishama, Beeliada  and Eliphelet.",
+            "verse": "Elishama, Beeliada and Eliphelet.",
             "headers": []
         },
         "8": {
-            "verse": "When the Philistines heard that David had been anointed king over all Israel, ( G ) they went up in full force to search for him, but David heard about it and went out to meet them.",
+            "verse": "When the Philistines heard that David had been anointed king over all Israel, they went up in full force to search for him, but David heard about it and went out to meet them.",
             "headers": []
         },
         "9": {
-            "verse": "Now the Philistines had come and raided the Valley ( H ) of Rephaim;",
+            "verse": "Now the Philistines had come and raided the Valley of Rephaim;",
             "headers": []
         },
         "10": {
@@ -2155,15 +2155,15 @@
             "headers": []
         },
         "11": {
-            "verse": "So David and his men went up to Baal Perazim, ( I ) and there he defeated them. He said, “As waters break out, God has broken out against my enemies by my hand.” So that place was called Baal Perazim.",
+            "verse": "So David and his men went up to Baal Perazim, and there he defeated them. He said, “As waters break out, God has broken out against my enemies by my hand.” So that place was called Baal Perazim.",
             "headers": []
         },
         "12": {
-            "verse": "The Philistines had abandoned their gods there, and David gave orders to burn ( J ) them in the fire. ( K )",
+            "verse": "The Philistines had abandoned their gods there, and David gave orders to burn them in the fire.",
             "headers": []
         },
         "13": {
-            "verse": "Once more the Philistines raided the valley; ( L )",
+            "verse": "Once more the Philistines raided the valley;",
             "headers": []
         },
         "14": {
@@ -2175,29 +2175,29 @@
             "headers": []
         },
         "16": {
-            "verse": "So David did as God commanded him, and they struck down the Philistine army, all the way from Gibeon ( M ) to Gezer. ( N )",
+            "verse": "So David did as God commanded him, and they struck down the Philistine army, all the way from Gibeon to Gezer.",
             "headers": []
         },
         "17": {
-            "verse": "So David’s fame ( O ) spread throughout every land, and the Lord made all the nations fear ( P ) him.",
+            "verse": "So David’s fame spread throughout every land, and the Lord made all the nations fear him.",
             "headers": []
         }
     },
     "15": {
         "1": {
-            "verse": "After David had constructed buildings for himself in the City of David, he prepared ( B ) a place for the ark of God and pitched ( C ) a tent for it.",
+            "verse": "After David had constructed buildings for himself in the City of David, he prepared a place for the ark of God and pitched a tent for it.",
             "headers": []
         },
         "2": {
-            "verse": "Then David said, “No one but the Levites ( D ) may carry ( E ) the ark of God, because the Lord chose them to carry the ark of the Lord and to minister ( F ) before him forever.”",
+            "verse": "Then David said, “No one but the Levites may carry the ark of God, because the Lord chose them to carry the ark of the Lord and to minister before him forever.”",
             "headers": []
         },
         "3": {
-            "verse": "David assembled all Israel ( G ) in Jerusalem to bring up the ark of the Lord to the place he had prepared for it.",
+            "verse": "David assembled all Israel in Jerusalem to bring up the ark of the Lord to the place he had prepared for it.",
             "headers": []
         },
         "4": {
-            "verse": "He called together the descendants of Aaron and the Levites: ( H )",
+            "verse": "He called together the descendants of Aaron and the Levites:",
             "headers": []
         },
         "5": {
@@ -2213,11 +2213,11 @@
             "headers": []
         },
         "8": {
-            "verse": "from the descendants of Elizaphan, ( J )",
+            "verse": "from the descendants of Elizaphan,",
             "headers": []
         },
         "9": {
-            "verse": "from the descendants of Hebron, ( K )",
+            "verse": "from the descendants of Hebron,",
             "headers": []
         },
         "10": {
@@ -2225,15 +2225,15 @@
             "headers": []
         },
         "11": {
-            "verse": "Then David summoned Zadok ( L ) and Abiathar ( M ) the priests, and Uriel, Asaiah, Joel, Shemaiah, Eliel and Amminadab the Levites.",
+            "verse": "Then David summoned Zadok and Abiathar the priests, and Uriel, Asaiah, Joel, Shemaiah, Eliel and Amminadab the Levites.",
             "headers": []
         },
         "12": {
-            "verse": "He said to them, “You are the heads of the Levitical families; you and your fellow Levites are to consecrate ( N ) yourselves and bring up the ark of the Lord , the God of Israel, to the place I have prepared for it.",
+            "verse": "He said to them, “You are the heads of the Levitical families; you and your fellow Levites are to consecrate yourselves and bring up the ark of the Lord , the God of Israel, to the place I have prepared for it.",
             "headers": []
         },
         "13": {
-            "verse": "It was because you, the Levites, ( O ) did not bring it up the first time that the Lord our God broke out in anger against us. ( P ) We did not inquire of him about how to do it in the prescribed way. ( Q ) ”",
+            "verse": "It was because you, the Levites, did not bring it up the first time that the Lord our God broke out in anger against us. We did not inquire of him about how to do it in the prescribed way. ”",
             "headers": []
         },
         "14": {
@@ -2241,27 +2241,27 @@
             "headers": []
         },
         "15": {
-            "verse": "And the Levites carried the ark of God with the poles on their shoulders, as Moses had commanded ( R ) in accordance with the word of the Lord . ( S )",
+            "verse": "And the Levites carried the ark of God with the poles on their shoulders, as Moses had commanded in accordance with the word of the Lord .",
             "headers": []
         },
         "16": {
-            "verse": "David ( T ) told the leaders of the Levites ( U ) to appoint their fellow Levites as musicians ( V ) to make a joyful sound with musical instruments: lyres, harps and cymbals. ( W )",
+            "verse": "David told the leaders of the Levites to appoint their fellow Levites as musicians to make a joyful sound with musical instruments: lyres, harps and cymbals.",
             "headers": []
         },
         "17": {
-            "verse": "So the Levites appointed Heman ( X ) son of Joel; from his relatives, Asaph ( Y ) son of Berekiah; and from their relatives the Merarites, ( Z ) Ethan son of Kushaiah;",
+            "verse": "So the Levites appointed Heman son of Joel; from his relatives, Asaph son of Berekiah; and from their relatives the Merarites, Ethan son of Kushaiah;",
             "headers": []
         },
         "18": {
-            "verse": "and with them their relatives next in rank: Zechariah,  Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom ( AA ) and Jeiel,  the gatekeepers.",
+            "verse": "and with them their relatives next in rank: Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom and Jeiel, the gatekeepers.",
             "headers": []
         },
         "19": {
-            "verse": "The musicians Heman, ( AB ) Asaph and Ethan were to sound the bronze cymbals;",
+            "verse": "The musicians Heman, Asaph and Ethan were to sound the bronze cymbals;",
             "headers": []
         },
         "20": {
-            "verse": "Zechariah, Jaaziel,  Shemiramoth, Jehiel, Unni, Eliab, Maaseiah and Benaiah were to play the lyres according to alamoth,",
+            "verse": "Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah and Benaiah were to play the lyres according to alamoth,",
             "headers": []
         },
         "21": {
@@ -2277,23 +2277,23 @@
             "headers": []
         },
         "24": {
-            "verse": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer the priests were to blow trumpets ( AC ) before the ark of God. Obed-Edom and Jehiah were also to be doorkeepers for the ark.",
+            "verse": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer the priests were to blow trumpets before the ark of God. Obed-Edom and Jehiah were also to be doorkeepers for the ark.",
             "headers": []
         },
         "25": {
-            "verse": "So David and the elders of Israel and the commanders of units of a thousand went to bring up the ark ( AD ) of the covenant of the Lord from the house of Obed-Edom, with rejoicing.",
+            "verse": "So David and the elders of Israel and the commanders of units of a thousand went to bring up the ark of the covenant of the Lord from the house of Obed-Edom, with rejoicing.",
             "headers": []
         },
         "26": {
-            "verse": "Because God had helped the Levites who were carrying the ark of the covenant of the Lord , seven bulls and seven rams ( AE ) were sacrificed.",
+            "verse": "Because God had helped the Levites who were carrying the ark of the covenant of the Lord , seven bulls and seven rams were sacrificed.",
             "headers": []
         },
         "27": {
-            "verse": "Now David was clothed in a robe of fine linen, as were all the Levites who were carrying the ark, and as were the musicians, and Kenaniah, who was in charge of the singing of the choirs. David also wore a linen ephod. ( AF )",
+            "verse": "Now David was clothed in a robe of fine linen, as were all the Levites who were carrying the ark, and as were the musicians, and Kenaniah, who was in charge of the singing of the choirs. David also wore a linen ephod.",
             "headers": []
         },
         "28": {
-            "verse": "So all Israel ( AG ) brought up the ark of the covenant of the Lord with shouts, ( AH ) with the sounding of rams’ horns ( AI ) and trumpets, and of cymbals, and the playing of lyres and harps.",
+            "verse": "So all Israel brought up the ark of the covenant of the Lord with shouts, with the sounding of rams’ horns and trumpets, and of cymbals, and the playing of lyres and harps.",
             "headers": []
         },
         "29": {
@@ -2303,23 +2303,23 @@
     },
     "16": {
         "1": {
-            "verse": "They brought the ark of God and set it inside the tent that David had pitched ( D ) for it, and they presented burnt offerings and fellowship offerings before God.",
+            "verse": "They brought the ark of God and set it inside the tent that David had pitched for it, and they presented burnt offerings and fellowship offerings before God.",
             "headers": []
         },
         "2": {
-            "verse": "After David had finished sacrificing the burnt offerings and fellowship offerings, he blessed ( E ) the people in the name of the Lord .",
+            "verse": "After David had finished sacrificing the burnt offerings and fellowship offerings, he blessed the people in the name of the Lord .",
             "headers": []
         },
         "3": {
-            "verse": "Then he gave a loaf of bread, a cake of dates and a cake of raisins ( F ) to each Israelite man and woman.",
+            "verse": "Then he gave a loaf of bread, a cake of dates and a cake of raisins to each Israelite man and woman.",
             "headers": []
         },
         "4": {
-            "verse": "He appointed some of the Levites to minister ( G ) before the ark of the Lord , to extol,  thank, and praise the Lord , the God of Israel:",
+            "verse": "He appointed some of the Levites to minister before the ark of the Lord , to extol, thank, and praise the Lord , the God of Israel:",
             "headers": []
         },
         "5": {
-            "verse": "Asaph was the chief, and next to him in rank were Zechariah, then Jaaziel,  Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-Edom and Jeiel. They were to play the lyres and harps, Asaph was to sound the cymbals,",
+            "verse": "Asaph was the chief, and next to him in rank were Zechariah, then Jaaziel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-Edom and Jeiel. They were to play the lyres and harps, Asaph was to sound the cymbals,",
             "headers": []
         },
         "6": {
@@ -2327,19 +2327,19 @@
             "headers": []
         },
         "7": {
-            "verse": "That day David first appointed Asaph and his associates to give praise ( H ) to the Lord in this manner:",
+            "verse": "That day David first appointed Asaph and his associates to give praise to the Lord in this manner:",
             "headers": []
         },
         "8": {
-            "verse": "Give praise ( I ) to the Lord , proclaim his name;",
+            "verse": "Give praise to the Lord , proclaim his name;",
             "headers": []
         },
         "9": {
-            "verse": "Sing to him, sing praise ( K ) to him;",
+            "verse": "Sing to him, sing praise to him;",
             "headers": []
         },
         "10": {
-            "verse": "Glory in his holy name; ( L )",
+            "verse": "Glory in his holy name;",
             "headers": []
         },
         "11": {
@@ -2347,7 +2347,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Remember ( N ) the wonders ( O ) he has done,",
+            "verse": "Remember the wonders he has done,",
             "headers": []
         },
         "13": {
@@ -2359,27 +2359,27 @@
             "headers": []
         },
         "15": {
-            "verse": "He remembers  ( R ) his covenant forever,",
+            "verse": "He remembers his covenant forever,",
             "headers": []
         },
         "16": {
-            "verse": "the covenant ( S ) he made with Abraham,",
+            "verse": "the covenant he made with Abraham,",
             "headers": []
         },
         "17": {
-            "verse": "He confirmed it to Jacob ( T ) as a decree,",
+            "verse": "He confirmed it to Jacob as a decree,",
             "headers": []
         },
         "18": {
-            "verse": "“To you I will give the land of Canaan ( U )",
+            "verse": "“To you I will give the land of Canaan",
             "headers": []
         },
         "19": {
-            "verse": "When they were but few in number, ( V )",
+            "verse": "When they were but few in number,",
             "headers": []
         },
         "20": {
-            "verse": "they  wandered ( W ) from nation to nation,",
+            "verse": "they wandered from nation to nation,",
             "headers": []
         },
         "21": {
@@ -2395,11 +2395,11 @@
             "headers": []
         },
         "24": {
-            "verse": "Declare his glory ( Z ) among the nations,",
+            "verse": "Declare his glory among the nations,",
             "headers": []
         },
         "25": {
-            "verse": "For great is the Lord and most worthy of praise; ( AA )",
+            "verse": "For great is the Lord and most worthy of praise;",
             "headers": []
         },
         "26": {
@@ -2415,59 +2415,59 @@
             "headers": []
         },
         "29": {
-            "verse": "Ascribe to the Lord the glory due his name; ( AF )",
+            "verse": "Ascribe to the Lord the glory due his name;",
             "headers": []
         },
         "30": {
-            "verse": "Tremble ( AH ) before him, all the earth!",
+            "verse": "Tremble before him, all the earth!",
             "headers": []
         },
         "31": {
-            "verse": "Let the heavens rejoice, let the earth be glad; ( AJ )",
+            "verse": "Let the heavens rejoice, let the earth be glad;",
             "headers": []
         },
         "32": {
-            "verse": "Let the sea resound, and all that is in it; ( AL )",
+            "verse": "Let the sea resound, and all that is in it;",
             "headers": []
         },
         "33": {
-            "verse": "Let the trees ( AM ) of the forest sing,",
+            "verse": "Let the trees of the forest sing,",
             "headers": []
         },
         "34": {
-            "verse": "Give thanks ( AO ) to the Lord , for he is good; ( AP )",
+            "verse": "Give thanks to the Lord , for he is good;",
             "headers": []
         },
         "35": {
-            "verse": "Cry out, “Save us, God our Savior; ( AR )",
+            "verse": "Cry out, “Save us, God our Savior;",
             "headers": []
         },
         "36": {
-            "verse": "Praise be to the Lord , the God of Israel, ( AS )",
+            "verse": "Praise be to the Lord , the God of Israel,",
             "headers": []
         },
         "37": {
-            "verse": "David left Asaph and his associates before the ark of the covenant of the Lord to minister there regularly, according to each day’s requirements. ( AT )",
+            "verse": "David left Asaph and his associates before the ark of the covenant of the Lord to minister there regularly, according to each day’s requirements.",
             "headers": []
         },
         "38": {
-            "verse": "He also left Obed-Edom ( AU ) and his sixty-eight associates to minister with them. Obed-Edom son of Jeduthun, and also Hosah, ( AV ) were gatekeepers.",
+            "verse": "He also left Obed-Edom and his sixty-eight associates to minister with them. Obed-Edom son of Jeduthun, and also Hosah, were gatekeepers.",
             "headers": []
         },
         "39": {
-            "verse": "David left Zadok ( AW ) the priest and his fellow priests before the tabernacle of the Lord at the high place in Gibeon ( AX )",
+            "verse": "David left Zadok the priest and his fellow priests before the tabernacle of the Lord at the high place in Gibeon",
             "headers": []
         },
         "40": {
-            "verse": "to present burnt offerings to the Lord on the altar of burnt offering regularly, morning and evening, in accordance with everything written in the Law ( AY ) of the Lord , which he had given Israel.",
+            "verse": "to present burnt offerings to the Lord on the altar of burnt offering regularly, morning and evening, in accordance with everything written in the Law of the Lord , which he had given Israel.",
             "headers": []
         },
         "41": {
-            "verse": "With them were Heman ( AZ ) and Jeduthun and the rest of those chosen and designated by name to give thanks to the Lord , “for his love endures forever.”",
+            "verse": "With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to the Lord , “for his love endures forever.”",
             "headers": []
         },
         "42": {
-            "verse": "Heman and Jeduthun were responsible for the sounding of the trumpets and cymbals and for the playing of the other instruments for sacred song. ( BA ) The sons of Jeduthun ( BB ) were stationed at the gate.",
+            "verse": "Heman and Jeduthun were responsible for the sounding of the trumpets and cymbals and for the playing of the other instruments for sacred song. The sons of Jeduthun were stationed at the gate.",
             "headers": []
         },
         "43": {
@@ -2477,11 +2477,11 @@
     },
     "17": {
         "1": {
-            "verse": "After David was settled in his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the Lord is under a tent. ( B ) ”",
+            "verse": "After David was settled in his palace, he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of the covenant of the Lord is under a tent. ”",
             "headers": []
         },
         "2": {
-            "verse": "Nathan replied to David, “Whatever you have in mind, ( C ) do it, for God is with you.”",
+            "verse": "Nathan replied to David, “Whatever you have in mind, do it, for God is with you.”",
             "headers": []
         },
         "3": {
@@ -2489,7 +2489,7 @@
             "headers": []
         },
         "4": {
-            "verse": "“Go and tell my servant David, ‘This is what the Lord says: You ( D ) are not the one to build me a house to dwell in.",
+            "verse": "“Go and tell my servant David, ‘This is what the Lord says: You are not the one to build me a house to dwell in.",
             "headers": []
         },
         "5": {
@@ -2497,11 +2497,11 @@
             "headers": []
         },
         "6": {
-            "verse": "Wherever I have moved with all the Israelites, did I ever say to any of their leaders  whom I commanded to shepherd my people, “Why have you not built me a house of cedar? ( E ) ”’",
+            "verse": "Wherever I have moved with all the Israelites, did I ever say to any of their leaders whom I commanded to shepherd my people, “Why have you not built me a house of cedar? ”’",
             "headers": []
         },
         "7": {
-            "verse": "“Now then, tell my servant David, ‘This is what the Lord Almighty says: I took you from the pasture, from tending the flock, and appointed you ruler ( F ) over my people Israel.",
+            "verse": "“Now then, tell my servant David, ‘This is what the Lord Almighty says: I took you from the pasture, from tending the flock, and appointed you ruler over my people Israel.",
             "headers": []
         },
         "8": {
@@ -2513,7 +2513,7 @@
             "headers": []
         },
         "10": {
-            "verse": "and have done ever since the time I appointed leaders ( G ) over my people Israel. I will also subdue all your enemies.",
+            "verse": "and have done ever since the time I appointed leaders over my people Israel. I will also subdue all your enemies.",
             "headers": []
         },
         "11": {
@@ -2521,15 +2521,15 @@
             "headers": []
         },
         "12": {
-            "verse": "He is the one who will build ( H ) a house for me, and I will establish his throne forever. ( I )",
+            "verse": "He is the one who will build a house for me, and I will establish his throne forever.",
             "headers": []
         },
         "13": {
-            "verse": "I will be his father, ( J ) and he will be my son. ( K ) I will never take my love away from him, as I took it away from your predecessor.",
+            "verse": "I will be his father, and he will be my son. I will never take my love away from him, as I took it away from your predecessor.",
             "headers": []
         },
         "14": {
-            "verse": "I will set him over my house and my kingdom forever; his throne ( L ) will be established forever. ( M ) ’”",
+            "verse": "I will set him over my house and my kingdom forever; his throne will be established forever. ’”",
             "headers": []
         },
         "15": {
@@ -2549,23 +2549,23 @@
             "headers": []
         },
         "19": {
-            "verse": "Lord . For the sake ( O ) of your servant and according to your will, you have done this great thing and made known all these great promises. ( P )",
+            "verse": "Lord . For the sake of your servant and according to your will, you have done this great thing and made known all these great promises.",
             "headers": []
         },
         "20": {
-            "verse": "“There is no one like you, Lord , and there is no God but you, ( Q ) as we have heard with our own ears.",
+            "verse": "“There is no one like you, Lord , and there is no God but you, as we have heard with our own ears.",
             "headers": []
         },
         "21": {
-            "verse": "And who is like your people Israel—the one nation on earth whose God went out to redeem ( R ) a people for himself, and to make a name for yourself, and to perform great and awesome wonders by driving out nations from before your people, whom you redeemed from Egypt?",
+            "verse": "And who is like your people Israel—the one nation on earth whose God went out to redeem a people for himself, and to make a name for yourself, and to perform great and awesome wonders by driving out nations from before your people, whom you redeemed from Egypt?",
             "headers": []
         },
         "22": {
-            "verse": "You made your people Israel your very own forever, ( S ) and you, Lord , have become their God.",
+            "verse": "You made your people Israel your very own forever, and you, Lord , have become their God.",
             "headers": []
         },
         "23": {
-            "verse": "“And now, Lord , let the promise ( T ) you have made concerning your servant and his house be established forever. Do as you promised,",
+            "verse": "“And now, Lord , let the promise you have made concerning your servant and his house be established forever. Do as you promised,",
             "headers": []
         },
         "24": {
@@ -2581,7 +2581,7 @@
             "headers": []
         },
         "27": {
-            "verse": "Now you have been pleased to bless the house of your servant, that it may continue forever in your sight; ( U ) for you, Lord , have blessed it, and it will be blessed forever.”",
+            "verse": "Now you have been pleased to bless the house of your servant, that it may continue forever in your sight; for you, Lord , have blessed it, and it will be blessed forever.”",
             "headers": []
         }
     },
@@ -2591,19 +2591,19 @@
             "headers": []
         },
         "2": {
-            "verse": "David also defeated the Moabites, ( B ) and they became subject to him and brought him tribute.",
+            "verse": "David also defeated the Moabites, and they became subject to him and brought him tribute.",
             "headers": []
         },
         "3": {
-            "verse": "Moreover, David defeated Hadadezer king of Zobah, ( C ) in the vicinity of Hamath, when he went to set up his monument at  the Euphrates River. ( D )",
+            "verse": "Moreover, David defeated Hadadezer king of Zobah, in the vicinity of Hamath, when he went to set up his monument at the Euphrates River.",
             "headers": []
         },
         "4": {
-            "verse": "David captured a thousand of his chariots, seven thousand charioteers and twenty thousand foot soldiers. He hamstrung ( E ) all but a hundred of the chariot horses.",
+            "verse": "David captured a thousand of his chariots, seven thousand charioteers and twenty thousand foot soldiers. He hamstrung all but a hundred of the chariot horses.",
             "headers": []
         },
         "5": {
-            "verse": "When the Arameans of Damascus ( F ) came to help Hadadezer king of Zobah, David struck down twenty-two thousand of them.",
+            "verse": "When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of them.",
             "headers": []
         },
         "6": {
@@ -2615,7 +2615,7 @@
             "headers": []
         },
         "8": {
-            "verse": "From Tebah  and Kun, towns that belonged to Hadadezer, David took a great quantity of bronze, which Solomon used to make the bronze Sea, ( G ) the pillars and various bronze articles.",
+            "verse": "From Tebah and Kun, towns that belonged to Hadadezer, David took a great quantity of bronze, which Solomon used to make the bronze Sea, the pillars and various bronze articles.",
             "headers": []
         },
         "9": {
@@ -2627,11 +2627,11 @@
             "headers": []
         },
         "11": {
-            "verse": "King David dedicated these articles to the Lord , as he had done with the silver and gold he had taken from all these nations: Edom ( H ) and Moab, the Ammonites and the Philistines, and Amalek. ( I )",
+            "verse": "King David dedicated these articles to the Lord , as he had done with the silver and gold he had taken from all these nations: Edom and Moab, the Ammonites and the Philistines, and Amalek.",
             "headers": []
         },
         "12": {
-            "verse": "Abishai son of Zeruiah struck down eighteen thousand Edomites ( J ) in the Valley of Salt.",
+            "verse": "Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt.",
             "headers": []
         },
         "13": {
@@ -2639,25 +2639,25 @@
             "headers": []
         },
         "14": {
-            "verse": "David reigned ( L ) over all Israel, ( M ) doing what was just and right for all his people.",
+            "verse": "David reigned over all Israel, doing what was just and right for all his people.",
             "headers": []
         },
         "15": {
-            "verse": "Joab ( N ) son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;",
+            "verse": "Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder;",
             "headers": []
         },
         "16": {
-            "verse": "Zadok ( O ) son of Ahitub and Ahimelek  ( P ) son of Abiathar were priests; Shavsha was secretary;",
+            "verse": "Zadok son of Ahitub and Ahimelek son of Abiathar were priests; Shavsha was secretary;",
             "headers": []
         },
         "17": {
-            "verse": "Benaiah son of Jehoiada was over the Kerethites and Pelethites; ( Q ) and David’s sons were chief officials at the king’s side.",
+            "verse": "Benaiah son of Jehoiada was over the Kerethites and Pelethites; and David’s sons were chief officials at the king’s side.",
             "headers": []
         }
     },
     "19": {
         "1": {
-            "verse": "In the course of time, Nahash king of the Ammonites ( B ) died, and his son succeeded him as king.",
+            "verse": "In the course of time, Nahash king of the Ammonites died, and his son succeeded him as king.",
             "headers": []
         },
         "2": {
@@ -2665,7 +2665,7 @@
             "headers": []
         },
         "3": {
-            "verse": "the Ammonite commanders said to Hanun, “Do you think David is honoring your father by sending envoys to you to express sympathy? Haven’t his envoys come to you only to explore and spy out ( C ) the country and overthrow it?”",
+            "verse": "the Ammonite commanders said to Hanun, “Do you think David is honoring your father by sending envoys to you to express sympathy? Haven’t his envoys come to you only to explore and spy out the country and overthrow it?”",
             "headers": []
         },
         "4": {
@@ -2677,11 +2677,11 @@
             "headers": []
         },
         "6": {
-            "verse": "When the Ammonites realized that they had become obnoxious ( D ) to David, Hanun and the Ammonites sent a thousand talents  of silver to hire chariots and charioteers from Aram Naharaim,  Aram Maakah and Zobah. ( E )",
+            "verse": "When the Ammonites realized that they had become obnoxious to David, Hanun and the Ammonites sent a thousand talents of silver to hire chariots and charioteers from Aram Naharaim, Aram Maakah and Zobah.",
             "headers": []
         },
         "7": {
-            "verse": "They hired thirty-two thousand chariots and charioteers, as well as the king of Maakah with his troops, who came and camped near Medeba, ( F ) while the Ammonites were mustered from their towns and moved out for battle.",
+            "verse": "They hired thirty-two thousand chariots and charioteers, as well as the king of Maakah with his troops, who came and camped near Medeba, while the Ammonites were mustered from their towns and moved out for battle.",
             "headers": []
         },
         "8": {
@@ -2697,7 +2697,7 @@
             "headers": []
         },
         "11": {
-            "verse": "He put the rest of the men under the command of Abishai ( G ) his brother, and they were deployed against the Ammonites.",
+            "verse": "He put the rest of the men under the command of Abishai his brother, and they were deployed against the Ammonites.",
             "headers": []
         },
         "12": {
@@ -2721,7 +2721,7 @@
             "headers": []
         },
         "17": {
-            "verse": "When David was told of this, he gathered all Israel ( H ) and crossed the Jordan; he advanced against them and formed his battle lines opposite them. David formed his lines to meet the Arameans in battle, and they fought against him.",
+            "verse": "When David was told of this, he gathered all Israel and crossed the Jordan; he advanced against them and formed his battle lines opposite them. David formed his lines to meet the Arameans in battle, and they fought against him.",
             "headers": []
         },
         "18": {
@@ -2735,23 +2735,23 @@
     },
     "20": {
         "1": {
-            "verse": "In the spring, at the time when kings go off to war, Joab led out the armed forces. He laid waste the land of the Ammonites and went to Rabbah ( B ) and besieged it, but David remained in Jerusalem. Joab attacked Rabbah and left it in ruins. ( C )",
+            "verse": "In the spring, at the time when kings go off to war, Joab led out the armed forces. He laid waste the land of the Ammonites and went to Rabbah and besieged it, but David remained in Jerusalem. Joab attacked Rabbah and left it in ruins.",
             "headers": []
         },
         "2": {
-            "verse": "David took the crown from the head of their king  —its weight was found to be a talent  of gold, and it was set with precious stones—and it was placed on David’s head. He took a great quantity of plunder from the city",
+            "verse": "David took the crown from the head of their king —its weight was found to be a talent of gold, and it was set with precious stones—and it was placed on David’s head. He took a great quantity of plunder from the city",
             "headers": []
         },
         "3": {
-            "verse": "and brought out the people who were there, consigning them to labor with saws and with iron picks and axes. ( D ) David did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.",
+            "verse": "and brought out the people who were there, consigning them to labor with saws and with iron picks and axes. David did this to all the Ammonite towns. Then David and his entire army returned to Jerusalem.",
             "headers": []
         },
         "4": {
-            "verse": "In the course of time, war broke out with the Philistines, at Gezer. ( F ) At that time Sibbekai the Hushathite killed Sippai, one of the descendants of the Rephaites, ( G ) and the Philistines were subjugated.",
+            "verse": "In the course of time, war broke out with the Philistines, at Gezer. At that time Sibbekai the Hushathite killed Sippai, one of the descendants of the Rephaites, and the Philistines were subjugated.",
             "headers": []
         },
         "5": {
-            "verse": "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, who had a spear with a shaft like a weaver’s rod. ( H )",
+            "verse": "In another battle with the Philistines, Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, who had a spear with a shaft like a weaver’s rod.",
             "headers": []
         },
         "6": {
@@ -2769,15 +2769,15 @@
     },
     "21": {
         "1": {
-            "verse": "Satan ( B ) rose up against Israel and incited David to take a census ( C ) of Israel.",
+            "verse": "Satan rose up against Israel and incited David to take a census of Israel.",
             "headers": []
         },
         "2": {
-            "verse": "So David said to Joab and the commanders of the troops, “Go and count ( D ) the Israelites from Beersheba to Dan. Then report back to me so that I may know how many there are.”",
+            "verse": "So David said to Joab and the commanders of the troops, “Go and count the Israelites from Beersheba to Dan. Then report back to me so that I may know how many there are.”",
             "headers": []
         },
         "3": {
-            "verse": "But Joab replied, “May the Lord multiply his troops a hundred times over. ( E ) My lord the king, are they not all my lord’s subjects? Why does my lord want to do this? Why should he bring guilt on Israel?”",
+            "verse": "But Joab replied, “May the Lord multiply his troops a hundred times over. My lord the king, are they not all my lord’s subjects? Why does my lord want to do this? Why should he bring guilt on Israel?”",
             "headers": []
         },
         "4": {
@@ -2785,7 +2785,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Joab reported the number of the fighting men to David: In all Israel ( F ) there were one million one hundred thousand men who could handle a sword, including four hundred and seventy thousand in Judah.",
+            "verse": "Joab reported the number of the fighting men to David: In all Israel there were one million one hundred thousand men who could handle a sword, including four hundred and seventy thousand in Judah.",
             "headers": []
         },
         "6": {
@@ -2801,7 +2801,7 @@
             "headers": []
         },
         "9": {
-            "verse": "The Lord said to Gad, ( G ) David’s seer, ( H )",
+            "verse": "The Lord said to Gad, David’s seer,",
             "headers": []
         },
         "10": {
@@ -2813,31 +2813,31 @@
             "headers": []
         },
         "12": {
-            "verse": "three years of famine, ( I ) three months of being swept away  before your enemies, with their swords overtaking you, or three days of the sword ( J ) of the Lord ( K ) —days of plague in the land, with the angel of the Lord ravaging every part of Israel.’ Now then, decide how I should answer the one who sent me.”",
+            "verse": "three years of famine, three months of being swept away before your enemies, with their swords overtaking you, or three days of the sword of the Lord —days of plague in the land, with the angel of the Lord ravaging every part of Israel.’ Now then, decide how I should answer the one who sent me.”",
             "headers": []
         },
         "13": {
-            "verse": "David said to Gad, “I am in deep distress. Let me fall into the hands of the Lord , for his mercy ( L ) is very great; but do not let me fall into human hands.”",
+            "verse": "David said to Gad, “I am in deep distress. Let me fall into the hands of the Lord , for his mercy is very great; but do not let me fall into human hands.”",
             "headers": []
         },
         "14": {
-            "verse": "So the Lord sent a plague on Israel, and seventy thousand men of Israel fell dead. ( M )",
+            "verse": "So the Lord sent a plague on Israel, and seventy thousand men of Israel fell dead.",
             "headers": []
         },
         "15": {
-            "verse": "And God sent an angel ( N ) to destroy Jerusalem. ( O ) But as the angel was doing so, the Lord saw it and relented ( P ) concerning the disaster and said to the angel who was destroying ( Q ) the people, “Enough! Withdraw your hand.” The angel of the Lord was then standing at the threshing floor of Araunah  the Jebusite.",
+            "verse": "And God sent an angel to destroy Jerusalem. But as the angel was doing so, the Lord saw it and relented concerning the disaster and said to the angel who was destroying the people, “Enough! Withdraw your hand.” The angel of the Lord was then standing at the threshing floor of Araunah the Jebusite.",
             "headers": []
         },
         "16": {
-            "verse": "David looked up and saw the angel of the Lord standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell facedown. ( R )",
+            "verse": "David looked up and saw the angel of the Lord standing between heaven and earth, with a drawn sword in his hand extended over Jerusalem. Then David and the elders, clothed in sackcloth, fell facedown.",
             "headers": []
         },
         "17": {
-            "verse": "David said to God, “Was it not I who ordered the fighting men to be counted? I, the shepherd,  have sinned and done wrong. These are but sheep. ( S ) What have they done? Lord my God, let your hand fall on me and my family, ( T ) but do not let this plague remain on your people.”",
+            "verse": "David said to God, “Was it not I who ordered the fighting men to be counted? I, the shepherd, have sinned and done wrong. These are but sheep. What have they done? Lord my God, let your hand fall on me and my family, but do not let this plague remain on your people.”",
             "headers": []
         },
         "18": {
-            "verse": "Then the angel of the Lord ordered Gad to tell David to go up and build an altar to the Lord on the threshing floor ( U ) of Araunah the Jebusite.",
+            "verse": "Then the angel of the Lord ordered Gad to tell David to go up and build an altar to the Lord on the threshing floor of Araunah the Jebusite.",
             "headers": []
         },
         "19": {
@@ -2845,7 +2845,7 @@
             "headers": []
         },
         "20": {
-            "verse": "While Araunah was threshing wheat, ( V ) he turned and saw the angel; his four sons who were with him hid themselves.",
+            "verse": "While Araunah was threshing wheat, he turned and saw the angel; his four sons who were with him hid themselves.",
             "headers": []
         },
         "21": {
@@ -2865,11 +2865,11 @@
             "headers": []
         },
         "25": {
-            "verse": "So David paid Araunah six hundred shekels  of gold for the site.",
+            "verse": "So David paid Araunah six hundred shekels of gold for the site.",
             "headers": []
         },
         "26": {
-            "verse": "David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. He called on the Lord , and the Lord answered him with fire ( W ) from heaven on the altar of burnt offering.",
+            "verse": "David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. He called on the Lord , and the Lord answered him with fire from heaven on the altar of burnt offering.",
             "headers": []
         },
         "27": {
@@ -2881,7 +2881,7 @@
             "headers": []
         },
         "29": {
-            "verse": "The tabernacle of the Lord , which Moses had made in the wilderness, and the altar of burnt offering were at that time on the high place at Gibeon. ( X )",
+            "verse": "The tabernacle of the Lord , which Moses had made in the wilderness, and the altar of burnt offering were at that time on the high place at Gibeon.",
             "headers": []
         },
         "30": {
@@ -2891,85 +2891,85 @@
     },
     "22": {
         "1": {
-            "verse": "Then David said, “The house of the Lord God ( A ) is to be here, and also the altar of burnt offering for Israel.”",
+            "verse": "Then David said, “The house of the Lord God is to be here, and also the altar of burnt offering for Israel.”",
             "headers": []
         },
         "2": {
-            "verse": "So David gave orders to assemble the foreigners ( B ) residing in Israel, and from among them he appointed stonecutters ( C ) to prepare dressed stone for building the house of God.",
+            "verse": "So David gave orders to assemble the foreigners residing in Israel, and from among them he appointed stonecutters to prepare dressed stone for building the house of God.",
             "headers": []
         },
         "3": {
-            "verse": "He provided a large amount of iron to make nails for the doors of the gateways and for the fittings, and more bronze than could be weighed. ( D )",
+            "verse": "He provided a large amount of iron to make nails for the doors of the gateways and for the fittings, and more bronze than could be weighed.",
             "headers": []
         },
         "4": {
-            "verse": "He also provided more cedar logs ( E ) than could be counted, for the Sidonians and Tyrians had brought large numbers of them to David.",
+            "verse": "He also provided more cedar logs than could be counted, for the Sidonians and Tyrians had brought large numbers of them to David.",
             "headers": []
         },
         "5": {
-            "verse": "David said, “My son Solomon is young ( F ) and inexperienced, and the house to be built for the Lord should be of great magnificence and fame and splendor ( G ) in the sight of all the nations. Therefore I will make preparations for it.” So David made extensive preparations before his death.",
+            "verse": "David said, “My son Solomon is young and inexperienced, and the house to be built for the Lord should be of great magnificence and fame and splendor in the sight of all the nations. Therefore I will make preparations for it.” So David made extensive preparations before his death.",
             "headers": []
         },
         "6": {
-            "verse": "Then he called for his son Solomon and charged him to build ( H ) a house for the Lord , the God of Israel.",
+            "verse": "Then he called for his son Solomon and charged him to build a house for the Lord , the God of Israel.",
             "headers": []
         },
         "7": {
-            "verse": "David said to Solomon: “My son, I had it in my heart ( I ) to build ( J ) a house for the Name ( K ) of the Lord my God.",
+            "verse": "David said to Solomon: “My son, I had it in my heart to build a house for the Name of the Lord my God.",
             "headers": []
         },
         "8": {
-            "verse": "But this word of the Lord came to me: ‘You have shed much blood and have fought many wars. ( L ) You are not to build a house for my Name, ( M ) because you have shed much blood on the earth in my sight.",
+            "verse": "But this word of the Lord came to me: ‘You have shed much blood and have fought many wars. You are not to build a house for my Name, because you have shed much blood on the earth in my sight.",
             "headers": []
         },
         "9": {
-            "verse": "But you will have a son who will be a man of peace ( N ) and rest, ( O ) and I will give him rest from all his enemies on every side. His name will be Solomon,  ( P ) and I will grant Israel peace and quiet ( Q ) during his reign.",
+            "verse": "But you will have a son who will be a man of peace and rest, and I will give him rest from all his enemies on every side. His name will be Solomon, and I will grant Israel peace and quiet during his reign.",
             "headers": []
         },
         "10": {
-            "verse": "He is the one who will build a house for my Name. ( R ) He will be my son, ( S ) and I will be his father. And I will establish ( T ) the throne of his kingdom over Israel forever.’ ( U )",
+            "verse": "He is the one who will build a house for my Name. He will be my son, and I will be his father. And I will establish the throne of his kingdom over Israel forever.’",
             "headers": []
         },
         "11": {
-            "verse": "“Now, my son, the Lord be with ( V ) you, and may you have success and build the house of the Lord your God, as he said you would.",
+            "verse": "“Now, my son, the Lord be with you, and may you have success and build the house of the Lord your God, as he said you would.",
             "headers": []
         },
         "12": {
-            "verse": "May the Lord give you discretion and understanding ( W ) when he puts you in command over Israel, so that you may keep the law of the Lord your God.",
+            "verse": "May the Lord give you discretion and understanding when he puts you in command over Israel, so that you may keep the law of the Lord your God.",
             "headers": []
         },
         "13": {
-            "verse": "Then you will have success ( X ) if you are careful to observe the decrees and laws ( Y ) that the Lord gave Moses for Israel. Be strong and courageous. ( Z ) Do not be afraid or discouraged.",
+            "verse": "Then you will have success if you are careful to observe the decrees and laws that the Lord gave Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.",
             "headers": []
         },
         "14": {
-            "verse": "“I have taken great pains to provide for the temple of the Lord a hundred thousand talents  of gold, a million talents  of silver, quantities of bronze and iron too great to be weighed, and wood and stone. And you may add to them. ( AA )",
+            "verse": "“I have taken great pains to provide for the temple of the Lord a hundred thousand talents of gold, a million talents of silver, quantities of bronze and iron too great to be weighed, and wood and stone. And you may add to them.",
             "headers": []
         },
         "15": {
-            "verse": "You have many workers: stonecutters, masons and carpenters, ( AB ) as well as those skilled in every kind of work",
+            "verse": "You have many workers: stonecutters, masons and carpenters, as well as those skilled in every kind of work",
             "headers": []
         },
         "16": {
-            "verse": "in gold and silver, bronze and iron—craftsmen ( AC ) beyond number. Now begin the work, and the Lord be with you.”",
+            "verse": "in gold and silver, bronze and iron—craftsmen beyond number. Now begin the work, and the Lord be with you.”",
             "headers": []
         },
         "17": {
-            "verse": "Then David ordered ( AD ) all the leaders of Israel to help his son Solomon.",
+            "verse": "Then David ordered all the leaders of Israel to help his son Solomon.",
             "headers": []
         },
         "18": {
-            "verse": "He said to them, “Is not the Lord your God with you? And has he not granted you rest ( AE ) on every side? ( AF ) For he has given the inhabitants of the land into my hands, and the land is subject to the Lord and to his people.",
+            "verse": "He said to them, “Is not the Lord your God with you? And has he not granted you rest on every side? For he has given the inhabitants of the land into my hands, and the land is subject to the Lord and to his people.",
             "headers": []
         },
         "19": {
-            "verse": "Now devote your heart and soul to seeking the Lord your God. ( AG ) Begin to build the sanctuary of the Lord God, so that you may bring the ark of the covenant of the Lord and the sacred articles belonging to God into the temple that will be built for the Name of the Lord .”",
+            "verse": "Now devote your heart and soul to seeking the Lord your God. Begin to build the sanctuary of the Lord God, so that you may bring the ark of the covenant of the Lord and the sacred articles belonging to God into the temple that will be built for the Name of the Lord .”",
             "headers": []
         }
     },
     "23": {
         "1": {
-            "verse": "When David was old and full of years, he made his son Solomon ( A ) king over Israel. ( B )",
+            "verse": "When David was old and full of years, he made his son Solomon king over Israel.",
             "headers": []
         },
         "2": {
@@ -2977,23 +2977,23 @@
             "headers": []
         },
         "3": {
-            "verse": "The Levites thirty years old or more ( C ) were counted, ( D ) and the total number of men was thirty-eight thousand. ( E )",
+            "verse": "The Levites thirty years old or more were counted, and the total number of men was thirty-eight thousand.",
             "headers": []
         },
         "4": {
-            "verse": "David said, “Of these, twenty-four thousand are to be in charge ( F ) of the work ( G ) of the temple of the Lord and six thousand are to be officials and judges. ( H )",
+            "verse": "David said, “Of these, twenty-four thousand are to be in charge of the work of the temple of the Lord and six thousand are to be officials and judges.",
             "headers": []
         },
         "5": {
-            "verse": "Four thousand are to be gatekeepers and four thousand are to praise the Lord with the musical instruments ( I ) I have provided for that purpose.” ( J )",
+            "verse": "Four thousand are to be gatekeepers and four thousand are to praise the Lord with the musical instruments I have provided for that purpose.”",
             "headers": []
         },
         "6": {
-            "verse": "David separated ( K ) the Levites into divisions corresponding to the sons of Levi: ( L ) Gershon, Kohath and Merari.",
+            "verse": "David separated the Levites into divisions corresponding to the sons of Levi: Gershon, Kohath and Merari.",
             "headers": []
         },
         "7": {
-            "verse": "Belonging to the Gershonites: ( M )",
+            "verse": "Belonging to the Gershonites:",
             "headers": []
         },
         "8": {
@@ -3013,15 +3013,15 @@
             "headers": []
         },
         "12": {
-            "verse": "The sons of Kohath: ( N )",
+            "verse": "The sons of Kohath:",
             "headers": []
         },
         "13": {
-            "verse": "The sons of Amram: ( O )",
+            "verse": "The sons of Amram:",
             "headers": []
         },
         "14": {
-            "verse": "The sons of Moses the man ( S ) of God were counted as part of the tribe of Levi.",
+            "verse": "The sons of Moses the man of God were counted as part of the tribe of Levi.",
             "headers": []
         },
         "15": {
@@ -3029,7 +3029,7 @@
             "headers": []
         },
         "16": {
-            "verse": "The descendants of Gershom: ( U )",
+            "verse": "The descendants of Gershom:",
             "headers": []
         },
         "17": {
@@ -3041,7 +3041,7 @@
             "headers": []
         },
         "19": {
-            "verse": "The sons of Hebron: ( X )",
+            "verse": "The sons of Hebron:",
             "headers": []
         },
         "20": {
@@ -3049,11 +3049,11 @@
             "headers": []
         },
         "21": {
-            "verse": "The sons of Merari: ( Y )",
+            "verse": "The sons of Merari:",
             "headers": []
         },
         "22": {
-            "verse": "Eleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them. ( AA )",
+            "verse": "Eleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them.",
             "headers": []
         },
         "23": {
@@ -3061,15 +3061,15 @@
             "headers": []
         },
         "24": {
-            "verse": "These were the descendants of Levi by their families—the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more ( AB ) who served in the temple of the Lord .",
+            "verse": "These were the descendants of Levi by their families—the heads of families as they were registered under their names and counted individually, that is, the workers twenty years old or more who served in the temple of the Lord .",
             "headers": []
         },
         "25": {
-            "verse": "For David had said, “Since the Lord , the God of Israel, has granted rest ( AC ) to his people and has come to dwell in Jerusalem forever,",
+            "verse": "For David had said, “Since the Lord , the God of Israel, has granted rest to his people and has come to dwell in Jerusalem forever,",
             "headers": []
         },
         "26": {
-            "verse": "the Levites no longer need to carry the tabernacle or any of the articles used in its service.” ( AD )",
+            "verse": "the Levites no longer need to carry the tabernacle or any of the articles used in its service.”",
             "headers": []
         },
         "27": {
@@ -3077,37 +3077,37 @@
             "headers": []
         },
         "28": {
-            "verse": "The duty of the Levites was to help Aaron’s descendants in the service of the temple of the Lord : to be in charge of the courtyards, the side rooms, the purification ( AE ) of all sacred things and the performance of other duties at the house of God.",
+            "verse": "The duty of the Levites was to help Aaron’s descendants in the service of the temple of the Lord : to be in charge of the courtyards, the side rooms, the purification of all sacred things and the performance of other duties at the house of God.",
             "headers": []
         },
         "29": {
-            "verse": "They were in charge of the bread set out on the table, ( AF ) the special flour for the grain offerings, ( AG ) the thin loaves made without yeast, the baking and the mixing, and all measurements of quantity and size. ( AH )",
+            "verse": "They were in charge of the bread set out on the table, the special flour for the grain offerings, the thin loaves made without yeast, the baking and the mixing, and all measurements of quantity and size.",
             "headers": []
         },
         "30": {
-            "verse": "They were also to stand every morning to thank and praise the Lord . They were to do the same in the evening ( AI )",
+            "verse": "They were also to stand every morning to thank and praise the Lord . They were to do the same in the evening",
             "headers": []
         },
         "31": {
-            "verse": "and whenever burnt offerings were presented to the Lord on the Sabbaths, at the New Moon ( AJ ) feasts and at the appointed festivals. ( AK ) They were to serve before the Lord regularly in the proper number and in the way prescribed for them.",
+            "verse": "and whenever burnt offerings were presented to the Lord on the Sabbaths, at the New Moon feasts and at the appointed festivals. They were to serve before the Lord regularly in the proper number and in the way prescribed for them.",
             "headers": []
         },
         "32": {
-            "verse": "And so the Levites ( AL ) carried out their responsibilities for the tent of meeting, ( AM ) for the Holy Place and, under their relatives the descendants of Aaron, for the service of the temple of the Lord . ( AN )",
+            "verse": "And so the Levites carried out their responsibilities for the tent of meeting, for the Holy Place and, under their relatives the descendants of Aaron, for the service of the temple of the Lord .",
             "headers": []
         }
     },
     "24": {
         "1": {
-            "verse": "These were the divisions ( A ) of the descendants of Aaron: ( B )",
+            "verse": "These were the divisions of the descendants of Aaron:",
             "headers": []
         },
         "2": {
-            "verse": "But Nadab and Abihu died before their father did, ( D ) and they had no sons; so Eleazar and Ithamar served as the priests.",
+            "verse": "But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as the priests.",
             "headers": []
         },
         "3": {
-            "verse": "With the help of Zadok ( E ) a descendant of Eleazar and Ahimelek a descendant of Ithamar, David separated them into divisions for their appointed order of ministering.",
+            "verse": "With the help of Zadok a descendant of Eleazar and Ahimelek a descendant of Ithamar, David separated them into divisions for their appointed order of ministering.",
             "headers": []
         },
         "4": {
@@ -3115,11 +3115,11 @@
             "headers": []
         },
         "5": {
-            "verse": "They divided them impartially by casting lots, ( F ) for there were officials of the sanctuary and officials of God among the descendants of both Eleazar and Ithamar.",
+            "verse": "They divided them impartially by casting lots, for there were officials of the sanctuary and officials of God among the descendants of both Eleazar and Ithamar.",
             "headers": []
         },
         "6": {
-            "verse": "The scribe Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officials: Zadok the priest, Ahimelek ( G ) son of Abiathar and the heads of families of the priests and of the Levites—one family being taken from Eleazar and then one from Ithamar.",
+            "verse": "The scribe Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officials: Zadok the priest, Ahimelek son of Abiathar and the heads of families of the priests and of the Levites—one family being taken from Eleazar and then one from Ithamar.",
             "headers": []
         },
         "7": {
@@ -3127,7 +3127,7 @@
             "headers": []
         },
         "8": {
-            "verse": "the third to Harim, ( I )",
+            "verse": "the third to Harim,",
             "headers": []
         },
         "9": {
@@ -3155,7 +3155,7 @@
             "headers": []
         },
         "15": {
-            "verse": "the seventeenth to Hezir, ( L )",
+            "verse": "the seventeenth to Hezir,",
             "headers": []
         },
         "16": {
@@ -3175,11 +3175,11 @@
             "headers": []
         },
         "20": {
-            "verse": "As for the rest of the descendants of Levi: ( M )",
+            "verse": "As for the rest of the descendants of Levi:",
             "headers": []
         },
         "21": {
-            "verse": "As for Rehabiah, ( N ) from his sons:",
+            "verse": "As for Rehabiah, from his sons:",
             "headers": []
         },
         "22": {
@@ -3187,7 +3187,7 @@
             "headers": []
         },
         "23": {
-            "verse": "The sons of Hebron: ( O ) Jeriah the first,  Amariah the second, Jahaziel the third and Jekameam the fourth.",
+            "verse": "The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.",
             "headers": []
         },
         "24": {
@@ -3199,7 +3199,7 @@
             "headers": []
         },
         "26": {
-            "verse": "The sons of Merari: ( P ) Mahli and Mushi.",
+            "verse": "The sons of Merari: Mahli and Mushi.",
             "headers": []
         },
         "27": {
@@ -3219,13 +3219,13 @@
             "headers": []
         },
         "31": {
-            "verse": "They also cast lots, ( Q ) just as their relatives the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelek, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.",
+            "verse": "They also cast lots, just as their relatives the descendants of Aaron did, in the presence of King David and of Zadok, Ahimelek, and the heads of families of the priests and of the Levites. The families of the oldest brother were treated the same as those of the youngest.",
             "headers": []
         }
     },
     "25": {
         "1": {
-            "verse": "David, together with the commanders of the army, set apart some of the sons of Asaph, ( A ) Heman ( B ) and Jeduthun ( C ) for the ministry of prophesying, ( D ) accompanied by harps, lyres and cymbals. ( E ) Here is the list of the men ( F ) who performed this service: ( G )",
+            "verse": "David, together with the commanders of the army, set apart some of the sons of Asaph, Heman and Jeduthun for the ministry of prophesying, accompanied by harps, lyres and cymbals. Here is the list of the men who performed this service:",
             "headers": []
         },
         "2": {
@@ -3233,7 +3233,7 @@
             "headers": []
         },
         "3": {
-            "verse": "As for Jeduthun, from his sons: ( H )",
+            "verse": "As for Jeduthun, from his sons:",
             "headers": []
         },
         "4": {
@@ -3245,7 +3245,7 @@
             "headers": []
         },
         "6": {
-            "verse": "All these men were under the supervision of their father ( J ) for the music of the temple of the Lord , with cymbals, lyres and harps, for the ministry at the house of God.",
+            "verse": "All these men were under the supervision of their father for the music of the temple of the Lord , with cymbals, lyres and harps, for the ministry at the house of God.",
             "headers": []
         },
         "7": {
@@ -3253,11 +3253,11 @@
             "headers": []
         },
         "8": {
-            "verse": "Young and old alike, teacher as well as student, cast lots ( M ) for their duties.",
+            "verse": "Young and old alike, teacher as well as student, cast lots for their duties.",
             "headers": []
         },
         "9": {
-            "verse": "The first lot, which was for Asaph, ( N ) fell to Joseph,",
+            "verse": "The first lot, which was for Asaph, fell to Joseph,",
             "headers": []
         },
         "10": {
@@ -3351,7 +3351,7 @@
     },
     "26": {
         "1": {
-            "verse": "The divisions of the gatekeepers: ( A )",
+            "verse": "The divisions of the gatekeepers:",
             "headers": []
         },
         "2": {
@@ -3387,7 +3387,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Hosah the Merarite had sons: Shimri the first (although he was not the firstborn, his father had appointed him the first), ( D )",
+            "verse": "Hosah the Merarite had sons: Shimri the first (although he was not the firstborn, his father had appointed him the first),",
             "headers": []
         },
         "11": {
@@ -3395,19 +3395,19 @@
             "headers": []
         },
         "12": {
-            "verse": "These divisions of the gatekeepers, through their leaders, had duties for ministering ( E ) in the temple of the Lord , just as their relatives had.",
+            "verse": "These divisions of the gatekeepers, through their leaders, had duties for ministering in the temple of the Lord , just as their relatives had.",
             "headers": []
         },
         "13": {
-            "verse": "Lots ( F ) were cast for each gate, according to their families, young and old alike.",
+            "verse": "Lots were cast for each gate, according to their families, young and old alike.",
             "headers": []
         },
         "14": {
-            "verse": "The lot for the East Gate ( G ) fell to Shelemiah.  Then lots were cast for his son Zechariah, ( H ) a wise counselor, and the lot for the North Gate fell to him.",
+            "verse": "The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zechariah, a wise counselor, and the lot for the North Gate fell to him.",
             "headers": []
         },
         "15": {
-            "verse": "The lot for the South Gate fell to Obed-Edom, ( I ) and the lot for the storehouse fell to his sons.",
+            "verse": "The lot for the South Gate fell to Obed-Edom, and the lot for the storehouse fell to his sons.",
             "headers": []
         },
         "16": {
@@ -3419,39 +3419,39 @@
             "headers": []
         },
         "18": {
-            "verse": "As for the court  to the west, there were four at the road and two at the court  itself.",
+            "verse": "As for the court to the west, there were four at the road and two at the court itself.",
             "headers": []
         },
         "19": {
-            "verse": "These were the divisions of the gatekeepers who were descendants of Korah and Merari. ( J )",
+            "verse": "These were the divisions of the gatekeepers who were descendants of Korah and Merari.",
             "headers": []
         },
         "20": {
-            "verse": "Their fellow Levites ( K ) were  in charge of the treasuries of the house of God and the treasuries for the dedicated things. ( L )",
+            "verse": "Their fellow Levites were in charge of the treasuries of the house of God and the treasuries for the dedicated things.",
             "headers": []
         },
         "21": {
-            "verse": "The descendants of Ladan, who were Gershonites through Ladan and who were heads of families belonging to Ladan the Gershonite, ( M ) were Jehieli,",
+            "verse": "The descendants of Ladan, who were Gershonites through Ladan and who were heads of families belonging to Ladan the Gershonite, were Jehieli,",
             "headers": []
         },
         "22": {
-            "verse": "the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries ( N ) of the temple of the Lord .",
+            "verse": "the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries of the temple of the Lord .",
             "headers": []
         },
         "23": {
-            "verse": "From the Amramites, the Izharites, the Hebronites and the Uzzielites: ( O )",
+            "verse": "From the Amramites, the Izharites, the Hebronites and the Uzzielites:",
             "headers": []
         },
         "24": {
-            "verse": "Shubael, ( P ) a descendant of Gershom son of Moses, was the official in charge of the treasuries.",
+            "verse": "Shubael, a descendant of Gershom son of Moses, was the official in charge of the treasuries.",
             "headers": []
         },
         "25": {
-            "verse": "His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zikri his son and Shelomith ( Q ) his son.",
+            "verse": "His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zikri his son and Shelomith his son.",
             "headers": []
         },
         "26": {
-            "verse": "Shelomith and his relatives were in charge of all the treasuries for the things dedicated ( R ) by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders.",
+            "verse": "Shelomith and his relatives were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders.",
             "headers": []
         },
         "27": {
@@ -3459,19 +3459,19 @@
             "headers": []
         },
         "28": {
-            "verse": "And everything dedicated by Samuel the seer ( S ) and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.",
+            "verse": "And everything dedicated by Samuel the seer and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.",
             "headers": []
         },
         "29": {
-            "verse": "From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges ( T ) over Israel.",
+            "verse": "From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges over Israel.",
             "headers": []
         },
         "30": {
-            "verse": "From the Hebronites: Hashabiah ( U ) and his relatives—seventeen hundred able men—were responsible in Israel west of the Jordan for all the work of the Lord and for the king’s service.",
+            "verse": "From the Hebronites: Hashabiah and his relatives—seventeen hundred able men—were responsible in Israel west of the Jordan for all the work of the Lord and for the king’s service.",
             "headers": []
         },
         "31": {
-            "verse": "As for the Hebronites, ( V ) Jeriah was their chief according to the genealogical records of their families. In the fortieth ( W ) year of David’s reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead.",
+            "verse": "As for the Hebronites, Jeriah was their chief according to the genealogical records of their families. In the fortieth year of David’s reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead.",
             "headers": []
         },
         "32": {
@@ -3485,7 +3485,7 @@
             "headers": []
         },
         "2": {
-            "verse": "In charge of the first division, for the first month, was Jashobeam ( A ) son of Zabdiel. There were 24,000 men in his division.",
+            "verse": "In charge of the first division, for the first month, was Jashobeam son of Zabdiel. There were 24,000 men in his division.",
             "headers": []
         },
         "3": {
@@ -3493,11 +3493,11 @@
             "headers": []
         },
         "4": {
-            "verse": "In charge of the division for the second month was Dodai ( B ) the Ahohite; Mikloth was the leader of his division. There were 24,000 men in his division.",
+            "verse": "In charge of the division for the second month was Dodai the Ahohite; Mikloth was the leader of his division. There were 24,000 men in his division.",
             "headers": []
         },
         "5": {
-            "verse": "The third army commander, for the third month, was Benaiah ( C ) son of Jehoiada the priest. He was chief and there were 24,000 men in his division.",
+            "verse": "The third army commander, for the third month, was Benaiah son of Jehoiada the priest. He was chief and there were 24,000 men in his division.",
             "headers": []
         },
         "6": {
@@ -3505,39 +3505,39 @@
             "headers": []
         },
         "7": {
-            "verse": "The fourth, for the fourth month, was Asahel ( D ) the brother of Joab; his son Zebadiah was his successor. There were 24,000 men in his division.",
+            "verse": "The fourth, for the fourth month, was Asahel the brother of Joab; his son Zebadiah was his successor. There were 24,000 men in his division.",
             "headers": []
         },
         "8": {
-            "verse": "The fifth, for the fifth month, was the commander Shamhuth ( E ) the Izrahite. There were 24,000 men in his division.",
+            "verse": "The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.",
             "headers": []
         },
         "9": {
-            "verse": "The sixth, for the sixth month, was Ira ( F ) the son of Ikkesh the Tekoite. There were 24,000 men in his division.",
+            "verse": "The sixth, for the sixth month, was Ira the son of Ikkesh the Tekoite. There were 24,000 men in his division.",
             "headers": []
         },
         "10": {
-            "verse": "The seventh, for the seventh month, was Helez ( G ) the Pelonite, an Ephraimite. There were 24,000 men in his division.",
+            "verse": "The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 24,000 men in his division.",
             "headers": []
         },
         "11": {
-            "verse": "The eighth, for the eighth month, was Sibbekai ( H ) the Hushathite, a Zerahite. There were 24,000 men in his division.",
+            "verse": "The eighth, for the eighth month, was Sibbekai the Hushathite, a Zerahite. There were 24,000 men in his division.",
             "headers": []
         },
         "12": {
-            "verse": "The ninth, for the ninth month, was Abiezer ( I ) the Anathothite, a Benjamite. There were 24,000 men in his division.",
+            "verse": "The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.",
             "headers": []
         },
         "13": {
-            "verse": "The tenth, for the tenth month, was Maharai ( J ) the Netophathite, a Zerahite. There were 24,000 men in his division.",
+            "verse": "The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.",
             "headers": []
         },
         "14": {
-            "verse": "The eleventh, for the eleventh month, was Benaiah ( K ) the Pirathonite, an Ephraimite. There were 24,000 men in his division.",
+            "verse": "The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.",
             "headers": []
         },
         "15": {
-            "verse": "The twelfth, for the twelfth month, was Heldai ( L ) the Netophathite, from the family of Othniel. ( M ) There were 24,000 men in his division.",
+            "verse": "The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.",
             "headers": []
         },
         "16": {
@@ -3545,7 +3545,7 @@
             "headers": []
         },
         "17": {
-            "verse": "over Levi: Hashabiah ( N ) son of Kemuel;",
+            "verse": "over Levi: Hashabiah son of Kemuel;",
             "headers": []
         },
         "18": {
@@ -3569,11 +3569,11 @@
             "headers": []
         },
         "23": {
-            "verse": "David did not take the number of the men twenty years old or less, ( P ) because the Lord had promised to make Israel as numerous as the stars ( Q ) in the sky.",
+            "verse": "David did not take the number of the men twenty years old or less, because the Lord had promised to make Israel as numerous as the stars in the sky.",
             "headers": []
         },
         "24": {
-            "verse": "Joab son of Zeruiah began to count the men but did not finish. God’s wrath came on Israel on account of this numbering, ( R ) and the number was not entered in the book  of the annals of King David.",
+            "verse": "Joab son of Zeruiah began to count the men but did not finish. God’s wrath came on Israel on account of this numbering, and the number was not entered in the book of the annals of King David.",
             "headers": []
         },
         "25": {
@@ -3589,11 +3589,11 @@
             "headers": []
         },
         "28": {
-            "verse": "Baal-Hanan the Gederite was in charge of the olive and sycamore-fig ( S ) trees in the western foothills.",
+            "verse": "Baal-Hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills.",
             "headers": []
         },
         "29": {
-            "verse": "Shitrai the Sharonite was in charge of the herds grazing in Sharon. ( T )",
+            "verse": "Shitrai the Sharonite was in charge of the herds grazing in Sharon.",
             "headers": []
         },
         "30": {
@@ -3601,7 +3601,7 @@
             "headers": []
         },
         "31": {
-            "verse": "Jaziz the Hagrite ( U ) was in charge of the flocks.",
+            "verse": "Jaziz the Hagrite was in charge of the flocks.",
             "headers": []
         },
         "32": {
@@ -3609,49 +3609,49 @@
             "headers": []
         },
         "33": {
-            "verse": "Ahithophel ( V ) was the king’s counselor.",
+            "verse": "Ahithophel was the king’s counselor.",
             "headers": []
         },
         "34": {
-            "verse": "Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar. ( X )",
+            "verse": "Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar.",
             "headers": []
         }
     },
     "28": {
         "1": {
-            "verse": "David summoned ( A ) all the officials ( B ) of Israel to assemble at Jerusalem: the officers over the tribes, the commanders of the divisions in the service of the king, the commanders of thousands and commanders of hundreds, and the officials in charge of all the property and livestock belonging to the king and his sons, together with the palace officials, the warriors and all the brave fighting men.",
+            "verse": "David summoned all the officials of Israel to assemble at Jerusalem: the officers over the tribes, the commanders of the divisions in the service of the king, the commanders of thousands and commanders of hundreds, and the officials in charge of all the property and livestock belonging to the king and his sons, together with the palace officials, the warriors and all the brave fighting men.",
             "headers": []
         },
         "2": {
-            "verse": "King David rose to his feet and said: “Listen to me, my fellow Israelites, my people. I had it in my heart ( C ) to build a house as a place of rest ( D ) for the ark of the covenant of the Lord , for the footstool ( E ) of our God, and I made plans to build it. ( F )",
+            "verse": "King David rose to his feet and said: “Listen to me, my fellow Israelites, my people. I had it in my heart to build a house as a place of rest for the ark of the covenant of the Lord , for the footstool of our God, and I made plans to build it.",
             "headers": []
         },
         "3": {
-            "verse": "But God said to me, ( G ) ‘You are not to build a house for my Name, ( H ) because you are a warrior and have shed blood.’ ( I )",
+            "verse": "But God said to me, ‘You are not to build a house for my Name, because you are a warrior and have shed blood.’",
             "headers": []
         },
         "4": {
-            "verse": "“Yet the Lord , the God of Israel, chose me ( J ) from my whole family ( K ) to be king over Israel forever. He chose Judah ( L ) as leader, and from the tribe of Judah he chose my family, and from my father’s sons he was pleased to make me king over all Israel. ( M )",
+            "verse": "“Yet the Lord , the God of Israel, chose me from my whole family to be king over Israel forever. He chose Judah as leader, and from the tribe of Judah he chose my family, and from my father’s sons he was pleased to make me king over all Israel.",
             "headers": []
         },
         "5": {
-            "verse": "Of all my sons—and the Lord has given me many ( N ) —he has chosen my son Solomon ( O ) to sit on the throne ( P ) of the kingdom of the Lord over Israel.",
+            "verse": "Of all my sons—and the Lord has given me many —he has chosen my son Solomon to sit on the throne of the kingdom of the Lord over Israel.",
             "headers": []
         },
         "6": {
-            "verse": "He said to me: ‘Solomon your son is the one who will build ( Q ) my house and my courts, for I have chosen him to be my son, ( R ) and I will be his father.",
+            "verse": "He said to me: ‘Solomon your son is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father.",
             "headers": []
         },
         "7": {
-            "verse": "I will establish his kingdom forever if he is unswerving in carrying out my commands and laws, ( S ) as is being done at this time.’",
+            "verse": "I will establish his kingdom forever if he is unswerving in carrying out my commands and laws, as is being done at this time.’",
             "headers": []
         },
         "8": {
-            "verse": "“So now I charge you in the sight of all Israel ( T ) and of the assembly of the Lord , and in the hearing of our God: Be careful to follow all the commands ( U ) of the Lord your God, that you may possess this good land and pass it on as an inheritance to your descendants forever. ( V )",
+            "verse": "“So now I charge you in the sight of all Israel and of the assembly of the Lord , and in the hearing of our God: Be careful to follow all the commands of the Lord your God, that you may possess this good land and pass it on as an inheritance to your descendants forever.",
             "headers": []
         },
         "9": {
-            "verse": "“And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion ( W ) and with a willing mind, for the Lord searches every heart ( X ) and understands every desire and every thought. If you seek him, ( Y ) he will be found by you; but if you forsake ( Z ) him, he will reject ( AA ) you forever.",
+            "verse": "“And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion and with a willing mind, for the Lord searches every heart and understands every desire and every thought. If you seek him, he will be found by you; but if you forsake him, he will reject you forever.",
             "headers": []
         },
         "10": {
@@ -3659,15 +3659,15 @@
             "headers": []
         },
         "11": {
-            "verse": "Then David gave his son Solomon the plans ( AB ) for the portico of the temple, its buildings, its storerooms, its upper parts, its inner rooms and the place of atonement.",
+            "verse": "Then David gave his son Solomon the plans for the portico of the temple, its buildings, its storerooms, its upper parts, its inner rooms and the place of atonement.",
             "headers": []
         },
         "12": {
-            "verse": "He gave him the plans of all that the Spirit ( AC ) had put in his mind for the courts of the temple of the Lord and all the surrounding rooms, for the treasuries of the temple of God and for the treasuries for the dedicated things. ( AD )",
+            "verse": "He gave him the plans of all that the Spirit had put in his mind for the courts of the temple of the Lord and all the surrounding rooms, for the treasuries of the temple of God and for the treasuries for the dedicated things.",
             "headers": []
         },
         "13": {
-            "verse": "He gave him instructions for the divisions ( AE ) of the priests and Levites, and for all the work of serving in the temple of the Lord , as well as for all the articles to be used in its service.",
+            "verse": "He gave him instructions for the divisions of the priests and Levites, and for all the work of serving in the temple of the Lord , as well as for all the articles to be used in its service.",
             "headers": []
         },
         "14": {
@@ -3675,49 +3675,49 @@
             "headers": []
         },
         "15": {
-            "verse": "the weight of gold for the gold lampstands ( AF ) and their lamps, with the weight for each lampstand and its lamps; and the weight of silver for each silver lampstand and its lamps, according to the use of each lampstand;",
+            "verse": "the weight of gold for the gold lampstands and their lamps, with the weight for each lampstand and its lamps; and the weight of silver for each silver lampstand and its lamps, according to the use of each lampstand;",
             "headers": []
         },
         "16": {
-            "verse": "the weight of gold for each table ( AG ) for consecrated bread; the weight of silver for the silver tables;",
+            "verse": "the weight of gold for each table for consecrated bread; the weight of silver for the silver tables;",
             "headers": []
         },
         "17": {
-            "verse": "the weight of pure gold for the forks, sprinkling bowls ( AH ) and pitchers; the weight of gold for each gold dish; the weight of silver for each silver dish;",
+            "verse": "the weight of pure gold for the forks, sprinkling bowls and pitchers; the weight of gold for each gold dish; the weight of silver for each silver dish;",
             "headers": []
         },
         "18": {
-            "verse": "and the weight of the refined gold for the altar of incense. ( AI ) He also gave him the plan for the chariot, ( AJ ) that is, the cherubim of gold that spread their wings and overshadow ( AK ) the ark of the covenant of the Lord .",
+            "verse": "and the weight of the refined gold for the altar of incense. He also gave him the plan for the chariot, that is, the cherubim of gold that spread their wings and overshadow the ark of the covenant of the Lord .",
             "headers": []
         },
         "19": {
-            "verse": "“All this,” David said, “I have in writing as a result of the Lord ’s hand on me, and he enabled me to understand all the details ( AL ) of the plan. ( AM ) ”",
+            "verse": "“All this,” David said, “I have in writing as a result of the Lord ’s hand on me, and he enabled me to understand all the details of the plan. ”",
             "headers": []
         },
         "20": {
-            "verse": "David also said to Solomon his son, “Be strong and courageous, ( AN ) and do the work. Do not be afraid or discouraged, for the Lord God, my God, is with you. He will not fail you or forsake ( AO ) you until all the work for the service of the temple of the Lord is finished. ( AP )",
+            "verse": "David also said to Solomon his son, “Be strong and courageous, and do the work. Do not be afraid or discouraged, for the Lord God, my God, is with you. He will not fail you or forsake you until all the work for the service of the temple of the Lord is finished.",
             "headers": []
         },
         "21": {
-            "verse": "The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing person skilled ( AQ ) in any craft will help you in all the work. The officials and all the people will obey your every command.”",
+            "verse": "The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing person skilled in any craft will help you in all the work. The officials and all the people will obey your every command.”",
             "headers": []
         }
     },
     "29": {
         "1": {
-            "verse": "Then King David said to the whole assembly: “My son Solomon, the one whom God has chosen, is young and inexperienced. ( A ) The task is great, because this palatial structure is not for man but for the Lord God.",
+            "verse": "Then King David said to the whole assembly: “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the Lord God.",
             "headers": []
         },
         "2": {
-            "verse": "With all my resources I have provided for the temple of my God—gold ( B ) for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise,  ( C ) stones of various colors, and all kinds of fine stone and marble—all of these in large quantities. ( D )",
+            "verse": "With all my resources I have provided for the temple of my God—gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, and all kinds of fine stone and marble—all of these in large quantities.",
             "headers": []
         },
         "3": {
-            "verse": "Besides, in my devotion to the temple of my God I now give my personal treasures of gold and silver for the temple of my God, over and above everything I have provided ( E ) for this holy temple:",
+            "verse": "Besides, in my devotion to the temple of my God I now give my personal treasures of gold and silver for the temple of my God, over and above everything I have provided for this holy temple:",
             "headers": []
         },
         "4": {
-            "verse": "three thousand talents  of gold (gold of Ophir) ( F ) and seven thousand talents  of refined silver, ( G ) for the overlaying of the walls of the buildings,",
+            "verse": "three thousand talents of gold (gold of Ophir) and seven thousand talents of refined silver, for the overlaying of the walls of the buildings,",
             "headers": []
         },
         "5": {
@@ -3725,19 +3725,19 @@
             "headers": []
         },
         "6": {
-            "verse": "Then the leaders of families, the officers of the tribes of Israel, the commanders of thousands and commanders of hundreds, and the officials ( H ) in charge of the king’s work gave willingly. ( I )",
+            "verse": "Then the leaders of families, the officers of the tribes of Israel, the commanders of thousands and commanders of hundreds, and the officials in charge of the king’s work gave willingly.",
             "headers": []
         },
         "7": {
-            "verse": "They ( J ) gave toward the work on the temple of God five thousand talents  and ten thousand darics  of gold, ten thousand talents  of silver, eighteen thousand talents  of bronze and a hundred thousand talents  of iron.",
+            "verse": "They gave toward the work on the temple of God five thousand talents and ten thousand darics of gold, ten thousand talents of silver, eighteen thousand talents of bronze and a hundred thousand talents of iron.",
             "headers": []
         },
         "8": {
-            "verse": "Anyone who had precious stones ( K ) gave them to the treasury of the temple of the Lord in the custody of Jehiel the Gershonite. ( L )",
+            "verse": "Anyone who had precious stones gave them to the treasury of the temple of the Lord in the custody of Jehiel the Gershonite.",
             "headers": []
         },
         "9": {
-            "verse": "The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly ( M ) to the Lord . David the king also rejoiced greatly.",
+            "verse": "The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the Lord . David the king also rejoiced greatly.",
             "headers": []
         },
         "10": {
@@ -3745,11 +3745,11 @@
             "headers": []
         },
         "11": {
-            "verse": "Yours, Lord , is the greatness and the power ( N )",
+            "verse": "Yours, Lord , is the greatness and the power",
             "headers": []
         },
         "12": {
-            "verse": "Wealth and honor ( Q ) come from you;",
+            "verse": "Wealth and honor come from you;",
             "headers": []
         },
         "13": {
@@ -3757,11 +3757,11 @@
             "headers": []
         },
         "14": {
-            "verse": "“But who am I, and who are my people, that we should be able to give as generously as this? ( S ) Everything comes from you, and we have given you only what comes from your hand. ( T )",
+            "verse": "“But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand.",
             "headers": []
         },
         "15": {
-            "verse": "We are foreigners and strangers ( U ) in your sight, as were all our ancestors. Our days on earth are like a shadow, ( V ) without hope.",
+            "verse": "We are foreigners and strangers in your sight, as were all our ancestors. Our days on earth are like a shadow, without hope.",
             "headers": []
         },
         "16": {
@@ -3769,7 +3769,7 @@
             "headers": []
         },
         "17": {
-            "verse": "I know, my God, that you test the heart ( W ) and are pleased with integrity. All these things I have given willingly and with honest intent. And now I have seen with joy how willingly your people who are here have given to you. ( X )",
+            "verse": "I know, my God, that you test the heart and are pleased with integrity. All these things I have given willingly and with honest intent. And now I have seen with joy how willingly your people who are here have given to you.",
             "headers": []
         },
         "18": {
@@ -3777,7 +3777,7 @@
             "headers": []
         },
         "19": {
-            "verse": "And give my son Solomon the wholehearted devotion ( Y ) to keep your commands, statutes and decrees ( Z ) and to do everything to build the palatial structure for which I have provided.” ( AA )",
+            "verse": "And give my son Solomon the wholehearted devotion to keep your commands, statutes and decrees and to do everything to build the palatial structure for which I have provided.”",
             "headers": []
         },
         "20": {
@@ -3785,39 +3785,39 @@
             "headers": []
         },
         "21": {
-            "verse": "The next day they made sacrifices to the Lord and presented burnt offerings to him: ( AC ) a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel. ( AD )",
+            "verse": "The next day they made sacrifices to the Lord and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel.",
             "headers": []
         },
         "22": {
-            "verse": "They ate and drank with great joy ( AE ) in the presence of the Lord that day.",
+            "verse": "They ate and drank with great joy in the presence of the Lord that day.",
             "headers": []
         },
         "23": {
-            "verse": "So Solomon sat ( AG ) on the throne ( AH ) of the Lord as king in place of his father David. He prospered and all Israel obeyed him.",
+            "verse": "So Solomon sat on the throne of the Lord as king in place of his father David. He prospered and all Israel obeyed him.",
             "headers": []
         },
         "24": {
-            "verse": "All the officers and warriors, as well as all of King David’s sons, ( AI ) pledged their submission to King Solomon.",
+            "verse": "All the officers and warriors, as well as all of King David’s sons, pledged their submission to King Solomon.",
             "headers": []
         },
         "25": {
-            "verse": "The Lord highly exalted ( AJ ) Solomon in the sight of all Israel and bestowed on him royal splendor ( AK ) such as no king over Israel ever had before. ( AL )",
+            "verse": "The Lord highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.",
             "headers": []
         },
         "26": {
-            "verse": "David son of Jesse was king ( AN ) over all Israel. ( AO )",
+            "verse": "David son of Jesse was king over all Israel.",
             "headers": []
         },
         "27": {
-            "verse": "He ruled over Israel forty years—seven in Hebron ( AP ) and thirty-three in Jerusalem. ( AQ )",
+            "verse": "He ruled over Israel forty years—seven in Hebron and thirty-three in Jerusalem.",
             "headers": []
         },
         "28": {
-            "verse": "He died ( AR ) at a good old age, having enjoyed long life, wealth and honor. His son Solomon succeeded him as king. ( AS )",
+            "verse": "He died at a good old age, having enjoyed long life, wealth and honor. His son Solomon succeeded him as king.",
             "headers": []
         },
         "29": {
-            "verse": "As for the events of King David’s reign, from beginning to end, they are written in the records of Samuel the seer, ( AT ) the records of Nathan ( AU ) the prophet and the records of Gad ( AV ) the seer,",
+            "verse": "As for the events of King David’s reign, from beginning to end, they are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer,",
             "headers": []
         },
         "30": {
