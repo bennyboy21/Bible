@@ -19,10 +19,16 @@
             "UKR": "Ukrainian Bible"
         }
     },
+    "es": {
+        "versions": {
+            "RVA": "Reina-Valera Antigua"
+        }
+    },
     "languages": {
         "English": "en", 
         "Français": "fr",
-        "Ukrainian": "uk"
+        "Ukrainian": "uk",
+        "Español": "es"
     },
-    "version_count":8
+    "version_count":9
 }
