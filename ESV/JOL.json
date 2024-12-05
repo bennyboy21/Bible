@@ -1,5 +1,300 @@
 {
-    "1": {},
-    "2": {},
-    "3": {}
+    "1": {
+        "1": {
+            "verse": "The word of the Lord that came to Joel, the son of Pethuel:",
+            "headers": []
+        },
+        "2": {
+            "verse": "Hear this, you elders;",
+            "headers": []
+        },
+        "3": {
+            "verse": "Tell your children of it,",
+            "headers": []
+        },
+        "4": {
+            "verse": "What the cutting locust left,",
+            "headers": []
+        },
+        "5": {
+            "verse": "Awake, you drunkards, and weep,",
+            "headers": []
+        },
+        "6": {
+            "verse": "For a nation has come up against my land,",
+            "headers": []
+        },
+        "7": {
+            "verse": "It has laid waste my vine",
+            "headers": []
+        },
+        "8": {
+            "verse": "Lament like a virgin wearing sackcloth",
+            "headers": []
+        },
+        "9": {
+            "verse": "The grain offering and the drink offering are cut off",
+            "headers": []
+        },
+        "10": {
+            "verse": "The fields are destroyed,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Be ashamed, O tillers of the soil;",
+            "headers": []
+        },
+        "12": {
+            "verse": "The vine dries up;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Put on sackcloth and lament, O priests;",
+            "headers": []
+        },
+        "14": {
+            "verse": "Consecrate a fast;",
+            "headers": []
+        },
+        "15": {
+            "verse": "Alas for the day!",
+            "headers": []
+        },
+        "16": {
+            "verse": "Is not the food cut off",
+            "headers": []
+        },
+        "17": {
+            "verse": "The seed shrivels under the clods;",
+            "headers": []
+        },
+        "18": {
+            "verse": "How the beasts groan!",
+            "headers": []
+        },
+        "19": {
+            "verse": "To you, O Lord , I call.",
+            "headers": []
+        },
+        "20": {
+            "verse": "Even the beasts of the field pant for you",
+            "headers": []
+        }
+    },
+    "2": {
+        "1": {
+            "verse": "Blow a trumpet in Zion;",
+            "headers": []
+        },
+        "2": {
+            "verse": "a day of darkness and gloom,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Fire devours before them,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Their appearance is like the appearance of horses,",
+            "headers": []
+        },
+        "5": {
+            "verse": "As with the rumbling of chariots,",
+            "headers": []
+        },
+        "6": {
+            "verse": "Before them peoples are in anguish;",
+            "headers": []
+        },
+        "7": {
+            "verse": "Like warriors they charge;",
+            "headers": []
+        },
+        "8": {
+            "verse": "They do not jostle one another;",
+            "headers": []
+        },
+        "9": {
+            "verse": "They leap upon the city,",
+            "headers": []
+        },
+        "10": {
+            "verse": "The earth quakes before them;",
+            "headers": []
+        },
+        "11": {
+            "verse": "The Lord utters his voice",
+            "headers": []
+        },
+        "12": {
+            "verse": "“Yet even now,” declares the Lord ,",
+            "headers": []
+        },
+        "13": {
+            "verse": "and rend your hearts and not your garments.”",
+            "headers": []
+        },
+        "14": {
+            "verse": "Who knows whether he will not turn and relent,",
+            "headers": []
+        },
+        "15": {
+            "verse": "Blow the trumpet in Zion;",
+            "headers": []
+        },
+        "16": {
+            "verse": "gather the people.",
+            "headers": []
+        },
+        "17": {
+            "verse": "Between the vestibule and the altar",
+            "headers": []
+        },
+        "18": {
+            "verse": "Then the Lord became jealous for his land",
+            "headers": []
+        },
+        "19": {
+            "verse": "The Lord answered and said to his people,",
+            "headers": []
+        },
+        "20": {
+            "verse": "“I will remove the northerner far from you,",
+            "headers": []
+        },
+        "21": {
+            "verse": "“Fear not, O land;",
+            "headers": []
+        },
+        "22": {
+            "verse": "Fear not, you beasts of the field,",
+            "headers": []
+        },
+        "23": {
+            "verse": "“Be glad, O children of Zion,",
+            "headers": []
+        },
+        "24": {
+            "verse": "“The threshing floors shall be full of grain;",
+            "headers": []
+        },
+        "25": {
+            "verse": "I will restore to you the years",
+            "headers": []
+        },
+        "26": {
+            "verse": "“You shall eat in plenty and be satisfied,",
+            "headers": []
+        },
+        "27": {
+            "verse": "You shall know that I am in the midst of Israel,",
+            "headers": []
+        },
+        "28": {
+            "verse": "“And it shall come to pass afterward,",
+            "headers": []
+        },
+        "29": {
+            "verse": "Even on the male and female servants",
+            "headers": []
+        },
+        "30": {
+            "verse": "“And I will show wonders in the heavens and on the earth, blood and fire and columns of smoke.",
+            "headers": []
+        },
+        "31": {
+            "verse": "The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the Lord comes.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And it shall come to pass that everyone who calls on the name of the Lord shall be saved. For in Mount Zion and in Jerusalem there shall be those who escape, as the Lord has said, and among the survivors shall be those whom the Lord calls.",
+            "headers": []
+        }
+    },
+    "3": {
+        "1": {
+            "verse": "“For behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem,",
+            "headers": []
+        },
+        "2": {
+            "verse": "I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there, on behalf of my people and my heritage Israel, because they have scattered them among the nations and have divided up my land,",
+            "headers": []
+        },
+        "3": {
+            "verse": "and have cast lots for my people, and have traded a boy for a prostitute, and have sold a girl for wine and have drunk it.",
+            "headers": []
+        },
+        "4": {
+            "verse": "“What are you to me, O Tyre and Sidon, and all the regions of Philistia? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily.",
+            "headers": []
+        },
+        "5": {
+            "verse": "For you have taken my silver and my gold, and have carried my rich treasures into your temples.",
+            "headers": []
+        },
+        "6": {
+            "verse": "You have sold the people of Judah and Jerusalem to the Greeks in order to remove them far from their own border.",
+            "headers": []
+        },
+        "7": {
+            "verse": "Behold, I will stir them up from the place to which you have sold them, and I will return your payment on your own head.",
+            "headers": []
+        },
+        "8": {
+            "verse": "I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans, to a nation far away, for the Lord has spoken.”",
+            "headers": []
+        },
+        "9": {
+            "verse": "Proclaim this among the nations:",
+            "headers": []
+        },
+        "10": {
+            "verse": "Beat your plowshares into swords,",
+            "headers": []
+        },
+        "11": {
+            "verse": "Hasten and come,",
+            "headers": []
+        },
+        "12": {
+            "verse": "Let the nations stir themselves up",
+            "headers": []
+        },
+        "13": {
+            "verse": "Put in the sickle,",
+            "headers": []
+        },
+        "14": {
+            "verse": "Multitudes, multitudes,",
+            "headers": []
+        },
+        "15": {
+            "verse": "The sun and the moon are darkened,",
+            "headers": []
+        },
+        "16": {
+            "verse": "The Lord roars from Zion,",
+            "headers": []
+        },
+        "17": {
+            "verse": "“So you shall know that I am the Lord your God,",
+            "headers": []
+        },
+        "18": {
+            "verse": "“And in that day",
+            "headers": []
+        },
+        "19": {
+            "verse": "“Egypt shall become a desolation",
+            "headers": []
+        },
+        "20": {
+            "verse": "But Judah shall be inhabited forever,",
+            "headers": []
+        },
+        "21": {
+            "verse": "I will avenge their blood,",
+            "headers": []
+        }
+    }
 }
