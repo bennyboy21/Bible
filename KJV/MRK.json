@@ -1,18 +1,2746 @@
 {
-    "1": {},
-    "2": {},
-    "3": {},
-    "4": {},
-    "5": {},
-    "6": {},
-    "7": {},
-    "8": {},
-    "9": {},
-    "10": {},
-    "11": {},
-    "12": {},
-    "13": {},
-    "14": {},
-    "15": {},
-    "16": {}
+    "1": {
+        "1": {
+            "verse": "The beginning of the gospel of Jesus Christ, the Son of God;",
+            "headers": []
+        },
+        "2": {
+            "verse": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+            "headers": []
+        },
+        "3": {
+            "verse": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+            "headers": []
+        },
+        "4": {
+            "verse": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+            "headers": []
+        },
+        "7": {
+            "verse": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.",
+            "headers": []
+        },
+        "8": {
+            "verse": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+            "headers": []
+        },
+        "11": {
+            "verse": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And immediately the spirit driveth him into the wilderness.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,",
+            "headers": []
+        },
+        "15": {
+            "verse": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+            "headers": []
+        },
+        "16": {
+            "verse": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And straightway they forsook their nets, and followed him.",
+            "headers": []
+        },
+        "19": {
+            "verse": "And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And there was in their synagogue a man with an unclean spirit; and he cried out,",
+            "headers": []
+        },
+        "24": {
+            "verse": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And Jesus rebuked him, saying, Hold thy peace, and come out of him.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.",
+            "headers": []
+        },
+        "28": {
+            "verse": "And immediately his fame spread abroad throughout all the region round about Galilee.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.",
+            "headers": []
+        },
+        "30": {
+            "verse": "But Simon's wife's mother lay sick of a fever, and anon they tell him of her.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And all the city was gathered together at the door.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And Simon and they that were with him followed after him.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And when they had found him, they said unto him, All men seek for thee.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.",
+            "headers": []
+        },
+        "39": {
+            "verse": "And he preached in their synagogues throughout all Galilee, and cast out devils.",
+            "headers": []
+        },
+        "40": {
+            "verse": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And he straitly charged him, and forthwith sent him away;",
+            "headers": []
+        },
+        "44": {
+            "verse": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.",
+            "headers": []
+        },
+        "45": {
+            "verse": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.",
+            "headers": []
+        }
+    },
+    "2": {
+        "1": {
+            "verse": "And again he entered into Capernaum after some days; and it was noised that he was in the house.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And they come unto him, bringing one sick of the palsy, which was borne of four.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.",
+            "headers": []
+        },
+        "5": {
+            "verse": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.",
+            "headers": []
+        },
+        "6": {
+            "verse": "But there was certain of the scribes sitting there, and reasoning in their hearts,",
+            "headers": []
+        },
+        "7": {
+            "verse": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
+            "headers": []
+        },
+        "8": {
+            "verse": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?",
+            "headers": []
+        },
+        "9": {
+            "verse": "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?",
+            "headers": []
+        },
+        "10": {
+            "verse": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)",
+            "headers": []
+        },
+        "11": {
+            "verse": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?",
+            "headers": []
+        },
+        "17": {
+            "verse": "When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?",
+            "headers": []
+        },
+        "19": {
+            "verse": "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.",
+            "headers": []
+        },
+        "20": {
+            "verse": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+            "headers": []
+        },
+        "21": {
+            "verse": "No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?",
+            "headers": []
+        },
+        "25": {
+            "verse": "And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?",
+            "headers": []
+        },
+        "26": {
+            "verse": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?",
+            "headers": []
+        },
+        "27": {
+            "verse": "And he said unto them, The sabbath was made for man, and not man for the sabbath:",
+            "headers": []
+        },
+        "28": {
+            "verse": "Therefore the Son of man is Lord also of the sabbath.",
+            "headers": []
+        }
+    },
+    "3": {
+        "1": {
+            "verse": "And he entered again into the synagogue; and there was a man there which had a withered hand.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And he saith unto the man which had the withered hand, Stand forth.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.",
+            "headers": []
+        },
+        "7": {
+            "verse": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,",
+            "headers": []
+        },
+        "8": {
+            "verse": "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.",
+            "headers": []
+        },
+        "10": {
+            "verse": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And he straitly charged them that they should not make him known.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,",
+            "headers": []
+        },
+        "15": {
+            "verse": "And to have power to heal sicknesses, and to cast out devils:",
+            "headers": []
+        },
+        "16": {
+            "verse": "And Simon he surnamed Peter;",
+            "headers": []
+        },
+        "17": {
+            "verse": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:",
+            "headers": []
+        },
+        "18": {
+            "verse": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,",
+            "headers": []
+        },
+        "19": {
+            "verse": "And Judas Iscariot, which also betrayed him: and they went into an house.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And the multitude cometh together again, so that they could not so much as eat bread.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?",
+            "headers": []
+        },
+        "24": {
+            "verse": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And if a house be divided against itself, that house cannot stand.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.",
+            "headers": []
+        },
+        "27": {
+            "verse": "No man can enter into a strong man's house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.",
+            "headers": []
+        },
+        "28": {
+            "verse": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:",
+            "headers": []
+        },
+        "29": {
+            "verse": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation.",
+            "headers": []
+        },
+        "30": {
+            "verse": "Because they said, He hath an unclean spirit.",
+            "headers": []
+        },
+        "31": {
+            "verse": "There came then his brethren and his mother, and, standing without, sent unto him, calling him.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And he answered them, saying, Who is my mother, or my brethren?",
+            "headers": []
+        },
+        "34": {
+            "verse": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!",
+            "headers": []
+        },
+        "35": {
+            "verse": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother.",
+            "headers": []
+        }
+    },
+    "4": {
+        "1": {
+            "verse": "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And he taught them many things by parables, and said unto them in his doctrine,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Hearken; Behold, there went out a sower to sow:",
+            "headers": []
+        },
+        "4": {
+            "verse": "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:",
+            "headers": []
+        },
+        "6": {
+            "verse": "But when the sun was up, it was scorched; and because it had no root, it withered away.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.",
+            "headers": []
+        },
+        "8": {
+            "verse": "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And he said unto them, He that hath ears to hear, let him hear.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And when he was alone, they that were about him with the twelve asked of him the parable.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:",
+            "headers": []
+        },
+        "12": {
+            "verse": "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he said unto them, Know ye not this parable? and how then will ye know all parables?",
+            "headers": []
+        },
+        "14": {
+            "verse": "The sower soweth the word.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;",
+            "headers": []
+        },
+        "17": {
+            "verse": "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And these are they which are sown among thorns; such as hear the word,",
+            "headers": []
+        },
+        "19": {
+            "verse": "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?",
+            "headers": []
+        },
+        "22": {
+            "verse": "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad.",
+            "headers": []
+        },
+        "23": {
+            "verse": "If any man have ears to hear, let him hear.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given.",
+            "headers": []
+        },
+        "25": {
+            "verse": "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And he said, So is the kingdom of God, as if a man should cast seed into the ground;",
+            "headers": []
+        },
+        "27": {
+            "verse": "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.",
+            "headers": []
+        },
+        "28": {
+            "verse": "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.",
+            "headers": []
+        },
+        "29": {
+            "verse": "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?",
+            "headers": []
+        },
+        "31": {
+            "verse": "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:",
+            "headers": []
+        },
+        "32": {
+            "verse": "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And with many such parables spake he the word unto them, as they were able to hear it.",
+            "headers": []
+        },
+        "34": {
+            "verse": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?",
+            "headers": []
+        },
+        "39": {
+            "verse": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.",
+            "headers": []
+        },
+        "40": {
+            "verse": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?",
+            "headers": []
+        },
+        "41": {
+            "verse": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?",
+            "headers": []
+        }
+    },
+    "5": {
+        "1": {
+            "verse": "And they came over unto the other side of the sea, into the country of the Gadarenes.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,",
+            "headers": []
+        },
+        "3": {
+            "verse": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:",
+            "headers": []
+        },
+        "4": {
+            "verse": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.",
+            "headers": []
+        },
+        "6": {
+            "verse": "But when he saw Jesus afar off, he ran and worshipped him,",
+            "headers": []
+        },
+        "7": {
+            "verse": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For he said unto him, Come out of the man, thou unclean spirit.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And he besought him much that he would not send them away out of the country.",
+            "headers": []
+        },
+        "11": {
+            "verse": "Now there was there nigh unto the mountains a great herd of swine feeding.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And all the devils besought him, saying, Send us into the swine, that we may enter into them.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And they began to pray him to depart out of their coasts.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.",
+            "headers": []
+        },
+        "19": {
+            "verse": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,",
+            "headers": []
+        },
+        "23": {
+            "verse": "And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And Jesus went with him; and much people followed him, and thronged him.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And a certain woman, which had an issue of blood twelve years,",
+            "headers": []
+        },
+        "26": {
+            "verse": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,",
+            "headers": []
+        },
+        "27": {
+            "verse": "When she had heard of Jesus, came in the press behind, and touched his garment.",
+            "headers": []
+        },
+        "28": {
+            "verse": "For she said, If I may touch but his clothes, I shall be whole.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?",
+            "headers": []
+        },
+        "31": {
+            "verse": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+            "headers": []
+        },
+        "32": {
+            "verse": "And he looked round about to see her that had done this thing.",
+            "headers": []
+        },
+        "33": {
+            "verse": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+            "headers": []
+        },
+        "35": {
+            "verse": "While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further?",
+            "headers": []
+        },
+        "36": {
+            "verse": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And he suffered no man to follow him, save Peter, and James, and John the brother of James.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.",
+            "headers": []
+        },
+        "39": {
+            "verse": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.",
+            "headers": []
+        },
+        "40": {
+            "verse": "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat.",
+            "headers": []
+        }
+    },
+    "6": {
+        "1": {
+            "verse": "And he went out from thence, and came into his own country; and his disciples follow him.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?",
+            "headers": []
+        },
+        "3": {
+            "verse": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.",
+            "headers": []
+        },
+        "4": {
+            "verse": "But Jesus, said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And he marvelled because of their unbelief. And he went round about the villages, teaching.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
+            "headers": []
+        },
+        "8": {
+            "verse": "And commanded them that they should take nothing for their journey, save a staff only; no scrip, no bread, no money in their purse:",
+            "headers": []
+        },
+        "9": {
+            "verse": "But be shod with sandals; and not put on two coats.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And they went out, and preached that men should repent.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And they cast out many devils, and anointed with oil many that were sick, and healed them.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.",
+            "headers": []
+        },
+        "15": {
+            "verse": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.",
+            "headers": []
+        },
+        "16": {
+            "verse": "But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.",
+            "headers": []
+        },
+        "17": {
+            "verse": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her.",
+            "headers": []
+        },
+        "18": {
+            "verse": "For John had said unto Herod, It is not lawful for thee to have thy brother's wife.",
+            "headers": []
+        },
+        "19": {
+            "verse": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:",
+            "headers": []
+        },
+        "20": {
+            "verse": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;",
+            "headers": []
+        },
+        "22": {
+            "verse": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And the king was exceeding sorry; yet for his oath's sake, and for their sakes which sat with him, he would not reject her.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,",
+            "headers": []
+        },
+        "28": {
+            "verse": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And they departed into a desert place by ship privately.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:",
+            "headers": []
+        },
+        "36": {
+            "verse": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.",
+            "headers": []
+        },
+        "37": {
+            "verse": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
+            "headers": []
+        },
+        "38": {
+            "verse": "He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.",
+            "headers": []
+        },
+        "39": {
+            "verse": "And he commanded them to make all sit down by companies upon the green grass.",
+            "headers": []
+        },
+        "40": {
+            "verse": "And they sat down in ranks, by hundreds, and by fifties.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And they did all eat, and were filled.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And they took up twelve baskets full of the fragments, and of the fishes.",
+            "headers": []
+        },
+        "44": {
+            "verse": "And they that did eat of the loaves were about five thousand men.",
+            "headers": []
+        },
+        "45": {
+            "verse": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.",
+            "headers": []
+        },
+        "46": {
+            "verse": "And when he had sent them away, he departed into a mountain to pray.",
+            "headers": []
+        },
+        "47": {
+            "verse": "And when even was come, the ship was in the midst of the sea, and he alone on the land.",
+            "headers": []
+        },
+        "48": {
+            "verse": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.",
+            "headers": []
+        },
+        "49": {
+            "verse": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:",
+            "headers": []
+        },
+        "50": {
+            "verse": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.",
+            "headers": []
+        },
+        "51": {
+            "verse": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.",
+            "headers": []
+        },
+        "52": {
+            "verse": "For they considered not the miracle of the loaves: for their heart was hardened.",
+            "headers": []
+        },
+        "53": {
+            "verse": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore.",
+            "headers": []
+        },
+        "54": {
+            "verse": "And when they were come out of the ship, straightway they knew him,",
+            "headers": []
+        },
+        "55": {
+            "verse": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.",
+            "headers": []
+        },
+        "56": {
+            "verse": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.",
+            "headers": []
+        }
+    },
+    "7": {
+        "1": {
+            "verse": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.",
+            "headers": []
+        },
+        "3": {
+            "verse": "For the Pharisees, and all the Jews, except they wash their hands oft, eat not, holding the tradition of the elders.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brasen vessels, and of tables.",
+            "headers": []
+        },
+        "5": {
+            "verse": "Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?",
+            "headers": []
+        },
+        "6": {
+            "verse": "He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me.",
+            "headers": []
+        },
+        "7": {
+            "verse": "Howbeit in vain do they worship me, teaching for doctrines the commandments of men.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For laying aside the commandment of God, ye hold the tradition of men, as the washing of pots and cups: and many other such like things ye do.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And he said unto them, Full well ye reject the commandment of God, that ye may keep your own tradition.",
+            "headers": []
+        },
+        "10": {
+            "verse": "For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:",
+            "headers": []
+        },
+        "11": {
+            "verse": "But ye say, If a man shall say to his father or mother, It is Corban, that is to say, a gift, by whatsoever thou mightest be profited by me; he shall be free.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And ye suffer him no more to do ought for his father or his mother;",
+            "headers": []
+        },
+        "13": {
+            "verse": "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:",
+            "headers": []
+        },
+        "15": {
+            "verse": "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man.",
+            "headers": []
+        },
+        "16": {
+            "verse": "If any man have ears to hear, let him hear.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And when he was entered into the house from the people, his disciples asked him concerning the parable.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;",
+            "headers": []
+        },
+        "19": {
+            "verse": "Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?",
+            "headers": []
+        },
+        "20": {
+            "verse": "And he said, That which cometh out of the man, that defileth the man.",
+            "headers": []
+        },
+        "21": {
+            "verse": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+            "headers": []
+        },
+        "22": {
+            "verse": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:",
+            "headers": []
+        },
+        "23": {
+            "verse": "All these evil things come from within, and defile the man.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.",
+            "headers": []
+        },
+        "25": {
+            "verse": "For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:",
+            "headers": []
+        },
+        "26": {
+            "verse": "The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.",
+            "headers": []
+        },
+        "27": {
+            "verse": "But Jesus said unto her, Let the children first be filled: for it is not meet to take the children's bread, and to cast it unto the dogs.",
+            "headers": []
+        },
+        "28": {
+            "verse": "And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children's crumbs.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;",
+            "headers": []
+        },
+        "34": {
+            "verse": "And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it;",
+            "headers": []
+        },
+        "37": {
+            "verse": "And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.",
+            "headers": []
+        }
+    },
+    "8": {
+        "1": {
+            "verse": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,",
+            "headers": []
+        },
+        "2": {
+            "verse": "I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:",
+            "headers": []
+        },
+        "3": {
+            "verse": "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?",
+            "headers": []
+        },
+        "5": {
+            "verse": "And he asked them, How many loaves have ye? And they said, Seven.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And they had a few small fishes: and he blessed, and commanded to set them also before them.",
+            "headers": []
+        },
+        "8": {
+            "verse": "So they did eat, and were filled: and they took up of the broken meat that was left seven baskets.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And they that had eaten were about four thousand: and he sent them away.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he left them, and entering into the ship again departed to the other side.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And they reasoned among themselves, saying, It is because we have no bread.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?",
+            "headers": []
+        },
+        "18": {
+            "verse": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?",
+            "headers": []
+        },
+        "19": {
+            "verse": "When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And he said unto them, How is it that ye do not understand?",
+            "headers": []
+        },
+        "22": {
+            "verse": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And he looked up, and said, I see men as trees, walking.",
+            "headers": []
+        },
+        "25": {
+            "verse": "After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?",
+            "headers": []
+        },
+        "28": {
+            "verse": "And they answered, John the Baptist; but some say, Elias; and others, One of the prophets.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And he charged them that they should tell no man of him.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And he spake that saying openly. And Peter took him, and began to rebuke him.",
+            "headers": []
+        },
+        "33": {
+            "verse": "But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.",
+            "headers": []
+        },
+        "35": {
+            "verse": "For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel's, the same shall save it.",
+            "headers": []
+        },
+        "36": {
+            "verse": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?",
+            "headers": []
+        },
+        "37": {
+            "verse": "Or what shall a man give in exchange for his soul?",
+            "headers": []
+        },
+        "38": {
+            "verse": "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.",
+            "headers": []
+        }
+    },
+    "9": {
+        "1": {
+            "verse": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And there appeared unto them Elias with Moses: and they were talking with Jesus.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.",
+            "headers": []
+        },
+        "6": {
+            "verse": "For he wist not what to say; for they were sore afraid.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.",
+            "headers": []
+        },
+        "8": {
+            "verse": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And they asked him, saying, Why say the scribes that Elias must first come?",
+            "headers": []
+        },
+        "12": {
+            "verse": "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.",
+            "headers": []
+        },
+        "13": {
+            "verse": "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And he asked the scribes, What question ye with them?",
+            "headers": []
+        },
+        "17": {
+            "verse": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;",
+            "headers": []
+        },
+        "18": {
+            "verse": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.",
+            "headers": []
+        },
+        "19": {
+            "verse": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.",
+            "headers": []
+        },
+        "23": {
+            "verse": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+            "headers": []
+        },
+        "25": {
+            "verse": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.",
+            "headers": []
+        },
+        "27": {
+            "verse": "But Jesus took him by the hand, and lifted him up; and he arose.",
+            "headers": []
+        },
+        "28": {
+            "verse": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?",
+            "headers": []
+        },
+        "29": {
+            "verse": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And they departed thence, and passed through Galilee; and he would not that any man should know it.",
+            "headers": []
+        },
+        "31": {
+            "verse": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.",
+            "headers": []
+        },
+        "32": {
+            "verse": "But they understood not that saying, and were afraid to ask him.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?",
+            "headers": []
+        },
+        "34": {
+            "verse": "But they held their peace: for by the way they had disputed among themselves, who should be the greatest.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,",
+            "headers": []
+        },
+        "37": {
+            "verse": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.",
+            "headers": []
+        },
+        "39": {
+            "verse": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.",
+            "headers": []
+        },
+        "40": {
+            "verse": "For he that is not against us is on our part.",
+            "headers": []
+        },
+        "41": {
+            "verse": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:",
+            "headers": []
+        },
+        "44": {
+            "verse": "Where their worm dieth not, and the fire is not quenched.",
+            "headers": []
+        },
+        "45": {
+            "verse": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:",
+            "headers": []
+        },
+        "46": {
+            "verse": "Where their worm dieth not, and the fire is not quenched.",
+            "headers": []
+        },
+        "47": {
+            "verse": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
+            "headers": []
+        },
+        "48": {
+            "verse": "Where their worm dieth not, and the fire is not quenched.",
+            "headers": []
+        },
+        "49": {
+            "verse": "For every one shall be salted with fire, and every sacrifice shall be salted with salt.",
+            "headers": []
+        },
+        "50": {
+            "verse": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.",
+            "headers": []
+        }
+    },
+    "10": {
+        "1": {
+            "verse": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And he answered and said unto them, What did Moses command you?",
+            "headers": []
+        },
+        "4": {
+            "verse": "And they said, Moses suffered to write a bill of divorcement, and to put her away.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.",
+            "headers": []
+        },
+        "6": {
+            "verse": "But from the beginning of the creation God made them male and female.",
+            "headers": []
+        },
+        "7": {
+            "verse": "For this cause shall a man leave his father and mother, and cleave to his wife;",
+            "headers": []
+        },
+        "8": {
+            "verse": "And they twain shall be one flesh: so then they are no more twain, but one flesh.",
+            "headers": []
+        },
+        "9": {
+            "verse": "What therefore God hath joined together, let not man put asunder.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And in the house his disciples asked him again of the same matter.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And if a woman shall put away her husband, and be married to another, she committeth adultery.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.",
+            "headers": []
+        },
+        "14": {
+            "verse": "But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.",
+            "headers": []
+        },
+        "15": {
+            "verse": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And he took them up in his arms, put his hands upon them, and blessed them.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
+            "headers": []
+        },
+        "18": {
+            "verse": "And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God.",
+            "headers": []
+        },
+        "19": {
+            "verse": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Defraud not, Honour thy father and mother.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And he answered and said unto him, Master, all these have I observed from my youth.",
+            "headers": []
+        },
+        "21": {
+            "verse": "Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And he was sad at that saying, and went away grieved: for he had great possessions.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!",
+            "headers": []
+        },
+        "24": {
+            "verse": "And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!",
+            "headers": []
+        },
+        "25": {
+            "verse": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And they were astonished out of measure, saying among themselves, Who then can be saved?",
+            "headers": []
+        },
+        "27": {
+            "verse": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+            "headers": []
+        },
+        "28": {
+            "verse": "Then Peter began to say unto him, Lo, we have left all, and have followed thee.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,",
+            "headers": []
+        },
+        "30": {
+            "verse": "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.",
+            "headers": []
+        },
+        "31": {
+            "verse": "But many that are first shall be last; and the last first.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,",
+            "headers": []
+        },
+        "33": {
+            "verse": "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:",
+            "headers": []
+        },
+        "34": {
+            "verse": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And he said unto them, What would ye that I should do for you?",
+            "headers": []
+        },
+        "37": {
+            "verse": "They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.",
+            "headers": []
+        },
+        "38": {
+            "verse": "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?",
+            "headers": []
+        },
+        "39": {
+            "verse": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:",
+            "headers": []
+        },
+        "40": {
+            "verse": "But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And when the ten heard it, they began to be much displeased with James and John.",
+            "headers": []
+        },
+        "42": {
+            "verse": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.",
+            "headers": []
+        },
+        "43": {
+            "verse": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:",
+            "headers": []
+        },
+        "44": {
+            "verse": "And whosoever of you will be the chiefest, shall be servant of all.",
+            "headers": []
+        },
+        "45": {
+            "verse": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+            "headers": []
+        },
+        "46": {
+            "verse": "And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.",
+            "headers": []
+        },
+        "47": {
+            "verse": "And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou son of David, have mercy on me.",
+            "headers": []
+        },
+        "48": {
+            "verse": "And many charged him that he should hold his peace: but he cried the more a great deal, Thou son of David, have mercy on me.",
+            "headers": []
+        },
+        "49": {
+            "verse": "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.",
+            "headers": []
+        },
+        "50": {
+            "verse": "And he, casting away his garment, rose, and came to Jesus.",
+            "headers": []
+        },
+        "51": {
+            "verse": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
+            "headers": []
+        },
+        "52": {
+            "verse": "And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.",
+            "headers": []
+        }
+    },
+    "11": {
+        "1": {
+            "verse": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,",
+            "headers": []
+        },
+        "2": {
+            "verse": "And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And certain of them that stood there said unto them, What do ye, loosing the colt?",
+            "headers": []
+        },
+        "6": {
+            "verse": "And they said unto them even as Jesus had commanded: and they let them go.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.",
+            "headers": []
+        },
+        "8": {
+            "verse": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way.",
+            "headers": []
+        },
+        "9": {
+            "verse": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:",
+            "headers": []
+        },
+        "10": {
+            "verse": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And on the morrow, when they were come from Bethany, he was hungry:",
+            "headers": []
+        },
+        "13": {
+            "verse": "And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;",
+            "headers": []
+        },
+        "16": {
+            "verse": "And would not suffer that any man should carry any vessel through the temple.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine.",
+            "headers": []
+        },
+        "19": {
+            "verse": "And when even was come, he went out of the city.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And in the morning, as they passed by, they saw the fig tree dried up from the roots.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And Jesus answering saith unto them, Have faith in God.",
+            "headers": []
+        },
+        "23": {
+            "verse": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.",
+            "headers": []
+        },
+        "24": {
+            "verse": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+            "headers": []
+        },
+        "26": {
+            "verse": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,",
+            "headers": []
+        },
+        "28": {
+            "verse": "And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?",
+            "headers": []
+        },
+        "29": {
+            "verse": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.",
+            "headers": []
+        },
+        "30": {
+            "verse": "The baptism of John, was it from heaven, or of men? answer me.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?",
+            "headers": []
+        },
+        "32": {
+            "verse": "But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.",
+            "headers": []
+        }
+    },
+    "12": {
+        "1": {
+            "verse": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And they caught him, and beat him, and sent him away empty.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And again he sent another; and him they killed, and many others; beating some, and killing some.",
+            "headers": []
+        },
+        "6": {
+            "verse": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.",
+            "headers": []
+        },
+        "7": {
+            "verse": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours.'",
+            "headers": []
+        },
+        "8": {
+            "verse": "And they took him, and killed him, and cast him out of the vineyard.",
+            "headers": []
+        },
+        "9": {
+            "verse": "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:",
+            "headers": []
+        },
+        "11": {
+            "verse": "This was the Lord's doing, and it is marvellous in our eyes?",
+            "headers": []
+        },
+        "12": {
+            "verse": "And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?",
+            "headers": []
+        },
+        "15": {
+            "verse": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar's.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.",
+            "headers": []
+        },
+        "18": {
+            "verse": "Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,",
+            "headers": []
+        },
+        "19": {
+            "verse": "Master, Moses wrote unto us, If a man's brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother.",
+            "headers": []
+        },
+        "20": {
+            "verse": "Now there were seven brethren: and the first took a wife, and dying left no seed.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And the second took her, and died, neither left he any seed: and the third likewise.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And the seven had her, and left no seed: last of all the woman died also.",
+            "headers": []
+        },
+        "23": {
+            "verse": "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?",
+            "headers": []
+        },
+        "25": {
+            "verse": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?",
+            "headers": []
+        },
+        "27": {
+            "verse": "He is not the God of the dead, but the God of the living: ye therefore do greatly err.",
+            "headers": []
+        },
+        "28": {
+            "verse": "And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?",
+            "headers": []
+        },
+        "29": {
+            "verse": "And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:",
+            "headers": []
+        },
+        "30": {
+            "verse": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment.",
+            "headers": []
+        },
+        "31": {
+            "verse": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:",
+            "headers": []
+        },
+        "33": {
+            "verse": "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the son of David?",
+            "headers": []
+        },
+        "36": {
+            "verse": "For David himself said by the Holy Ghost, The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+            "headers": []
+        },
+        "37": {
+            "verse": "David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,",
+            "headers": []
+        },
+        "39": {
+            "verse": "And the chief seats in the synagogues, and the uppermost rooms at feasts:",
+            "headers": []
+        },
+        "40": {
+            "verse": "Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And there came a certain poor widow, and she threw in two mites, which make a farthing.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:",
+            "headers": []
+        },
+        "44": {
+            "verse": "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living.",
+            "headers": []
+        }
+    },
+    "13": {
+        "1": {
+            "verse": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!",
+            "headers": []
+        },
+        "2": {
+            "verse": "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,",
+            "headers": []
+        },
+        "4": {
+            "verse": "Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?",
+            "headers": []
+        },
+        "5": {
+            "verse": "And Jesus answering them began to say, Take heed lest any man deceive you:",
+            "headers": []
+        },
+        "6": {
+            "verse": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And when ye shall hear of wars and rumours of wars, be ye not troubled: for such things must needs be; but the end shall not be yet.",
+            "headers": []
+        },
+        "8": {
+            "verse": "For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these are the beginnings of sorrows.",
+            "headers": []
+        },
+        "9": {
+            "verse": "But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And the gospel must first be published among all nations.",
+            "headers": []
+        },
+        "11": {
+            "verse": "But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.",
+            "headers": []
+        },
+        "12": {
+            "verse": "Now the brother shall betray the brother to death, and the father the son; and children shall rise up against their parents, and shall cause them to be put to death.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.",
+            "headers": []
+        },
+        "14": {
+            "verse": "But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:",
+            "headers": []
+        },
+        "15": {
+            "verse": "And let him that is on the housetop not go down into the house, neither enter therein, to take any thing out of his house:",
+            "headers": []
+        },
+        "16": {
+            "verse": "And let him that is in the field not turn back again for to take up his garment.",
+            "headers": []
+        },
+        "17": {
+            "verse": "But woe to them that are with child, and to them that give suck in those days!",
+            "headers": []
+        },
+        "18": {
+            "verse": "And pray ye that your flight be not in the winter.",
+            "headers": []
+        },
+        "19": {
+            "verse": "For in those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he hath chosen, he hath shortened the days.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:",
+            "headers": []
+        },
+        "22": {
+            "verse": "For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if it were possible, even the elect.",
+            "headers": []
+        },
+        "23": {
+            "verse": "But take ye heed: behold, I have foretold you all things.",
+            "headers": []
+        },
+        "24": {
+            "verse": "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,",
+            "headers": []
+        },
+        "25": {
+            "verse": "And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And then shall they see the Son of man coming in the clouds with great power and glory.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.",
+            "headers": []
+        },
+        "28": {
+            "verse": "Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:",
+            "headers": []
+        },
+        "29": {
+            "verse": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.",
+            "headers": []
+        },
+        "30": {
+            "verse": "Verily I say unto you, that this generation shall not pass, till all these things be done.",
+            "headers": []
+        },
+        "31": {
+            "verse": "Heaven and earth shall pass away: but my words shall not pass away.",
+            "headers": []
+        },
+        "32": {
+            "verse": "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
+            "headers": []
+        },
+        "33": {
+            "verse": "Take ye heed, watch and pray: for ye know not when the time is.",
+            "headers": []
+        },
+        "34": {
+            "verse": "For the Son of Man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.",
+            "headers": []
+        },
+        "35": {
+            "verse": "Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:",
+            "headers": []
+        },
+        "36": {
+            "verse": "Lest coming suddenly he find you sleeping.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And what I say unto you I say unto all, Watch.",
+            "headers": []
+        }
+    },
+    "14": {
+        "1": {
+            "verse": "After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.",
+            "headers": []
+        },
+        "2": {
+            "verse": "But they said, Not on the feast day, lest there be an uproar of the people.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured it on his head.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And there were some that had indignation within themselves, and said, Why was this waste of the ointment made?",
+            "headers": []
+        },
+        "5": {
+            "verse": "For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.",
+            "headers": []
+        },
+        "7": {
+            "verse": "For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always.",
+            "headers": []
+        },
+        "8": {
+            "verse": "She hath done what she could: she is come aforehand to anoint my body to the burying.",
+            "headers": []
+        },
+        "9": {
+            "verse": "Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?",
+            "headers": []
+        },
+        "13": {
+            "verse": "And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him.",
+            "headers": []
+        },
+        "14": {
+            "verse": "And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?",
+            "headers": []
+        },
+        "15": {
+            "verse": "And he will shew you a large upper room furnished and prepared: there make ready for us.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And in the evening he cometh with the twelve.",
+            "headers": []
+        },
+        "18": {
+            "verse": "And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.",
+            "headers": []
+        },
+        "19": {
+            "verse": "And they began to be sorrowful, and to say unto him one by one, Is it I? and another said, Is it I?",
+            "headers": []
+        },
+        "20": {
+            "verse": "And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish.",
+            "headers": []
+        },
+        "21": {
+            "verse": "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And as they did eat, Jesus took bread, and blessed, and brake it, and gave to them, and said, Take, eat: this is my body.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And he said unto them, This is my blood of the new testament, which is shed for many.",
+            "headers": []
+        },
+        "25": {
+            "verse": "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And when they had sung an hymn, they went out into the mount of Olives.",
+            "headers": []
+        },
+        "27": {
+            "verse": "And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.",
+            "headers": []
+        },
+        "28": {
+            "verse": "But after that I am risen, I will go before you into Galilee.",
+            "headers": []
+        },
+        "29": {
+            "verse": "But Peter said unto him, Although all shall be offended, yet will not I.",
+            "headers": []
+        },
+        "30": {
+            "verse": "And Jesus saith unto him, Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice.",
+            "headers": []
+        },
+        "31": {
+            "verse": "But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.",
+            "headers": []
+        },
+        "32": {
+            "verse": "And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;",
+            "headers": []
+        },
+        "34": {
+            "verse": "And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.",
+            "headers": []
+        },
+        "35": {
+            "verse": "And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And he said, Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?",
+            "headers": []
+        },
+        "38": {
+            "verse": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.",
+            "headers": []
+        },
+        "39": {
+            "verse": "And again he went away, and prayed, and spake the same words.",
+            "headers": []
+        },
+        "40": {
+            "verse": "And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.",
+            "headers": []
+        },
+        "41": {
+            "verse": "And he cometh the third time, and saith unto them, Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.",
+            "headers": []
+        },
+        "42": {
+            "verse": "Rise up, let us go; lo, he that betrayeth me is at hand.",
+            "headers": []
+        },
+        "43": {
+            "verse": "And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.",
+            "headers": []
+        },
+        "44": {
+            "verse": "And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead him away safely.",
+            "headers": []
+        },
+        "45": {
+            "verse": "And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.",
+            "headers": []
+        },
+        "46": {
+            "verse": "And they laid their hands on him, and took him.",
+            "headers": []
+        },
+        "47": {
+            "verse": "And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear.",
+            "headers": []
+        },
+        "48": {
+            "verse": "And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and with staves to take me?",
+            "headers": []
+        },
+        "49": {
+            "verse": "I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.",
+            "headers": []
+        },
+        "50": {
+            "verse": "And they all forsook him, and fled.",
+            "headers": []
+        },
+        "51": {
+            "verse": "And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:",
+            "headers": []
+        },
+        "52": {
+            "verse": "And he left the linen cloth, and fled from them naked.",
+            "headers": []
+        },
+        "53": {
+            "verse": "And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.",
+            "headers": []
+        },
+        "54": {
+            "verse": "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.",
+            "headers": []
+        },
+        "55": {
+            "verse": "And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.",
+            "headers": []
+        },
+        "56": {
+            "verse": "For many bare false witness against him, but their witness agreed not together.",
+            "headers": []
+        },
+        "57": {
+            "verse": "And there arose certain, and bare false witness against him, saying,",
+            "headers": []
+        },
+        "58": {
+            "verse": "We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.",
+            "headers": []
+        },
+        "59": {
+            "verse": "But neither so did their witness agree together.",
+            "headers": []
+        },
+        "60": {
+            "verse": "And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?",
+            "headers": []
+        },
+        "61": {
+            "verse": "But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?",
+            "headers": []
+        },
+        "62": {
+            "verse": "And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.",
+            "headers": []
+        },
+        "63": {
+            "verse": "Then the high priest rent his clothes, and saith, What need we any further witnesses?",
+            "headers": []
+        },
+        "64": {
+            "verse": "Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.",
+            "headers": []
+        },
+        "65": {
+            "verse": "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.",
+            "headers": []
+        },
+        "66": {
+            "verse": "And as Peter was beneath in the palace, there cometh one of the maids of the high priest:",
+            "headers": []
+        },
+        "67": {
+            "verse": "And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.",
+            "headers": []
+        },
+        "68": {
+            "verse": "But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew.",
+            "headers": []
+        },
+        "69": {
+            "verse": "And a maid saw him again, and began to say to them that stood by, This is one of them.",
+            "headers": []
+        },
+        "70": {
+            "verse": "And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilaean, and thy speech agreeth thereto.",
+            "headers": []
+        },
+        "71": {
+            "verse": "But he began to curse and to swear, saying, I know not this man of whom ye speak.",
+            "headers": []
+        },
+        "72": {
+            "verse": "And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.",
+            "headers": []
+        }
+    },
+    "15": {
+        "1": {
+            "verse": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto them, Thou sayest it.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And the chief priests accused him of many things: but he answered nothing.",
+            "headers": []
+        },
+        "4": {
+            "verse": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.",
+            "headers": []
+        },
+        "5": {
+            "verse": "But Jesus yet answered nothing; so that Pilate marvelled.",
+            "headers": []
+        },
+        "6": {
+            "verse": "Now at that feast he released unto them one prisoner, whomsoever they desired.",
+            "headers": []
+        },
+        "7": {
+            "verse": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection.",
+            "headers": []
+        },
+        "8": {
+            "verse": "And the multitude crying aloud began to desire him to do as he had ever done unto them.",
+            "headers": []
+        },
+        "9": {
+            "verse": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?",
+            "headers": []
+        },
+        "10": {
+            "verse": "For he knew that the chief priests had delivered him for envy.",
+            "headers": []
+        },
+        "11": {
+            "verse": "But the chief priests moved the people, that he should rather release Barabbas unto them.",
+            "headers": []
+        },
+        "12": {
+            "verse": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?",
+            "headers": []
+        },
+        "13": {
+            "verse": "And they cried out again, Crucify him.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified.",
+            "headers": []
+        },
+        "16": {
+            "verse": "And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And they clothed him with purple, and platted a crown of thorns, and put it about his head,",
+            "headers": []
+        },
+        "18": {
+            "verse": "And began to salute him, Hail, King of the Jews!",
+            "headers": []
+        },
+        "19": {
+            "verse": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.",
+            "headers": []
+        },
+        "21": {
+            "verse": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.",
+            "headers": []
+        },
+        "22": {
+            "verse": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.",
+            "headers": []
+        },
+        "23": {
+            "verse": "And they gave him to drink wine mingled with myrrh: but he received it not.",
+            "headers": []
+        },
+        "24": {
+            "verse": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.",
+            "headers": []
+        },
+        "25": {
+            "verse": "And it was the third hour, and they crucified him.",
+            "headers": []
+        },
+        "26": {
+            "verse": "And the superscription of his accusation was written over, The King Of The Jews .",
+            "headers": []
+        },
+        "27": {
+            "verse": "And with him they crucify two thieves; the one on his right hand, and the other on his left.",
+            "headers": []
+        },
+        "28": {
+            "verse": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors.",
+            "headers": []
+        },
+        "29": {
+            "verse": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,",
+            "headers": []
+        },
+        "30": {
+            "verse": "Save thyself, and come down from the cross.",
+            "headers": []
+        },
+        "31": {
+            "verse": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.",
+            "headers": []
+        },
+        "32": {
+            "verse": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.",
+            "headers": []
+        },
+        "33": {
+            "verse": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour.",
+            "headers": []
+        },
+        "34": {
+            "verse": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?",
+            "headers": []
+        },
+        "35": {
+            "verse": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias.",
+            "headers": []
+        },
+        "36": {
+            "verse": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.",
+            "headers": []
+        },
+        "37": {
+            "verse": "And Jesus cried with a loud voice, and gave up the ghost.",
+            "headers": []
+        },
+        "38": {
+            "verse": "And the veil of the temple was rent in twain from the top to the bottom.",
+            "headers": []
+        },
+        "39": {
+            "verse": "And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.",
+            "headers": []
+        },
+        "40": {
+            "verse": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;",
+            "headers": []
+        },
+        "41": {
+            "verse": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.",
+            "headers": []
+        },
+        "42": {
+            "verse": "And now when the even was come, because it was the preparation, that is, the day before the sabbath,",
+            "headers": []
+        },
+        "43": {
+            "verse": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.",
+            "headers": []
+        },
+        "44": {
+            "verse": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead.",
+            "headers": []
+        },
+        "45": {
+            "verse": "And when he knew it of the centurion, he gave the body to Joseph.",
+            "headers": []
+        },
+        "46": {
+            "verse": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.",
+            "headers": []
+        },
+        "47": {
+            "verse": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid.",
+            "headers": []
+        }
+    },
+    "16": {
+        "1": {
+            "verse": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him.",
+            "headers": []
+        },
+        "2": {
+            "verse": "And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun.",
+            "headers": []
+        },
+        "3": {
+            "verse": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?",
+            "headers": []
+        },
+        "4": {
+            "verse": "And when they looked, they saw that the stone was rolled away: for it was very great.",
+            "headers": []
+        },
+        "5": {
+            "verse": "And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted.",
+            "headers": []
+        },
+        "6": {
+            "verse": "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.",
+            "headers": []
+        },
+        "7": {
+            "verse": "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.",
+            "headers": []
+        },
+        "8": {
+            "verse": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid.",
+            "headers": []
+        },
+        "9": {
+            "verse": "Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.",
+            "headers": []
+        },
+        "10": {
+            "verse": "And she went and told them that had been with him, as they mourned and wept.",
+            "headers": []
+        },
+        "11": {
+            "verse": "And they, when they had heard that he was alive, and had been seen of her, believed not.",
+            "headers": []
+        },
+        "12": {
+            "verse": "After that he appeared in another form unto two of them, as they walked, and went into the country.",
+            "headers": []
+        },
+        "13": {
+            "verse": "And they went and told it unto the residue: neither believed they them.",
+            "headers": []
+        },
+        "14": {
+            "verse": "Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.",
+            "headers": []
+        },
+        "15": {
+            "verse": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+            "headers": []
+        },
+        "16": {
+            "verse": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+            "headers": []
+        },
+        "17": {
+            "verse": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
+            "headers": []
+        },
+        "18": {
+            "verse": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.",
+            "headers": []
+        },
+        "19": {
+            "verse": "So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.",
+            "headers": []
+        },
+        "20": {
+            "verse": "And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.",
+            "headers": []
+        }
+    }
 }
