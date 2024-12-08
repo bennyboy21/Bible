@@ -2,6 +2,8 @@
     "en": {
         "versions": {
             "KJV": "King James Version",
+            "NIV": "New International Version",
+            "ESV": "English Standard Version",
             "ASV": "American Standard Version",
             "YLT": "Young's Literal Translation",
             "WEB": "World English Bible"
@@ -28,5 +30,5 @@
         "Ukrainian": "uk",
         "Español": "es"
     },
-    "version_count":7
+    "version_count":9
 }
