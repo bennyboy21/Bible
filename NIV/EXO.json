@@ -90,10 +90,6 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "Now a man of the tribe of Levi married a Levite woman,",
-            "headers": []
-        },
         "2": {
             "verse": "and she became pregnant and gave birth to a son. When she saw that he was a fine child, she hid him for three months.",
             "headers": []
@@ -127,7 +123,7 @@
             "headers": []
         },
         "10": {
-            "verse": "When the child grew older, she took him to Pharaoh’s daughter and he became her son. She named him Moses, saying, “I drew him out of the water.”",
+            "verse": "When the child grew older, she took him to Pharaoh’s daughter and he became her son. She named him Moses, saying, “I drew him out of the water.” Moses Flees to Midian",
             "headers": []
         },
         "11": {
@@ -192,20 +188,16 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God.",
+        "3": {
+            "verse": "So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”",
             "headers": []
         },
         "2": {
             "verse": "There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up.",
             "headers": []
         },
-        "3": {
-            "verse": "So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”",
-            "headers": []
-        },
         "4": {
-            "verse": "When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”",
+            "verse": "When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.”",
             "headers": []
         },
         "5": {
@@ -249,7 +241,7 @@
             "headers": []
         },
         "15": {
-            "verse": "God also said to Moses, “Say to the Israelites, ‘The Lord , the God of your fathers —the God of Abraham, the God of Isaac and the God of Jacob —has sent me to you.’",
+            "verse": "God also said to Moses, “Say to the Israelites, ‘The Lord , the God of your fathers —the God of Abraham, the God of Isaac and the God of Jacob —has sent me to you.’ “This is my name forever, the name you shall call me from generation to generation.",
             "headers": []
         },
         "16": {
@@ -282,20 +274,16 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "Moses answered, “What if they do not believe me or listen to me and say, ‘The Lord did not appear to you’?”",
+        "4": {
+            "verse": "Then the Lord said to him, “Reach out your hand and take it by the tail.” So Moses reached out and took hold of the snake and it turned back into a staff in his hand.",
             "headers": []
         },
         "2": {
-            "verse": "Then the Lord said to him, “What is that in your hand?”",
+            "verse": "Then the Lord said to him, “What is that in your hand?” “A staff,” he replied.",
             "headers": []
         },
         "3": {
-            "verse": "The Lord said, “Throw it on the ground.”",
-            "headers": []
-        },
-        "4": {
-            "verse": "Then the Lord said to him, “Reach out your hand and take it by the tail.” So Moses reached out and took hold of the snake and it turned back into a staff in his hand.",
+            "verse": "The Lord said, “Throw it on the ground.” Moses threw it on the ground and it became a snake, and he ran from it.",
             "headers": []
         },
         "5": {
@@ -347,11 +335,11 @@
             "headers": []
         },
         "17": {
-            "verse": "But take this staff in your hand so you can perform the signs with it.”",
+            "verse": "But take this staff in your hand so you can perform the signs with it.” Moses Returns to Egypt",
             "headers": []
         },
         "18": {
-            "verse": "Then Moses went back to Jethro his father-in-law and said to him, “Let me return to my own people in Egypt to see if any of them are still alive.”",
+            "verse": "Then Moses went back to Jethro his father-in-law and said to him, “Let me return to my own people in Egypt to see if any of them are still alive.” Jethro said, “Go, and I wish you well.”",
             "headers": []
         },
         "19": {
@@ -408,8 +396,8 @@
         }
     },
     "5": {
-        "1": {
-            "verse": "Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord , the God of Israel, says: ‘Let my people go, so that they may hold a festival to me in the wilderness.’”",
+        "5": {
+            "verse": "Then Pharaoh said, “Look, the people of the land are now numerous, and you are stopping them from working.”",
             "headers": []
         },
         "2": {
@@ -422,10 +410,6 @@
         },
         "4": {
             "verse": "But the king of Egypt said, “Moses and Aaron, why are you taking the people away from their labor? Get back to your work!”",
-            "headers": []
-        },
-        "5": {
-            "verse": "Then Pharaoh said, “Look, the people of the land are now numerous, and you are stopping them from working.”",
             "headers": []
         },
         "6": {
@@ -489,7 +473,7 @@
             "headers": []
         },
         "21": {
-            "verse": "and they said, “May the Lord look on you and judge you! You have made us obnoxious to Pharaoh and his officials and have put a sword in their hand to kill us.”",
+            "verse": "and they said, “May the Lord look on you and judge you! You have made us obnoxious to Pharaoh and his officials and have put a sword in their hand to kill us.” God Promises Deliverance",
             "headers": []
         },
         "22": {
@@ -502,8 +486,8 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "Then the Lord said to Moses, “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”",
+        "6": {
+            "verse": "“Therefore, say to the Israelites: ‘I am the Lord , and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.",
             "headers": []
         },
         "2": {
@@ -520,10 +504,6 @@
         },
         "5": {
             "verse": "Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.",
-            "headers": []
-        },
-        "6": {
-            "verse": "“Therefore, say to the Israelites: ‘I am the Lord , and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.",
             "headers": []
         },
         "7": {
@@ -547,7 +527,7 @@
             "headers": []
         },
         "12": {
-            "verse": "But Moses said to the Lord , “If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips ?”",
+            "verse": "But Moses said to the Lord , “If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips ?” Family Record of Moses and Aaron",
             "headers": []
         },
         "13": {
@@ -555,7 +535,7 @@
             "headers": []
         },
         "14": {
-            "verse": "These were the heads of their families :",
+            "verse": "These were the heads of their families : The sons of Reuben the firstborn son of Israel were Hanok and Pallu, Hezron and Karmi. These were the clans of Reuben.",
             "headers": []
         },
         "15": {
@@ -575,7 +555,7 @@
             "headers": []
         },
         "19": {
-            "verse": "The sons of Merari were Mahli and Mushi.",
+            "verse": "The sons of Merari were Mahli and Mushi. These were the clans of Levi according to their records.",
             "headers": []
         },
         "20": {
@@ -599,7 +579,7 @@
             "headers": []
         },
         "25": {
-            "verse": "Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas.",
+            "verse": "Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, clan by clan.",
             "headers": []
         },
         "26": {
@@ -607,7 +587,7 @@
             "headers": []
         },
         "27": {
-            "verse": "They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron.",
+            "verse": "They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron. Aaron to Speak for Moses",
             "headers": []
         },
         "28": {
@@ -624,8 +604,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "Then the Lord said to Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.",
+        "7": {
+            "verse": "Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh. Aaron’s Staff Becomes a Snake",
             "headers": []
         },
         "2": {
@@ -646,10 +626,6 @@
         },
         "6": {
             "verse": "Moses and Aaron did just as the Lord commanded them.",
-            "headers": []
-        },
-        "7": {
-            "verse": "Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh.",
             "headers": []
         },
         "8": {
@@ -673,7 +649,7 @@
             "headers": []
         },
         "13": {
-            "verse": "Yet Pharaoh’s heart became hard and he would not listen to them, just as the Lord had said.",
+            "verse": "Yet Pharaoh’s heart became hard and he would not listen to them, just as the Lord had said. The Plague of Blood",
             "headers": []
         },
         "14": {
@@ -717,7 +693,7 @@
             "headers": []
         },
         "24": {
-            "verse": "And all the Egyptians dug along the Nile to get drinking water , because they could not drink the water of the river.",
+            "verse": "And all the Egyptians dug along the Nile to get drinking water , because they could not drink the water of the river. The Plague of Frogs",
             "headers": []
         },
         "25": {
@@ -726,8 +702,8 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "Then the Lord said to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord says: Let my people go, so that they may worship me.",
+        "8": {
+            "verse": "Pharaoh summoned Moses and Aaron and said, “Pray to the Lord to take the frogs away from me and my people, and I will let your people go to offer sacrifices to the Lord .”",
             "headers": []
         },
         "2": {
@@ -754,16 +730,12 @@
             "verse": "But the magicians did the same things by their secret arts; they also made frogs come up on the land of Egypt.",
             "headers": []
         },
-        "8": {
-            "verse": "Pharaoh summoned Moses and Aaron and said, “Pray to the Lord to take the frogs away from me and my people, and I will let your people go to offer sacrifices to the Lord .”",
-            "headers": []
-        },
         "9": {
             "verse": "Moses said to Pharaoh, “I leave to you the honor of setting the time for me to pray for you and your officials and your people that you and your houses may be rid of the frogs, except for those that remain in the Nile.”",
             "headers": []
         },
         "10": {
-            "verse": "“Tomorrow,” Pharaoh said.",
+            "verse": "“Tomorrow,” Pharaoh said. Moses replied, “It will be as you say, so that you may know there is no one like the Lord our God.",
             "headers": []
         },
         "11": {
@@ -783,7 +755,7 @@
             "headers": []
         },
         "15": {
-            "verse": "But when Pharaoh saw that there was relief, he hardened his heart and would not listen to Moses and Aaron, just as the Lord had said.",
+            "verse": "But when Pharaoh saw that there was relief, he hardened his heart and would not listen to Moses and Aaron, just as the Lord had said. The Plague of Gnats",
             "headers": []
         },
         "16": {
@@ -795,11 +767,11 @@
             "headers": []
         },
         "18": {
-            "verse": "But when the magicians tried to produce gnats by their secret arts, they could not.",
+            "verse": "But when the magicians tried to produce gnats by their secret arts, they could not. Since the gnats were on people and animals everywhere,",
             "headers": []
         },
         "19": {
-            "verse": "the magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hard and he would not listen, just as the Lord had said.",
+            "verse": "the magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hard and he would not listen, just as the Lord had said. The Plague of Flies",
             "headers": []
         },
         "20": {
@@ -856,8 +828,8 @@
         }
     },
     "9": {
-        "1": {
-            "verse": "Then the Lord said to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord , the God of the Hebrews, says: “Let my people go, so that they may worship me.”",
+        "9": {
+            "verse": "It will become fine dust over the whole land of Egypt, and festering boils will break out on people and animals throughout the land.”",
             "headers": []
         },
         "2": {
@@ -881,15 +853,11 @@
             "headers": []
         },
         "7": {
-            "verse": "Pharaoh investigated and found that not even one of the animals of the Israelites had died. Yet his heart was unyielding and he would not let the people go.",
+            "verse": "Pharaoh investigated and found that not even one of the animals of the Israelites had died. Yet his heart was unyielding and he would not let the people go. The Plague of Boils",
             "headers": []
         },
         "8": {
             "verse": "Then the Lord said to Moses and Aaron, “Take handfuls of soot from a furnace and have Moses toss it into the air in the presence of Pharaoh.",
-            "headers": []
-        },
-        "9": {
-            "verse": "It will become fine dust over the whole land of Egypt, and festering boils will break out on people and animals throughout the land.”",
             "headers": []
         },
         "10": {
@@ -901,7 +869,7 @@
             "headers": []
         },
         "12": {
-            "verse": "But the Lord hardened Pharaoh’s heart and he would not listen to Moses and Aaron, just as the Lord had said to Moses.",
+            "verse": "But the Lord hardened Pharaoh’s heart and he would not listen to Moses and Aaron, just as the Lord had said to Moses. The Plague of Hail",
             "headers": []
         },
         "13": {
@@ -998,8 +966,8 @@
         }
     },
     "10": {
-        "1": {
-            "verse": "Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these signs of mine among them",
+        "10": {
+            "verse": "Pharaoh said, “The Lord be with you—if I let you go, along with your women and children! Clearly you are bent on evil.",
             "headers": []
         },
         "2": {
@@ -1032,10 +1000,6 @@
         },
         "9": {
             "verse": "Moses answered, “We will go with our young and our old, with our sons and our daughters, and with our flocks and herds, because we are to celebrate a festival to the Lord .”",
-            "headers": []
-        },
-        "10": {
-            "verse": "Pharaoh said, “The Lord be with you—if I let you go, along with your women and children! Clearly you are bent on evil.",
             "headers": []
         },
         "11": {
@@ -1075,7 +1039,7 @@
             "headers": []
         },
         "20": {
-            "verse": "But the Lord hardened Pharaoh’s heart, and he would not let the Israelites go.",
+            "verse": "But the Lord hardened Pharaoh’s heart, and he would not let the Israelites go. The Plague of Darkness",
             "headers": []
         },
         "21": {
@@ -1116,7 +1080,7 @@
         }
     },
     "11": {
-        "1": {
+        "11": {
             "verse": "Now the Lord had said to Moses, “I will bring one more plague on Pharaoh and on Egypt. After that, he will let you go from here, and when he does, he will drive you out completely.",
             "headers": []
         },
@@ -1158,8 +1122,8 @@
         }
     },
     "12": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron in Egypt,",
+        "12": {
+            "verse": "“On that same night I will pass through Egypt and strike down every firstborn of both people and animals, and I will bring judgment on all the gods of Egypt. I am the Lord .",
             "headers": []
         },
         "2": {
@@ -1200,10 +1164,6 @@
         },
         "11": {
             "verse": "This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the Lord ’s Passover.",
-            "headers": []
-        },
-        "12": {
-            "verse": "“On that same night I will pass through Egypt and strike down every firstborn of both people and animals, and I will bring judgment on all the gods of Egypt. I am the Lord .",
             "headers": []
         },
         "13": {
@@ -1275,7 +1235,7 @@
             "headers": []
         },
         "30": {
-            "verse": "Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead.",
+            "verse": "Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead. The Exodus",
             "headers": []
         },
         "31": {
@@ -1323,11 +1283,11 @@
             "headers": []
         },
         "42": {
-            "verse": "Because the Lord kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the Lord for the generations to come.",
+            "verse": "Because the Lord kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the Lord for the generations to come. Passover Restrictions",
             "headers": []
         },
         "43": {
-            "verse": "The Lord said to Moses and Aaron, “These are the regulations for the Passover meal:",
+            "verse": "The Lord said to Moses and Aaron, “These are the regulations for the Passover meal: “No foreigner may eat it.",
             "headers": []
         },
         "44": {
@@ -1364,8 +1324,8 @@
         }
     },
     "13": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "13": {
+            "verse": "Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.",
             "headers": []
         },
         "2": {
@@ -1412,10 +1372,6 @@
             "verse": "you are to give over to the Lord the first offspring of every womb. All the firstborn males of your livestock belong to the Lord .",
             "headers": []
         },
-        "13": {
-            "verse": "Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.",
-            "headers": []
-        },
         "14": {
             "verse": "“In days to come, when your son asks you, ‘What does this mean?’ say to him, ‘With a mighty hand the Lord brought us out of Egypt, out of the land of slavery.",
             "headers": []
@@ -1425,7 +1381,7 @@
             "headers": []
         },
         "16": {
-            "verse": "And it will be like a sign on your hand and a symbol on your forehead that the Lord brought us out of Egypt with his mighty hand.”",
+            "verse": "And it will be like a sign on your hand and a symbol on your forehead that the Lord brought us out of Egypt with his mighty hand.” Crossing the Sea",
             "headers": []
         },
         "17": {
@@ -1454,8 +1410,8 @@
         }
     },
     "14": {
-        "1": {
-            "verse": "Then the Lord said to Moses,",
+        "14": {
+            "verse": "The Lord will fight for you; you need only to be still.”",
             "headers": []
         },
         "2": {
@@ -1504,10 +1460,6 @@
         },
         "13": {
             "verse": "Moses answered the people, “Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today. The Egyptians you see today you will never see again.",
-            "headers": []
-        },
-        "14": {
-            "verse": "The Lord will fight for you; you need only to be still.”",
             "headers": []
         },
         "15": {
@@ -1580,76 +1532,72 @@
         }
     },
     "15": {
-        "1": {
-            "verse": "Then Moses and the Israelites sang this song to the Lord :",
+        "15": {
+            "verse": "The chiefs of Edom will be terrified, the leaders of Moab will be seized with trembling, the people of Canaan will melt away;",
             "headers": []
         },
         "2": {
-            "verse": "“The Lord is my strength and my defense ;",
+            "verse": "“The Lord is my strength and my defense ; he has become my salvation. He is my God, and I will praise him, my father’s God, and I will exalt him.",
             "headers": []
         },
         "3": {
-            "verse": "The Lord is a warrior;",
+            "verse": "The Lord is a warrior; the Lord is his name.",
             "headers": []
         },
         "4": {
-            "verse": "Pharaoh’s chariots and his army",
+            "verse": "Pharaoh’s chariots and his army he has hurled into the sea. The best of Pharaoh’s officers are drowned in the Red Sea.",
             "headers": []
         },
         "5": {
-            "verse": "The deep waters have covered them;",
+            "verse": "The deep waters have covered them; they sank to the depths like a stone.",
             "headers": []
         },
         "6": {
-            "verse": "Your right hand, Lord ,",
+            "verse": "Your right hand, Lord , was majestic in power. Your right hand, Lord , shattered the enemy.",
             "headers": []
         },
         "7": {
-            "verse": "“In the greatness of your majesty",
+            "verse": "“In the greatness of your majesty you threw down those who opposed you. You unleashed your burning anger; it consumed them like stubble.",
             "headers": []
         },
         "8": {
-            "verse": "By the blast of your nostrils",
+            "verse": "By the blast of your nostrils the waters piled up. The surging waters stood up like a wall; the deep waters congealed in the heart of the sea.",
             "headers": []
         },
         "9": {
-            "verse": "The enemy boasted,",
+            "verse": "The enemy boasted, ‘I will pursue, I will overtake them. I will divide the spoils; I will gorge myself on them. I will draw my sword and my hand will destroy them.’",
             "headers": []
         },
         "10": {
-            "verse": "But you blew with your breath,",
+            "verse": "But you blew with your breath, and the sea covered them. They sank like lead in the mighty waters.",
             "headers": []
         },
         "11": {
-            "verse": "Who among the gods",
+            "verse": "Who among the gods is like you, Lord ? Who is like you— majestic in holiness, awesome in glory, working wonders?",
             "headers": []
         },
         "12": {
-            "verse": "“You stretch out your right hand,",
+            "verse": "“You stretch out your right hand, and the earth swallows your enemies.",
             "headers": []
         },
         "13": {
-            "verse": "In your unfailing love you will lead",
+            "verse": "In your unfailing love you will lead the people you have redeemed. In your strength you will guide them to your holy dwelling.",
             "headers": []
         },
         "14": {
-            "verse": "The nations will hear and tremble;",
-            "headers": []
-        },
-        "15": {
-            "verse": "The chiefs of Edom will be terrified,",
+            "verse": "The nations will hear and tremble; anguish will grip the people of Philistia.",
             "headers": []
         },
         "16": {
-            "verse": "terror and dread will fall on them.",
+            "verse": "terror and dread will fall on them. By the power of your arm they will be as still as a stone — until your people pass by, Lord , until the people you bought pass by.",
             "headers": []
         },
         "17": {
-            "verse": "You will bring them in and plant them",
+            "verse": "You will bring them in and plant them on the mountain of your inheritance— the place, Lord , you made for your dwelling, the sanctuary, Lord, your hands established.",
             "headers": []
         },
         "18": {
-            "verse": "“The Lord reigns",
+            "verse": "“The Lord reigns for ever and ever.”",
             "headers": []
         },
         "19": {
@@ -1661,7 +1609,7 @@
             "headers": []
         },
         "21": {
-            "verse": "Miriam sang to them:",
+            "verse": "Miriam sang to them: “Sing to the Lord , for he is highly exalted. Both horse and driver he has hurled into the sea.” The Waters of Marah and Elim",
             "headers": []
         },
         "22": {
@@ -1677,7 +1625,7 @@
             "headers": []
         },
         "25": {
-            "verse": "Then Moses cried out to the Lord , and the Lord showed him a piece of wood. He threw it into the water, and the water became fit to drink.",
+            "verse": "Then Moses cried out to the Lord , and the Lord showed him a piece of wood. He threw it into the water, and the water became fit to drink. There the Lord issued a ruling and instruction for them and put them to the test.",
             "headers": []
         },
         "26": {
@@ -1690,8 +1638,8 @@
         }
     },
     "16": {
-        "1": {
-            "verse": "The whole Israelite community set out from Elim and came to the Desert of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had come out of Egypt.",
+        "16": {
+            "verse": "This is what the Lord has commanded: ‘Everyone is to gather as much as they need. Take an omer for each person you have in your tent.’”",
             "headers": []
         },
         "2": {
@@ -1747,11 +1695,7 @@
             "headers": []
         },
         "15": {
-            "verse": "When the Israelites saw it, they said to each other, “What is it?” For they did not know what it was.",
-            "headers": []
-        },
-        "16": {
-            "verse": "This is what the Lord has commanded: ‘Everyone is to gather as much as they need. Take an omer for each person you have in your tent.’”",
+            "verse": "When the Israelites saw it, they said to each other, “What is it?” For they did not know what it was. Moses said to them, “It is the bread the Lord has given you to eat.",
             "headers": []
         },
         "17": {
@@ -1836,12 +1780,12 @@
         }
     },
     "17": {
-        "1": {
+        "17": {
             "verse": "The whole Israelite community set out from the Desert of Sin, traveling from place to place as the Lord commanded. They camped at Rephidim, but there was no water for the people to drink.",
             "headers": []
         },
         "2": {
-            "verse": "So they quarreled with Moses and said, “Give us water to drink.”",
+            "verse": "So they quarreled with Moses and said, “Give us water to drink.” Moses replied, “Why do you quarrel with me? Why do you put the Lord to the test?”",
             "headers": []
         },
         "3": {
@@ -1861,7 +1805,7 @@
             "headers": []
         },
         "7": {
-            "verse": "And he called the place Massah and Meribah because the Israelites quarreled and because they tested the Lord saying, “Is the Lord among us or not?”",
+            "verse": "And he called the place Massah and Meribah because the Israelites quarreled and because they tested the Lord saying, “Is the Lord among us or not?” The Amalekites Defeated",
             "headers": []
         },
         "8": {
@@ -1902,8 +1846,8 @@
         }
     },
     "18": {
-        "1": {
-            "verse": "Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the Lord had brought Israel out of Egypt.",
+        "18": {
+            "verse": "You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone.",
             "headers": []
         },
         "2": {
@@ -1970,10 +1914,6 @@
             "verse": "Moses’ father-in-law replied, “What you are doing is not good.",
             "headers": []
         },
-        "18": {
-            "verse": "You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone.",
-            "headers": []
-        },
         "19": {
             "verse": "Listen now to me and I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their disputes to him.",
             "headers": []
@@ -2012,8 +1952,8 @@
         }
     },
     "19": {
-        "1": {
-            "verse": "On the first day of the third month after the Israelites left Egypt —on that very day—they came to the Desert of Sinai.",
+        "19": {
+            "verse": "As the sound of the trumpet grew louder and louder, Moses spoke and the voice of God answered him.",
             "headers": []
         },
         "2": {
@@ -2084,10 +2024,6 @@
             "verse": "Mount Sinai was covered with smoke, because the Lord descended on it in fire. The smoke billowed up from it like smoke from a furnace, and the whole mountain trembled violently.",
             "headers": []
         },
-        "19": {
-            "verse": "As the sound of the trumpet grew louder and louder, Moses spoke and the voice of God answered him.",
-            "headers": []
-        },
         "20": {
             "verse": "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain. So Moses went up",
             "headers": []
@@ -2114,8 +2050,8 @@
         }
     },
     "20": {
-        "1": {
-            "verse": "And God spoke all these words:",
+        "20": {
+            "verse": "Moses said to the people, “Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.”",
             "headers": []
         },
         "2": {
@@ -2190,12 +2126,8 @@
             "verse": "and said to Moses, “Speak to us yourself and we will listen. But do not have God speak to us or we will die.”",
             "headers": []
         },
-        "20": {
-            "verse": "Moses said to the people, “Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.”",
-            "headers": []
-        },
         "21": {
-            "verse": "The people remained at a distance, while Moses approached the thick darkness where God was.",
+            "verse": "The people remained at a distance, while Moses approached the thick darkness where God was. Idols and Altars",
             "headers": []
         },
         "22": {
@@ -2220,8 +2152,8 @@
         }
     },
     "21": {
-        "1": {
-            "verse": "“These are the laws you are to set before them:",
+        "21": {
+            "verse": "but they are not to be punished if the slave recovers after a day or two, since the slave is their property.",
             "headers": []
         },
         "2": {
@@ -2261,7 +2193,7 @@
             "headers": []
         },
         "11": {
-            "verse": "If he does not provide her with these three things, she is to go free, without any payment of money.",
+            "verse": "If he does not provide her with these three things, she is to go free, without any payment of money. Personal Injuries",
             "headers": []
         },
         "12": {
@@ -2298,10 +2230,6 @@
         },
         "20": {
             "verse": "“Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result,",
-            "headers": []
-        },
-        "21": {
-            "verse": "but they are not to be punished if the slave recovers after a day or two, since the slave is their property.",
             "headers": []
         },
         "22": {
@@ -2366,8 +2294,8 @@
         }
     },
     "22": {
-        "1": {
-            "verse": "“Whoever steals an ox or a sheep and slaughters it or sells it must pay back five head of cattle for the ox and four sheep for the sheep.",
+        "22": {
+            "verse": "“Do not take advantage of the widow or the fatherless.",
             "headers": []
         },
         "2": {
@@ -2375,7 +2303,7 @@
             "headers": []
         },
         "3": {
-            "verse": "but if it happens after sunrise, the defender is guilty of bloodshed.",
+            "verse": "but if it happens after sunrise, the defender is guilty of bloodshed. “Anyone who steals must certainly make restitution, but if they have nothing, they must be sold to pay for their theft.",
             "headers": []
         },
         "4": {
@@ -2423,7 +2351,7 @@
             "headers": []
         },
         "15": {
-            "verse": "But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss.",
+            "verse": "But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss. Social Responsibility",
             "headers": []
         },
         "16": {
@@ -2448,10 +2376,6 @@
         },
         "21": {
             "verse": "“Do not mistreat or oppress a foreigner, for you were foreigners in Egypt.",
-            "headers": []
-        },
-        "22": {
-            "verse": "“Do not take advantage of the widow or the fatherless.",
             "headers": []
         },
         "23": {
@@ -2479,7 +2403,7 @@
             "headers": []
         },
         "29": {
-            "verse": "“Do not hold back offerings from your granaries or your vats.",
+            "verse": "“Do not hold back offerings from your granaries or your vats. “You must give me the firstborn of your sons.",
             "headers": []
         },
         "30": {
@@ -2492,8 +2416,8 @@
         }
     },
     "23": {
-        "1": {
-            "verse": "“Do not spread false reports. Do not help a guilty person by being a malicious witness.",
+        "23": {
+            "verse": "My angel will go ahead of you and bring you into the land of the Amorites, Hittites, Perizzites, Canaanites, Hivites and Jebusites, and I will wipe them out.",
             "headers": []
         },
         "2": {
@@ -2525,7 +2449,7 @@
             "headers": []
         },
         "9": {
-            "verse": "“Do not oppress a foreigner; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt.",
+            "verse": "“Do not oppress a foreigner; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt. Sabbath Laws",
             "headers": []
         },
         "10": {
@@ -2541,7 +2465,7 @@
             "headers": []
         },
         "13": {
-            "verse": "“Be careful to do everything I have said to you. Do not invoke the names of other gods; do not let them be heard on your lips.",
+            "verse": "“Be careful to do everything I have said to you. Do not invoke the names of other gods; do not let them be heard on your lips. The Three Annual Festivals",
             "headers": []
         },
         "14": {
@@ -2549,11 +2473,11 @@
             "headers": []
         },
         "15": {
-            "verse": "“Celebrate the Festival of Unleavened Bread; for seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Aviv, for in that month you came out of Egypt.",
+            "verse": "“Celebrate the Festival of Unleavened Bread; for seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Aviv, for in that month you came out of Egypt. “No one is to appear before me empty-handed.",
             "headers": []
         },
         "16": {
-            "verse": "“Celebrate the Festival of Harvest with the firstfruits of the crops you sow in your field.",
+            "verse": "“Celebrate the Festival of Harvest with the firstfruits of the crops you sow in your field. “Celebrate the Festival of Ingathering at the end of the year, when you gather in your crops from the field.",
             "headers": []
         },
         "17": {
@@ -2561,11 +2485,11 @@
             "headers": []
         },
         "18": {
-            "verse": "“Do not offer the blood of a sacrifice to me along with anything containing yeast.",
+            "verse": "“Do not offer the blood of a sacrifice to me along with anything containing yeast. “The fat of my festival offerings must not be kept until morning.",
             "headers": []
         },
         "19": {
-            "verse": "“Bring the best of the firstfruits of your soil to the house of the Lord your God.",
+            "verse": "“Bring the best of the firstfruits of your soil to the house of the Lord your God. “Do not cook a young goat in its mother’s milk. God’s Angel to Prepare the Way",
             "headers": []
         },
         "20": {
@@ -2578,10 +2502,6 @@
         },
         "22": {
             "verse": "If you listen carefully to what he says and do all that I say, I will be an enemy to your enemies and will oppose those who oppose you.",
-            "headers": []
-        },
-        "23": {
-            "verse": "My angel will go ahead of you and bring you into the land of the Amorites, Hittites, Perizzites, Canaanites, Hivites and Jebusites, and I will wipe them out.",
             "headers": []
         },
         "24": {
@@ -2626,7 +2546,7 @@
         }
     },
     "24": {
-        "1": {
+        "24": {
             "verse": "Then the Lord said to Moses, “Come up to the Lord , you and Aaron, Nadab and Abihu, and seventy of the elders of Israel. You are to worship at a distance,",
             "headers": []
         },
@@ -2639,7 +2559,7 @@
             "headers": []
         },
         "4": {
-            "verse": "Moses then wrote down everything the Lord had said.",
+            "verse": "Moses then wrote down everything the Lord had said. He got up early the next morning and built an altar at the foot of the mountain and set up twelve stone pillars representing the twelve tribes of Israel.",
             "headers": []
         },
         "5": {
@@ -2700,8 +2620,8 @@
         }
     },
     "25": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "25": {
+            "verse": "Also make around it a rim a handbreadth wide and put a gold molding on the rim.",
             "headers": []
         },
         "2": {
@@ -2733,7 +2653,7 @@
             "headers": []
         },
         "9": {
-            "verse": "Make this tabernacle and all its furnishings exactly like the pattern I will show you.",
+            "verse": "Make this tabernacle and all its furnishings exactly like the pattern I will show you. The Ark",
             "headers": []
         },
         "10": {
@@ -2785,7 +2705,7 @@
             "headers": []
         },
         "22": {
-            "verse": "There, above the cover between the two cherubim that are over the ark of the covenant law, I will meet with you and give you all my commands for the Israelites.",
+            "verse": "There, above the cover between the two cherubim that are over the ark of the covenant law, I will meet with you and give you all my commands for the Israelites. The Table",
             "headers": []
         },
         "23": {
@@ -2794,10 +2714,6 @@
         },
         "24": {
             "verse": "Overlay it with pure gold and make a gold molding around it.",
-            "headers": []
-        },
-        "25": {
-            "verse": "Also make around it a rim a handbreadth wide and put a gold molding on the rim.",
             "headers": []
         },
         "26": {
@@ -2817,7 +2733,7 @@
             "headers": []
         },
         "30": {
-            "verse": "Put the bread of the Presence on this table to be before me at all times.",
+            "verse": "Put the bread of the Presence on this table to be before me at all times. The Lampstand",
             "headers": []
         },
         "31": {
@@ -2862,8 +2778,8 @@
         }
     },
     "26": {
-        "1": {
-            "verse": "“Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim woven into them by a skilled worker.",
+        "26": {
+            "verse": "“Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,",
             "headers": []
         },
         "2": {
@@ -2962,10 +2878,6 @@
             "verse": "So there will be eight frames and sixteen silver bases—two under each frame.",
             "headers": []
         },
-        "26": {
-            "verse": "“Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,",
-            "headers": []
-        },
         "27": {
             "verse": "five for those on the other side, and five for the frames on the west, at the far end of the tabernacle.",
             "headers": []
@@ -3012,7 +2924,7 @@
         }
     },
     "27": {
-        "1": {
+        "27": {
             "verse": "“Build an altar of acacia wood, three cubits high; it is to be square, five cubits long and five cubits wide.",
             "headers": []
         },
@@ -3041,7 +2953,7 @@
             "headers": []
         },
         "8": {
-            "verse": "Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain.",
+            "verse": "Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain. The Courtyard",
             "headers": []
         },
         "9": {
@@ -3085,7 +2997,7 @@
             "headers": []
         },
         "19": {
-            "verse": "All the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze.",
+            "verse": "All the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze. Oil for the Lampstand",
             "headers": []
         },
         "20": {
@@ -3098,8 +3010,8 @@
         }
     },
     "28": {
-        "1": {
-            "verse": "“Have Aaron your brother brought to you from among the Israelites, along with his sons Nadab and Abihu, Eleazar and Ithamar, so they may serve me as priests.",
+        "28": {
+            "verse": "The rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.",
             "headers": []
         },
         "2": {
@@ -3115,7 +3027,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Have them use gold, and blue, purple and scarlet yarn, and fine linen.",
+            "verse": "Have them use gold, and blue, purple and scarlet yarn, and fine linen. The Ephod",
             "headers": []
         },
         "6": {
@@ -3151,7 +3063,7 @@
             "headers": []
         },
         "14": {
-            "verse": "and two braided chains of pure gold, like a rope, and attach the chains to the settings.",
+            "verse": "and two braided chains of pure gold, like a rope, and attach the chains to the settings. The Breastpiece",
             "headers": []
         },
         "15": {
@@ -3206,16 +3118,12 @@
             "verse": "Make two more gold rings and attach them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod.",
             "headers": []
         },
-        "28": {
-            "verse": "The rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.",
-            "headers": []
-        },
         "29": {
             "verse": "“Whenever Aaron enters the Holy Place, he will bear the names of the sons of Israel over his heart on the breastpiece of decision as a continuing memorial before the Lord .",
             "headers": []
         },
         "30": {
-            "verse": "Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron’s heart whenever he enters the presence of the Lord . Thus Aaron will always bear the means of making decisions for the Israelites over his heart before the Lord .",
+            "verse": "Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron’s heart whenever he enters the presence of the Lord . Thus Aaron will always bear the means of making decisions for the Israelites over his heart before the Lord . Other Priestly Garments",
             "headers": []
         },
         "31": {
@@ -3267,13 +3175,13 @@
             "headers": []
         },
         "43": {
-            "verse": "Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die.",
+            "verse": "Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. “This is to be a lasting ordinance for Aaron and his descendants.",
             "headers": []
         }
     },
     "29": {
-        "1": {
-            "verse": "“This is what you are to do to consecrate them, so they may serve me as priests: Take a young bull and two rams without defect.",
+        "29": {
+            "verse": "“Aaron’s sacred garments will belong to his descendants so that they can be anointed and ordained in them.",
             "headers": []
         },
         "2": {
@@ -3305,7 +3213,7 @@
             "headers": []
         },
         "9": {
-            "verse": "and fasten caps on them. Then tie sashes on Aaron and his sons. The priesthood is theirs by a lasting ordinance.",
+            "verse": "and fasten caps on them. Then tie sashes on Aaron and his sons. The priesthood is theirs by a lasting ordinance. “Then you shall ordain Aaron and his sons.",
             "headers": []
         },
         "10": {
@@ -3384,10 +3292,6 @@
             "verse": "This is always to be the perpetual share from the Israelites for Aaron and his sons. It is the contribution the Israelites are to make to the Lord from their fellowship offerings.",
             "headers": []
         },
-        "29": {
-            "verse": "“Aaron’s sacred garments will belong to his descendants so that they can be anointed and ordained in them.",
-            "headers": []
-        },
         "30": {
             "verse": "The son who succeeds him as priest and comes to the tent of meeting to minister in the Holy Place is to wear them seven days.",
             "headers": []
@@ -3458,8 +3362,8 @@
         }
     },
     "30": {
-        "1": {
-            "verse": "“Make an altar of acacia wood for burning incense.",
+        "30": {
+            "verse": "“Anoint Aaron and his sons and consecrate them so they may serve me as priests.",
             "headers": []
         },
         "2": {
@@ -3495,7 +3399,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the Lord .”",
+            "verse": "Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering for the generations to come. It is most holy to the Lord .” Atonement Money",
             "headers": []
         },
         "11": {
@@ -3519,7 +3423,7 @@
             "headers": []
         },
         "16": {
-            "verse": "Receive the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord , making atonement for your lives.”",
+            "verse": "Receive the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord , making atonement for your lives.” Basin for Washing",
             "headers": []
         },
         "17": {
@@ -3539,7 +3443,7 @@
             "headers": []
         },
         "21": {
-            "verse": "they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come.”",
+            "verse": "they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come.” Anointing Oil",
             "headers": []
         },
         "22": {
@@ -3574,10 +3478,6 @@
             "verse": "You shall consecrate them so they will be most holy, and whatever touches them will be holy.",
             "headers": []
         },
-        "30": {
-            "verse": "“Anoint Aaron and his sons and consecrate them so they may serve me as priests.",
-            "headers": []
-        },
         "31": {
             "verse": "Say to the Israelites, ‘This is to be my sacred anointing oil for the generations to come.",
             "headers": []
@@ -3587,7 +3487,7 @@
             "headers": []
         },
         "33": {
-            "verse": "Whoever makes perfume like it and puts it on anyone other than a priest must be cut off from their people.’”",
+            "verse": "Whoever makes perfume like it and puts it on anyone other than a priest must be cut off from their people.’” Incense",
             "headers": []
         },
         "34": {
@@ -3612,7 +3512,7 @@
         }
     },
     "31": {
-        "1": {
+        "31": {
             "verse": "Then the Lord said to Moses,",
             "headers": []
         },
@@ -3653,7 +3553,7 @@
             "headers": []
         },
         "11": {
-            "verse": "and the anointing oil and fragrant incense for the Holy Place. They are to make them just as I commanded you.”",
+            "verse": "and the anointing oil and fragrant incense for the Holy Place. They are to make them just as I commanded you.” The Sabbath",
             "headers": []
         },
         "12": {
@@ -3686,8 +3586,8 @@
         }
     },
     "32": {
-        "1": {
-            "verse": "When the people saw that Moses was so long in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this fellow Moses who brought us up out of Egypt, we don’t know what has happened to him.”",
+        "32": {
+            "verse": "But now, please forgive their sin —but if not, then blot me out of the book you have written.”",
             "headers": []
         },
         "2": {
@@ -3755,7 +3655,7 @@
             "headers": []
         },
         "18": {
-            "verse": "Moses replied:",
+            "verse": "Moses replied: “It is not the sound of victory, it is not the sound of defeat; it is the sound of singing that I hear.”",
             "headers": []
         },
         "19": {
@@ -3810,10 +3710,6 @@
             "verse": "So Moses went back to the Lord and said, “Oh, what a great sin these people have committed! They have made themselves gods of gold.",
             "headers": []
         },
-        "32": {
-            "verse": "But now, please forgive their sin —but if not, then blot me out of the book you have written.”",
-            "headers": []
-        },
         "33": {
             "verse": "The Lord replied to Moses, “Whoever has sinned against me I will blot out of my book.",
             "headers": []
@@ -3828,7 +3724,7 @@
         }
     },
     "33": {
-        "1": {
+        "33": {
             "verse": "Then the Lord said to Moses, “Leave this place, you and the people you brought up out of Egypt, and go up to the land I promised on oath to Abraham, Isaac and Jacob, saying, ‘I will give it to your descendants.’",
             "headers": []
         },
@@ -3849,7 +3745,7 @@
             "headers": []
         },
         "6": {
-            "verse": "So the Israelites stripped off their ornaments at Mount Horeb.",
+            "verse": "So the Israelites stripped off their ornaments at Mount Horeb. The Tent of Meeting",
             "headers": []
         },
         "7": {
@@ -3869,7 +3765,7 @@
             "headers": []
         },
         "11": {
-            "verse": "The Lord would speak to Moses face to face, as one speaks to a friend. Then Moses would return to the camp, but his young aide Joshua son of Nun did not leave the tent.",
+            "verse": "The Lord would speak to Moses face to face, as one speaks to a friend. Then Moses would return to the camp, but his young aide Joshua son of Nun did not leave the tent. Moses and the Glory of the Lord",
             "headers": []
         },
         "12": {
@@ -3922,8 +3818,8 @@
         }
     },
     "34": {
-        "1": {
-            "verse": "The Lord said to Moses, “Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke.",
+        "34": {
+            "verse": "But whenever he entered the Lord ’s presence to speak with him, he removed the veil until he came out. And when he came out and told the Israelites what he had been commanded,",
             "headers": []
         },
         "2": {
@@ -3999,7 +3895,7 @@
             "headers": []
         },
         "20": {
-            "verse": "Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its neck. Redeem all your firstborn sons.",
+            "verse": "Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its neck. Redeem all your firstborn sons. “No one is to appear before me empty-handed.",
             "headers": []
         },
         "21": {
@@ -4023,7 +3919,7 @@
             "headers": []
         },
         "26": {
-            "verse": "“Bring the best of the firstfruits of your soil to the house of the Lord your God.",
+            "verse": "“Bring the best of the firstfruits of your soil to the house of the Lord your God. “Do not cook a young goat in its mother’s milk.”",
             "headers": []
         },
         "27": {
@@ -4031,7 +3927,7 @@
             "headers": []
         },
         "28": {
-            "verse": "Moses was there with the Lord forty days and forty nights without eating bread or drinking water. And he wrote on the tablets the words of the covenant—the Ten Commandments.",
+            "verse": "Moses was there with the Lord forty days and forty nights without eating bread or drinking water. And he wrote on the tablets the words of the covenant—the Ten Commandments. The Radiant Face of Moses",
             "headers": []
         },
         "29": {
@@ -4054,18 +3950,14 @@
             "verse": "When Moses finished speaking to them, he put a veil over his face.",
             "headers": []
         },
-        "34": {
-            "verse": "But whenever he entered the Lord ’s presence to speak with him, he removed the veil until he came out. And when he came out and told the Israelites what he had been commanded,",
-            "headers": []
-        },
         "35": {
             "verse": "they saw that his face was radiant. Then Moses would put the veil back over his face until he went in to speak with the Lord .",
             "headers": []
         }
     },
     "35": {
-        "1": {
-            "verse": "Moses assembled the whole Israelite community and said to them, “These are the things the Lord has commanded you to do:",
+        "35": {
+            "verse": "He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers—all of them skilled workers and designers.",
             "headers": []
         },
         "2": {
@@ -4073,7 +3965,7 @@
             "headers": []
         },
         "3": {
-            "verse": "Do not light a fire in any of your dwellings on the Sabbath day. ”",
+            "verse": "Do not light a fire in any of your dwellings on the Sabbath day. ” Materials for the Tabernacle",
             "headers": []
         },
         "4": {
@@ -4177,7 +4069,7 @@
             "headers": []
         },
         "29": {
-            "verse": "All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord through Moses had commanded them to do.",
+            "verse": "All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord through Moses had commanded them to do. Bezalel and Oholiab",
             "headers": []
         },
         "30": {
@@ -4199,15 +4091,11 @@
         "34": {
             "verse": "And he has given both him and Oholiab son of Ahisamak, of the tribe of Dan, the ability to teach others.",
             "headers": []
-        },
-        "35": {
-            "verse": "He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers—all of them skilled workers and designers.",
-            "headers": []
         }
     },
     "36": {
-        "1": {
-            "verse": "So Bezalel, Oholiab and every skilled person to whom the Lord has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the Lord has commanded.”",
+        "36": {
+            "verse": "They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases.",
             "headers": []
         },
         "2": {
@@ -4231,7 +4119,7 @@
             "headers": []
         },
         "7": {
-            "verse": "because what they already had was more than enough to do all the work.",
+            "verse": "because what they already had was more than enough to do all the work. The Tabernacle",
             "headers": []
         },
         "8": {
@@ -4346,10 +4234,6 @@
             "verse": "They made the curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker.",
             "headers": []
         },
-        "36": {
-            "verse": "They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases.",
-            "headers": []
-        },
         "37": {
             "verse": "For the entrance to the tent they made a curtain of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer;",
             "headers": []
@@ -4360,7 +4244,7 @@
         }
     },
     "37": {
-        "1": {
+        "37": {
             "verse": "Bezalel made the ark of acacia wood—two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
             "headers": []
         },
@@ -4393,7 +4277,7 @@
             "headers": []
         },
         "9": {
-            "verse": "The cherubim had their wings spread upward, overshadowing the cover with them. The cherubim faced each other, looking toward the cover.",
+            "verse": "The cherubim had their wings spread upward, overshadowing the cover with them. The cherubim faced each other, looking toward the cover. The Table",
             "headers": []
         },
         "10": {
@@ -4421,7 +4305,7 @@
             "headers": []
         },
         "16": {
-            "verse": "And they made from pure gold the articles for the table—its plates and dishes and bowls and its pitchers for the pouring out of drink offerings.",
+            "verse": "And they made from pure gold the articles for the table—its plates and dishes and bowls and its pitchers for the pouring out of drink offerings. The Lampstand",
             "headers": []
         },
         "17": {
@@ -4453,7 +4337,7 @@
             "headers": []
         },
         "24": {
-            "verse": "They made the lampstand and all its accessories from one talent of pure gold.",
+            "verse": "They made the lampstand and all its accessories from one talent of pure gold. The Altar of Incense",
             "headers": []
         },
         "25": {
@@ -4478,7 +4362,7 @@
         }
     },
     "38": {
-        "1": {
+        "38": {
             "verse": "They built the altar of burnt offering of acacia wood, three cubits high; it was square, five cubits long and five cubits wide.",
             "headers": []
         },
@@ -4503,11 +4387,11 @@
             "headers": []
         },
         "7": {
-            "verse": "They inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards.",
+            "verse": "They inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards. The Basin for Washing",
             "headers": []
         },
         "8": {
-            "verse": "They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the tent of meeting.",
+            "verse": "They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the tent of meeting. The Courtyard",
             "headers": []
         },
         "9": {
@@ -4555,7 +4439,7 @@
             "headers": []
         },
         "20": {
-            "verse": "All the tent pegs of the tabernacle and of the surrounding courtyard were bronze.",
+            "verse": "All the tent pegs of the tabernacle and of the surrounding courtyard were bronze. The Materials Used",
             "headers": []
         },
         "21": {
@@ -4604,8 +4488,8 @@
         }
     },
     "39": {
-        "1": {
-            "verse": "From the blue, purple and scarlet yarn they made woven garments for ministering in the sanctuary. They also made sacred garments for Aaron, as the Lord commanded Moses.",
+        "39": {
+            "verse": "the bronze altar with its bronze grating, its poles and all its utensils; the basin with its stand;",
             "headers": []
         },
         "2": {
@@ -4629,7 +4513,7 @@
             "headers": []
         },
         "7": {
-            "verse": "Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the Lord commanded Moses.",
+            "verse": "Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the Lord commanded Moses. The Breastpiece",
             "headers": []
         },
         "8": {
@@ -4685,7 +4569,7 @@
             "headers": []
         },
         "21": {
-            "verse": "They tied the rings of the breastpiece to the rings of the ephod with blue cord, connecting it to the waistband so that the breastpiece would not swing out from the ephod—as the Lord commanded Moses.",
+            "verse": "They tied the rings of the breastpiece to the rings of the ephod with blue cord, connecting it to the waistband so that the breastpiece would not swing out from the ephod—as the Lord commanded Moses. Other Priestly Garments",
             "headers": []
         },
         "22": {
@@ -4725,7 +4609,7 @@
             "headers": []
         },
         "31": {
-            "verse": "Then they fastened a blue cord to it to attach it to the turban, as the Lord commanded Moses.",
+            "verse": "Then they fastened a blue cord to it to attach it to the turban, as the Lord commanded Moses. Moses Inspects the Tabernacle",
             "headers": []
         },
         "32": {
@@ -4756,10 +4640,6 @@
             "verse": "the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;",
             "headers": []
         },
-        "39": {
-            "verse": "the bronze altar with its bronze grating, its poles and all its utensils; the basin with its stand;",
-            "headers": []
-        },
         "40": {
             "verse": "the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; the ropes and tent pegs for the courtyard; all the furnishings for the tabernacle, the tent of meeting;",
             "headers": []
@@ -4778,7 +4658,7 @@
         }
     },
     "40": {
-        "1": {
+        "40": {
             "verse": "Then the Lord said to Moses:",
             "headers": []
         },
@@ -4907,7 +4787,7 @@
             "headers": []
         },
         "33": {
-            "verse": "Then Moses set up the courtyard around the tabernacle and altar and put up the curtain at the entrance to the courtyard. And so Moses finished the work.",
+            "verse": "Then Moses set up the courtyard around the tabernacle and altar and put up the curtain at the entrance to the courtyard. And so Moses finished the work. The Glory of the Lord",
             "headers": []
         },
         "34": {

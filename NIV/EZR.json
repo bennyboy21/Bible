@@ -1,11 +1,11 @@
 {
     "1": {
         "1": {
-            "verse": "In the first year of Cyrus king of Persia, in order to fulfill the word of the Lord spoken by Jeremiah, the Lord moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and also to put it in writing:",
+            "verse": ",000",
             "headers": []
         },
         "2": {
-            "verse": "“This is what Cyrus king of Persia says:",
+            "verse": "“This is what Cyrus king of Persia says: “‘The Lord , the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah.",
             "headers": []
         },
         "3": {
@@ -33,11 +33,23 @@
             "headers": []
         },
         "9": {
-            "verse": "This was the inventory:",
+            "verse": "This was the inventory: gold dishes",
+            "headers": []
+        },
+        "30": {
+            "verse": "matching silver bowls",
+            "headers": []
+        },
+        "29": {
+            "verse": "",
             "headers": []
         },
         "10": {
             "verse": "gold bowls",
+            "headers": []
+        },
+        "410": {
+            "verse": "other articles",
             "headers": []
         },
         "11": {
@@ -46,24 +58,28 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "Now these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to their own town,",
-            "headers": []
-        },
         "2": {
-            "verse": "in company with Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah):",
+            "verse": ",056",
             "headers": []
         },
         "3": {
-            "verse": "the descendants of Parosh",
+            "verse": ",630",
             "headers": []
         },
         "4": {
             "verse": "of Shephatiah",
             "headers": []
         },
+        "372": {
+            "verse": "",
+            "headers": []
+        },
         "5": {
             "verse": "of Arah",
+            "headers": []
+        },
+        "775": {
+            "verse": "",
             "headers": []
         },
         "6": {
@@ -74,20 +90,40 @@
             "verse": "of Elam",
             "headers": []
         },
+        "1": {
+            "verse": ",017",
+            "headers": []
+        },
         "8": {
             "verse": "of Zattu",
+            "headers": []
+        },
+        "945": {
+            "verse": "",
             "headers": []
         },
         "9": {
             "verse": "of Zakkai",
             "headers": []
         },
+        "760": {
+            "verse": "",
+            "headers": []
+        },
         "10": {
             "verse": "of Bani",
             "headers": []
         },
+        "642": {
+            "verse": "",
+            "headers": []
+        },
         "11": {
             "verse": "of Bebai",
+            "headers": []
+        },
+        "623": {
+            "verse": "",
             "headers": []
         },
         "12": {
@@ -98,6 +134,10 @@
             "verse": "of Adonikam",
             "headers": []
         },
+        "666": {
+            "verse": "",
+            "headers": []
+        },
         "14": {
             "verse": "of Bigvai",
             "headers": []
@@ -106,52 +146,104 @@
             "verse": "of Adin",
             "headers": []
         },
+        "454": {
+            "verse": "",
+            "headers": []
+        },
         "16": {
             "verse": "of Ater (through Hezekiah)",
+            "headers": []
+        },
+        "98": {
+            "verse": "",
             "headers": []
         },
         "17": {
             "verse": "of Bezai",
             "headers": []
         },
+        "323": {
+            "verse": "",
+            "headers": []
+        },
         "18": {
             "verse": "of Jorah",
+            "headers": []
+        },
+        "112": {
+            "verse": "",
             "headers": []
         },
         "19": {
             "verse": "of Hashum",
             "headers": []
         },
+        "223": {
+            "verse": "",
+            "headers": []
+        },
         "20": {
             "verse": "of Gibbar",
+            "headers": []
+        },
+        "95": {
+            "verse": "",
             "headers": []
         },
         "21": {
             "verse": "the men of Bethlehem",
             "headers": []
         },
+        "123": {
+            "verse": "",
+            "headers": []
+        },
         "22": {
             "verse": "of Netophah",
+            "headers": []
+        },
+        "56": {
+            "verse": "Jaala, Darkon, Giddel,",
             "headers": []
         },
         "23": {
             "verse": "of Anathoth",
             "headers": []
         },
+        "128": {
+            "verse": "",
+            "headers": []
+        },
         "24": {
             "verse": "of Azmaveth",
+            "headers": []
+        },
+        "42": {
+            "verse": "The gatekeepers of the temple: the descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai",
             "headers": []
         },
         "25": {
             "verse": "of Kiriath Jearim, Kephirah and Beeroth",
             "headers": []
         },
+        "743": {
+            "verse": "",
+            "headers": []
+        },
         "26": {
             "verse": "of Ramah and Geba",
             "headers": []
         },
+        "621": {
+            "verse": "",
+            "headers": []
+        },
         "27": {
             "verse": "of Mikmash",
+            "headers": []
+        },
+        "122": {
+            "verse": "",
             "headers": []
         },
         "28": {
@@ -162,8 +254,16 @@
             "verse": "of Nebo",
             "headers": []
         },
+        "52": {
+            "verse": "Bazluth, Mehida, Harsha,",
+            "headers": []
+        },
         "30": {
             "verse": "of Magbish",
+            "headers": []
+        },
+        "156": {
+            "verse": "",
             "headers": []
         },
         "31": {
@@ -174,12 +274,24 @@
             "verse": "of Harim",
             "headers": []
         },
+        "320": {
+            "verse": "",
+            "headers": []
+        },
         "33": {
             "verse": "of Lod, Hadid and Ono",
             "headers": []
         },
+        "725": {
+            "verse": "",
+            "headers": []
+        },
         "34": {
             "verse": "of Jericho",
+            "headers": []
+        },
+        "345": {
+            "verse": "",
             "headers": []
         },
         "35": {
@@ -187,7 +299,11 @@
             "headers": []
         },
         "36": {
-            "verse": "The priests:",
+            "verse": "The priests: the descendants of Jedaiah (through the family of Jeshua)",
+            "headers": []
+        },
+        "973": {
+            "verse": "",
             "headers": []
         },
         "37": {
@@ -203,19 +319,23 @@
             "headers": []
         },
         "40": {
-            "verse": "The Levites:",
+            "verse": "The Levites: the descendants of Jeshua and Kadmiel (of the line of Hodaviah)",
+            "headers": []
+        },
+        "74": {
+            "verse": "",
             "headers": []
         },
         "41": {
-            "verse": "The musicians:",
+            "verse": "The musicians: the descendants of Asaph",
             "headers": []
         },
-        "42": {
-            "verse": "The gatekeepers of the temple:",
+        "139": {
+            "verse": "",
             "headers": []
         },
         "43": {
-            "verse": "The temple servants:",
+            "verse": "The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,",
             "headers": []
         },
         "44": {
@@ -250,10 +370,6 @@
             "verse": "Bakbuk, Hakupha, Harhur,",
             "headers": []
         },
-        "52": {
-            "verse": "Bazluth, Mehida, Harsha,",
-            "headers": []
-        },
         "53": {
             "verse": "Barkos, Sisera, Temah,",
             "headers": []
@@ -263,19 +379,19 @@
             "headers": []
         },
         "55": {
-            "verse": "The descendants of the servants of Solomon:",
-            "headers": []
-        },
-        "56": {
-            "verse": "Jaala, Darkon, Giddel,",
+            "verse": "The descendants of the servants of Solomon: the descendants of Sotai, Hassophereth, Peruda,",
             "headers": []
         },
         "57": {
-            "verse": "Shephatiah, Hattil,",
+            "verse": "Shephatiah, Hattil, Pokereth-Hazzebaim and Ami",
             "headers": []
         },
         "58": {
             "verse": "The temple servants and the descendants of the servants of Solomon",
+            "headers": []
+        },
+        "392": {
+            "verse": "",
             "headers": []
         },
         "59": {
@@ -283,11 +399,15 @@
             "headers": []
         },
         "60": {
-            "verse": "The descendants of",
+            "verse": "The descendants of Delaiah, Tobiah and Nekoda",
+            "headers": []
+        },
+        "652": {
+            "verse": "",
             "headers": []
         },
         "61": {
-            "verse": "And from among the priests:",
+            "verse": "And from among the priests: The descendants of Hobaiah, Hakkoz and Barzillai (a man who had married a daughter of Barzillai the Gileadite and was called by that name).",
             "headers": []
         },
         "62": {
@@ -328,16 +448,12 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "When the seventh month came and the Israelites had settled in their towns, the people assembled together as one in Jerusalem.",
+        "3": {
+            "verse": "Despite their fear of the peoples around them, they built the altar on its foundation and sacrificed burnt offerings on it to the Lord , both the morning and evening sacrifices.",
             "headers": []
         },
         "2": {
             "verse": "Then Joshua son of Jozadak and his fellow priests and Zerubbabel son of Shealtiel and his associates began to build the altar of the God of Israel to sacrifice burnt offerings on it, in accordance with what is written in the Law of Moses the man of God.",
-            "headers": []
-        },
-        "3": {
-            "verse": "Despite their fear of the peoples around them, they built the altar on its foundation and sacrificed burnt offerings on it to the Lord , both the morning and evening sacrifices.",
             "headers": []
         },
         "4": {
@@ -349,7 +465,7 @@
             "headers": []
         },
         "6": {
-            "verse": "On the first day of the seventh month they began to offer burnt offerings to the Lord , though the foundation of the Lord ’s temple had not yet been laid.",
+            "verse": "On the first day of the seventh month they began to offer burnt offerings to the Lord , though the foundation of the Lord ’s temple had not yet been laid. Rebuilding the Temple",
             "headers": []
         },
         "7": {
@@ -369,7 +485,7 @@
             "headers": []
         },
         "11": {
-            "verse": "With praise and thanksgiving they sang to the Lord :",
+            "verse": "With praise and thanksgiving they sang to the Lord : “He is good; his love toward Israel endures forever.” And all the people gave a great shout of praise to the Lord , because the foundation of the house of the Lord was laid.",
             "headers": []
         },
         "12": {
@@ -382,8 +498,8 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "When the enemies of Judah and Benjamin heard that the exiles were building a temple for the Lord , the God of Israel,",
+        "4": {
+            "verse": "Then the peoples around them set out to discourage the people of Judah and make them afraid to go on building.",
             "headers": []
         },
         "2": {
@@ -394,12 +510,8 @@
             "verse": "But Zerubbabel, Joshua and the rest of the heads of the families of Israel answered, “You have no part with us in building a temple to our God. We alone will build it for the Lord , the God of Israel, as King Cyrus, the king of Persia, commanded us.”",
             "headers": []
         },
-        "4": {
-            "verse": "Then the peoples around them set out to discourage the people of Judah and make them afraid to go on building.",
-            "headers": []
-        },
         "5": {
-            "verse": "They bribed officials to work against them and frustrate their plans during the entire reign of Cyrus king of Persia and down to the reign of Darius king of Persia.",
+            "verse": "They bribed officials to work against them and frustrate their plans during the entire reign of Cyrus king of Persia and down to the reign of Darius king of Persia. Later Opposition Under Xerxes and Artaxerxes",
             "headers": []
         },
         "6": {
@@ -423,7 +535,7 @@
             "headers": []
         },
         "11": {
-            "verse": "(This is a copy of the letter they sent him.)",
+            "verse": "(This is a copy of the letter they sent him.) To King Artaxerxes, From your servants in Trans-Euphrates:",
             "headers": []
         },
         "12": {
@@ -447,7 +559,7 @@
             "headers": []
         },
         "17": {
-            "verse": "The king sent this reply:",
+            "verse": "The king sent this reply: To Rehum the commanding officer, Shimshai the secretary and the rest of their associates living in Samaria and elsewhere in Trans-Euphrates: Greetings.",
             "headers": []
         },
         "18": {
@@ -480,8 +592,8 @@
         }
     },
     "5": {
-        "1": {
-            "verse": "Now Haggai the prophet and Zechariah the prophet, a descendant of Iddo, prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.",
+        "5": {
+            "verse": "But the eye of their God was watching over the elders of the Jews, and they were not stopped until a report could go to Darius and his written reply be received.",
             "headers": []
         },
         "2": {
@@ -496,16 +608,12 @@
             "verse": "They also asked, “What are the names of those who are constructing this building?”",
             "headers": []
         },
-        "5": {
-            "verse": "But the eye of their God was watching over the elders of the Jews, and they were not stopped until a report could go to Darius and his written reply be received.",
-            "headers": []
-        },
         "6": {
             "verse": "This is a copy of the letter that Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates, the officials of Trans-Euphrates, sent to King Darius.",
             "headers": []
         },
         "7": {
-            "verse": "The report they sent him read as follows:",
+            "verse": "The report they sent him read as follows: To King Darius: Cordial greetings.",
             "headers": []
         },
         "8": {
@@ -521,7 +629,7 @@
             "headers": []
         },
         "11": {
-            "verse": "This is the answer they gave us:",
+            "verse": "This is the answer they gave us: “We are the servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, one that a great king of Israel built and finished.",
             "headers": []
         },
         "12": {
@@ -550,16 +658,16 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "King Darius then issued an order, and they searched in the archives stored in the treasury at Babylon.",
+        "6": {
+            "verse": "Now then, Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and you other officials of that province, stay away from there.",
             "headers": []
         },
         "2": {
-            "verse": "A scroll was found in the citadel of Ecbatana in the province of Media, and this was written on it:",
+            "verse": "A scroll was found in the citadel of Ecbatana in the province of Media, and this was written on it: Memorandum:",
             "headers": []
         },
         "3": {
-            "verse": "In the first year of King Cyrus, the king issued a decree concerning the temple of God in Jerusalem:",
+            "verse": "In the first year of King Cyrus, the king issued a decree concerning the temple of God in Jerusalem: Let the temple be rebuilt as a place to present sacrifices, and let its foundations be laid. It is to be sixty cubits high and sixty cubits wide,",
             "headers": []
         },
         "4": {
@@ -570,16 +678,12 @@
             "verse": "Also, the gold and silver articles of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and brought to Babylon, are to be returned to their places in the temple in Jerusalem; they are to be deposited in the house of God.",
             "headers": []
         },
-        "6": {
-            "verse": "Now then, Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and you other officials of that province, stay away from there.",
-            "headers": []
-        },
         "7": {
             "verse": "Do not interfere with the work on this temple of God. Let the governor of the Jews and the Jewish elders rebuild this house of God on its site.",
             "headers": []
         },
         "8": {
-            "verse": "Moreover, I hereby decree what you are to do for these elders of the Jews in the construction of this house of God:",
+            "verse": "Moreover, I hereby decree what you are to do for these elders of the Jews in the construction of this house of God: Their expenses are to be fully paid out of the royal treasury, from the revenues of Trans-Euphrates, so that the work will not stop.",
             "headers": []
         },
         "9": {
@@ -595,7 +699,7 @@
             "headers": []
         },
         "12": {
-            "verse": "May God, who has caused his Name to dwell there, overthrow any king or people who lifts a hand to change this decree or to destroy this temple in Jerusalem.",
+            "verse": "May God, who has caused his Name to dwell there, overthrow any king or people who lifts a hand to change this decree or to destroy this temple in Jerusalem. I Darius have decreed it. Let it be carried out with diligence. Completion and Dedication of the Temple",
             "headers": []
         },
         "13": {
@@ -619,7 +723,7 @@
             "headers": []
         },
         "18": {
-            "verse": "And they installed the priests in their divisions and the Levites in their groups for the service of God at Jerusalem, according to what is written in the Book of Moses.",
+            "verse": "And they installed the priests in their divisions and the Levites in their groups for the service of God at Jerusalem, according to what is written in the Book of Moses. The Passover",
             "headers": []
         },
         "19": {
@@ -640,8 +744,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "After these things, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,",
+        "7": {
+            "verse": "Some of the Israelites, including priests, Levites, musicians, gatekeepers and temple servants, also came up to Jerusalem in the seventh year of King Artaxerxes.",
             "headers": []
         },
         "2": {
@@ -664,10 +768,6 @@
             "verse": "this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the Lord , the God of Israel, had given. The king had granted him everything he asked, for the hand of the Lord his God was on him.",
             "headers": []
         },
-        "7": {
-            "verse": "Some of the Israelites, including priests, Levites, musicians, gatekeepers and temple servants, also came up to Jerusalem in the seventh year of King Artaxerxes.",
-            "headers": []
-        },
         "8": {
             "verse": "Ezra arrived in Jerusalem in the fifth month of the seventh year of the king.",
             "headers": []
@@ -677,7 +777,7 @@
             "headers": []
         },
         "10": {
-            "verse": "For Ezra had devoted himself to the study and observance of the Law of the Lord , and to teaching its decrees and laws in Israel.",
+            "verse": "For Ezra had devoted himself to the study and observance of the Law of the Lord , and to teaching its decrees and laws in Israel. King Artaxerxes’ Letter to Ezra",
             "headers": []
         },
         "11": {
@@ -685,7 +785,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Artaxerxes, king of kings,",
+            "verse": "Artaxerxes, king of kings, To Ezra the priest, teacher of the Law of the God of heaven: Greetings.",
             "headers": []
         },
         "13": {
@@ -754,16 +854,20 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "These are the family heads and those registered with them who came up with me from Babylon during the reign of King Artaxerxes:",
+        "8": {
+            "verse": "of the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men;",
             "headers": []
         },
         "2": {
-            "verse": "of the descendants of Phinehas, Gershom;",
+            "verse": "of the descendants of Phinehas, Gershom; of the descendants of Ithamar, Daniel; of the descendants of David, Hattush",
             "headers": []
         },
         "3": {
             "verse": "of the descendants of Shekaniah;",
+            "headers": []
+        },
+        "150": {
+            "verse": "",
             "headers": []
         },
         "4": {
@@ -780,10 +884,6 @@
         },
         "7": {
             "verse": "of the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;",
-            "headers": []
-        },
-        "8": {
-            "verse": "of the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men;",
             "headers": []
         },
         "9": {
@@ -807,7 +907,7 @@
             "headers": []
         },
         "14": {
-            "verse": "of the descendants of Bigvai, Uthai and Zakkur, and with them 70 men.",
+            "verse": "of the descendants of Bigvai, Uthai and Zakkur, and with them 70 men. The Return to Jerusalem",
             "headers": []
         },
         "15": {
@@ -900,8 +1000,8 @@
         }
     },
     "9": {
-        "1": {
-            "verse": "After these things had been done, the leaders came to me and said, “The people of Israel, including the priests and the Levites, have not kept themselves separate from the neighboring peoples with their detestable practices, like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians and Amorites.",
+        "9": {
+            "verse": "Though we are slaves, our God has not forsaken us in our bondage. He has shown us kindness in the sight of the kings of Persia: He has granted us new life to rebuild the house of our God and repair its ruins, and he has given us a wall of protection in Judah and Jerusalem.",
             "headers": []
         },
         "2": {
@@ -921,7 +1021,7 @@
             "headers": []
         },
         "6": {
-            "verse": "and prayed:",
+            "verse": "and prayed: “I am too ashamed and disgraced, my God, to lift up my face to you, because our sins are higher than our heads and our guilt has reached to the heavens.",
             "headers": []
         },
         "7": {
@@ -930,10 +1030,6 @@
         },
         "8": {
             "verse": "“But now, for a brief moment, the Lord our God has been gracious in leaving us a remnant and giving us a firm place in his sanctuary, and so our God gives light to our eyes and a little relief in our bondage.",
-            "headers": []
-        },
-        "9": {
-            "verse": "Though we are slaves, our God has not forsaken us in our bondage. He has shown us kindness in the sight of the kings of Persia: He has granted us new life to rebuild the house of our God and repair its ruins, and he has given us a wall of protection in Judah and Jerusalem.",
             "headers": []
         },
         "10": {
@@ -962,8 +1058,8 @@
         }
     },
     "10": {
-        "1": {
-            "verse": "While Ezra was praying and confessing, weeping and throwing himself down before the house of God, a large crowd of Israelites—men, women and children—gathered around him. They too wept bitterly.",
+        "10": {
+            "verse": "Then Ezra the priest stood up and said to them, “You have been unfaithful; you have married foreign women, adding to Israel’s guilt.",
             "headers": []
         },
         "2": {
@@ -998,10 +1094,6 @@
             "verse": "Within the three days, all the men of Judah and Benjamin had gathered in Jerusalem. And on the twentieth day of the ninth month, all the people were sitting in the square before the house of God, greatly distressed by the occasion and because of the rain.",
             "headers": []
         },
-        "10": {
-            "verse": "Then Ezra the priest stood up and said to them, “You have been unfaithful; you have married foreign women, adding to Israel’s guilt.",
-            "headers": []
-        },
         "11": {
             "verse": "Now honor the Lord , the God of your ancestors, and do his will. Separate yourselves from the peoples around you and from your foreign wives.”",
             "headers": []
@@ -1027,11 +1119,11 @@
             "headers": []
         },
         "17": {
-            "verse": "and by the first day of the first month they finished dealing with all the men who had married foreign women.",
+            "verse": "and by the first day of the first month they finished dealing with all the men who had married foreign women. Those Guilty of Intermarriage",
             "headers": []
         },
         "18": {
-            "verse": "Among the descendants of the priests, the following had married foreign women:",
+            "verse": "Among the descendants of the priests, the following had married foreign women: From the descendants of Joshua son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib and Gedaliah.",
             "headers": []
         },
         "19": {
@@ -1039,51 +1131,51 @@
             "headers": []
         },
         "20": {
-            "verse": "From the descendants of Immer:",
+            "verse": "From the descendants of Immer: Hanani and Zebadiah.",
             "headers": []
         },
         "21": {
-            "verse": "From the descendants of Harim:",
+            "verse": "From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel and Uzziah.",
             "headers": []
         },
         "22": {
-            "verse": "From the descendants of Pashhur:",
+            "verse": "From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad and Elasah.",
             "headers": []
         },
         "23": {
-            "verse": "Among the Levites:",
+            "verse": "Among the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah and Eliezer.",
             "headers": []
         },
         "24": {
-            "verse": "From the musicians:",
+            "verse": "From the musicians: Eliashib. From the gatekeepers: Shallum, Telem and Uri.",
             "headers": []
         },
         "25": {
-            "verse": "And among the other Israelites:",
+            "verse": "And among the other Israelites: From the descendants of Parosh: Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah and Benaiah.",
             "headers": []
         },
         "26": {
-            "verse": "From the descendants of Elam:",
+            "verse": "From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth and Elijah.",
             "headers": []
         },
         "27": {
-            "verse": "From the descendants of Zattu:",
+            "verse": "From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad and Aziza.",
             "headers": []
         },
         "28": {
-            "verse": "From the descendants of Bebai:",
+            "verse": "From the descendants of Bebai: Jehohanan, Hananiah, Zabbai and Athlai.",
             "headers": []
         },
         "29": {
-            "verse": "From the descendants of Bani:",
+            "verse": "From the descendants of Bani: Meshullam, Malluk, Adaiah, Jashub, Sheal and Jeremoth.",
             "headers": []
         },
         "30": {
-            "verse": "From the descendants of Pahath-Moab:",
+            "verse": "From the descendants of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui and Manasseh.",
             "headers": []
         },
         "31": {
-            "verse": "From the descendants of Harim:",
+            "verse": "From the descendants of Harim: Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon,",
             "headers": []
         },
         "32": {
@@ -1091,11 +1183,11 @@
             "headers": []
         },
         "33": {
-            "verse": "From the descendants of Hashum:",
+            "verse": "From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh and Shimei.",
             "headers": []
         },
         "34": {
-            "verse": "From the descendants of Bani:",
+            "verse": "From the descendants of Bani: Maadai, Amram, Uel,",
             "headers": []
         },
         "35": {
@@ -1111,7 +1203,7 @@
             "headers": []
         },
         "38": {
-            "verse": "From the descendants of Binnui:",
+            "verse": "From the descendants of Binnui: Shimei,",
             "headers": []
         },
         "39": {
@@ -1131,7 +1223,7 @@
             "headers": []
         },
         "43": {
-            "verse": "From the descendants of Nebo:",
+            "verse": "From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and Benaiah.",
             "headers": []
         },
         "44": {

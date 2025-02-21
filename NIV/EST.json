@@ -90,10 +90,6 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "Later when King Xerxes’ fury had subsided, he remembered Vashti and what she had done and what he had decreed about her.",
-            "headers": []
-        },
         "2": {
             "verse": "Then the king’s personal attendants proposed, “Let a search be made for beautiful young virgins for the king.",
             "headers": []
@@ -159,7 +155,7 @@
             "headers": []
         },
         "18": {
-            "verse": "And the king gave a great banquet, Esther’s banquet, for all his nobles and officials. He proclaimed a holiday throughout the provinces and distributed gifts with royal liberality.",
+            "verse": "And the king gave a great banquet, Esther’s banquet, for all his nobles and officials. He proclaimed a holiday throughout the provinces and distributed gifts with royal liberality. Mordecai Uncovers a Conspiracy",
             "headers": []
         },
         "19": {
@@ -184,16 +180,12 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him and giving him a seat of honor higher than that of all the other nobles.",
+        "3": {
+            "verse": "Then the royal officials at the king’s gate asked Mordecai, “Why do you disobey the king’s command?”",
             "headers": []
         },
         "2": {
             "verse": "All the royal officials at the king’s gate knelt down and paid honor to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honor.",
-            "headers": []
-        },
-        "3": {
-            "verse": "Then the royal officials at the king’s gate asked Mordecai, “Why do you disobey the king’s command?”",
             "headers": []
         },
         "4": {
@@ -246,8 +238,8 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly.",
+        "4": {
+            "verse": "When Esther’s eunuchs and female attendants came and told her about Mordecai, she was in great distress. She sent clothes for him to put on instead of his sackcloth, but he would not accept them.",
             "headers": []
         },
         "2": {
@@ -256,10 +248,6 @@
         },
         "3": {
             "verse": "In every province to which the edict and order of the king came, there was great mourning among the Jews, with fasting, weeping and wailing. Many lay in sackcloth and ashes.",
-            "headers": []
-        },
-        "4": {
-            "verse": "When Esther’s eunuchs and female attendants came and told her about Mordecai, she was in great distress. She sent clothes for him to put on instead of his sackcloth, but he would not accept them.",
             "headers": []
         },
         "5": {
@@ -316,8 +304,8 @@
         }
     },
     "5": {
-        "1": {
-            "verse": "On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king’s hall. The king was sitting on his royal throne in the hall, facing the entrance.",
+        "5": {
+            "verse": "“Bring Haman at once,” the king said, “so that we may do what Esther asks.” So the king and Haman went to the banquet Esther had prepared.",
             "headers": []
         },
         "2": {
@@ -332,10 +320,6 @@
             "verse": "“If it pleases the king,” replied Esther, “let the king, together with Haman, come today to a banquet I have prepared for him.”",
             "headers": []
         },
-        "5": {
-            "verse": "“Bring Haman at once,” the king said, “so that we may do what Esther asks.”",
-            "headers": []
-        },
         "6": {
             "verse": "As they were drinking wine, the king again asked Esther, “Now what is your petition? It will be given you. And what is your request? Even up to half the kingdom, it will be granted.”",
             "headers": []
@@ -345,7 +329,7 @@
             "headers": []
         },
         "8": {
-            "verse": "If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”",
+            "verse": "If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.” Haman’s Rage Against Mordecai",
             "headers": []
         },
         "9": {
@@ -353,7 +337,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Nevertheless, Haman restrained himself and went home.",
+            "verse": "Nevertheless, Haman restrained himself and went home. Calling together his friends and Zeresh, his wife,",
             "headers": []
         },
         "11": {
@@ -374,8 +358,8 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "That night the king could not sleep; so he ordered the book of the chronicles, the record of his reign, to be brought in and read to him.",
+        "6": {
+            "verse": "When Haman entered, the king asked him, “What should be done for the man the king delights to honor?” Now Haman thought to himself, “Who is there that the king would rather honor than me?”",
             "headers": []
         },
         "2": {
@@ -383,7 +367,7 @@
             "headers": []
         },
         "3": {
-            "verse": "“What honor and recognition has Mordecai received for this?” the king asked.",
+            "verse": "“What honor and recognition has Mordecai received for this?” the king asked. “Nothing has been done for him,” his attendants answered.",
             "headers": []
         },
         "4": {
@@ -391,11 +375,7 @@
             "headers": []
         },
         "5": {
-            "verse": "His attendants answered, “Haman is standing in the court.”",
-            "headers": []
-        },
-        "6": {
-            "verse": "When Haman entered, the king asked him, “What should be done for the man the king delights to honor?”",
+            "verse": "His attendants answered, “Haman is standing in the court.” “Bring him in,” the king ordered.",
             "headers": []
         },
         "7": {
@@ -423,7 +403,7 @@
             "headers": []
         },
         "13": {
-            "verse": "and told Zeresh his wife and all his friends everything that had happened to him.",
+            "verse": "and told Zeresh his wife and all his friends everything that had happened to him. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has started, is of Jewish origin, you cannot stand against him—you will surely come to ruin!”",
             "headers": []
         },
         "14": {
@@ -432,8 +412,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "So the king and Haman went to Queen Esther’s banquet,",
+        "7": {
+            "verse": "The king got up in a rage, left his wine and went out into the palace garden. But Haman, realizing that the king had already decided his fate, stayed behind to beg Queen Esther for his life.",
             "headers": []
         },
         "2": {
@@ -453,19 +433,15 @@
             "headers": []
         },
         "6": {
-            "verse": "Esther said, “An adversary and enemy! This vile Haman!”",
-            "headers": []
-        },
-        "7": {
-            "verse": "The king got up in a rage, left his wine and went out into the palace garden. But Haman, realizing that the king had already decided his fate, stayed behind to beg Queen Esther for his life.",
+            "verse": "Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen.",
             "headers": []
         },
         "8": {
-            "verse": "Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining.",
+            "verse": "Just as the king returned from the palace garden to the banquet hall, Haman was falling on the couch where Esther was reclining. The king exclaimed, “Will he even molest the queen while she is with me in the house?” As soon as the word left the king’s mouth, they covered Haman’s face.",
             "headers": []
         },
         "9": {
-            "verse": "Then Harbona, one of the eunuchs attending the king, said, “A pole reaching to a height of fifty cubits stands by Haman’s house. He had it set up for Mordecai, who spoke up to help the king.”",
+            "verse": "Then Harbona, one of the eunuchs attending the king, said, “A pole reaching to a height of fifty cubits stands by Haman’s house. He had it set up for Mordecai, who spoke up to help the king.” The king said, “Impale him on it!”",
             "headers": []
         },
         "10": {
@@ -474,8 +450,8 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "That same day King Xerxes gave Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai came into the presence of the king, for Esther had told how he was related to her.",
+        "8": {
+            "verse": "Now write another decree in the king’s name in behalf of the Jews as seems best to you, and seal it with the king’s signet ring —for no document written in the king’s name and sealed with his ring can be revoked.”",
             "headers": []
         },
         "2": {
@@ -502,10 +478,6 @@
             "verse": "King Xerxes replied to Queen Esther and to Mordecai the Jew, “Because Haman attacked the Jews, I have given his estate to Esther, and they have impaled him on the pole he set up.",
             "headers": []
         },
-        "8": {
-            "verse": "Now write another decree in the king’s name in behalf of the Jews as seems best to you, and seal it with the king’s signet ring —for no document written in the king’s name and sealed with his ring can be revoked.”",
-            "headers": []
-        },
         "9": {
             "verse": "At once the royal secretaries were summoned—on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai’s orders to the Jews, and to the satraps, governors and nobles of the 127 provinces stretching from India to Cush. These orders were written in the script of each province and the language of each people and also to the Jews in their own script and language.",
             "headers": []
@@ -527,7 +499,7 @@
             "headers": []
         },
         "14": {
-            "verse": "The couriers, riding the royal horses, went out, spurred on by the king’s command, and the edict was issued in the citadel of Susa.",
+            "verse": "The couriers, riding the royal horses, went out, spurred on by the king’s command, and the edict was issued in the citadel of Susa. The Triumph of the Jews",
             "headers": []
         },
         "15": {
@@ -544,8 +516,8 @@
         }
     },
     "9": {
-        "1": {
-            "verse": "On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.",
+        "9": {
+            "verse": "Parmashta, Arisai, Aridai and Vaizatha,",
             "headers": []
         },
         "2": {
@@ -574,10 +546,6 @@
         },
         "8": {
             "verse": "Poratha, Adalia, Aridatha,",
-            "headers": []
-        },
-        "9": {
-            "verse": "Parmashta, Arisai, Aridai and Vaizatha,",
             "headers": []
         },
         "10": {
@@ -617,7 +585,7 @@
             "headers": []
         },
         "19": {
-            "verse": "That is why rural Jews—those living in villages—observe the fourteenth of the month of Adar as a day of joy and feasting, a day for giving presents to each other.",
+            "verse": "That is why rural Jews—those living in villages—observe the fourteenth of the month of Adar as a day of joy and feasting, a day for giving presents to each other. Purim Established",
             "headers": []
         },
         "20": {
@@ -674,7 +642,7 @@
         }
     },
     "10": {
-        "1": {
+        "10": {
             "verse": "King Xerxes imposed tribute throughout the empire, to its distant shores.",
             "headers": []
         },

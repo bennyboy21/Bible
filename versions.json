@@ -1,7 +1,8 @@
 {
     "en": {
         "versions": {
-            "KJV": "King James Version"
+            "KJV": "King James Version",
+            "NIV": "New International Version"
         }
     },
     "fr": {
@@ -25,5 +26,5 @@
         "Ukrainian": "uk",
         "Español": "es"
     },
-    "version_count":4
+    "version_count":9
 }

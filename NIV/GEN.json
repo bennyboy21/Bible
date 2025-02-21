@@ -105,7 +105,7 @@
             "headers": []
         },
         "27": {
-            "verse": "So God created mankind in his own image,",
+            "verse": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
             "headers": []
         },
         "28": {
@@ -126,16 +126,12 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "Thus the heavens and the earth were completed in all their vast array.",
-            "headers": []
-        },
         "2": {
             "verse": "By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.",
             "headers": []
         },
         "3": {
-            "verse": "Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.",
+            "verse": "Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done. Adam and Eve",
             "headers": []
         },
         "4": {
@@ -203,7 +199,7 @@
             "headers": []
         },
         "20": {
-            "verse": "So the man gave names to all the livestock, the birds in the sky and all the wild animals.",
+            "verse": "So the man gave names to all the livestock, the birds in the sky and all the wild animals. But for Adam no suitable helper was found.",
             "headers": []
         },
         "21": {
@@ -215,7 +211,7 @@
             "headers": []
         },
         "23": {
-            "verse": "The man said,",
+            "verse": "The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man. ”",
             "headers": []
         },
         "24": {
@@ -228,16 +224,12 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’? ”",
+        "3": {
+            "verse": "but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”",
             "headers": []
         },
         "2": {
             "verse": "The woman said to the serpent, “We may eat fruit from the trees in the garden,",
-            "headers": []
-        },
-        "3": {
-            "verse": "but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”",
             "headers": []
         },
         "4": {
@@ -277,31 +269,31 @@
             "headers": []
         },
         "13": {
-            "verse": "Then the Lord God said to the woman, “What is this you have done?”",
+            "verse": "Then the Lord God said to the woman, “What is this you have done?” The woman said, “The serpent deceived me, and I ate.”",
             "headers": []
         },
         "14": {
-            "verse": "So the Lord God said to the serpent, “Because you have done this,",
+            "verse": "So the Lord God said to the serpent, “Because you have done this, “Cursed are you above all livestock and all wild animals! You will crawl on your belly and you will eat dust all the days of your life.",
             "headers": []
         },
         "15": {
-            "verse": "And I will put enmity",
+            "verse": "And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.”",
             "headers": []
         },
         "16": {
-            "verse": "To the woman he said,",
+            "verse": "To the woman he said, “I will make your pains in childbearing very severe; with painful labor you will give birth to children. Your desire will be for your husband, and he will rule over you. ”",
             "headers": []
         },
         "17": {
-            "verse": "To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’",
+            "verse": "To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’ “Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life.",
             "headers": []
         },
         "18": {
-            "verse": "It will produce thorns and thistles for you,",
+            "verse": "It will produce thorns and thistles for you, and you will eat the plants of the field.",
             "headers": []
         },
         "19": {
-            "verse": "By the sweat of your brow",
+            "verse": "By the sweat of your brow you will eat your food until you return to the ground, since from it you were taken; for dust you are and to dust you will return.”",
             "headers": []
         },
         "20": {
@@ -326,20 +318,16 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "Adam made love to his wife Eve, and she became pregnant and gave birth to Cain. She said, “With the help of the Lord I have brought forth a man.”",
+        "4": {
+            "verse": "And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering,",
             "headers": []
         },
         "2": {
-            "verse": "Later she gave birth to his brother Abel.",
+            "verse": "Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soil.",
             "headers": []
         },
         "3": {
             "verse": "In the course of time Cain brought some of the fruits of the soil as an offering to the Lord .",
-            "headers": []
-        },
-        "4": {
-            "verse": "And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering,",
             "headers": []
         },
         "5": {
@@ -359,7 +347,7 @@
             "headers": []
         },
         "9": {
-            "verse": "Then the Lord said to Cain, “Where is your brother Abel?”",
+            "verse": "Then the Lord said to Cain, “Where is your brother Abel?” “I don’t know, ” he replied. “Am I my brother’s keeper?”",
             "headers": []
         },
         "10": {
@@ -415,11 +403,11 @@
             "headers": []
         },
         "23": {
-            "verse": "Lamech said to his wives,",
+            "verse": "Lamech said to his wives, “Adah and Zillah, listen to me; wives of Lamech, hear my words. I have killed a man for wounding me, a young man for injuring me.",
             "headers": []
         },
         "24": {
-            "verse": "If Cain is avenged seven times,",
+            "verse": "If Cain is avenged seven times, then Lamech seventy-seven times. ”",
             "headers": []
         },
         "25": {
@@ -427,13 +415,13 @@
             "headers": []
         },
         "26": {
-            "verse": "Seth also had a son, and he named him Enosh.",
+            "verse": "Seth also had a son, and he named him Enosh. At that time people began to call on the name of the Lord .",
             "headers": []
         }
     },
     "5": {
-        "1": {
-            "verse": "This is the written account of Adam’s family line.",
+        "5": {
+            "verse": "Altogether, Adam lived a total of 930 years, and then he died.",
             "headers": []
         },
         "2": {
@@ -446,10 +434,6 @@
         },
         "4": {
             "verse": "After Seth was born, Adam lived 800 years and had other sons and daughters.",
-            "headers": []
-        },
-        "5": {
-            "verse": "Altogether, Adam lived a total of 930 years, and then he died.",
             "headers": []
         },
         "6": {
@@ -562,8 +546,8 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "When human beings began to increase in number on the earth and daughters were born to them,",
+        "6": {
+            "verse": "The Lord regretted that he had made human beings on the earth, and his heart was deeply troubled.",
             "headers": []
         },
         "2": {
@@ -582,20 +566,16 @@
             "verse": "The Lord saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.",
             "headers": []
         },
-        "6": {
-            "verse": "The Lord regretted that he had made human beings on the earth, and his heart was deeply troubled.",
-            "headers": []
-        },
         "7": {
             "verse": "So the Lord said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them. ”",
             "headers": []
         },
         "8": {
-            "verse": "But Noah found favor in the eyes of the Lord .",
+            "verse": "But Noah found favor in the eyes of the Lord . Noah and the Flood",
             "headers": []
         },
         "9": {
-            "verse": "This is the account of Noah and his family.",
+            "verse": "This is the account of Noah and his family. Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God.",
             "headers": []
         },
         "10": {
@@ -652,8 +632,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "The Lord then said to Noah, “Go into the ark, you and your whole family, because I have found you righteous in this generation.",
+        "7": {
+            "verse": "And Noah and his sons and his wife and his sons’ wives entered the ark to escape the waters of the flood.",
             "headers": []
         },
         "2": {
@@ -674,10 +654,6 @@
         },
         "6": {
             "verse": "Noah was six hundred years old when the floodwaters came on the earth.",
-            "headers": []
-        },
-        "7": {
-            "verse": "And Noah and his sons and his wife and his sons’ wives entered the ark to escape the waters of the flood.",
             "headers": []
         },
         "8": {
@@ -750,8 +726,8 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "But God remembered Noah and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded.",
+        "8": {
+            "verse": "Then he sent out a dove to see if the water had receded from the surface of the ground.",
             "headers": []
         },
         "2": {
@@ -776,10 +752,6 @@
         },
         "7": {
             "verse": "and sent out a raven, and it kept flying back and forth until the water had dried up from the earth.",
-            "headers": []
-        },
-        "8": {
-            "verse": "Then he sent out a dove to see if the water had receded from the surface of the ground.",
             "headers": []
         },
         "9": {
@@ -835,13 +807,13 @@
             "headers": []
         },
         "22": {
-            "verse": "“As long as the earth endures,",
+            "verse": "“As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.”",
             "headers": []
         }
     },
     "9": {
-        "1": {
-            "verse": "Then God blessed Noah and his sons, saying to them, “Be fruitful and increase in number and fill the earth.",
+        "9": {
+            "verse": "“I now establish my covenant with you and with your descendants after you",
             "headers": []
         },
         "2": {
@@ -861,7 +833,7 @@
             "headers": []
         },
         "6": {
-            "verse": "“Whoever sheds human blood,",
+            "verse": "“Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind.",
             "headers": []
         },
         "7": {
@@ -870,10 +842,6 @@
         },
         "8": {
             "verse": "Then God said to Noah and to his sons with him:",
-            "headers": []
-        },
-        "9": {
-            "verse": "“I now establish my covenant with you and with your descendants after you",
             "headers": []
         },
         "10": {
@@ -905,7 +873,7 @@
             "headers": []
         },
         "17": {
-            "verse": "So God said to Noah, “This is the sign of the covenant I have established between me and all life on the earth.”",
+            "verse": "So God said to Noah, “This is the sign of the covenant I have established between me and all life on the earth.” The Sons of Noah",
             "headers": []
         },
         "18": {
@@ -937,15 +905,15 @@
             "headers": []
         },
         "25": {
-            "verse": "he said,",
+            "verse": "he said, “Cursed be Canaan! The lowest of slaves will he be to his brothers. ”",
             "headers": []
         },
         "26": {
-            "verse": "He also said,",
+            "verse": "He also said, “Praise be to the Lord , the God of Shem! May Canaan be the slave of Shem.",
             "headers": []
         },
         "27": {
-            "verse": "May God extend Japheth’s territory;",
+            "verse": "May God extend Japheth’s territory; may Japheth live in the tents of Shem, and may Canaan be the slave of Japheth.”",
             "headers": []
         },
         "28": {
@@ -958,32 +926,32 @@
         }
     },
     "10": {
-        "1": {
-            "verse": "This is the account of Shem, Ham and Japheth, Noah’s sons, who themselves had sons after the flood.",
+        "10": {
+            "verse": "The first centers of his kingdom were Babylon, Uruk, Akkad and Kalneh, in Shinar.",
             "headers": []
         },
         "2": {
-            "verse": "The sons of Japheth:",
+            "verse": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshek and Tiras.",
             "headers": []
         },
         "3": {
-            "verse": "The sons of Gomer:",
+            "verse": "The sons of Gomer: Ashkenaz, Riphath and Togarmah.",
             "headers": []
         },
         "4": {
-            "verse": "The sons of Javan:",
+            "verse": "The sons of Javan: Elishah, Tarshish, the Kittites and the Rodanites.",
             "headers": []
         },
         "5": {
-            "verse": "(From these the maritime peoples spread out into their territories by their clans within their nations, each with its own language.)",
+            "verse": "(From these the maritime peoples spread out into their territories by their clans within their nations, each with its own language.) The Hamites",
             "headers": []
         },
         "6": {
-            "verse": "The sons of Ham:",
+            "verse": "The sons of Ham: Cush, Egypt, Put and Canaan.",
             "headers": []
         },
         "7": {
-            "verse": "The sons of Cush:",
+            "verse": "The sons of Cush: Seba, Havilah, Sabtah, Raamah and Sabteka. The sons of Raamah: Sheba and Dedan.",
             "headers": []
         },
         "8": {
@@ -992,10 +960,6 @@
         },
         "9": {
             "verse": "He was a mighty hunter before the Lord ; that is why it is said, “Like Nimrod, a mighty hunter before the Lord .”",
-            "headers": []
-        },
-        "10": {
-            "verse": "The first centers of his kingdom were Babylon, Uruk, Akkad and Kalneh, in Shinar.",
             "headers": []
         },
         "11": {
@@ -1007,7 +971,7 @@
             "headers": []
         },
         "13": {
-            "verse": "Egypt was the father of",
+            "verse": "Egypt was the father of the Ludites, Anamites, Lehabites, Naphtuhites,",
             "headers": []
         },
         "14": {
@@ -1015,7 +979,7 @@
             "headers": []
         },
         "15": {
-            "verse": "Canaan was the father of",
+            "verse": "Canaan was the father of Sidon his firstborn, and of the Hittites,",
             "headers": []
         },
         "16": {
@@ -1027,7 +991,7 @@
             "headers": []
         },
         "18": {
-            "verse": "Arvadites, Zemarites and Hamathites.",
+            "verse": "Arvadites, Zemarites and Hamathites. Later the Canaanite clans scattered",
             "headers": []
         },
         "19": {
@@ -1035,7 +999,7 @@
             "headers": []
         },
         "20": {
-            "verse": "These are the sons of Ham by their clans and languages, in their territories and nations.",
+            "verse": "These are the sons of Ham by their clans and languages, in their territories and nations. The Semites",
             "headers": []
         },
         "21": {
@@ -1043,23 +1007,23 @@
             "headers": []
         },
         "22": {
-            "verse": "The sons of Shem:",
+            "verse": "The sons of Shem: Elam, Ashur, Arphaxad, Lud and Aram.",
             "headers": []
         },
         "23": {
-            "verse": "The sons of Aram:",
+            "verse": "The sons of Aram: Uz, Hul, Gether and Meshek.",
             "headers": []
         },
         "24": {
-            "verse": "Arphaxad was the father of Shelah,",
+            "verse": "Arphaxad was the father of Shelah, and Shelah the father of Eber.",
             "headers": []
         },
         "25": {
-            "verse": "Two sons were born to Eber:",
+            "verse": "Two sons were born to Eber: One was named Peleg, because in his time the earth was divided; his brother was named Joktan.",
             "headers": []
         },
         "26": {
-            "verse": "Joktan was the father of",
+            "verse": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
             "headers": []
         },
         "27": {
@@ -1088,8 +1052,8 @@
         }
     },
     "11": {
-        "1": {
-            "verse": "Now the whole world had one language and a common speech.",
+        "11": {
+            "verse": "And after he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.",
             "headers": []
         },
         "2": {
@@ -1121,15 +1085,15 @@
             "headers": []
         },
         "9": {
-            "verse": "That is why it was called Babel —because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.",
+            "verse": "That is why it was called Babel —because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth. From Shem to Abram",
             "headers": []
         },
         "10": {
             "verse": "This is the account of Shem’s family line.",
             "headers": []
         },
-        "11": {
-            "verse": "And after he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.",
+        "100": {
+            "verse": "years old, he became the father of Arphaxad.",
             "headers": []
         },
         "12": {
@@ -1189,11 +1153,11 @@
             "headers": []
         },
         "26": {
-            "verse": "After Terah had lived 70 years, he became the father of Abram, Nahor and Haran.",
+            "verse": "After Terah had lived 70 years, he became the father of Abram, Nahor and Haran. Abram’s Family",
             "headers": []
         },
         "27": {
-            "verse": "This is the account of Terah’s family line.",
+            "verse": "This is the account of Terah’s family line. Terah became the father of Abram, Nahor and Haran. And Haran became the father of Lot.",
             "headers": []
         },
         "28": {
@@ -1218,16 +1182,16 @@
         }
     },
     "12": {
-        "1": {
-            "verse": "The Lord had said to Abram, “Go from your country, your people and your father’s household to the land I will show you.",
+        "12": {
+            "verse": "When the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live.",
             "headers": []
         },
         "2": {
-            "verse": "“I will make you into a great nation,",
+            "verse": "“I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing.",
             "headers": []
         },
         "3": {
-            "verse": "I will bless those who bless you,",
+            "verse": "I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you. ”",
             "headers": []
         },
         "4": {
@@ -1251,7 +1215,7 @@
             "headers": []
         },
         "9": {
-            "verse": "Then Abram set out and continued toward the Negev.",
+            "verse": "Then Abram set out and continued toward the Negev. Abram in Egypt",
             "headers": []
         },
         "10": {
@@ -1260,10 +1224,6 @@
         },
         "11": {
             "verse": "As he was about to enter Egypt, he said to his wife Sarai, “I know what a beautiful woman you are.",
-            "headers": []
-        },
-        "12": {
-            "verse": "When the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live.",
             "headers": []
         },
         "13": {
@@ -1300,8 +1260,8 @@
         }
     },
     "13": {
-        "1": {
-            "verse": "So Abram went up from Egypt to the Negev, with his wife and everything he had, and Lot went with him.",
+        "13": {
+            "verse": "Now the people of Sodom were wicked and were sinning greatly against the Lord .",
             "headers": []
         },
         "2": {
@@ -1348,10 +1308,6 @@
             "verse": "Abram lived in the land of Canaan, while Lot lived among the cities of the plain and pitched his tents near Sodom.",
             "headers": []
         },
-        "13": {
-            "verse": "Now the people of Sodom were wicked and were sinning greatly against the Lord .",
-            "headers": []
-        },
         "14": {
             "verse": "The Lord said to Abram after Lot had parted from him, “Look around from where you are, to the north and south, to the east and west.",
             "headers": []
@@ -1374,8 +1330,8 @@
         }
     },
     "14": {
-        "1": {
-            "verse": "At the time when Amraphel was king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam and Tidal king of Goyim,",
+        "14": {
+            "verse": "When Abram heard that his relative had been taken captive, he called out the 318 trained men born in his household and went in pursuit as far as Dan.",
             "headers": []
         },
         "2": {
@@ -1426,10 +1382,6 @@
             "verse": "A man who had escaped came and reported this to Abram the Hebrew. Now Abram was living near the great trees of Mamre the Amorite, a brother of Eshkol and Aner, all of whom were allied with Abram.",
             "headers": []
         },
-        "14": {
-            "verse": "When Abram heard that his relative had been taken captive, he called out the 318 trained men born in his household and went in pursuit as far as Dan.",
-            "headers": []
-        },
         "15": {
             "verse": "During the night Abram divided his men to attack them and he routed them, pursuing them as far as Hobah, north of Damascus.",
             "headers": []
@@ -1447,11 +1399,11 @@
             "headers": []
         },
         "19": {
-            "verse": "and he blessed Abram, saying,",
+            "verse": "and he blessed Abram, saying, “Blessed be Abram by God Most High, Creator of heaven and earth.",
             "headers": []
         },
         "20": {
-            "verse": "And praise be to God Most High,",
+            "verse": "And praise be to God Most High, who delivered your enemies into your hand.” Then Abram gave him a tenth of everything.",
             "headers": []
         },
         "21": {
@@ -1472,8 +1424,8 @@
         }
     },
     "15": {
-        "1": {
-            "verse": "After this, the word of the Lord came to Abram in a vision:",
+        "15": {
+            "verse": "You, however, will go to your ancestors in peace and be buried at a good old age.",
             "headers": []
         },
         "2": {
@@ -1528,10 +1480,6 @@
             "verse": "But I will punish the nation they serve as slaves, and afterward they will come out with great possessions.",
             "headers": []
         },
-        "15": {
-            "verse": "You, however, will go to your ancestors in peace and be buried at a good old age.",
-            "headers": []
-        },
         "16": {
             "verse": "In the fourth generation your descendants will come back here, for the sin of the Amorites has not yet reached its full measure.”",
             "headers": []
@@ -1558,12 +1506,12 @@
         }
     },
     "16": {
-        "1": {
-            "verse": "Now Sarai, Abram’s wife, had borne him no children. But she had an Egyptian slave named Hagar;",
+        "16": {
+            "verse": "Abram was eighty-six years old when Hagar bore him Ishmael.",
             "headers": []
         },
         "2": {
-            "verse": "so she said to Abram, “The Lord has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.”",
+            "verse": "so she said to Abram, “The Lord has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.” Abram agreed to what Sarai said.",
             "headers": []
         },
         "3": {
@@ -1571,7 +1519,7 @@
             "headers": []
         },
         "4": {
-            "verse": "He slept with Hagar, and she conceived.",
+            "verse": "He slept with Hagar, and she conceived. When she knew she was pregnant, she began to despise her mistress.",
             "headers": []
         },
         "5": {
@@ -1587,7 +1535,7 @@
             "headers": []
         },
         "8": {
-            "verse": "And he said, “Hagar, slave of Sarai, where have you come from, and where are you going?”",
+            "verse": "And he said, “Hagar, slave of Sarai, where have you come from, and where are you going?” “I’m running away from my mistress Sarai,” she answered.",
             "headers": []
         },
         "9": {
@@ -1599,11 +1547,11 @@
             "headers": []
         },
         "11": {
-            "verse": "The angel of the Lord also said to her:",
+            "verse": "The angel of the Lord also said to her: “You are now pregnant and you will give birth to a son. You shall name him Ishmael, for the Lord has heard of your misery.",
             "headers": []
         },
         "12": {
-            "verse": "He will be a wild donkey of a man;",
+            "verse": "He will be a wild donkey of a man; his hand will be against everyone and everyone’s hand against him, and he will live in hostility toward all his brothers. ”",
             "headers": []
         },
         "13": {
@@ -1617,15 +1565,11 @@
         "15": {
             "verse": "So Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.",
             "headers": []
-        },
-        "16": {
-            "verse": "Abram was eighty-six years old when Hagar bore him Ishmael.",
-            "headers": []
         }
     },
     "17": {
-        "1": {
-            "verse": "When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty ; walk before me faithfully and be blameless.",
+        "17": {
+            "verse": "Abraham fell facedown; he laughed and said to himself, “Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?”",
             "headers": []
         },
         "2": {
@@ -1688,10 +1632,6 @@
             "verse": "I will bless her and will surely give you a son by her. I will bless her so that she will be the mother of nations; kings of peoples will come from her.”",
             "headers": []
         },
-        "17": {
-            "verse": "Abraham fell facedown; he laughed and said to himself, “Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?”",
-            "headers": []
-        },
         "18": {
             "verse": "And Abraham said to God, “If only Ishmael might live under your blessing!”",
             "headers": []
@@ -1734,8 +1674,8 @@
         }
     },
     "18": {
-        "1": {
-            "verse": "The Lord appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day.",
+        "18": {
+            "verse": "Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.",
             "headers": []
         },
         "2": {
@@ -1751,7 +1691,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Let me get you something to eat, so you can be refreshed and then go on your way—now that you have come to your servant.”",
+            "verse": "Let me get you something to eat, so you can be refreshed and then go on your way—now that you have come to your servant.” “Very well,” they answered, “do as you say.”",
             "headers": []
         },
         "6": {
@@ -1767,11 +1707,11 @@
             "headers": []
         },
         "9": {
-            "verse": "“Where is your wife Sarah?” they asked him.",
+            "verse": "“Where is your wife Sarah?” they asked him. “There, in the tent, ” he said.",
             "headers": []
         },
         "10": {
-            "verse": "Then one of them said, “I will surely return to you about this time next year, and Sarah your wife will have a son.”",
+            "verse": "Then one of them said, “I will surely return to you about this time next year, and Sarah your wife will have a son.” Now Sarah was listening at the entrance to the tent, which was behind him.",
             "headers": []
         },
         "11": {
@@ -1791,7 +1731,7 @@
             "headers": []
         },
         "15": {
-            "verse": "Sarah was afraid, so she lied and said, “I did not laugh.”",
+            "verse": "Sarah was afraid, so she lied and said, “I did not laugh.” But he said, “Yes, you did laugh.” Abraham Pleads for Sodom",
             "headers": []
         },
         "16": {
@@ -1800,10 +1740,6 @@
         },
         "17": {
             "verse": "Then the Lord said, “Shall I hide from Abraham what I am about to do?",
-            "headers": []
-        },
-        "18": {
-            "verse": "Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.",
             "headers": []
         },
         "19": {
@@ -1843,23 +1779,23 @@
             "headers": []
         },
         "28": {
-            "verse": "what if the number of the righteous is five less than fifty? Will you destroy the whole city for lack of five people?”",
+            "verse": "what if the number of the righteous is five less than fifty? Will you destroy the whole city for lack of five people?” “If I find forty-five there,” he said, “I will not destroy it.”",
             "headers": []
         },
         "29": {
-            "verse": "Once again he spoke to him, “What if only forty are found there?”",
+            "verse": "Once again he spoke to him, “What if only forty are found there?” He said, “For the sake of forty, I will not do it.”",
             "headers": []
         },
         "30": {
-            "verse": "Then he said, “May the Lord not be angry, but let me speak. What if only thirty can be found there?”",
+            "verse": "Then he said, “May the Lord not be angry, but let me speak. What if only thirty can be found there?” He answered, “I will not do it if I find thirty there.”",
             "headers": []
         },
         "31": {
-            "verse": "Abraham said, “Now that I have been so bold as to speak to the Lord, what if only twenty can be found there?”",
+            "verse": "Abraham said, “Now that I have been so bold as to speak to the Lord, what if only twenty can be found there?” He said, “For the sake of twenty, I will not destroy it.”",
             "headers": []
         },
         "32": {
-            "verse": "Then he said, “May the Lord not be angry, but let me speak just once more. What if only ten can be found there?”",
+            "verse": "Then he said, “May the Lord not be angry, but let me speak just once more. What if only ten can be found there?” He answered, “For the sake of ten, I will not destroy it.”",
             "headers": []
         },
         "33": {
@@ -1868,12 +1804,12 @@
         }
     },
     "19": {
-        "1": {
-            "verse": "The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When he saw them, he got up to meet them and bowed down with his face to the ground.",
+        "19": {
+            "verse": "Your servant has found favor in your eyes, and you have shown great kindness to me in sparing my life. But I can’t flee to the mountains; this disaster will overtake me, and I’ll die.",
             "headers": []
         },
         "2": {
-            "verse": "“My lords,” he said, “please turn aside to your servant’s house. You can wash your feet and spend the night and then go on your way early in the morning.”",
+            "verse": "“My lords,” he said, “please turn aside to your servant’s house. You can wash your feet and spend the night and then go on your way early in the morning.” “No,” they answered, “we will spend the night in the square.”",
             "headers": []
         },
         "3": {
@@ -1940,10 +1876,6 @@
             "verse": "But Lot said to them, “No, my lords, please!",
             "headers": []
         },
-        "19": {
-            "verse": "Your servant has found favor in your eyes, and you have shown great kindness to me in sparing my life. But I can’t flee to the mountains; this disaster will overtake me, and I’ll die.",
-            "headers": []
-        },
         "20": {
             "verse": "Look, here is a town near enough to run to, and it is small. Let me flee to it—it is very small, isn’t it? Then my life will be spared.”",
             "headers": []
@@ -1981,7 +1913,7 @@
             "headers": []
         },
         "29": {
-            "verse": "So when God destroyed the cities of the plain, he remembered Abraham, and he brought Lot out of the catastrophe that overthrew the cities where Lot had lived.",
+            "verse": "So when God destroyed the cities of the plain, he remembered Abraham, and he brought Lot out of the catastrophe that overthrew the cities where Lot had lived. Lot and His Daughters",
             "headers": []
         },
         "30": {
@@ -2022,7 +1954,7 @@
         }
     },
     "20": {
-        "1": {
+        "20": {
             "verse": "Now Abraham moved on from there into the region of the Negev and lived between Kadesh and Shur. For a while he stayed in Gerar,",
             "headers": []
         },
@@ -2096,8 +2028,8 @@
         }
     },
     "21": {
-        "1": {
-            "verse": "Now the Lord was gracious to Sarah as he had said, and the Lord did for Sarah what he had promised.",
+        "21": {
+            "verse": "While he was living in the Desert of Paran, his mother got a wife for him from Egypt. The Treaty at Beersheba",
             "headers": []
         },
         "2": {
@@ -2121,7 +2053,7 @@
             "headers": []
         },
         "7": {
-            "verse": "And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”",
+            "verse": "And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.” Hagar and Ishmael Sent Away",
             "headers": []
         },
         "8": {
@@ -2174,10 +2106,6 @@
         },
         "20": {
             "verse": "God was with the boy as he grew up. He lived in the desert and became an archer.",
-            "headers": []
-        },
-        "21": {
-            "verse": "While he was living in the Desert of Paran, his mother got a wife for him from Egypt.",
             "headers": []
         },
         "22": {
@@ -2234,8 +2162,8 @@
         }
     },
     "22": {
-        "1": {
-            "verse": "Some time later God tested Abraham. He said to him, “Abraham!”",
+        "22": {
+            "verse": "Kesed, Hazo, Pildash, Jidlaph and Bethuel. ”",
             "headers": []
         },
         "2": {
@@ -2259,7 +2187,7 @@
             "headers": []
         },
         "7": {
-            "verse": "Isaac spoke up and said to his father Abraham, “Father?”",
+            "verse": "Isaac spoke up and said to his father Abraham, “Father?” “Yes, my son?” Abraham replied. “The fire and wood are here,” Isaac said, “but where is the lamb for the burnt offering?”",
             "headers": []
         },
         "8": {
@@ -2275,7 +2203,7 @@
             "headers": []
         },
         "11": {
-            "verse": "But the angel of the Lord called out to him from heaven, “Abraham! Abraham!”",
+            "verse": "But the angel of the Lord called out to him from heaven, “Abraham! Abraham!” “Here I am,” he replied.",
             "headers": []
         },
         "12": {
@@ -2307,7 +2235,7 @@
             "headers": []
         },
         "19": {
-            "verse": "Then Abraham returned to his servants, and they set off together for Beersheba. And Abraham stayed in Beersheba.",
+            "verse": "Then Abraham returned to his servants, and they set off together for Beersheba. And Abraham stayed in Beersheba. Nahor’s Sons",
             "headers": []
         },
         "20": {
@@ -2316,10 +2244,6 @@
         },
         "21": {
             "verse": "Uz the firstborn, Buz his brother, Kemuel (the father of Aram),",
-            "headers": []
-        },
-        "22": {
-            "verse": "Kesed, Hazo, Pildash, Jidlaph and Bethuel. ”",
             "headers": []
         },
         "23": {
@@ -2332,7 +2256,7 @@
         }
     },
     "23": {
-        "1": {
+        "23": {
             "verse": "Sarah lived to be a hundred and twenty-seven years old.",
             "headers": []
         },
@@ -2414,8 +2338,8 @@
         }
     },
     "24": {
-        "1": {
-            "verse": "Abraham was now very old, and the Lord had blessed him in every way.",
+        "24": {
+            "verse": "She answered him, “I am the daughter of Bethuel, the son that Milkah bore to Nahor. ”",
             "headers": []
         },
         "2": {
@@ -2506,10 +2430,6 @@
             "verse": "Then he asked, “Whose daughter are you? Please tell me, is there room in your father’s house for us to spend the night? ”",
             "headers": []
         },
-        "24": {
-            "verse": "She answered him, “I am the daughter of Bethuel, the son that Milkah bore to Nahor. ”",
-            "headers": []
-        },
         "25": {
             "verse": "And she added, “We have plenty of straw and fodder, as well as room for you to spend the night.”",
             "headers": []
@@ -2543,7 +2463,7 @@
             "headers": []
         },
         "33": {
-            "verse": "Then food was set before him, but he said, “I will not eat until I have told you what I have to say.”",
+            "verse": "Then food was set before him, but he said, “I will not eat until I have told you what I have to say.” “Then tell us,” Laban said.",
             "headers": []
         },
         "34": {
@@ -2599,7 +2519,7 @@
             "headers": []
         },
         "47": {
-            "verse": "“I asked her, ‘Whose daughter are you?’",
+            "verse": "“I asked her, ‘Whose daughter are you?’ “She said, ‘The daughter of Bethuel son of Nahor, whom Milkah bore to him.’ “Then I put the ring in her nose and the bracelets on her arms,",
             "headers": []
         },
         "48": {
@@ -2627,7 +2547,7 @@
             "headers": []
         },
         "54": {
-            "verse": "Then he and the men who were with him ate and drank and spent the night there.",
+            "verse": "Then he and the men who were with him ate and drank and spent the night there. When they got up the next morning, he said, “Send me on my way to my master.”",
             "headers": []
         },
         "55": {
@@ -2643,7 +2563,7 @@
             "headers": []
         },
         "58": {
-            "verse": "So they called Rebekah and asked her, “Will you go with this man?”",
+            "verse": "So they called Rebekah and asked her, “Will you go with this man?” “I will go,” she said.",
             "headers": []
         },
         "59": {
@@ -2651,7 +2571,7 @@
             "headers": []
         },
         "60": {
-            "verse": "And they blessed Rebekah and said to her,",
+            "verse": "And they blessed Rebekah and said to her, “Our sister, may you increase to thousands upon thousands; may your offspring possess the cities of their enemies.”",
             "headers": []
         },
         "61": {
@@ -2671,7 +2591,7 @@
             "headers": []
         },
         "65": {
-            "verse": "and asked the servant, “Who is that man in the field coming to meet us?”",
+            "verse": "and asked the servant, “Who is that man in the field coming to meet us?” “He is my master,” the servant answered. So she took her veil and covered herself.",
             "headers": []
         },
         "66": {
@@ -2684,8 +2604,8 @@
         }
     },
     "25": {
-        "1": {
-            "verse": "Abraham had taken another wife, whose name was Keturah.",
+        "25": {
+            "verse": "The first to come out was red, and his whole body was like a hairy garment; so they named him Esau.",
             "headers": []
         },
         "2": {
@@ -2725,7 +2645,7 @@
             "headers": []
         },
         "11": {
-            "verse": "After Abraham’s death, God blessed his son Isaac, who then lived near Beer Lahai Roi.",
+            "verse": "After Abraham’s death, God blessed his son Isaac, who then lived near Beer Lahai Roi. Ishmael’s Sons",
             "headers": []
         },
         "12": {
@@ -2753,11 +2673,11 @@
             "headers": []
         },
         "18": {
-            "verse": "His descendants settled in the area from Havilah to Shur, near the eastern border of Egypt, as you go toward Ashur. And they lived in hostility toward all the tribes related to them.",
+            "verse": "His descendants settled in the area from Havilah to Shur, near the eastern border of Egypt, as you go toward Ashur. And they lived in hostility toward all the tribes related to them. Jacob and Esau",
             "headers": []
         },
         "19": {
-            "verse": "This is the account of the family line of Abraham’s son Isaac.",
+            "verse": "This is the account of the family line of Abraham’s son Isaac. Abraham became the father of Isaac,",
             "headers": []
         },
         "20": {
@@ -2773,15 +2693,11 @@
             "headers": []
         },
         "23": {
-            "verse": "The Lord said to her,",
+            "verse": "The Lord said to her, “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger. ”",
             "headers": []
         },
         "24": {
             "verse": "When the time came for her to give birth, there were twin boys in her womb.",
-            "headers": []
-        },
-        "25": {
-            "verse": "The first to come out was red, and his whole body was like a hairy garment; so they named him Esau.",
             "headers": []
         },
         "26": {
@@ -2817,13 +2733,13 @@
             "headers": []
         },
         "34": {
-            "verse": "Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and left.",
+            "verse": "Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and left. So Esau despised his birthright.",
             "headers": []
         }
     },
     "26": {
-        "1": {
-            "verse": "Now there was a famine in the land —besides the previous famine in Abraham’s time—and Isaac went to Abimelek king of the Philistines in Gerar.",
+        "26": {
+            "verse": "Meanwhile, Abimelek had come to him from Gerar, with Ahuzzath his personal adviser and Phicol the commander of his forces.",
             "headers": []
         },
         "2": {
@@ -2855,7 +2771,7 @@
             "headers": []
         },
         "9": {
-            "verse": "So Abimelek summoned Isaac and said, “She is really your wife! Why did you say, ‘She is my sister’? ”",
+            "verse": "So Abimelek summoned Isaac and said, “She is really your wife! Why did you say, ‘She is my sister’? ” Isaac answered him, “Because I thought I might lose my life on account of her.”",
             "headers": []
         },
         "10": {
@@ -2922,10 +2838,6 @@
             "verse": "Isaac built an altar there and called on the name of the Lord . There he pitched his tent, and there his servants dug a well.",
             "headers": []
         },
-        "26": {
-            "verse": "Meanwhile, Abimelek had come to him from Gerar, with Ahuzzath his personal adviser and Phicol the commander of his forces.",
-            "headers": []
-        },
         "27": {
             "verse": "Isaac asked them, “Why have you come to me, since you were hostile to me and sent me away? ”",
             "headers": []
@@ -2951,7 +2863,7 @@
             "headers": []
         },
         "33": {
-            "verse": "He called it Shibah, and to this day the name of the town has been Beersheba.",
+            "verse": "He called it Shibah, and to this day the name of the town has been Beersheba. Jacob Takes Esau’s Blessing",
             "headers": []
         },
         "34": {
@@ -2964,8 +2876,8 @@
         }
     },
     "27": {
-        "1": {
-            "verse": "When Isaac was old and his eyes were so weak that he could no longer see, he called for Esau his older son and said to him, “My son.”",
+        "27": {
+            "verse": "So he went to him and kissed him . When Isaac caught the smell of his clothes, he blessed him and said, “Ah, the smell of my son is like the smell of a field that the Lord has blessed.",
             "headers": []
         },
         "2": {
@@ -3033,7 +2945,7 @@
             "headers": []
         },
         "18": {
-            "verse": "He went to his father and said, “My father.”",
+            "verse": "He went to his father and said, “My father.” “Yes, my son,” he answered. “Who is it?”",
             "headers": []
         },
         "19": {
@@ -3041,7 +2953,7 @@
             "headers": []
         },
         "20": {
-            "verse": "Isaac asked his son, “How did you find it so quickly, my son?”",
+            "verse": "Isaac asked his son, “How did you find it so quickly, my son?” “The Lord your God gave me success, ” he replied.",
             "headers": []
         },
         "21": {
@@ -3057,27 +2969,23 @@
             "headers": []
         },
         "24": {
-            "verse": "“Are you really my son Esau?” he asked.",
+            "verse": "“Are you really my son Esau?” he asked. “I am,” he replied.",
             "headers": []
         },
         "25": {
-            "verse": "Then he said, “My son, bring me some of your game to eat, so that I may give you my blessing.”",
+            "verse": "Then he said, “My son, bring me some of your game to eat, so that I may give you my blessing.” Jacob brought it to him and he ate; and he brought some wine and he drank.",
             "headers": []
         },
         "26": {
             "verse": "Then his father Isaac said to him, “Come here, my son, and kiss me.”",
             "headers": []
         },
-        "27": {
-            "verse": "So he went to him and kissed him . When Isaac caught the smell of his clothes, he blessed him and said,",
-            "headers": []
-        },
         "28": {
-            "verse": "May God give you heaven’s dew",
+            "verse": "May God give you heaven’s dew and earth’s richness — an abundance of grain and new wine.",
             "headers": []
         },
         "29": {
-            "verse": "May nations serve you",
+            "verse": "May nations serve you and peoples bow down to you. Be lord over your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed and those who bless you be blessed. ”",
             "headers": []
         },
         "30": {
@@ -3089,7 +2997,7 @@
             "headers": []
         },
         "32": {
-            "verse": "His father Isaac asked him, “Who are you?”",
+            "verse": "His father Isaac asked him, “Who are you?” “I am your son,” he answered, “your firstborn, Esau. ”",
             "headers": []
         },
         "33": {
@@ -3117,11 +3025,11 @@
             "headers": []
         },
         "39": {
-            "verse": "His father Isaac answered him,",
+            "verse": "His father Isaac answered him, “Your dwelling will be away from the earth’s richness, away from the dew of heaven above.",
             "headers": []
         },
         "40": {
-            "verse": "You will live by the sword",
+            "verse": "You will live by the sword and you will serve your brother. But when you grow restless, you will throw his yoke from off your neck. ”",
             "headers": []
         },
         "41": {
@@ -3150,7 +3058,7 @@
         }
     },
     "28": {
-        "1": {
+        "28": {
             "verse": "So Isaac called for Jacob and blessed him. Then he commanded him: “Do not marry a Canaanite woman.",
             "headers": []
         },
@@ -3183,7 +3091,7 @@
             "headers": []
         },
         "9": {
-            "verse": "so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had.",
+            "verse": "so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had. Jacob’s Dream at Bethel",
             "headers": []
         },
         "10": {
@@ -3240,8 +3148,8 @@
         }
     },
     "29": {
-        "1": {
-            "verse": "Then Jacob continued on his journey and came to the land of the eastern peoples.",
+        "29": {
+            "verse": "Laban gave his servant Bilhah to his daughter Rachel as her attendant.",
             "headers": []
         },
         "2": {
@@ -3253,15 +3161,15 @@
             "headers": []
         },
         "4": {
-            "verse": "Jacob asked the shepherds, “My brothers, where are you from?”",
+            "verse": "Jacob asked the shepherds, “My brothers, where are you from?” “We’re from Harran, ” they replied.",
             "headers": []
         },
         "5": {
-            "verse": "He said to them, “Do you know Laban, Nahor’s grandson?”",
+            "verse": "He said to them, “Do you know Laban, Nahor’s grandson?” “Yes, we know him,” they answered.",
             "headers": []
         },
         "6": {
-            "verse": "Then Jacob asked them, “Is he well?”",
+            "verse": "Then Jacob asked them, “Is he well?” “Yes, he is,” they said, “and here comes his daughter Rachel with the sheep. ”",
             "headers": []
         },
         "7": {
@@ -3293,7 +3201,7 @@
             "headers": []
         },
         "14": {
-            "verse": "Then Laban said to him, “You are my own flesh and blood.”",
+            "verse": "Then Laban said to him, “You are my own flesh and blood.” Jacob Marries Leah and Rachel After Jacob had stayed with him for a whole month,",
             "headers": []
         },
         "15": {
@@ -3352,12 +3260,8 @@
             "verse": "And Jacob did so. He finished the week with Leah, and then Laban gave him his daughter Rachel to be his wife.",
             "headers": []
         },
-        "29": {
-            "verse": "Laban gave his servant Bilhah to his daughter Rachel as her attendant.",
-            "headers": []
-        },
         "30": {
-            "verse": "Jacob made love to Rachel also, and his love for Rachel was greater than his love for Leah. And he worked for Laban another seven years.",
+            "verse": "Jacob made love to Rachel also, and his love for Rachel was greater than his love for Leah. And he worked for Laban another seven years. Jacob’s Children",
             "headers": []
         },
         "31": {
@@ -3382,8 +3286,8 @@
         }
     },
     "30": {
-        "1": {
-            "verse": "When Rachel saw that she was not bearing Jacob any children, she became jealous of her sister. So she said to Jacob, “Give me children, or I’ll die!”",
+        "30": {
+            "verse": "The little you had before I came has increased greatly, and the Lord has blessed you wherever I have been. But now, when may I do something for my own household? ”",
             "headers": []
         },
         "2": {
@@ -3439,7 +3343,7 @@
             "headers": []
         },
         "15": {
-            "verse": "But she said to her, “Wasn’t it enough that you took away my husband? Will you take my son’s mandrakes too?”",
+            "verse": "But she said to her, “Wasn’t it enough that you took away my husband? Will you take my son’s mandrakes too?” “Very well,” Rachel said, “he can sleep with you tonight in return for your son’s mandrakes.”",
             "headers": []
         },
         "16": {
@@ -3475,7 +3379,7 @@
             "headers": []
         },
         "24": {
-            "verse": "She named him Joseph, and said, “May the Lord add to me another son.”",
+            "verse": "She named him Joseph, and said, “May the Lord add to me another son.” Jacob’s Flocks Increase",
             "headers": []
         },
         "25": {
@@ -3498,12 +3402,8 @@
             "verse": "Jacob said to him, “You know how I have worked for you and how your livestock has fared under my care.",
             "headers": []
         },
-        "30": {
-            "verse": "The little you had before I came has increased greatly, and the Lord has blessed you wherever I have been. But now, when may I do something for my own household? ”",
-            "headers": []
-        },
         "31": {
-            "verse": "“What shall I give you?” he asked.",
+            "verse": "“What shall I give you?” he asked. “Don’t give me anything,” Jacob replied. “But if you will do this one thing for me, I will go on tending your flocks and watching over them:",
             "headers": []
         },
         "32": {
@@ -3556,8 +3456,8 @@
         }
     },
     "31": {
-        "1": {
-            "verse": "Jacob heard that Laban’s sons were saying, “Jacob has taken everything our father owned and has gained all this wealth from what belonged to our father.”",
+        "31": {
+            "verse": "Jacob answered Laban, “I was afraid, because I thought you would take your daughters away from me by force.",
             "headers": []
         },
         "2": {
@@ -3637,7 +3537,7 @@
             "headers": []
         },
         "21": {
-            "verse": "So he fled with all he had, crossed the Euphrates River, and headed for the hill country of Gilead.",
+            "verse": "So he fled with all he had, crossed the Euphrates River, and headed for the hill country of Gilead. Laban Pursues Jacob",
             "headers": []
         },
         "22": {
@@ -3674,10 +3574,6 @@
         },
         "30": {
             "verse": "Now you have gone off because you longed to return to your father’s household. But why did you steal my gods? ”",
-            "headers": []
-        },
-        "31": {
-            "verse": "Jacob answered Laban, “I was afraid, because I thought you would take your daughters away from me by force.",
             "headers": []
         },
         "32": {
@@ -3765,7 +3661,7 @@
             "headers": []
         },
         "53": {
-            "verse": "May the God of Abraham and the God of Nahor, the God of their father, judge between us.”",
+            "verse": "May the God of Abraham and the God of Nahor, the God of their father, judge between us.” So Jacob took an oath in the name of the Fear of his father Isaac.",
             "headers": []
         },
         "54": {
@@ -3778,8 +3674,8 @@
         }
     },
     "32": {
-        "1": {
-            "verse": "Jacob also went on his way, and the angels of God met him.",
+        "32": {
+            "verse": "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.",
             "headers": []
         },
         "2": {
@@ -3859,7 +3755,7 @@
             "headers": []
         },
         "21": {
-            "verse": "So Jacob’s gifts went on ahead of him, but he himself spent the night in the camp.",
+            "verse": "So Jacob’s gifts went on ahead of him, but he himself spent the night in the camp. Jacob Wrestles With God",
             "headers": []
         },
         "22": {
@@ -3879,11 +3775,11 @@
             "headers": []
         },
         "26": {
-            "verse": "Then the man said, “Let me go, for it is daybreak.”",
+            "verse": "Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.”",
             "headers": []
         },
         "27": {
-            "verse": "The man asked him, “What is your name?”",
+            "verse": "The man asked him, “What is your name?” “Jacob,” he answered.",
             "headers": []
         },
         "28": {
@@ -3891,7 +3787,7 @@
             "headers": []
         },
         "29": {
-            "verse": "Jacob said, “Please tell me your name.”",
+            "verse": "Jacob said, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed him there.",
             "headers": []
         },
         "30": {
@@ -3901,14 +3797,10 @@
         "31": {
             "verse": "The sun rose above him as he passed Peniel, and he was limping because of his hip.",
             "headers": []
-        },
-        "32": {
-            "verse": "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.",
-            "headers": []
         }
     },
     "33": {
-        "1": {
+        "33": {
             "verse": "Jacob looked up and there was Esau, coming with his four hundred men; so he divided the children among Leah, Rachel and the two female servants.",
             "headers": []
         },
@@ -3925,7 +3817,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Then Esau looked up and saw the women and children. “Who are these with you?” he asked.",
+            "verse": "Then Esau looked up and saw the women and children. “Who are these with you?” he asked. Jacob answered, “They are the children God has graciously given your servant. ”",
             "headers": []
         },
         "6": {
@@ -3937,7 +3829,7 @@
             "headers": []
         },
         "8": {
-            "verse": "Esau asked, “What’s the meaning of all these flocks and herds I met?”",
+            "verse": "Esau asked, “What’s the meaning of all these flocks and herds I met?” “To find favor in your eyes, my lord,” he said.",
             "headers": []
         },
         "9": {
@@ -3965,7 +3857,7 @@
             "headers": []
         },
         "15": {
-            "verse": "Esau said, “Then let me leave some of my men with you.”",
+            "verse": "Esau said, “Then let me leave some of my men with you.” “But why do that?” Jacob asked. “Just let me find favor in the eyes of my lord.”",
             "headers": []
         },
         "16": {
@@ -3990,7 +3882,7 @@
         }
     },
     "34": {
-        "1": {
+        "34": {
             "verse": "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land.",
             "headers": []
         },
@@ -4116,7 +4008,7 @@
         }
     },
     "35": {
-        "1": {
+        "35": {
             "verse": "Then God said to Jacob, “Go up to Bethel and settle there, and build an altar there to God, who appeared to you when you were fleeing from your brother Esau.”",
             "headers": []
         },
@@ -4173,7 +4065,7 @@
             "headers": []
         },
         "15": {
-            "verse": "Jacob called the place where God had talked with him Bethel.",
+            "verse": "Jacob called the place where God had talked with him Bethel. The Deaths of Rachel and Isaac",
             "headers": []
         },
         "16": {
@@ -4201,23 +4093,23 @@
             "headers": []
         },
         "22": {
-            "verse": "While Israel was living in that region, Reuben went in and slept with his father’s concubine Bilhah, and Israel heard of it.",
+            "verse": "While Israel was living in that region, Reuben went in and slept with his father’s concubine Bilhah, and Israel heard of it. Jacob had twelve sons:",
             "headers": []
         },
         "23": {
-            "verse": "The sons of Leah:",
+            "verse": "The sons of Leah: Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issachar and Zebulun.",
             "headers": []
         },
         "24": {
-            "verse": "The sons of Rachel:",
+            "verse": "The sons of Rachel: Joseph and Benjamin.",
             "headers": []
         },
         "25": {
-            "verse": "The sons of Rachel’s servant Bilhah:",
+            "verse": "The sons of Rachel’s servant Bilhah: Dan and Naphtali.",
             "headers": []
         },
         "26": {
-            "verse": "The sons of Leah’s servant Zilpah:",
+            "verse": "The sons of Leah’s servant Zilpah: Gad and Asher. These were the sons of Jacob, who were born to him in Paddan Aram.",
             "headers": []
         },
         "27": {
@@ -4234,8 +4126,8 @@
         }
     },
     "36": {
-        "1": {
-            "verse": "This is the account of the family line of Esau (that is, Edom).",
+        "36": {
+            "verse": "When Hadad died, Samlah from Masrekah succeeded him as king.",
             "headers": []
         },
         "2": {
@@ -4271,11 +4163,11 @@
             "headers": []
         },
         "10": {
-            "verse": "These are the names of Esau’s sons:",
+            "verse": "These are the names of Esau’s sons: Eliphaz, the son of Esau’s wife Adah, and Reuel, the son of Esau’s wife Basemath.",
             "headers": []
         },
         "11": {
-            "verse": "The sons of Eliphaz:",
+            "verse": "The sons of Eliphaz: Teman, Omar, Zepho, Gatam and Kenaz.",
             "headers": []
         },
         "12": {
@@ -4283,15 +4175,15 @@
             "headers": []
         },
         "13": {
-            "verse": "The sons of Reuel:",
+            "verse": "The sons of Reuel: Nahath, Zerah, Shammah and Mizzah. These were grandsons of Esau’s wife Basemath.",
             "headers": []
         },
         "14": {
-            "verse": "The sons of Esau’s wife Oholibamah daughter of Anah and granddaughter of Zibeon, whom she bore to Esau:",
+            "verse": "The sons of Esau’s wife Oholibamah daughter of Anah and granddaughter of Zibeon, whom she bore to Esau: Jeush, Jalam and Korah.",
             "headers": []
         },
         "15": {
-            "verse": "These were the chiefs among Esau’s descendants:",
+            "verse": "These were the chiefs among Esau’s descendants: The sons of Eliphaz the firstborn of Esau: Chiefs Teman, Omar, Zepho, Kenaz,",
             "headers": []
         },
         "16": {
@@ -4299,11 +4191,11 @@
             "headers": []
         },
         "17": {
-            "verse": "The sons of Esau’s son Reuel:",
+            "verse": "The sons of Esau’s son Reuel: Chiefs Nahath, Zerah, Shammah and Mizzah. These were the chiefs descended from Reuel in Edom; they were grandsons of Esau’s wife Basemath.",
             "headers": []
         },
         "18": {
-            "verse": "The sons of Esau’s wife Oholibamah:",
+            "verse": "The sons of Esau’s wife Oholibamah: Chiefs Jeush, Jalam and Korah. These were the chiefs descended from Esau’s wife Oholibamah daughter of Anah.",
             "headers": []
         },
         "19": {
@@ -4311,7 +4203,7 @@
             "headers": []
         },
         "20": {
-            "verse": "These were the sons of Seir the Horite, who were living in the region:",
+            "verse": "These were the sons of Seir the Horite, who were living in the region: Lotan, Shobal, Zibeon, Anah,",
             "headers": []
         },
         "21": {
@@ -4319,39 +4211,39 @@
             "headers": []
         },
         "22": {
-            "verse": "The sons of Lotan:",
+            "verse": "The sons of Lotan: Hori and Homam. Timna was Lotan’s sister.",
             "headers": []
         },
         "23": {
-            "verse": "The sons of Shobal:",
+            "verse": "The sons of Shobal: Alvan, Manahath, Ebal, Shepho and Onam.",
             "headers": []
         },
         "24": {
-            "verse": "The sons of Zibeon:",
+            "verse": "The sons of Zibeon: Aiah and Anah. This is the Anah who discovered the hot springs in the desert while he was grazing the donkeys of his father Zibeon.",
             "headers": []
         },
         "25": {
-            "verse": "The children of Anah:",
+            "verse": "The children of Anah: Dishon and Oholibamah daughter of Anah.",
             "headers": []
         },
         "26": {
-            "verse": "The sons of Dishon :",
+            "verse": "The sons of Dishon : Hemdan, Eshban, Ithran and Keran.",
             "headers": []
         },
         "27": {
-            "verse": "The sons of Ezer:",
+            "verse": "The sons of Ezer: Bilhan, Zaavan and Akan.",
             "headers": []
         },
         "28": {
-            "verse": "The sons of Dishan:",
+            "verse": "The sons of Dishan: Uz and Aran.",
             "headers": []
         },
         "29": {
-            "verse": "These were the Horite chiefs:",
+            "verse": "These were the Horite chiefs: Lotan, Shobal, Zibeon, Anah,",
             "headers": []
         },
         "30": {
-            "verse": "Dishon, Ezer and Dishan. These were the Horite chiefs, according to their divisions, in the land of Seir.",
+            "verse": "Dishon, Ezer and Dishan. These were the Horite chiefs, according to their divisions, in the land of Seir. The Rulers of Edom",
             "headers": []
         },
         "31": {
@@ -4374,10 +4266,6 @@
             "verse": "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king. His city was named Avith.",
             "headers": []
         },
-        "36": {
-            "verse": "When Hadad died, Samlah from Masrekah succeeded him as king.",
-            "headers": []
-        },
         "37": {
             "verse": "When Samlah died, Shaul from Rehoboth on the river succeeded him as king.",
             "headers": []
@@ -4391,7 +4279,7 @@
             "headers": []
         },
         "40": {
-            "verse": "These were the chiefs descended from Esau, by name, according to their clans and regions:",
+            "verse": "These were the chiefs descended from Esau, by name, according to their clans and regions: Timna, Alvah, Jetheth,",
             "headers": []
         },
         "41": {
@@ -4403,17 +4291,17 @@
             "headers": []
         },
         "43": {
-            "verse": "Magdiel and Iram. These were the chiefs of Edom, according to their settlements in the land they occupied.",
+            "verse": "Magdiel and Iram. These were the chiefs of Edom, according to their settlements in the land they occupied. This is the family line of Esau, the father of the Edomites.",
             "headers": []
         }
     },
     "37": {
-        "1": {
+        "37": {
             "verse": "Jacob lived in the land where his father had stayed, the land of Canaan.",
             "headers": []
         },
         "2": {
-            "verse": "This is the account of Jacob’s family line.",
+            "verse": "This is the account of Jacob’s family line. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and the sons of Zilpah, his father’s wives, and he brought their father a bad report about them.",
             "headers": []
         },
         "3": {
@@ -4449,7 +4337,7 @@
             "headers": []
         },
         "11": {
-            "verse": "His brothers were jealous of him, but his father kept the matter in mind.",
+            "verse": "His brothers were jealous of him, but his father kept the matter in mind. Joseph Sold by His Brothers",
             "headers": []
         },
         "12": {
@@ -4457,11 +4345,11 @@
             "headers": []
         },
         "13": {
-            "verse": "and Israel said to Joseph, “As you know, your brothers are grazing the flocks near Shechem. Come, I am going to send you to them.”",
+            "verse": "and Israel said to Joseph, “As you know, your brothers are grazing the flocks near Shechem. Come, I am going to send you to them.” “Very well,” he replied.",
             "headers": []
         },
         "14": {
-            "verse": "So he said to him, “Go and see if all is well with your brothers and with the flocks, and bring word back to me.” Then he sent him off from the Valley of Hebron.",
+            "verse": "So he said to him, “Go and see if all is well with your brothers and with the flocks, and bring word back to me.” Then he sent him off from the Valley of Hebron. When Joseph arrived at Shechem,",
             "headers": []
         },
         "15": {
@@ -4473,7 +4361,7 @@
             "headers": []
         },
         "17": {
-            "verse": "“They have moved on from here,” the man answered. “I heard them say, ‘Let’s go to Dothan. ’”",
+            "verse": "“They have moved on from here,” the man answered. “I heard them say, ‘Let’s go to Dothan. ’” So Joseph went after his brothers and found them near Dothan.",
             "headers": []
         },
         "18": {
@@ -4554,7 +4442,7 @@
         }
     },
     "38": {
-        "1": {
+        "38": {
             "verse": "At that time, Judah left his brothers and went down to stay with a man of Adullam named Hirah.",
             "headers": []
         },
@@ -4615,15 +4503,15 @@
             "headers": []
         },
         "16": {
-            "verse": "Not realizing that she was his daughter-in-law, he went over to her by the roadside and said, “Come now, let me sleep with you.”",
+            "verse": "Not realizing that she was his daughter-in-law, he went over to her by the roadside and said, “Come now, let me sleep with you.” “And what will you give me to sleep with you?” she asked.",
             "headers": []
         },
         "17": {
-            "verse": "“I’ll send you a young goat from my flock,” he said.",
+            "verse": "“I’ll send you a young goat from my flock,” he said. “Will you give me something as a pledge until you send it?” she asked.",
             "headers": []
         },
         "18": {
-            "verse": "He said, “What pledge should I give you?”",
+            "verse": "He said, “What pledge should I give you?” “Your seal and its cord, and the staff in your hand,” she answered. So he gave them to her and slept with her, and she became pregnant by him.",
             "headers": []
         },
         "19": {
@@ -4635,7 +4523,7 @@
             "headers": []
         },
         "21": {
-            "verse": "He asked the men who lived there, “Where is the shrine prostitute who was beside the road at Enaim?”",
+            "verse": "He asked the men who lived there, “Where is the shrine prostitute who was beside the road at Enaim?” “There hasn’t been any shrine prostitute here,” they said.",
             "headers": []
         },
         "22": {
@@ -4647,7 +4535,7 @@
             "headers": []
         },
         "24": {
-            "verse": "About three months later Judah was told, “Your daughter-in-law Tamar is guilty of prostitution, and as a result she is now pregnant.”",
+            "verse": "About three months later Judah was told, “Your daughter-in-law Tamar is guilty of prostitution, and as a result she is now pregnant.” Judah said, “Bring her out and have her burned to death!”",
             "headers": []
         },
         "25": {
@@ -4676,7 +4564,7 @@
         }
     },
     "39": {
-        "1": {
+        "39": {
             "verse": "Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials, the captain of the guard, bought him from the Ishmaelites who had taken him there.",
             "headers": []
         },
@@ -4697,7 +4585,7 @@
             "headers": []
         },
         "6": {
-            "verse": "So Potiphar left everything he had in Joseph’s care; with Joseph in charge, he did not concern himself with anything except the food he ate.",
+            "verse": "So Potiphar left everything he had in Joseph’s care; with Joseph in charge, he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,",
             "headers": []
         },
         "7": {
@@ -4753,7 +4641,7 @@
             "headers": []
         },
         "20": {
-            "verse": "Joseph’s master took him and put him in prison, the place where the king’s prisoners were confined.",
+            "verse": "Joseph’s master took him and put him in prison, the place where the king’s prisoners were confined. But while Joseph was there in the prison,",
             "headers": []
         },
         "21": {
@@ -4770,7 +4658,7 @@
         }
     },
     "40": {
-        "1": {
+        "40": {
             "verse": "Some time later, the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt.",
             "headers": []
         },
@@ -4783,7 +4671,7 @@
             "headers": []
         },
         "4": {
-            "verse": "The captain of the guard assigned them to Joseph, and he attended them.",
+            "verse": "The captain of the guard assigned them to Joseph, and he attended them. After they had been in custody for some time,",
             "headers": []
         },
         "5": {
@@ -4799,7 +4687,7 @@
             "headers": []
         },
         "8": {
-            "verse": "“We both had dreams,” they answered, “but there is no one to interpret them.”",
+            "verse": "“We both had dreams,” they answered, “but there is no one to interpret them.” Then Joseph said to them, “Do not interpretations belong to God? Tell me your dreams.”",
             "headers": []
         },
         "9": {
@@ -4864,8 +4752,8 @@
         }
     },
     "41": {
-        "1": {
-            "verse": "When two full years had passed, Pharaoh had a dream: He was standing by the Nile,",
+        "41": {
+            "verse": "So Pharaoh said to Joseph, “I hereby put you in charge of the whole land of Egypt.”",
             "headers": []
         },
         "2": {
@@ -5021,11 +4909,7 @@
             "headers": []
         },
         "40": {
-            "verse": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you. ”",
-            "headers": []
-        },
-        "41": {
-            "verse": "So Pharaoh said to Joseph, “I hereby put you in charge of the whole land of Egypt.”",
+            "verse": "You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you. ” Joseph in Charge of Egypt",
             "headers": []
         },
         "42": {
@@ -5094,7 +4978,7 @@
         }
     },
     "42": {
-        "1": {
+        "42": {
             "verse": "When Jacob learned that there was grain in Egypt, he said to his sons, “Why do you just keep looking at each other?”",
             "headers": []
         },
@@ -5119,7 +5003,7 @@
             "headers": []
         },
         "7": {
-            "verse": "As soon as Joseph saw his brothers, he recognized them, but he pretended to be a stranger and spoke harshly to them. “Where do you come from?” he asked.",
+            "verse": "As soon as Joseph saw his brothers, he recognized them, but he pretended to be a stranger and spoke harshly to them. “Where do you come from?” he asked. “From the land of Canaan,” they replied, “to buy food.”",
             "headers": []
         },
         "8": {
@@ -5203,7 +5087,7 @@
             "headers": []
         },
         "28": {
-            "verse": "“My silver has been returned,” he said to his brothers. “Here it is in my sack.”",
+            "verse": "“My silver has been returned,” he said to his brothers. “Here it is in my sack.” Their hearts sank and they turned to each other trembling and said, “What is this that God has done to us?”",
             "headers": []
         },
         "29": {
@@ -5248,7 +5132,7 @@
         }
     },
     "43": {
-        "1": {
+        "43": {
             "verse": "Now the famine was still severe in the land.",
             "headers": []
         },
@@ -5386,7 +5270,7 @@
         }
     },
     "44": {
-        "1": {
+        "44": {
             "verse": "Now Joseph gave these instructions to the steward of his house: “Fill the men’s sacks with as much food as they can carry, and put each man’s silver in the mouth of his sack.",
             "headers": []
         },
@@ -5524,7 +5408,7 @@
         }
     },
     "45": {
-        "1": {
+        "45": {
             "verse": "Then Joseph could no longer control himself before all his attendants, and he cried out, “Have everyone leave my presence!” So there was no one with Joseph when he made himself known to his brothers.",
             "headers": []
         },
@@ -5638,12 +5522,12 @@
         }
     },
     "46": {
-        "1": {
+        "46": {
             "verse": "So Israel set out with all that was his, and when he reached Beersheba, he offered sacrifices to the God of his father Isaac.",
             "headers": []
         },
         "2": {
-            "verse": "And God spoke to Israel in a vision at night and said, “Jacob! Jacob!”",
+            "verse": "And God spoke to Israel in a vision at night and said, “Jacob! Jacob!” “Here I am,” he replied.",
             "headers": []
         },
         "3": {
@@ -5667,31 +5551,31 @@
             "headers": []
         },
         "8": {
-            "verse": "These are the names of the sons of Israel (Jacob and his descendants) who went to Egypt:",
+            "verse": "These are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben the firstborn of Jacob.",
             "headers": []
         },
         "9": {
-            "verse": "The sons of Reuben:",
+            "verse": "The sons of Reuben: Hanok, Pallu, Hezron and Karmi.",
             "headers": []
         },
         "10": {
-            "verse": "The sons of Simeon:",
+            "verse": "The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite woman.",
             "headers": []
         },
         "11": {
-            "verse": "The sons of Levi:",
+            "verse": "The sons of Levi: Gershon, Kohath and Merari.",
             "headers": []
         },
         "12": {
-            "verse": "The sons of Judah:",
+            "verse": "The sons of Judah: Er, Onan, Shelah, Perez and Zerah (but Er and Onan had died in the land of Canaan). The sons of Perez: Hezron and Hamul.",
             "headers": []
         },
         "13": {
-            "verse": "The sons of Issachar:",
+            "verse": "The sons of Issachar: Tola, Puah, Jashub and Shimron.",
             "headers": []
         },
         "14": {
-            "verse": "The sons of Zebulun:",
+            "verse": "The sons of Zebulun: Sered, Elon and Jahleel.",
             "headers": []
         },
         "15": {
@@ -5699,11 +5583,11 @@
             "headers": []
         },
         "16": {
-            "verse": "The sons of Gad:",
+            "verse": "The sons of Gad: Zephon, Haggi, Shuni, Ezbon, Eri, Arodi and Areli.",
             "headers": []
         },
         "17": {
-            "verse": "The sons of Asher:",
+            "verse": "The sons of Asher: Imnah, Ishvah, Ishvi and Beriah. Their sister was Serah. The sons of Beriah: Heber and Malkiel.",
             "headers": []
         },
         "18": {
@@ -5711,7 +5595,7 @@
             "headers": []
         },
         "19": {
-            "verse": "The sons of Jacob’s wife Rachel:",
+            "verse": "The sons of Jacob’s wife Rachel: Joseph and Benjamin.",
             "headers": []
         },
         "20": {
@@ -5719,7 +5603,7 @@
             "headers": []
         },
         "21": {
-            "verse": "The sons of Benjamin:",
+            "verse": "The sons of Benjamin: Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard.",
             "headers": []
         },
         "22": {
@@ -5727,11 +5611,11 @@
             "headers": []
         },
         "23": {
-            "verse": "The son of Dan:",
+            "verse": "The son of Dan: Hushim.",
             "headers": []
         },
         "24": {
-            "verse": "The sons of Naphtali:",
+            "verse": "The sons of Naphtali: Jahziel, Guni, Jezer and Shillem.",
             "headers": []
         },
         "25": {
@@ -5776,7 +5660,7 @@
         }
     },
     "47": {
-        "1": {
+        "47": {
             "verse": "Joseph went and told Pharaoh, “My father and brothers, with their flocks and herds and everything they own, have come from the land of Canaan and are now in Goshen.”",
             "headers": []
         },
@@ -5785,7 +5669,7 @@
             "headers": []
         },
         "3": {
-            "verse": "Pharaoh asked the brothers, “What is your occupation?”",
+            "verse": "Pharaoh asked the brothers, “What is your occupation?” “Your servants are shepherds, ” they replied to Pharaoh, “just as our fathers were.”",
             "headers": []
         },
         "4": {
@@ -5821,7 +5705,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Joseph also provided his father and his brothers and all his father’s household with food, according to the number of their children.",
+            "verse": "Joseph also provided his father and his brothers and all his father’s household with food, according to the number of their children. Joseph and the Famine",
             "headers": []
         },
         "13": {
@@ -5893,7 +5777,7 @@
             "headers": []
         },
         "30": {
-            "verse": "but when I rest with my fathers, carry me out of Egypt and bury me where they are buried.”",
+            "verse": "but when I rest with my fathers, carry me out of Egypt and bury me where they are buried.” “I will do as you say,” he said.",
             "headers": []
         },
         "31": {
@@ -5902,7 +5786,7 @@
         }
     },
     "48": {
-        "1": {
+        "48": {
             "verse": "Some time later Joseph was told, “Your father is ill.” So he took his two sons Manasseh and Ephraim along with him.",
             "headers": []
         },
@@ -5935,7 +5819,7 @@
             "headers": []
         },
         "9": {
-            "verse": "“They are the sons God has given me here,” Joseph said to his father.",
+            "verse": "“They are the sons God has given me here,” Joseph said to his father. Then Israel said, “Bring them to me so I may bless them.”",
             "headers": []
         },
         "10": {
@@ -5959,11 +5843,11 @@
             "headers": []
         },
         "15": {
-            "verse": "Then he blessed Joseph and said,",
+            "verse": "Then he blessed Joseph and said, “May the God before whom my fathers Abraham and Isaac walked faithfully, the God who has been my shepherd all my life to this day,",
             "headers": []
         },
         "16": {
-            "verse": "the Angel who has delivered me from all harm",
+            "verse": "the Angel who has delivered me from all harm —may he bless these boys. May they be called by my name and the names of my fathers Abraham and Isaac, and may they increase greatly on the earth.”",
             "headers": []
         },
         "17": {
@@ -5979,7 +5863,7 @@
             "headers": []
         },
         "20": {
-            "verse": "He blessed them that day and said,",
+            "verse": "He blessed them that day and said, “In your name will Israel pronounce this blessing: ‘May God make you like Ephraim and Manasseh. ’” So he put Ephraim ahead of Manasseh.",
             "headers": []
         },
         "21": {
@@ -5992,72 +5876,72 @@
         }
     },
     "49": {
-        "1": {
+        "49": {
             "verse": "Then Jacob called for his sons and said: “Gather around so I can tell you what will happen to you in days to come.",
             "headers": []
         },
         "2": {
-            "verse": "“Assemble and listen, sons of Jacob;",
+            "verse": "“Assemble and listen, sons of Jacob; listen to your father Israel.",
             "headers": []
         },
         "3": {
-            "verse": "“Reuben, you are my firstborn,",
+            "verse": "“Reuben, you are my firstborn, my might, the first sign of my strength, excelling in honor, excelling in power.",
             "headers": []
         },
         "4": {
-            "verse": "Turbulent as the waters, you will no longer excel,",
+            "verse": "Turbulent as the waters, you will no longer excel, for you went up onto your father’s bed, onto my couch and defiled it.",
             "headers": []
         },
         "5": {
-            "verse": "“Simeon and Levi are brothers—",
+            "verse": "“Simeon and Levi are brothers— their swords are weapons of violence.",
             "headers": []
         },
         "6": {
-            "verse": "Let me not enter their council,",
+            "verse": "Let me not enter their council, let me not join their assembly, for they have killed men in their anger and hamstrung oxen as they pleased.",
             "headers": []
         },
         "7": {
-            "verse": "Cursed be their anger, so fierce,",
+            "verse": "Cursed be their anger, so fierce, and their fury, so cruel! I will scatter them in Jacob and disperse them in Israel.",
             "headers": []
         },
         "8": {
-            "verse": "“Judah, your brothers will praise you;",
+            "verse": "“Judah, your brothers will praise you; your hand will be on the neck of your enemies; your father’s sons will bow down to you.",
             "headers": []
         },
         "9": {
-            "verse": "You are a lion’s cub, Judah;",
+            "verse": "You are a lion’s cub, Judah; you return from the prey, my son. Like a lion he crouches and lies down, like a lioness—who dares to rouse him?",
             "headers": []
         },
         "10": {
-            "verse": "The scepter will not depart from Judah,",
+            "verse": "The scepter will not depart from Judah, nor the ruler’s staff from between his feet, until he to whom it belongs shall come and the obedience of the nations shall be his.",
             "headers": []
         },
         "11": {
-            "verse": "He will tether his donkey to a vine,",
+            "verse": "He will tether his donkey to a vine, his colt to the choicest branch; he will wash his garments in wine, his robes in the blood of grapes.",
             "headers": []
         },
         "12": {
-            "verse": "His eyes will be darker than wine,",
+            "verse": "His eyes will be darker than wine, his teeth whiter than milk.",
             "headers": []
         },
         "13": {
-            "verse": "“Zebulun will live by the seashore",
+            "verse": "“Zebulun will live by the seashore and become a haven for ships; his border will extend toward Sidon.",
             "headers": []
         },
         "14": {
-            "verse": "“Issachar is a rawboned donkey",
+            "verse": "“Issachar is a rawboned donkey lying down among the sheep pens.",
             "headers": []
         },
         "15": {
-            "verse": "When he sees how good is his resting place",
+            "verse": "When he sees how good is his resting place and how pleasant is his land, he will bend his shoulder to the burden and submit to forced labor.",
             "headers": []
         },
         "16": {
-            "verse": "“Dan will provide justice for his people",
+            "verse": "“Dan will provide justice for his people as one of the tribes of Israel.",
             "headers": []
         },
         "17": {
-            "verse": "Dan will be a snake by the roadside,",
+            "verse": "Dan will be a snake by the roadside, a viper along the path, that bites the horse’s heels so that its rider tumbles backward.",
             "headers": []
         },
         "18": {
@@ -6065,43 +5949,43 @@
             "headers": []
         },
         "19": {
-            "verse": "“Gad will be attacked by a band of raiders,",
+            "verse": "“Gad will be attacked by a band of raiders, but he will attack them at their heels.",
             "headers": []
         },
         "20": {
-            "verse": "“Asher’s food will be rich;",
+            "verse": "“Asher’s food will be rich; he will provide delicacies fit for a king.",
             "headers": []
         },
         "21": {
-            "verse": "“Naphtali is a doe set free",
+            "verse": "“Naphtali is a doe set free that bears beautiful fawns.",
             "headers": []
         },
         "22": {
-            "verse": "“Joseph is a fruitful vine,",
+            "verse": "“Joseph is a fruitful vine, a fruitful vine near a spring, whose branches climb over a wall.",
             "headers": []
         },
         "23": {
-            "verse": "With bitterness archers attacked him;",
+            "verse": "With bitterness archers attacked him; they shot at him with hostility.",
             "headers": []
         },
         "24": {
-            "verse": "But his bow remained steady,",
+            "verse": "But his bow remained steady, his strong arms stayed limber, because of the hand of the Mighty One of Jacob, because of the Shepherd, the Rock of Israel,",
             "headers": []
         },
         "25": {
-            "verse": "because of your father’s God, who helps you,",
+            "verse": "because of your father’s God, who helps you, because of the Almighty, who blesses you with blessings of the skies above, blessings of the deep springs below, blessings of the breast and womb.",
             "headers": []
         },
         "26": {
-            "verse": "Your father’s blessings are greater",
+            "verse": "Your father’s blessings are greater than the blessings of the ancient mountains, than the bounty of the age-old hills. Let all these rest on the head of Joseph, on the brow of the prince among his brothers.",
             "headers": []
         },
         "27": {
-            "verse": "“Benjamin is a ravenous wolf;",
+            "verse": "“Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”",
             "headers": []
         },
         "28": {
-            "verse": "All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them, giving each the blessing appropriate to him.",
+            "verse": "All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them, giving each the blessing appropriate to him. The Death of Jacob",
             "headers": []
         },
         "29": {
@@ -6126,7 +6010,7 @@
         }
     },
     "50": {
-        "1": {
+        "50": {
             "verse": "Joseph threw himself on his father and wept over him and kissed him.",
             "headers": []
         },
@@ -6179,7 +6063,7 @@
             "headers": []
         },
         "14": {
-            "verse": "After burying his father, Joseph returned to Egypt, together with his brothers and all the others who had gone with him to bury his father.",
+            "verse": "After burying his father, Joseph returned to Egypt, together with his brothers and all the others who had gone with him to bury his father. Joseph Reassures His Brothers",
             "headers": []
         },
         "15": {
@@ -6207,7 +6091,7 @@
             "headers": []
         },
         "21": {
-            "verse": "So then, don’t be afraid. I will provide for you and your children. ” And he reassured them and spoke kindly to them.",
+            "verse": "So then, don’t be afraid. I will provide for you and your children. ” And he reassured them and spoke kindly to them. The Death of Joseph",
             "headers": []
         },
         "22": {

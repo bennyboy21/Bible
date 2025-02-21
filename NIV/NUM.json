@@ -17,7 +17,7 @@
             "headers": []
         },
         "5": {
-            "verse": "These are the names of the men who are to assist you:",
+            "verse": "These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;",
             "headers": []
         },
         "6": {
@@ -37,7 +37,7 @@
             "headers": []
         },
         "10": {
-            "verse": "from the sons of Joseph:",
+            "verse": "from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;",
             "headers": []
         },
         "11": {
@@ -77,7 +77,7 @@
             "headers": []
         },
         "20": {
-            "verse": "From the descendants of Reuben the firstborn son of Israel:",
+            "verse": "From the descendants of Reuben the firstborn son of Israel: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.",
             "headers": []
         },
         "21": {
@@ -85,7 +85,7 @@
             "headers": []
         },
         "22": {
-            "verse": "From the descendants of Simeon:",
+            "verse": "From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.",
             "headers": []
         },
         "23": {
@@ -93,7 +93,7 @@
             "headers": []
         },
         "24": {
-            "verse": "From the descendants of Gad:",
+            "verse": "From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "25": {
@@ -101,7 +101,7 @@
             "headers": []
         },
         "26": {
-            "verse": "From the descendants of Judah:",
+            "verse": "From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "27": {
@@ -109,7 +109,7 @@
             "headers": []
         },
         "28": {
-            "verse": "From the descendants of Issachar:",
+            "verse": "From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "29": {
@@ -117,7 +117,7 @@
             "headers": []
         },
         "30": {
-            "verse": "From the descendants of Zebulun:",
+            "verse": "From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "31": {
@@ -125,7 +125,7 @@
             "headers": []
         },
         "32": {
-            "verse": "From the sons of Joseph:",
+            "verse": "From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "33": {
@@ -133,7 +133,7 @@
             "headers": []
         },
         "34": {
-            "verse": "From the descendants of Manasseh:",
+            "verse": "From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "35": {
@@ -141,7 +141,7 @@
             "headers": []
         },
         "36": {
-            "verse": "From the descendants of Benjamin:",
+            "verse": "From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "37": {
@@ -149,7 +149,7 @@
             "headers": []
         },
         "38": {
-            "verse": "From the descendants of Dan:",
+            "verse": "From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "39": {
@@ -157,7 +157,7 @@
             "headers": []
         },
         "40": {
-            "verse": "From the descendants of Asher:",
+            "verse": "From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "41": {
@@ -165,7 +165,7 @@
             "headers": []
         },
         "42": {
-            "verse": "From the descendants of Naphtali:",
+            "verse": "From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.",
             "headers": []
         },
         "43": {
@@ -218,10 +218,6 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron:",
-            "headers": []
-        },
         "2": {
             "verse": "“The Israelites are to camp around the tent of meeting some distance from it, each of them under their standard and holding the banners of their family.”",
             "headers": []
@@ -356,16 +352,12 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "This is the account of the family of Aaron and Moses at the time the Lord spoke to Moses at Mount Sinai.",
+        "3": {
+            "verse": "Those were the names of Aaron’s sons, the anointed priests, who were ordained to serve as priests.",
             "headers": []
         },
         "2": {
             "verse": "The names of the sons of Aaron were Nadab the firstborn and Abihu, Eleazar and Ithamar.",
-            "headers": []
-        },
-        "3": {
-            "verse": "Those were the names of Aaron’s sons, the anointed priests, who were ordained to serve as priests.",
             "headers": []
         },
         "4": {
@@ -421,19 +413,19 @@
             "headers": []
         },
         "17": {
-            "verse": "These were the names of the sons of Levi:",
+            "verse": "These were the names of the sons of Levi: Gershon, Kohath and Merari.",
             "headers": []
         },
         "18": {
-            "verse": "These were the names of the Gershonite clans:",
+            "verse": "These were the names of the Gershonite clans: Libni and Shimei.",
             "headers": []
         },
         "19": {
-            "verse": "The Kohathite clans:",
+            "verse": "The Kohathite clans: Amram, Izhar, Hebron and Uzziel.",
             "headers": []
         },
         "20": {
-            "verse": "The Merarite clans:",
+            "verse": "The Merarite clans: Mahli and Mushi. These were the Levite clans, according to their families.",
             "headers": []
         },
         "21": {
@@ -562,8 +554,8 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron:",
+        "4": {
+            "verse": "“This is the work of the Kohathites at the tent of meeting: the care of the most holy things.",
             "headers": []
         },
         "2": {
@@ -572,10 +564,6 @@
         },
         "3": {
             "verse": "Count all the men from thirty to fifty years of age who come to serve in the work at the tent of meeting.",
-            "headers": []
-        },
-        "4": {
-            "verse": "“This is the work of the Kohathites at the tent of meeting: the care of the most holy things.",
             "headers": []
         },
         "5": {
@@ -639,7 +627,7 @@
             "headers": []
         },
         "20": {
-            "verse": "But the Kohathites must not go in to look at the holy things, even for a moment, or they will die.”",
+            "verse": "But the Kohathites must not go in to look at the holy things, even for a moment, or they will die.” The Gershonites",
             "headers": []
         },
         "21": {
@@ -671,7 +659,7 @@
             "headers": []
         },
         "28": {
-            "verse": "This is the service of the Gershonite clans at the tent of meeting. Their duties are to be under the direction of Ithamar son of Aaron, the priest.",
+            "verse": "This is the service of the Gershonite clans at the tent of meeting. Their duties are to be under the direction of Ithamar son of Aaron, the priest. The Merarites",
             "headers": []
         },
         "29": {
@@ -691,7 +679,7 @@
             "headers": []
         },
         "33": {
-            "verse": "This is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar son of Aaron, the priest.”",
+            "verse": "This is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar son of Aaron, the priest.” The Numbering of the Levite Clans",
             "headers": []
         },
         "34": {
@@ -755,12 +743,12 @@
             "headers": []
         },
         "49": {
-            "verse": "At the Lord ’s command through Moses, each was assigned his work and told what to carry.",
+            "verse": "At the Lord ’s command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the Lord commanded Moses.",
             "headers": []
         }
     },
     "5": {
-        "1": {
+        "5": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -773,11 +761,7 @@
             "headers": []
         },
         "4": {
-            "verse": "The Israelites did so; they sent them outside the camp. They did just as the Lord had instructed Moses.",
-            "headers": []
-        },
-        "5": {
-            "verse": "The Lord said to Moses,",
+            "verse": "The Israelites did so; they sent them outside the camp. They did just as the Lord had instructed Moses. Restitution for Wrongs",
             "headers": []
         },
         "6": {
@@ -797,7 +781,7 @@
             "headers": []
         },
         "10": {
-            "verse": "Sacred things belong to their owners, but what they give to the priest will belong to the priest. ’”",
+            "verse": "Sacred things belong to their owners, but what they give to the priest will belong to the priest. ’” The Test for an Unfaithful Wife",
             "headers": []
         },
         "11": {
@@ -845,7 +829,7 @@
             "headers": []
         },
         "22": {
-            "verse": "May this water that brings a curse enter your body so that your abdomen swells or your womb miscarries.”",
+            "verse": "May this water that brings a curse enter your body so that your abdomen swells or your womb miscarries.” “‘Then the woman is to say, “Amen. So be it. ”",
             "headers": []
         },
         "23": {
@@ -886,8 +870,8 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "6": {
+            "verse": "“‘Throughout the period of their dedication to the Lord , the Nazirite must not go near a dead body.",
             "headers": []
         },
         "2": {
@@ -904,10 +888,6 @@
         },
         "5": {
             "verse": "“‘During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the Lord is over; they must let their hair grow long.",
-            "headers": []
-        },
-        "6": {
-            "verse": "“‘Throughout the period of their dedication to the Lord , the Nazirite must not go near a dead body.",
             "headers": []
         },
         "7": {
@@ -967,7 +947,7 @@
             "headers": []
         },
         "21": {
-            "verse": "“‘This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to whatever else they can afford. They must fulfill the vows they have made, according to the law of the Nazirite.’”",
+            "verse": "“‘This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to whatever else they can afford. They must fulfill the vows they have made, according to the law of the Nazirite.’” The Priestly Blessing",
             "headers": []
         },
         "22": {
@@ -979,15 +959,15 @@
             "headers": []
         },
         "24": {
-            "verse": "“‘“The Lord bless you",
+            "verse": "“‘“The Lord bless you and keep you;",
             "headers": []
         },
         "25": {
-            "verse": "the Lord make his face shine on you",
+            "verse": "the Lord make his face shine on you and be gracious to you;",
             "headers": []
         },
         "26": {
-            "verse": "the Lord turn his face toward you",
+            "verse": "the Lord turn his face toward you and give you peace. ”’",
             "headers": []
         },
         "27": {
@@ -996,8 +976,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "When Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils.",
+        "7": {
+            "verse": "He gave two carts and four oxen to the Gershonites, as their work required,",
             "headers": []
         },
         "2": {
@@ -1018,10 +998,6 @@
         },
         "6": {
             "verse": "So Moses took the carts and oxen and gave them to the Levites.",
-            "headers": []
-        },
-        "7": {
-            "verse": "He gave two carts and four oxen to the Gershonites, as their work required,",
             "headers": []
         },
         "8": {
@@ -1354,8 +1330,8 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "8": {
+            "verse": "Have them take a young bull with its grain offering of the finest flour mixed with olive oil; then you are to take a second young bull for a sin offering.",
             "headers": []
         },
         "2": {
@@ -1367,7 +1343,7 @@
             "headers": []
         },
         "4": {
-            "verse": "This is how the lampstand was made: It was made of hammered gold —from its base to its blossoms. The lampstand was made exactly like the pattern the Lord had shown Moses.",
+            "verse": "This is how the lampstand was made: It was made of hammered gold —from its base to its blossoms. The lampstand was made exactly like the pattern the Lord had shown Moses. The Setting Apart of the Levites",
             "headers": []
         },
         "5": {
@@ -1380,10 +1356,6 @@
         },
         "7": {
             "verse": "To purify them, do this: Sprinkle the water of cleansing on them; then have them shave their whole bodies and wash their clothes. And so they will purify themselves.",
-            "headers": []
-        },
-        "8": {
-            "verse": "Have them take a young bull with its grain offering of the finest flour mixed with olive oil; then you are to take a second young bull for a sin offering.",
             "headers": []
         },
         "9": {
@@ -1460,8 +1432,8 @@
         }
     },
     "9": {
-        "1": {
-            "verse": "The Lord spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said,",
+        "9": {
+            "verse": "Then the Lord said to Moses,",
             "headers": []
         },
         "2": {
@@ -1492,10 +1464,6 @@
             "verse": "Moses answered them, “Wait until I find out what the Lord commands concerning you.”",
             "headers": []
         },
-        "9": {
-            "verse": "Then the Lord said to Moses,",
-            "headers": []
-        },
         "10": {
             "verse": "“Tell the Israelites: ‘When any of you or your descendants are unclean because of a dead body or are away on a journey, they are still to celebrate the Lord ’s Passover,",
             "headers": []
@@ -1513,7 +1481,7 @@
             "headers": []
         },
         "14": {
-            "verse": "“‘A foreigner residing among you is also to celebrate the Lord ’s Passover in accordance with its rules and regulations. You must have the same regulations for both the foreigner and the native-born.’”",
+            "verse": "“‘A foreigner residing among you is also to celebrate the Lord ’s Passover in accordance with its rules and regulations. You must have the same regulations for both the foreigner and the native-born.’” The Cloud Above the Tabernacle",
             "headers": []
         },
         "15": {
@@ -1554,8 +1522,8 @@
         }
     },
     "10": {
-        "1": {
-            "verse": "The Lord said to Moses:",
+        "10": {
+            "verse": "Also at your times of rejoicing—your appointed festivals and New Moon feasts —you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the Lord your God. ” The Israelites Leave Sinai",
             "headers": []
         },
         "2": {
@@ -1588,10 +1556,6 @@
         },
         "9": {
             "verse": "When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the Lord your God and rescued from your enemies.",
-            "headers": []
-        },
-        "10": {
-            "verse": "Also at your times of rejoicing—your appointed festivals and New Moon feasts —you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the Lord your God. ”",
             "headers": []
         },
         "11": {
@@ -1691,17 +1655,17 @@
             "headers": []
         },
         "35": {
-            "verse": "Whenever the ark set out, Moses said,",
+            "verse": "Whenever the ark set out, Moses said, “Rise up, Lord ! May your enemies be scattered; may your foes flee before you. ”",
             "headers": []
         },
         "36": {
-            "verse": "Whenever it came to rest, he said,",
+            "verse": "Whenever it came to rest, he said, “Return, Lord , to the countless thousands of Israel. ”",
             "headers": []
         }
     },
     "11": {
-        "1": {
-            "verse": "Now the people complained about their hardships in the hearing of the Lord , and when he heard them his anger was aroused. Then fire from the Lord burned among them and consumed some of the outskirts of the camp.",
+        "11": {
+            "verse": "He asked the Lord , “Why have you brought this trouble on your servant? What have I done to displease you that you put the burden of all these people on me?",
             "headers": []
         },
         "2": {
@@ -1709,7 +1673,7 @@
             "headers": []
         },
         "3": {
-            "verse": "So that place was called Taberah, because fire from the Lord had burned among them.",
+            "verse": "So that place was called Taberah, because fire from the Lord had burned among them. Quail From the Lord",
             "headers": []
         },
         "4": {
@@ -1738,10 +1702,6 @@
         },
         "10": {
             "verse": "Moses heard the people of every family wailing at the entrance to their tents. The Lord became exceedingly angry, and Moses was troubled.",
-            "headers": []
-        },
-        "11": {
-            "verse": "He asked the Lord , “Why have you brought this trouble on your servant? What have I done to displease you that you put the burden of all these people on me?",
             "headers": []
         },
         "12": {
@@ -1842,8 +1802,8 @@
         }
     },
     "12": {
-        "1": {
-            "verse": "Miriam and Aaron began to talk against Moses because of his Cushite wife, for he had married a Cushite.",
+        "12": {
+            "verse": "Do not let her be like a stillborn infant coming from its mother’s womb with its flesh half eaten away.”",
             "headers": []
         },
         "2": {
@@ -1863,15 +1823,15 @@
             "headers": []
         },
         "6": {
-            "verse": "he said, “Listen to my words:",
+            "verse": "he said, “Listen to my words: “When there is a prophet among you, I, the Lord , reveal myself to them in visions, I speak to them in dreams.",
             "headers": []
         },
         "7": {
-            "verse": "But this is not true of my servant Moses;",
+            "verse": "But this is not true of my servant Moses; he is faithful in all my house.",
             "headers": []
         },
         "8": {
-            "verse": "With him I speak face to face,",
+            "verse": "With him I speak face to face, clearly and not in riddles; he sees the form of the Lord . Why then were you not afraid to speak against my servant Moses?”",
             "headers": []
         },
         "9": {
@@ -1884,10 +1844,6 @@
         },
         "11": {
             "verse": "and he said to Moses, “Please, my lord, I ask you not to hold against us the sin we have so foolishly committed.",
-            "headers": []
-        },
-        "12": {
-            "verse": "Do not let her be like a stillborn infant coming from its mother’s womb with its flesh half eaten away.”",
             "headers": []
         },
         "13": {
@@ -1908,8 +1864,8 @@
         }
     },
     "13": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "13": {
+            "verse": "from the tribe of Asher, Sethur son of Michael;",
             "headers": []
         },
         "2": {
@@ -1921,7 +1877,7 @@
             "headers": []
         },
         "4": {
-            "verse": "These are their names:",
+            "verse": "These are their names: from the tribe of Reuben, Shammua son of Zakkur;",
             "headers": []
         },
         "5": {
@@ -1954,10 +1910,6 @@
         },
         "12": {
             "verse": "from the tribe of Dan, Ammiel son of Gemalli;",
-            "headers": []
-        },
-        "13": {
-            "verse": "from the tribe of Asher, Sethur son of Michael;",
             "headers": []
         },
         "14": {
@@ -2005,7 +1957,7 @@
             "headers": []
         },
         "25": {
-            "verse": "At the end of forty days they returned from exploring the land.",
+            "verse": "At the end of forty days they returned from exploring the land. Report on the Exploration",
             "headers": []
         },
         "26": {
@@ -2042,8 +1994,8 @@
         }
     },
     "14": {
-        "1": {
-            "verse": "That night all the members of the community raised their voices and wept aloud.",
+        "14": {
+            "verse": "And they will tell the inhabitants of this land about it. They have already heard that you, Lord , are with these people and that you, Lord , have been seen face to face, that your cloud stays over them, and that you go before them in a pillar of cloud by day and a pillar of fire by night.",
             "headers": []
         },
         "2": {
@@ -2092,10 +2044,6 @@
         },
         "13": {
             "verse": "Moses said to the Lord , “Then the Egyptians will hear about it! By your power you brought these people up from among them.",
-            "headers": []
-        },
-        "14": {
-            "verse": "And they will tell the inhabitants of this land about it. They have already heard that you, Lord , are with these people and that you, Lord , have been seen face to face, that your cloud stays over them, and that you go before them in a pillar of cloud by day and a pillar of fire by night.",
             "headers": []
         },
         "15": {
@@ -2224,8 +2172,8 @@
         }
     },
     "15": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "15": {
+            "verse": "The community is to have the same rules for you and for the foreigner residing among you; this is a lasting ordinance for the generations to come. You and the foreigner shall be the same before the Lord :",
             "headers": []
         },
         "2": {
@@ -2280,10 +2228,6 @@
             "verse": "For the generations to come, whenever a foreigner or anyone else living among you presents a food offering as an aroma pleasing to the Lord , they must do exactly as you do.",
             "headers": []
         },
-        "15": {
-            "verse": "The community is to have the same rules for you and for the foreigner residing among you; this is a lasting ordinance for the generations to come. You and the foreigner shall be the same before the Lord :",
-            "headers": []
-        },
         "16": {
             "verse": "The same laws and regulations will apply both to you and to the foreigner residing among you. ’”",
             "headers": []
@@ -2305,7 +2249,7 @@
             "headers": []
         },
         "21": {
-            "verse": "Throughout the generations to come you are to give this offering to the Lord from the first of your ground meal.",
+            "verse": "Throughout the generations to come you are to give this offering to the Lord from the first of your ground meal. Offerings for Unintentional Sins",
             "headers": []
         },
         "22": {
@@ -2345,7 +2289,7 @@
             "headers": []
         },
         "31": {
-            "verse": "Because they have despised the Lord ’s word and broken his commands, they must surely be cut off; their guilt remains on them. ’”",
+            "verse": "Because they have despised the Lord ’s word and broken his commands, they must surely be cut off; their guilt remains on them. ’” The Sabbath-Breaker Put to Death",
             "headers": []
         },
         "32": {
@@ -2365,7 +2309,7 @@
             "headers": []
         },
         "36": {
-            "verse": "So the assembly took him outside the camp and stoned him to death, as the Lord commanded Moses.",
+            "verse": "So the assembly took him outside the camp and stoned him to death, as the Lord commanded Moses. Tassels on Garments",
             "headers": []
         },
         "37": {
@@ -2390,8 +2334,8 @@
         }
     },
     "16": {
-        "1": {
-            "verse": "Korah son of Izhar, the son of Kohath, the son of Levi, and certain Reubenites—Dathan and Abiram , sons of Eliab, and On son of Peleth—became insolent",
+        "16": {
+            "verse": "Moses said to Korah, “You and all your followers are to appear before the Lord tomorrow—you and they and Aaron.",
             "headers": []
         },
         "2": {
@@ -2448,10 +2392,6 @@
         },
         "15": {
             "verse": "Then Moses became very angry and said to the Lord , “Do not accept their offering. I have not taken so much as a donkey from them, nor have I wronged any of them.”",
-            "headers": []
-        },
-        "16": {
-            "verse": "Moses said to Korah, “You and all your followers are to appear before the Lord tomorrow—you and they and Aaron.",
             "headers": []
         },
         "17": {
@@ -2592,7 +2532,7 @@
         }
     },
     "17": {
-        "1": {
+        "17": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -2646,8 +2586,8 @@
         }
     },
     "18": {
-        "1": {
-            "verse": "The Lord said to Aaron, “You, your sons and your family are to bear the responsibility for offenses connected with the sanctuary, and you and your sons alone are to bear the responsibility for offenses connected with the priesthood.",
+        "18": {
+            "verse": "Their meat is to be yours, just as the breast of the wave offering and the right thigh are yours.",
             "headers": []
         },
         "2": {
@@ -2671,7 +2611,7 @@
             "headers": []
         },
         "7": {
-            "verse": "But only you and your sons may serve as priests in connection with everything at the altar and inside the curtain. I am giving you the service of the priesthood as a gift. Anyone else who comes near the sanctuary is to be put to death. ”",
+            "verse": "But only you and your sons may serve as priests in connection with everything at the altar and inside the curtain. I am giving you the service of the priesthood as a gift. Anyone else who comes near the sanctuary is to be put to death. ” Offerings for Priests and Levites",
             "headers": []
         },
         "8": {
@@ -2712,10 +2652,6 @@
         },
         "17": {
             "verse": "“But you must not redeem the firstborn of a cow, a sheep or a goat; they are holy. Splash their blood against the altar and burn their fat as a food offering, an aroma pleasing to the Lord .",
-            "headers": []
-        },
-        "18": {
-            "verse": "Their meat is to be yours, just as the breast of the wave offering and the right thigh are yours.",
             "headers": []
         },
         "19": {
@@ -2776,8 +2712,8 @@
         }
     },
     "19": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron:",
+        "19": {
+            "verse": "The man who is clean is to sprinkle those who are unclean on the third and seventh days, and on the seventh day he is to purify them. Those who are being cleansed must wash their clothes and bathe with water, and that evening they will be clean.",
             "headers": []
         },
         "2": {
@@ -2848,16 +2784,12 @@
             "verse": "Then a man who is ceremonially clean is to take some hyssop, dip it in the water and sprinkle the tent and all the furnishings and the people who were there. He must also sprinkle anyone who has touched a human bone or a grave or anyone who has been killed or anyone who has died a natural death.",
             "headers": []
         },
-        "19": {
-            "verse": "The man who is clean is to sprinkle those who are unclean on the third and seventh days, and on the seventh day he is to purify them. Those who are being cleansed must wash their clothes and bathe with water, and that evening they will be clean.",
-            "headers": []
-        },
         "20": {
             "verse": "But if those who are unclean do not purify themselves, they must be cut off from the community, because they have defiled the sanctuary of the Lord . The water of cleansing has not been sprinkled on them, and they are unclean.",
             "headers": []
         },
         "21": {
-            "verse": "This is a lasting ordinance for them.",
+            "verse": "This is a lasting ordinance for them. “The man who sprinkles the water of cleansing must also wash his clothes, and anyone who touches the water of cleansing will be unclean till evening.",
             "headers": []
         },
         "22": {
@@ -2866,8 +2798,8 @@
         }
     },
     "20": {
-        "1": {
-            "verse": "In the first month the whole Israelite community arrived at the Desert of Zin, and they stayed at Kadesh. There Miriam died and was buried.",
+        "20": {
+            "verse": "Again they answered: “You may not pass through. ” Then Edom came out against them with a large and powerful army.",
             "headers": []
         },
         "2": {
@@ -2915,11 +2847,11 @@
             "headers": []
         },
         "13": {
-            "verse": "These were the waters of Meribah, where the Israelites quarreled with the Lord and where he was proved holy among them.",
+            "verse": "These were the waters of Meribah, where the Israelites quarreled with the Lord and where he was proved holy among them. Edom Denies Israel Passage",
             "headers": []
         },
         "14": {
-            "verse": "Moses sent messengers from Kadesh to the king of Edom, saying:",
+            "verse": "Moses sent messengers from Kadesh to the king of Edom, saying: “This is what your brother Israel says: You know about all the hardships that have come on us.",
             "headers": []
         },
         "15": {
@@ -2927,7 +2859,7 @@
             "headers": []
         },
         "16": {
-            "verse": "but when we cried out to the Lord , he heard our cry and sent an angel and brought us out of Egypt.",
+            "verse": "but when we cried out to the Lord , he heard our cry and sent an angel and brought us out of Egypt. “Now we are here at Kadesh, a town on the edge of your territory.",
             "headers": []
         },
         "17": {
@@ -2935,19 +2867,15 @@
             "headers": []
         },
         "18": {
-            "verse": "But Edom answered:",
+            "verse": "But Edom answered: “You may not pass through here; if you try, we will march out and attack you with the sword. ”",
             "headers": []
         },
         "19": {
-            "verse": "The Israelites replied:",
-            "headers": []
-        },
-        "20": {
-            "verse": "Again they answered:",
+            "verse": "The Israelites replied: “We will go along the main road, and if we or our livestock drink any of your water, we will pay for it. We only want to pass through on foot—nothing else.”",
             "headers": []
         },
         "21": {
-            "verse": "Since Edom refused to let them go through their territory, Israel turned away from them.",
+            "verse": "Since Edom refused to let them go through their territory, Israel turned away from them. The Death of Aaron",
             "headers": []
         },
         "22": {
@@ -2984,8 +2912,8 @@
         }
     },
     "21": {
-        "1": {
-            "verse": "When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them.",
+        "21": {
+            "verse": "Israel sent messengers to say to Sihon king of the Amorites:",
             "headers": []
         },
         "2": {
@@ -2993,7 +2921,7 @@
             "headers": []
         },
         "3": {
-            "verse": "The Lord listened to Israel’s plea and gave the Canaanites over to them. They completely destroyed them and their towns; so the place was named Hormah.",
+            "verse": "The Lord listened to Israel’s plea and gave the Canaanites over to them. They completely destroyed them and their towns; so the place was named Hormah. The Bronze Snake",
             "headers": []
         },
         "4": {
@@ -3017,7 +2945,7 @@
             "headers": []
         },
         "9": {
-            "verse": "So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and looked at the bronze snake, they lived.",
+            "verse": "So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and looked at the bronze snake, they lived. The Journey to Moab",
             "headers": []
         },
         "10": {
@@ -3037,11 +2965,11 @@
             "headers": []
         },
         "14": {
-            "verse": "That is why the Book of the Wars of the Lord says:",
+            "verse": "That is why the Book of the Wars of the Lord says: “. . . Zahab in Suphah and the ravines, the Arnon",
             "headers": []
         },
         "15": {
-            "verse": "and the slopes of the ravines",
+            "verse": "and the slopes of the ravines that lead to the settlement of Ar and lie along the border of Moab.”",
             "headers": []
         },
         "16": {
@@ -3049,11 +2977,11 @@
             "headers": []
         },
         "17": {
-            "verse": "Then Israel sang this song:",
+            "verse": "Then Israel sang this song: “Spring up, O well! Sing about it,",
             "headers": []
         },
         "18": {
-            "verse": "about the well that the princes dug,",
+            "verse": "about the well that the princes dug, that the nobles of the people sank— the nobles with scepters and staffs.” Then they went from the wilderness to Mattanah,",
             "headers": []
         },
         "19": {
@@ -3061,11 +2989,7 @@
             "headers": []
         },
         "20": {
-            "verse": "and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland.",
-            "headers": []
-        },
-        "21": {
-            "verse": "Israel sent messengers to say to Sihon king of the Amorites:",
+            "verse": "and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland. Defeat of Sihon and Og",
             "headers": []
         },
         "22": {
@@ -3089,19 +3013,19 @@
             "headers": []
         },
         "27": {
-            "verse": "That is why the poets say:",
+            "verse": "That is why the poets say: “Come to Heshbon and let it be rebuilt; let Sihon’s city be restored.",
             "headers": []
         },
         "28": {
-            "verse": "“Fire went out from Heshbon,",
+            "verse": "“Fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar of Moab, the citizens of Arnon’s heights.",
             "headers": []
         },
         "29": {
-            "verse": "Woe to you, Moab!",
+            "verse": "Woe to you, Moab! You are destroyed, people of Chemosh! He has given up his sons as fugitives and his daughters as captives to Sihon king of the Amorites.",
             "headers": []
         },
         "30": {
-            "verse": "“But we have overthrown them;",
+            "verse": "“But we have overthrown them; Heshbon’s dominion has been destroyed all the way to Dibon. We have demolished them as far as Nophah, which extends to Medeba. ”",
             "headers": []
         },
         "31": {
@@ -3126,8 +3050,8 @@
         }
     },
     "22": {
-        "1": {
-            "verse": "Then the Israelites traveled to the plains of Moab and camped along the Jordan across from Jericho.",
+        "22": {
+            "verse": "But God was very angry when he went, and the angel of the Lord stood in the road to oppose him. Balaam was riding on his donkey, and his two servants were with him.",
             "headers": []
         },
         "2": {
@@ -3139,11 +3063,11 @@
             "headers": []
         },
         "4": {
-            "verse": "The Moabites said to the elders of Midian, “This horde is going to lick up everything around us, as an ox licks up the grass of the field. ”",
+            "verse": "The Moabites said to the elders of Midian, “This horde is going to lick up everything around us, as an ox licks up the grass of the field. ” So Balak son of Zippor, who was king of Moab at that time,",
             "headers": []
         },
         "5": {
-            "verse": "sent messengers to summon Balaam son of Beor, who was at Pethor, near the Euphrates River, in his native land. Balak said:",
+            "verse": "sent messengers to summon Balaam son of Beor, who was at Pethor, near the Euphrates River, in his native land. Balak said: “A people has come out of Egypt; they cover the face of the land and have settled next to me.",
             "headers": []
         },
         "6": {
@@ -3187,7 +3111,7 @@
             "headers": []
         },
         "16": {
-            "verse": "They came to Balaam and said:",
+            "verse": "They came to Balaam and said: “This is what Balak son of Zippor says: Do not let anything keep you from coming to me,",
             "headers": []
         },
         "17": {
@@ -3203,15 +3127,11 @@
             "headers": []
         },
         "20": {
-            "verse": "That night God came to Balaam and said, “Since these men have come to summon you, go with them, but do only what I tell you.”",
+            "verse": "That night God came to Balaam and said, “Since these men have come to summon you, go with them, but do only what I tell you.” Balaam’s Donkey",
             "headers": []
         },
         "21": {
             "verse": "Balaam got up in the morning, saddled his donkey and went with the Moabite officials.",
-            "headers": []
-        },
-        "22": {
-            "verse": "But God was very angry when he went, and the angel of the Lord stood in the road to oppose him. Balaam was riding on his donkey, and his two servants were with him.",
             "headers": []
         },
         "23": {
@@ -3243,7 +3163,7 @@
             "headers": []
         },
         "30": {
-            "verse": "The donkey said to Balaam, “Am I not your own donkey, which you have always ridden, to this day? Have I been in the habit of doing this to you?”",
+            "verse": "The donkey said to Balaam, “Am I not your own donkey, which you have always ridden, to this day? Have I been in the habit of doing this to you?” “No,” he said.",
             "headers": []
         },
         "31": {
@@ -3292,8 +3212,8 @@
         }
     },
     "23": {
-        "1": {
-            "verse": "Balaam said, “Build me seven altars here, and prepare seven bulls and seven rams for me.”",
+        "23": {
+            "verse": "There is no divination against Jacob, no evil omens against Israel. It will now be said of Jacob and of Israel, ‘See what God has done!’",
             "headers": []
         },
         "2": {
@@ -3317,19 +3237,19 @@
             "headers": []
         },
         "7": {
-            "verse": "Then Balaam spoke his message:",
+            "verse": "Then Balaam spoke his message: “Balak brought me from Aram, the king of Moab from the eastern mountains. ‘Come,’ he said, ‘curse Jacob for me; come, denounce Israel.’",
             "headers": []
         },
         "8": {
-            "verse": "How can I curse",
+            "verse": "How can I curse those whom God has not cursed? How can I denounce those whom the Lord has not denounced?",
             "headers": []
         },
         "9": {
-            "verse": "From the rocky peaks I see them,",
+            "verse": "From the rocky peaks I see them, from the heights I view them. I see a people who live apart and do not consider themselves one of the nations.",
             "headers": []
         },
         "10": {
-            "verse": "Who can count the dust of Jacob",
+            "verse": "Who can count the dust of Jacob or number even a fourth of Israel? Let me die the death of the righteous, and may my final end be like theirs! ”",
             "headers": []
         },
         "11": {
@@ -3337,7 +3257,7 @@
             "headers": []
         },
         "12": {
-            "verse": "He answered, “Must I not speak what the Lord puts in my mouth?”",
+            "verse": "He answered, “Must I not speak what the Lord puts in my mouth?” Balaam’s Second Message",
             "headers": []
         },
         "13": {
@@ -3361,31 +3281,27 @@
             "headers": []
         },
         "18": {
-            "verse": "Then he spoke his message:",
+            "verse": "Then he spoke his message: “Arise, Balak, and listen; hear me, son of Zippor.",
             "headers": []
         },
         "19": {
-            "verse": "God is not human, that he should lie,",
+            "verse": "God is not human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?",
             "headers": []
         },
         "20": {
-            "verse": "I have received a command to bless;",
+            "verse": "I have received a command to bless; he has blessed, and I cannot change it.",
             "headers": []
         },
         "21": {
-            "verse": "“No misfortune is seen in Jacob,",
+            "verse": "“No misfortune is seen in Jacob, no misery observed in Israel. The Lord their God is with them; the shout of the King is among them.",
             "headers": []
         },
         "22": {
-            "verse": "God brought them out of Egypt;",
-            "headers": []
-        },
-        "23": {
-            "verse": "There is no divination against Jacob,",
+            "verse": "God brought them out of Egypt; they have the strength of a wild ox.",
             "headers": []
         },
         "24": {
-            "verse": "The people rise like a lioness;",
+            "verse": "The people rise like a lioness; they rouse themselves like a lion that does not rest till it devours its prey and drinks the blood of its victims.”",
             "headers": []
         },
         "25": {
@@ -3393,7 +3309,7 @@
             "headers": []
         },
         "26": {
-            "verse": "Balaam answered, “Did I not tell you I must do whatever the Lord says?”",
+            "verse": "Balaam answered, “Did I not tell you I must do whatever the Lord says?” Balaam’s Third Message",
             "headers": []
         },
         "27": {
@@ -3414,8 +3330,8 @@
         }
     },
     "24": {
-        "1": {
-            "verse": "Now when Balaam saw that it pleased the Lord to bless Israel, he did not resort to divination as at other times, but turned his face toward the wilderness.",
+        "24": {
+            "verse": "Ships will come from the shores of Cyprus; they will subdue Ashur and Eber, but they too will come to ruin. ”",
             "headers": []
         },
         "2": {
@@ -3423,31 +3339,31 @@
             "headers": []
         },
         "3": {
-            "verse": "and he spoke his message:",
+            "verse": "and he spoke his message: “The prophecy of Balaam son of Beor, the prophecy of one whose eye sees clearly,",
             "headers": []
         },
         "4": {
-            "verse": "the prophecy of one who hears the words of God,",
+            "verse": "the prophecy of one who hears the words of God, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:",
             "headers": []
         },
         "5": {
-            "verse": "“How beautiful are your tents, Jacob,",
+            "verse": "“How beautiful are your tents, Jacob, your dwelling places, Israel!",
             "headers": []
         },
         "6": {
-            "verse": "“Like valleys they spread out,",
+            "verse": "“Like valleys they spread out, like gardens beside a river, like aloes planted by the Lord , like cedars beside the waters.",
             "headers": []
         },
         "7": {
-            "verse": "Water will flow from their buckets;",
+            "verse": "Water will flow from their buckets; their seed will have abundant water. “Their king will be greater than Agag; their kingdom will be exalted.",
             "headers": []
         },
         "8": {
-            "verse": "“God brought them out of Egypt;",
+            "verse": "“God brought them out of Egypt; they have the strength of a wild ox. They devour hostile nations and break their bones in pieces; with their arrows they pierce them.",
             "headers": []
         },
         "9": {
-            "verse": "Like a lion they crouch and lie down,",
+            "verse": "Like a lion they crouch and lie down, like a lioness —who dares to rouse them? “May those who bless you be blessed and those who curse you be cursed!”",
             "headers": []
         },
         "10": {
@@ -3467,47 +3383,43 @@
             "headers": []
         },
         "14": {
-            "verse": "Now I am going back to my people, but come, let me warn you of what this people will do to your people in days to come.”",
+            "verse": "Now I am going back to my people, but come, let me warn you of what this people will do to your people in days to come.” Balaam’s Fourth Message",
             "headers": []
         },
         "15": {
-            "verse": "Then he spoke his message:",
+            "verse": "Then he spoke his message: “The prophecy of Balaam son of Beor, the prophecy of one whose eye sees clearly,",
             "headers": []
         },
         "16": {
-            "verse": "the prophecy of one who hears the words of God,",
+            "verse": "the prophecy of one who hears the words of God, who has knowledge from the Most High, who sees a vision from the Almighty, who falls prostrate, and whose eyes are opened:",
             "headers": []
         },
         "17": {
-            "verse": "“I see him, but not now;",
+            "verse": "“I see him, but not now; I behold him, but not near. A star will come out of Jacob; a scepter will rise out of Israel. He will crush the foreheads of Moab, the skulls of all the people of Sheth.",
             "headers": []
         },
         "18": {
-            "verse": "Edom will be conquered;",
+            "verse": "Edom will be conquered; Seir, his enemy, will be conquered, but Israel will grow strong.",
             "headers": []
         },
         "19": {
-            "verse": "A ruler will come out of Jacob",
+            "verse": "A ruler will come out of Jacob and destroy the survivors of the city.” Balaam’s Fifth Message",
             "headers": []
         },
         "20": {
-            "verse": "Then Balaam saw Amalek and spoke his message:",
+            "verse": "Then Balaam saw Amalek and spoke his message: “Amalek was first among the nations, but their end will be utter destruction.” Balaam’s Sixth Message",
             "headers": []
         },
         "21": {
-            "verse": "Then he saw the Kenites and spoke his message:",
+            "verse": "Then he saw the Kenites and spoke his message: “Your dwelling place is secure, your nest is set in a rock;",
             "headers": []
         },
         "22": {
-            "verse": "yet you Kenites will be destroyed",
+            "verse": "yet you Kenites will be destroyed when Ashur takes you captive.” Balaam’s Seventh Message",
             "headers": []
         },
         "23": {
-            "verse": "Then he spoke his message:",
-            "headers": []
-        },
-        "24": {
-            "verse": "Ships will come from the shores of Cyprus;",
+            "verse": "Then he spoke his message: “Alas! Who can live when God does this?",
             "headers": []
         },
         "25": {
@@ -3516,7 +3428,7 @@
         }
     },
     "25": {
-        "1": {
+        "25": {
             "verse": "While Israel was staying in Shittim, the men began to indulge in sexual immorality with Moabite women,",
             "headers": []
         },
@@ -3590,8 +3502,8 @@
         }
     },
     "26": {
-        "1": {
-            "verse": "After the plague the Lord said to Moses and Eleazar son of Aaron, the priest,",
+        "26": {
+            "verse": "The descendants of Zebulun by their clans were: through Sered, the Seredite clan; through Elon, the Elonite clan; through Jahleel, the Jahleelite clan.",
             "headers": []
         },
         "2": {
@@ -3603,15 +3515,15 @@
             "headers": []
         },
         "4": {
-            "verse": "“Take a census of the men twenty years old or more, as the Lord commanded Moses.”",
+            "verse": "“Take a census of the men twenty years old or more, as the Lord commanded Moses.” These were the Israelites who came out of Egypt:",
             "headers": []
         },
         "5": {
-            "verse": "The descendants of Reuben, the firstborn son of Israel, were:",
+            "verse": "The descendants of Reuben, the firstborn son of Israel, were: through Hanok, the Hanokite clan; through Pallu, the Palluite clan;",
             "headers": []
         },
         "6": {
-            "verse": "through Hezron, the Hezronite clan;",
+            "verse": "through Hezron, the Hezronite clan; through Karmi, the Karmite clan.",
             "headers": []
         },
         "7": {
@@ -3635,11 +3547,11 @@
             "headers": []
         },
         "12": {
-            "verse": "The descendants of Simeon by their clans were:",
+            "verse": "The descendants of Simeon by their clans were: through Nemuel, the Nemuelite clan; through Jamin, the Jaminite clan; through Jakin, the Jakinite clan;",
             "headers": []
         },
         "13": {
-            "verse": "through Zerah, the Zerahite clan;",
+            "verse": "through Zerah, the Zerahite clan; through Shaul, the Shaulite clan.",
             "headers": []
         },
         "14": {
@@ -3647,15 +3559,15 @@
             "headers": []
         },
         "15": {
-            "verse": "The descendants of Gad by their clans were:",
+            "verse": "The descendants of Gad by their clans were: through Zephon, the Zephonite clan; through Haggi, the Haggite clan; through Shuni, the Shunite clan;",
             "headers": []
         },
         "16": {
-            "verse": "through Ozni, the Oznite clan;",
+            "verse": "through Ozni, the Oznite clan; through Eri, the Erite clan;",
             "headers": []
         },
         "17": {
-            "verse": "through Arodi, the Arodite clan;",
+            "verse": "through Arodi, the Arodite clan; through Areli, the Arelite clan.",
             "headers": []
         },
         "18": {
@@ -3667,11 +3579,11 @@
             "headers": []
         },
         "20": {
-            "verse": "The descendants of Judah by their clans were:",
+            "verse": "The descendants of Judah by their clans were: through Shelah, the Shelanite clan; through Perez, the Perezite clan; through Zerah, the Zerahite clan.",
             "headers": []
         },
         "21": {
-            "verse": "The descendants of Perez were:",
+            "verse": "The descendants of Perez were: through Hezron, the Hezronite clan; through Hamul, the Hamulite clan.",
             "headers": []
         },
         "22": {
@@ -3679,19 +3591,15 @@
             "headers": []
         },
         "23": {
-            "verse": "The descendants of Issachar by their clans were:",
+            "verse": "The descendants of Issachar by their clans were: through Tola, the Tolaite clan; through Puah, the Puite clan;",
             "headers": []
         },
         "24": {
-            "verse": "through Jashub, the Jashubite clan;",
+            "verse": "through Jashub, the Jashubite clan; through Shimron, the Shimronite clan.",
             "headers": []
         },
         "25": {
             "verse": "These were the clans of Issachar; those numbered were 64,300.",
-            "headers": []
-        },
-        "26": {
-            "verse": "The descendants of Zebulun by their clans were:",
             "headers": []
         },
         "27": {
@@ -3703,19 +3611,19 @@
             "headers": []
         },
         "29": {
-            "verse": "The descendants of Manasseh:",
+            "verse": "The descendants of Manasseh: through Makir, the Makirite clan (Makir was the father of Gilead ); through Gilead, the Gileadite clan.",
             "headers": []
         },
         "30": {
-            "verse": "These were the descendants of Gilead:",
+            "verse": "These were the descendants of Gilead: through Iezer, the Iezerite clan; through Helek, the Helekite clan;",
             "headers": []
         },
         "31": {
-            "verse": "through Asriel, the Asrielite clan;",
+            "verse": "through Asriel, the Asrielite clan; through Shechem, the Shechemite clan;",
             "headers": []
         },
         "32": {
-            "verse": "through Shemida, the Shemidaite clan;",
+            "verse": "through Shemida, the Shemidaite clan; through Hepher, the Hepherite clan.",
             "headers": []
         },
         "33": {
@@ -3727,27 +3635,27 @@
             "headers": []
         },
         "35": {
-            "verse": "These were the descendants of Ephraim by their clans:",
+            "verse": "These were the descendants of Ephraim by their clans: through Shuthelah, the Shuthelahite clan; through Beker, the Bekerite clan; through Tahan, the Tahanite clan.",
             "headers": []
         },
         "36": {
-            "verse": "These were the descendants of Shuthelah:",
+            "verse": "These were the descendants of Shuthelah: through Eran, the Eranite clan.",
             "headers": []
         },
         "37": {
-            "verse": "These were the clans of Ephraim; those numbered were 32,500.",
+            "verse": "These were the clans of Ephraim; those numbered were 32,500. These were the descendants of Joseph by their clans.",
             "headers": []
         },
         "38": {
-            "verse": "The descendants of Benjamin by their clans were:",
+            "verse": "The descendants of Benjamin by their clans were: through Bela, the Belaite clan; through Ashbel, the Ashbelite clan; through Ahiram, the Ahiramite clan;",
             "headers": []
         },
         "39": {
-            "verse": "through Shupham, the Shuphamite clan;",
+            "verse": "through Shupham, the Shuphamite clan; through Hupham, the Huphamite clan.",
             "headers": []
         },
         "40": {
-            "verse": "The descendants of Bela through Ard and Naaman were:",
+            "verse": "The descendants of Bela through Ard and Naaman were: through Ard, the Ardite clan; through Naaman, the Naamite clan.",
             "headers": []
         },
         "41": {
@@ -3755,7 +3663,7 @@
             "headers": []
         },
         "42": {
-            "verse": "These were the descendants of Dan by their clans:",
+            "verse": "These were the descendants of Dan by their clans: through Shuham, the Shuhamite clan. These were the clans of Dan:",
             "headers": []
         },
         "43": {
@@ -3763,11 +3671,11 @@
             "headers": []
         },
         "44": {
-            "verse": "The descendants of Asher by their clans were:",
+            "verse": "The descendants of Asher by their clans were: through Imnah, the Imnite clan; through Ishvi, the Ishvite clan; through Beriah, the Beriite clan;",
             "headers": []
         },
         "45": {
-            "verse": "and through the descendants of Beriah:",
+            "verse": "and through the descendants of Beriah: through Heber, the Heberite clan; through Malkiel, the Malkielite clan.",
             "headers": []
         },
         "46": {
@@ -3779,11 +3687,11 @@
             "headers": []
         },
         "48": {
-            "verse": "The descendants of Naphtali by their clans were:",
+            "verse": "The descendants of Naphtali by their clans were: through Jahzeel, the Jahzeelite clan; through Guni, the Gunite clan;",
             "headers": []
         },
         "49": {
-            "verse": "through Jezer, the Jezerite clan;",
+            "verse": "through Jezer, the Jezerite clan; through Shillem, the Shillemite clan.",
             "headers": []
         },
         "50": {
@@ -3815,11 +3723,11 @@
             "headers": []
         },
         "57": {
-            "verse": "These were the Levites who were counted by their clans:",
+            "verse": "These were the Levites who were counted by their clans: through Gershon, the Gershonite clan; through Kohath, the Kohathite clan; through Merari, the Merarite clan.",
             "headers": []
         },
         "58": {
-            "verse": "These also were Levite clans:",
+            "verse": "These also were Levite clans: the Libnite clan, the Hebronite clan, the Mahlite clan, the Mushite clan, the Korahite clan. (Kohath was the forefather of Amram;",
             "headers": []
         },
         "59": {
@@ -3852,7 +3760,7 @@
         }
     },
     "27": {
-        "1": {
+        "27": {
             "verse": "The daughters of Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. The names of the daughters were Mahlah, Noah, Hoglah, Milkah and Tirzah. They came forward",
             "headers": []
         },
@@ -3893,7 +3801,7 @@
             "headers": []
         },
         "11": {
-            "verse": "If his father had no brothers, give his inheritance to the nearest relative in his clan, that he may possess it. This is to have the force of law for the Israelites, as the Lord commanded Moses.’”",
+            "verse": "If his father had no brothers, give his inheritance to the nearest relative in his clan, that he may possess it. This is to have the force of law for the Israelites, as the Lord commanded Moses.’” Joshua to Succeed Moses",
             "headers": []
         },
         "12": {
@@ -3946,8 +3854,8 @@
         }
     },
     "28": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "28": {
+            "verse": "With each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;",
             "headers": []
         },
         "2": {
@@ -3975,7 +3883,7 @@
             "headers": []
         },
         "8": {
-            "verse": "Offer the second lamb at twilight, along with the same kind of grain offering and drink offering that you offer in the morning. This is a food offering, an aroma pleasing to the Lord .",
+            "verse": "Offer the second lamb at twilight, along with the same kind of grain offering and drink offering that you offer in the morning. This is a food offering, an aroma pleasing to the Lord . Sabbath Offerings",
             "headers": []
         },
         "9": {
@@ -3983,7 +3891,7 @@
             "headers": []
         },
         "10": {
-            "verse": "This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.",
+            "verse": "This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering. Monthly Offerings",
             "headers": []
         },
         "11": {
@@ -4003,7 +3911,7 @@
             "headers": []
         },
         "15": {
-            "verse": "Besides the regular burnt offering with its drink offering, one male goat is to be presented to the Lord as a sin offering.",
+            "verse": "Besides the regular burnt offering with its drink offering, one male goat is to be presented to the Lord as a sin offering. The Passover",
             "headers": []
         },
         "16": {
@@ -4043,7 +3951,7 @@
             "headers": []
         },
         "25": {
-            "verse": "On the seventh day hold a sacred assembly and do no regular work.",
+            "verse": "On the seventh day hold a sacred assembly and do no regular work. The Festival of Weeks",
             "headers": []
         },
         "26": {
@@ -4052,10 +3960,6 @@
         },
         "27": {
             "verse": "Present a burnt offering of two young bulls, one ram and seven male lambs a year old as an aroma pleasing to the Lord .",
-            "headers": []
-        },
-        "28": {
-            "verse": "With each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;",
             "headers": []
         },
         "29": {
@@ -4072,8 +3976,8 @@
         }
     },
     "29": {
-        "1": {
-            "verse": "“‘On the first day of the seventh month hold a sacred assembly and do no regular work. It is a day for you to sound the trumpets.",
+        "29": {
+            "verse": "“‘On the sixth day offer eight bulls, two rams and fourteen male lambs a year old, all without defect.",
             "headers": []
         },
         "2": {
@@ -4093,7 +3997,7 @@
             "headers": []
         },
         "6": {
-            "verse": "These are in addition to the monthly and daily burnt offerings with their grain offerings and drink offerings as specified. They are food offerings presented to the Lord , a pleasing aroma.",
+            "verse": "These are in addition to the monthly and daily burnt offerings with their grain offerings and drink offerings as specified. They are food offerings presented to the Lord , a pleasing aroma. The Day of Atonement",
             "headers": []
         },
         "7": {
@@ -4113,7 +4017,7 @@
             "headers": []
         },
         "11": {
-            "verse": "Include one male goat as a sin offering, in addition to the sin offering for atonement and the regular burnt offering with its grain offering, and their drink offerings.",
+            "verse": "Include one male goat as a sin offering, in addition to the sin offering for atonement and the regular burnt offering with its grain offering, and their drink offerings. The Festival of Tabernacles",
             "headers": []
         },
         "12": {
@@ -4184,10 +4088,6 @@
             "verse": "Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.",
             "headers": []
         },
-        "29": {
-            "verse": "“‘On the sixth day offer eight bulls, two rams and fourteen male lambs a year old, all without defect.",
-            "headers": []
-        },
         "30": {
             "verse": "With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified.",
             "headers": []
@@ -4234,7 +4134,7 @@
         }
     },
     "30": {
-        "1": {
+        "30": {
             "verse": "Moses said to the heads of the tribes of Israel: “This is what the Lord commands:",
             "headers": []
         },
@@ -4300,8 +4200,8 @@
         }
     },
     "31": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "31": {
+            "verse": "So Moses and Eleazar the priest did as the Lord commanded Moses.",
             "headers": []
         },
         "2": {
@@ -4393,7 +4293,7 @@
             "headers": []
         },
         "24": {
-            "verse": "On the seventh day wash your clothes and you will be clean. Then you may come into the camp. ”",
+            "verse": "On the seventh day wash your clothes and you will be clean. Then you may come into the camp. ” Dividing the Spoils",
             "headers": []
         },
         "25": {
@@ -4420,10 +4320,6 @@
             "verse": "From the Israelites’ half, select one out of every fifty, whether people, cattle, donkeys, sheep or other animals. Give them to the Levites, who are responsible for the care of the Lord ’s tabernacle. ”",
             "headers": []
         },
-        "31": {
-            "verse": "So Moses and Eleazar the priest did as the Lord commanded Moses.",
-            "headers": []
-        },
         "32": {
             "verse": "The plunder remaining from the spoils that the soldiers took was 675,000 sheep,",
             "headers": []
@@ -4442,6 +4338,10 @@
         },
         "36": {
             "verse": "The half share of those who fought in the battle was:",
+            "headers": []
+        },
+        "337": {
+            "verse": ",500 sheep,",
             "headers": []
         },
         "37": {
@@ -4518,8 +4418,8 @@
         }
     },
     "32": {
-        "1": {
-            "verse": "The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock.",
+        "32": {
+            "verse": "We will cross over before the Lord into Canaan armed, but the property we inherit will be on this side of the Jordan. ”",
             "headers": []
         },
         "2": {
@@ -4642,10 +4542,6 @@
             "verse": "The Gadites and Reubenites answered, “Your servants will do what the Lord has said.",
             "headers": []
         },
-        "32": {
-            "verse": "We will cross over before the Lord into Canaan armed, but the property we inherit will be on this side of the Jordan. ”",
-            "headers": []
-        },
         "33": {
             "verse": "Then Moses gave to the Gadites, the Reubenites and the half-tribe of Manasseh son of Joseph the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan —the whole land with its cities and the territory around them.",
             "headers": []
@@ -4688,8 +4584,8 @@
         }
     },
     "33": {
-        "1": {
-            "verse": "Here are the stages in the journey of the Israelites when they came out of Egypt by divisions under the leadership of Moses and Aaron.",
+        "33": {
+            "verse": "They left Hor Haggidgad and camped at Jotbathah.",
             "headers": []
         },
         "2": {
@@ -4816,10 +4712,6 @@
             "verse": "They left Bene Jaakan and camped at Hor Haggidgad.",
             "headers": []
         },
-        "33": {
-            "verse": "They left Hor Haggidgad and camped at Jotbathah.",
-            "headers": []
-        },
         "34": {
             "verse": "They left Jotbathah and camped at Abronah.",
             "headers": []
@@ -4914,7 +4806,7 @@
         }
     },
     "34": {
-        "1": {
+        "34": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -4959,7 +4851,7 @@
             "headers": []
         },
         "12": {
-            "verse": "Then the boundary will go down along the Jordan and end at the Dead Sea.",
+            "verse": "Then the boundary will go down along the Jordan and end at the Dead Sea. “‘This will be your land, with its boundaries on every side.’”",
             "headers": []
         },
         "13": {
@@ -4987,43 +4879,43 @@
             "headers": []
         },
         "19": {
-            "verse": "These are their names:",
+            "verse": "These are their names: Caleb son of Jephunneh, from the tribe of Judah;",
             "headers": []
         },
         "20": {
-            "verse": "Shemuel son of Ammihud,",
+            "verse": "Shemuel son of Ammihud, from the tribe of Simeon;",
             "headers": []
         },
         "21": {
-            "verse": "Elidad son of Kislon,",
+            "verse": "Elidad son of Kislon, from the tribe of Benjamin;",
             "headers": []
         },
         "22": {
-            "verse": "Bukki son of Jogli,",
+            "verse": "Bukki son of Jogli, the leader from the tribe of Dan;",
             "headers": []
         },
         "23": {
-            "verse": "Hanniel son of Ephod,",
+            "verse": "Hanniel son of Ephod, the leader from the tribe of Manasseh son of Joseph;",
             "headers": []
         },
         "24": {
-            "verse": "Kemuel son of Shiphtan,",
+            "verse": "Kemuel son of Shiphtan, the leader from the tribe of Ephraim son of Joseph;",
             "headers": []
         },
         "25": {
-            "verse": "Elizaphan son of Parnak,",
+            "verse": "Elizaphan son of Parnak, the leader from the tribe of Zebulun;",
             "headers": []
         },
         "26": {
-            "verse": "Paltiel son of Azzan,",
+            "verse": "Paltiel son of Azzan, the leader from the tribe of Issachar;",
             "headers": []
         },
         "27": {
-            "verse": "Ahihud son of Shelomi,",
+            "verse": "Ahihud son of Shelomi, the leader from the tribe of Asher;",
             "headers": []
         },
         "28": {
-            "verse": "Pedahel son of Ammihud,",
+            "verse": "Pedahel son of Ammihud, the leader from the tribe of Naphtali.”",
             "headers": []
         },
         "29": {
@@ -5032,7 +4924,7 @@
         }
     },
     "35": {
-        "1": {
+        "35": {
             "verse": "On the plains of Moab by the Jordan across from Jericho, the Lord said to Moses,",
             "headers": []
         },
@@ -5049,7 +4941,7 @@
             "headers": []
         },
         "5": {
-            "verse": "Outside the town, measure two thousand cubits on the east side, two thousand on the south side, two thousand on the west and two thousand on the north, with the town in the center. They will have this area as pastureland for the towns.",
+            "verse": "Outside the town, measure two thousand cubits on the east side, two thousand on the south side, two thousand on the west and two thousand on the north, with the town in the center. They will have this area as pastureland for the towns. Cities of Refuge",
             "headers": []
         },
         "6": {
@@ -5170,7 +5062,7 @@
         }
     },
     "36": {
-        "1": {
+        "36": {
             "verse": "The family heads of the clan of Gilead son of Makir, the son of Manasseh, who were from the clans of the descendants of Joseph, came and spoke before Moses and the leaders, the heads of the Israelite families.",
             "headers": []
         },

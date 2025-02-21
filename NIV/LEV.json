@@ -70,10 +70,6 @@
         }
     },
     "2": {
-        "1": {
-            "verse": "“‘When anyone brings a grain offering to the Lord , their offering is to be of the finest flour. They are to pour olive oil on it, put incense on it",
-            "headers": []
-        },
         "2": {
             "verse": "and take it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the incense, and burn this as a memorial portion on the altar, a food offering, an aroma pleasing to the Lord .",
             "headers": []
@@ -136,16 +132,12 @@
         }
     },
     "3": {
-        "1": {
-            "verse": "“‘If your offering is a fellowship offering, and you offer an animal from the herd, whether male or female, you are to present before the Lord an animal without defect.",
+        "3": {
+            "verse": "From the fellowship offering you are to bring a food offering to the Lord : the internal organs and all the fat that is connected to them,",
             "headers": []
         },
         "2": {
             "verse": "You are to lay your hand on the head of your offering and slaughter it at the entrance to the tent of meeting. Then Aaron’s sons the priests shall splash the blood against the sides of the altar.",
-            "headers": []
-        },
-        "3": {
-            "verse": "From the fellowship offering you are to bring a food offering to the Lord : the internal organs and all the fat that is connected to them,",
             "headers": []
         },
         "4": {
@@ -206,8 +198,8 @@
         }
     },
     "4": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "4": {
+            "verse": "He is to present the bull at the entrance to the tent of meeting before the Lord . He is to lay his hand on its head and slaughter it there before the Lord .",
             "headers": []
         },
         "2": {
@@ -216,10 +208,6 @@
         },
         "3": {
             "verse": "“‘If the anointed priest sins, bringing guilt on the people, he must bring to the Lord a young bull without defect as a sin offering for the sin he has committed.",
-            "headers": []
-        },
-        "4": {
-            "verse": "He is to present the bull at the entrance to the tent of meeting before the Lord . He is to lay his hand on its head and slaughter it there before the Lord .",
             "headers": []
         },
         "5": {
@@ -348,8 +336,8 @@
         }
     },
     "5": {
-        "1": {
-            "verse": "“‘If anyone sins because they do not speak up when they hear a public charge to testify regarding something they have seen or learned about, they will be held responsible.",
+        "5": {
+            "verse": "when anyone becomes aware that they are guilty in any of these matters, they must confess in what way they have sinned.",
             "headers": []
         },
         "2": {
@@ -362,10 +350,6 @@
         },
         "4": {
             "verse": "or if anyone thoughtlessly takes an oath to do anything, whether good or evil (in any matter one might carelessly swear about) even though they are unaware of it, but then they learn of it and realize their guilt—",
-            "headers": []
-        },
-        "5": {
-            "verse": "when anyone becomes aware that they are guilty in any of these matters, they must confess in what way they have sinned.",
             "headers": []
         },
         "6": {
@@ -397,7 +381,7 @@
             "headers": []
         },
         "13": {
-            "verse": "In this way the priest will make atonement for them for any of these sins they have committed, and they will be forgiven. The rest of the offering will belong to the priest, as in the case of the grain offering. ’”",
+            "verse": "In this way the priest will make atonement for them for any of these sins they have committed, and they will be forgiven. The rest of the offering will belong to the priest, as in the case of the grain offering. ’” The Guilt Offering",
             "headers": []
         },
         "14": {
@@ -426,8 +410,8 @@
         }
     },
     "6": {
-        "1": {
-            "verse": "The Lord said to Moses:",
+        "6": {
+            "verse": "And as a penalty they must bring to the priest, that is, to the Lord , their guilt offering, a ram from the flock, one without defect and of the proper value.",
             "headers": []
         },
         "2": {
@@ -446,12 +430,8 @@
             "verse": "or whatever it was they swore falsely about. They must make restitution in full, add a fifth of the value to it and give it all to the owner on the day they present their guilt offering.",
             "headers": []
         },
-        "6": {
-            "verse": "And as a penalty they must bring to the priest, that is, to the Lord , their guilt offering, a ram from the flock, one without defect and of the proper value.",
-            "headers": []
-        },
         "7": {
-            "verse": "In this way the priest will make atonement for them before the Lord , and they will be forgiven for any of the things they did that made them guilty.”",
+            "verse": "In this way the priest will make atonement for them before the Lord , and they will be forgiven for any of the things they did that made them guilty.” The Burnt Offering",
             "headers": []
         },
         "8": {
@@ -475,7 +455,7 @@
             "headers": []
         },
         "13": {
-            "verse": "The fire must be kept burning on the altar continuously; it must not go out.",
+            "verse": "The fire must be kept burning on the altar continuously; it must not go out. The Grain Offering",
             "headers": []
         },
         "14": {
@@ -515,7 +495,7 @@
             "headers": []
         },
         "23": {
-            "verse": "Every grain offering of a priest shall be burned completely; it must not be eaten.”",
+            "verse": "Every grain offering of a priest shall be burned completely; it must not be eaten.” The Sin Offering",
             "headers": []
         },
         "24": {
@@ -548,8 +528,8 @@
         }
     },
     "7": {
-        "1": {
-            "verse": "“‘These are the regulations for the guilt offering, which is most holy:",
+        "7": {
+            "verse": "“‘The same law applies to both the sin offering and the guilt offering: They belong to the priest who makes atonement with them.",
             "headers": []
         },
         "2": {
@@ -572,10 +552,6 @@
             "verse": "Any male in a priest’s family may eat it, but it must be eaten in the sanctuary area; it is most holy.",
             "headers": []
         },
-        "7": {
-            "verse": "“‘The same law applies to both the sin offering and the guilt offering: They belong to the priest who makes atonement with them.",
-            "headers": []
-        },
         "8": {
             "verse": "The priest who offers a burnt offering for anyone may keep its hide for himself.",
             "headers": []
@@ -585,7 +561,7 @@
             "headers": []
         },
         "10": {
-            "verse": "and every grain offering, whether mixed with olive oil or dry, belongs equally to all the sons of Aaron.",
+            "verse": "and every grain offering, whether mixed with olive oil or dry, belongs equally to all the sons of Aaron. The Fellowship Offering",
             "headers": []
         },
         "11": {
@@ -629,7 +605,7 @@
             "headers": []
         },
         "21": {
-            "verse": "Anyone who touches something unclean —whether human uncleanness or an unclean animal or any unclean creature that moves along the ground —and then eats any of the meat of the fellowship offering belonging to the Lord must be cut off from their people.’”",
+            "verse": "Anyone who touches something unclean —whether human uncleanness or an unclean animal or any unclean creature that moves along the ground —and then eats any of the meat of the fellowship offering belonging to the Lord must be cut off from their people.’” Eating Fat and Blood Forbidden",
             "headers": []
         },
         "22": {
@@ -653,7 +629,7 @@
             "headers": []
         },
         "27": {
-            "verse": "Anyone who eats blood must be cut off from their people.’”",
+            "verse": "Anyone who eats blood must be cut off from their people.’” The Priests’ Share",
             "headers": []
         },
         "28": {
@@ -702,8 +678,8 @@
         }
     },
     "8": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "8": {
+            "verse": "He placed the breastpiece on him and put the Urim and Thummim in the breastpiece.",
             "headers": []
         },
         "2": {
@@ -728,10 +704,6 @@
         },
         "7": {
             "verse": "He put the tunic on Aaron, tied the sash around him, clothed him with the robe and put the ephod on him. He also fastened the ephod with a decorative waistband, which he tied around him.",
-            "headers": []
-        },
-        "8": {
-            "verse": "He placed the breastpiece on him and put the Urim and Thummim in the breastpiece.",
             "headers": []
         },
         "9": {
@@ -848,8 +820,8 @@
         }
     },
     "9": {
-        "1": {
-            "verse": "On the eighth day Moses summoned Aaron and his sons and the elders of Israel.",
+        "9": {
+            "verse": "His sons brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar; the rest of the blood he poured out at the base of the altar.",
             "headers": []
         },
         "2": {
@@ -878,10 +850,6 @@
         },
         "8": {
             "verse": "So Aaron came to the altar and slaughtered the calf as a sin offering for himself.",
-            "headers": []
-        },
-        "9": {
-            "verse": "His sons brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar; the rest of the blood he poured out at the base of the altar.",
             "headers": []
         },
         "10": {
@@ -946,8 +914,8 @@
         }
     },
     "10": {
-        "1": {
-            "verse": "Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense; and they offered unauthorized fire before the Lord , contrary to his command.",
+        "10": {
+            "verse": "so that you can distinguish between the holy and the common, between the unclean and the clean,",
             "headers": []
         },
         "2": {
@@ -955,7 +923,7 @@
             "headers": []
         },
         "3": {
-            "verse": "Moses then said to Aaron, “This is what the Lord spoke of when he said:",
+            "verse": "Moses then said to Aaron, “This is what the Lord spoke of when he said: “‘Among those who approach me I will be proved holy; in the sight of all the people I will be honored. ’” Aaron remained silent.",
             "headers": []
         },
         "4": {
@@ -980,10 +948,6 @@
         },
         "9": {
             "verse": "“You and your sons are not to drink wine or other fermented drink whenever you go into the tent of meeting, or you will die. This is a lasting ordinance for the generations to come,",
-            "headers": []
-        },
-        "10": {
-            "verse": "so that you can distinguish between the holy and the common, between the unclean and the clean,",
             "headers": []
         },
         "11": {
@@ -1028,8 +992,8 @@
         }
     },
     "11": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron,",
+        "11": {
+            "verse": "And since you are to regard them as unclean, you must not eat their meat; you must regard their carcasses as unclean.",
             "headers": []
         },
         "2": {
@@ -1066,10 +1030,6 @@
         },
         "10": {
             "verse": "But all creatures in the seas or streams that do not have fins and scales—whether among all the swarming things or among all the other living creatures in the water—you are to regard as unclean.",
-            "headers": []
-        },
-        "11": {
-            "verse": "And since you are to regard them as unclean, you must not eat their meat; you must regard their carcasses as unclean.",
             "headers": []
         },
         "12": {
@@ -1218,7 +1178,7 @@
         }
     },
     "12": {
-        "1": {
+        "12": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -1243,7 +1203,7 @@
             "headers": []
         },
         "7": {
-            "verse": "He shall offer them before the Lord to make atonement for her, and then she will be ceremonially clean from her flow of blood.",
+            "verse": "He shall offer them before the Lord to make atonement for her, and then she will be ceremonially clean from her flow of blood. “‘These are the regulations for the woman who gives birth to a boy or a girl.",
             "headers": []
         },
         "8": {
@@ -1252,8 +1212,8 @@
         }
     },
     "13": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron,",
+        "13": {
+            "verse": "the priest is to examine them, and if the disease has covered their whole body, he shall pronounce them clean. Since it has all turned white, they are clean.",
             "headers": []
         },
         "2": {
@@ -1298,10 +1258,6 @@
         },
         "12": {
             "verse": "“If the disease breaks out all over their skin and, so far as the priest can see, it covers all the skin of the affected person from head to foot,",
-            "headers": []
-        },
-        "13": {
-            "verse": "the priest is to examine them, and if the disease has covered their whole body, he shall pronounce them clean. Since it has all turned white, they are clean.",
             "headers": []
         },
         "14": {
@@ -1433,7 +1389,7 @@
             "headers": []
         },
         "46": {
-            "verse": "As long as they have the disease they remain unclean. They must live alone; they must live outside the camp.",
+            "verse": "As long as they have the disease they remain unclean. They must live alone; they must live outside the camp. Regulations About Defiling Molds",
             "headers": []
         },
         "47": {
@@ -1490,8 +1446,8 @@
         }
     },
     "14": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "14": {
+            "verse": "The priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot.",
             "headers": []
         },
         "2": {
@@ -1540,10 +1496,6 @@
         },
         "13": {
             "verse": "He is to slaughter the lamb in the sanctuary area where the sin offering and the burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.",
-            "headers": []
-        },
-        "14": {
-            "verse": "The priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot.",
             "headers": []
         },
         "15": {
@@ -1615,7 +1567,7 @@
             "headers": []
         },
         "32": {
-            "verse": "These are the regulations for anyone who has a defiling skin disease and who cannot afford the regular offerings for their cleansing.",
+            "verse": "These are the regulations for anyone who has a defiling skin disease and who cannot afford the regular offerings for their cleansing. Cleansing From Defiling Molds",
             "headers": []
         },
         "33": {
@@ -1715,13 +1667,13 @@
             "headers": []
         },
         "57": {
-            "verse": "to determine when something is clean or unclean.",
+            "verse": "to determine when something is clean or unclean. These are the regulations for defiling skin diseases and defiling molds.",
             "headers": []
         }
     },
     "15": {
-        "1": {
-            "verse": "The Lord said to Moses and Aaron,",
+        "15": {
+            "verse": "The priest is to sacrifice them, the one for a sin offering and the other for a burnt offering. In this way he will make atonement before the Lord for the man because of his discharge.",
             "headers": []
         },
         "2": {
@@ -1774,10 +1726,6 @@
         },
         "14": {
             "verse": "On the eighth day he must take two doves or two young pigeons and come before the Lord to the entrance to the tent of meeting and give them to the priest.",
-            "headers": []
-        },
-        "15": {
-            "verse": "The priest is to sacrifice them, the one for a sin offering and the other for a burnt offering. In this way he will make atonement before the Lord for the man because of his discharge.",
             "headers": []
         },
         "16": {
@@ -1854,8 +1802,8 @@
         }
     },
     "16": {
-        "1": {
-            "verse": "The Lord spoke to Moses after the death of the two sons of Aaron who died when they approached the Lord .",
+        "16": {
+            "verse": "In this way he will make atonement for the Most Holy Place because of the uncleanness and rebellion of the Israelites, whatever their sins have been. He is to do the same for the tent of meeting, which is among them in the midst of their uncleanness.",
             "headers": []
         },
         "2": {
@@ -1912,10 +1860,6 @@
         },
         "15": {
             "verse": "“He shall then slaughter the goat for the sin offering for the people and take its blood behind the curtain and do with it as he did with the bull’s blood: He shall sprinkle it on the atonement cover and in front of it.",
-            "headers": []
-        },
-        "16": {
-            "verse": "In this way he will make atonement for the Most Holy Place because of the uncleanness and rebellion of the Israelites, whatever their sins have been. He is to do the same for the tent of meeting, which is among them in the midst of their uncleanness.",
             "headers": []
         },
         "17": {
@@ -1987,12 +1931,12 @@
             "headers": []
         },
         "34": {
-            "verse": "“This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.”",
+            "verse": "“This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.” And it was done, as the Lord commanded Moses.",
             "headers": []
         }
     },
     "17": {
-        "1": {
+        "17": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -2058,8 +2002,8 @@
         }
     },
     "18": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "18": {
+            "verse": "“‘Do not take your wife’s sister as a rival wife and have sexual relations with her while your wife is living.",
             "headers": []
         },
         "2": {
@@ -2126,10 +2070,6 @@
             "verse": "“‘Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son’s daughter or her daughter’s daughter; they are her close relatives. That is wickedness.",
             "headers": []
         },
-        "18": {
-            "verse": "“‘Do not take your wife’s sister as a rival wife and have sexual relations with her while your wife is living.",
-            "headers": []
-        },
         "19": {
             "verse": "“‘Do not approach a woman to have sexual relations during the uncleanness of her monthly period.",
             "headers": []
@@ -2180,8 +2120,8 @@
         }
     },
     "19": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "19": {
+            "verse": "“‘Keep my decrees. “‘Do not mate different kinds of animals. “‘Do not plant your field with two kinds of seed. “‘Do not wear clothing woven of two kinds of material.",
             "headers": []
         },
         "2": {
@@ -2221,7 +2161,7 @@
             "headers": []
         },
         "11": {
-            "verse": "“‘Do not steal.",
+            "verse": "“‘Do not steal. “‘Do not lie. “‘Do not deceive one another.",
             "headers": []
         },
         "12": {
@@ -2229,7 +2169,7 @@
             "headers": []
         },
         "13": {
-            "verse": "“‘Do not defraud or rob your neighbor.",
+            "verse": "“‘Do not defraud or rob your neighbor. “‘Do not hold back the wages of a hired worker overnight.",
             "headers": []
         },
         "14": {
@@ -2241,7 +2181,7 @@
             "headers": []
         },
         "16": {
-            "verse": "“‘Do not go about spreading slander among your people.",
+            "verse": "“‘Do not go about spreading slander among your people. “‘Do not do anything that endangers your neighbor’s life. I am the Lord .",
             "headers": []
         },
         "17": {
@@ -2250,10 +2190,6 @@
         },
         "18": {
             "verse": "“‘Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord .",
-            "headers": []
-        },
-        "19": {
-            "verse": "“‘Keep my decrees.",
             "headers": []
         },
         "20": {
@@ -2281,7 +2217,7 @@
             "headers": []
         },
         "26": {
-            "verse": "“‘Do not eat any meat with the blood still in it.",
+            "verse": "“‘Do not eat any meat with the blood still in it. “‘Do not practice divination or seek omens.",
             "headers": []
         },
         "27": {
@@ -2330,8 +2266,8 @@
         }
     },
     "20": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "20": {
+            "verse": "“‘If a man has sexual relations with his aunt, he has dishonored his uncle. They will be held responsible; they will die childless.",
             "headers": []
         },
         "2": {
@@ -2406,10 +2342,6 @@
             "verse": "“‘Do not have sexual relations with the sister of either your mother or your father, for that would dishonor a close relative; both of you would be held responsible.",
             "headers": []
         },
-        "20": {
-            "verse": "“‘If a man has sexual relations with his aunt, he has dishonored his uncle. They will be held responsible; they will die childless.",
-            "headers": []
-        },
         "21": {
             "verse": "“‘If a man marries his brother’s wife, it is an act of impurity; he has dishonored his brother. They will be childless.",
             "headers": []
@@ -2440,8 +2372,8 @@
         }
     },
     "21": {
-        "1": {
-            "verse": "The Lord said to Moses, “Speak to the priests, the sons of Aaron, and say to them: ‘A priest must not make himself ceremonially unclean for any of his people who die,",
+        "21": {
+            "verse": "No descendant of Aaron the priest who has any defect is to come near to present the food offerings to the Lord . He has a defect; he must not come near to offer the food of his God.",
             "headers": []
         },
         "2": {
@@ -2520,10 +2452,6 @@
             "verse": "or who is a hunchback or a dwarf, or who has any eye defect, or who has festering or running sores or damaged testicles.",
             "headers": []
         },
-        "21": {
-            "verse": "No descendant of Aaron the priest who has any defect is to come near to present the food offerings to the Lord . He has a defect; he must not come near to offer the food of his God.",
-            "headers": []
-        },
         "22": {
             "verse": "He may eat the most holy food of his God, as well as the holy food;",
             "headers": []
@@ -2538,8 +2466,8 @@
         }
     },
     "22": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "22": {
+            "verse": "Do not offer to the Lord the blind, the injured or the maimed, or anything with warts or festering or running sores. Do not place any of these on the altar as a food offering presented to the Lord .",
             "headers": []
         },
         "2": {
@@ -2599,7 +2527,7 @@
             "headers": []
         },
         "16": {
-            "verse": "by allowing them to eat the sacred offerings and so bring upon them guilt requiring payment. I am the Lord , who makes them holy. ’”",
+            "verse": "by allowing them to eat the sacred offerings and so bring upon them guilt requiring payment. I am the Lord , who makes them holy. ’” Unacceptable Sacrifices",
             "headers": []
         },
         "17": {
@@ -2620,10 +2548,6 @@
         },
         "21": {
             "verse": "When anyone brings from the herd or flock a fellowship offering to the Lord to fulfill a special vow or as a freewill offering, it must be without defect or blemish to be acceptable.",
-            "headers": []
-        },
-        "22": {
-            "verse": "Do not offer to the Lord the blind, the injured or the maimed, or anything with warts or festering or running sores. Do not place any of these on the altar as a food offering presented to the Lord .",
             "headers": []
         },
         "23": {
@@ -2672,16 +2596,16 @@
         }
     },
     "23": {
-        "1": {
+        "23": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
         "2": {
-            "verse": "“Speak to the Israelites and say to them: ‘These are my appointed festivals, the appointed festivals of the Lord , which you are to proclaim as sacred assemblies.",
+            "verse": "“Speak to the Israelites and say to them: ‘These are my appointed festivals, the appointed festivals of the Lord , which you are to proclaim as sacred assemblies. The Sabbath",
             "headers": []
         },
         "3": {
-            "verse": "“‘There are six days when you may work, but the seventh day is a day of sabbath rest, a day of sacred assembly. You are not to do any work; wherever you live, it is a sabbath to the Lord .",
+            "verse": "“‘There are six days when you may work, but the seventh day is a day of sabbath rest, a day of sacred assembly. You are not to do any work; wherever you live, it is a sabbath to the Lord . The Passover and the Festival of Unleavened Bread",
             "headers": []
         },
         "4": {
@@ -2701,7 +2625,7 @@
             "headers": []
         },
         "8": {
-            "verse": "For seven days present a food offering to the Lord . And on the seventh day hold a sacred assembly and do no regular work.’”",
+            "verse": "For seven days present a food offering to the Lord . And on the seventh day hold a sacred assembly and do no regular work.’” Offering the Firstfruits",
             "headers": []
         },
         "9": {
@@ -2725,7 +2649,7 @@
             "headers": []
         },
         "14": {
-            "verse": "You must not eat any bread, or roasted or new grain, until the very day you bring this offering to your God. This is to be a lasting ordinance for the generations to come, wherever you live.",
+            "verse": "You must not eat any bread, or roasted or new grain, until the very day you bring this offering to your God. This is to be a lasting ordinance for the generations to come, wherever you live. The Festival of Weeks",
             "headers": []
         },
         "15": {
@@ -2757,11 +2681,7 @@
             "headers": []
         },
         "22": {
-            "verse": "“‘When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest. Leave them for the poor and for the foreigner residing among you. I am the Lord your God.’”",
-            "headers": []
-        },
-        "23": {
-            "verse": "The Lord said to Moses,",
+            "verse": "“‘When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest. Leave them for the poor and for the foreigner residing among you. I am the Lord your God.’” The Festival of Trumpets",
             "headers": []
         },
         "24": {
@@ -2769,7 +2689,7 @@
             "headers": []
         },
         "25": {
-            "verse": "Do no regular work, but present a food offering to the Lord . ’”",
+            "verse": "Do no regular work, but present a food offering to the Lord . ’” The Day of Atonement",
             "headers": []
         },
         "26": {
@@ -2797,7 +2717,7 @@
             "headers": []
         },
         "32": {
-            "verse": "It is a day of sabbath rest for you, and you must deny yourselves. From the evening of the ninth day of the month until the following evening you are to observe your sabbath.”",
+            "verse": "It is a day of sabbath rest for you, and you must deny yourselves. From the evening of the ninth day of the month until the following evening you are to observe your sabbath.” The Festival of Tabernacles",
             "headers": []
         },
         "33": {
@@ -2850,7 +2770,7 @@
         }
     },
     "24": {
-        "1": {
+        "24": {
             "verse": "The Lord said to Moses,",
             "headers": []
         },
@@ -2883,7 +2803,7 @@
             "headers": []
         },
         "9": {
-            "verse": "It belongs to Aaron and his sons, who are to eat it in the sanctuary area, because it is a most holy part of their perpetual share of the food offerings presented to the Lord .”",
+            "verse": "It belongs to Aaron and his sons, who are to eat it in the sanctuary area, because it is a most holy part of their perpetual share of the food offerings presented to the Lord .” A Blasphemer Put to Death",
             "headers": []
         },
         "10": {
@@ -2944,8 +2864,8 @@
         }
     },
     "25": {
-        "1": {
-            "verse": "The Lord said to Moses at Mount Sinai,",
+        "25": {
+            "verse": "“‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and redeem what they have sold.",
             "headers": []
         },
         "2": {
@@ -2969,7 +2889,7 @@
             "headers": []
         },
         "7": {
-            "verse": "as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten.",
+            "verse": "as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten. The Year of Jubilee",
             "headers": []
         },
         "8": {
@@ -3038,10 +2958,6 @@
         },
         "24": {
             "verse": "Throughout the land that you hold as a possession, you must provide for the redemption of the land.",
-            "headers": []
-        },
-        "25": {
-            "verse": "“‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and redeem what they have sold.",
             "headers": []
         },
         "26": {
@@ -3166,8 +3082,8 @@
         }
     },
     "26": {
-        "1": {
-            "verse": "“‘Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am the Lord your God.",
+        "26": {
+            "verse": "When I cut off your supply of bread, ten women will be able to bake your bread in one oven, and they will dole out the bread by weight. You will eat, but you will not be satisfied.",
             "headers": []
         },
         "2": {
@@ -3215,7 +3131,7 @@
             "headers": []
         },
         "13": {
-            "verse": "I am the Lord your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high.",
+            "verse": "I am the Lord your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high. Punishment for Disobedience",
             "headers": []
         },
         "14": {
@@ -3264,10 +3180,6 @@
         },
         "25": {
             "verse": "And I will bring the sword on you to avenge the breaking of the covenant. When you withdraw into your cities, I will send a plague among you, and you will be given into enemy hands.",
-            "headers": []
-        },
-        "26": {
-            "verse": "When I cut off your supply of bread, ten women will be able to bake your bread in one oven, and they will dole out the bread by weight. You will eat, but you will not be satisfied.",
             "headers": []
         },
         "27": {
@@ -3352,8 +3264,8 @@
         }
     },
     "27": {
-        "1": {
-            "verse": "The Lord said to Moses,",
+        "27": {
+            "verse": "If it is one of the unclean animals, it may be bought back at its set value, adding a fifth of the value to it. If it is not redeemed, it is to be sold at its set value.",
             "headers": []
         },
         "2": {
@@ -3454,10 +3366,6 @@
         },
         "26": {
             "verse": "“‘No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the Lord ; whether an ox or a sheep, it is the Lord ’s.",
-            "headers": []
-        },
-        "27": {
-            "verse": "If it is one of the unclean animals, it may be bought back at its set value, adding a fifth of the value to it. If it is not redeemed, it is to be sold at its set value.",
             "headers": []
         },
         "28": {
